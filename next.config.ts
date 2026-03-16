@@ -6,8 +6,16 @@ const nextConfig: NextConfig = {
     unoptimized: true,
   },
   turbopack: {},
-  webpack: (config) => {
+  webpack: (config, { isServer }) => {
     config.experiments = { ...config.experiments, asyncWebAssembly: true };
+    if (!isServer) {
+      config.resolve.fallback = {
+        ...config.resolve.fallback,
+        fs: false,
+        module: false,
+        path: false,
+      };
+    }
     return config;
   },
 };

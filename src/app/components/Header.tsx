@@ -9,6 +9,7 @@ const navLinks = [
   { href: "/bg-remover", label: "BG Remover" },
   { href: "/image-compress", label: "Compressor" },
   { href: "/image-convert", label: "Converter" },
+  { href: "/pdf-compress", label: "PDF" },
 ];
 
 export default function Header() {
