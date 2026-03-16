@@ -16,6 +16,7 @@
     "@jsquash/png": "^3.1.1",
     "@jsquash/webp": "^1.5.0",
     "@panda-ai/imagequant": "^0.2.0",
+    "imagetracerjs": "^1.2.6",
     "jspdf": "^4.2.0",
     "lucide-react": "^0.577.0",
     "next": "16.1.6",

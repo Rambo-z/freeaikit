@@ -11,6 +11,7 @@ import {
   PenTool,
   Image,
   FileImage,
+  Spline,
   Wand2,
   Search,
   ArrowRight,
@@ -76,7 +77,7 @@ const tools = [
   {
     name: "PDF Compressor",
     description:
-      "Compress PDF files up to 80% smaller. Powered by Ghostscript WASM — no upload.",
+      "Compress PDF files up to 80% smaller. No upload, runs entirely in your browser.",
     href: "/pdf-compress",
     icon: FileText,
     category: "pdf",
@@ -139,6 +140,20 @@ const tools = [
     color: "from-teal-500 to-emerald-500",
     bgColor: "bg-teal-50",
     iconColor: "text-teal-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Image to SVG",
+    description:
+      "Convert PNG, JPG, WebP to scalable SVG vector format. Perfect for logos and icons.",
+    href: "/image-to-svg",
+    icon: Spline,
+    category: "image",
+    color: "from-violet-500 to-purple-500",
+    bgColor: "bg-violet-50",
+    iconColor: "text-violet-600",
     tag: "New",
     tagColor: "bg-green-500 text-white",
     ready: true,
