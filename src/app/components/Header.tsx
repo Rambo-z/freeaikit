@@ -10,7 +10,8 @@ const navLinks = [
   { href: "/image-compress", label: "Compressor" },
   { href: "/image-convert", label: "Converter" },
   { href: "/image-to-svg", label: "SVG" },
-  { href: "/pdf-compress", label: "PDF" },
+  { href: "/image-resize", label: "Resize" },
+  { href: "/pdf-merge", label: "PDF Merge" },
 ];
 
 export default function Header() {

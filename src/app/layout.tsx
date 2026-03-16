@@ -113,10 +113,34 @@ export default function RootLayout({
                   </li>
                   <li>
                     <Link
+                      href="/image-to-svg"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Image to SVG
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/image-resize"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Image Resizer
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
                       href="/pdf-compress"
                       className="text-sm hover:text-white transition-colors"
                     >
                       PDF Compressor
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/pdf-merge"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      PDF Merge & Split
                     </Link>
                   </li>
                 </ul>
