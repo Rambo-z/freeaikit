@@ -2,7 +2,6 @@
 
 import { useState, useCallback, useRef } from "react";
 import {
-  Upload,
   Download,
   RefreshCw,
   Trash2,
@@ -18,30 +17,16 @@ interface CompressedPdf {
   compressedBlob: Blob | null;
   compressedSize: number;
   status: "pending" | "processing" | "done" | "error";
+  statusText?: string;
   error?: string;
 }
 
 type Preset = "screen" | "ebook" | "printer";
 
-const PRESETS: { value: Preset; label: string; dpi: string; desc: string }[] = [
-  {
-    value: "screen",
-    label: "Screen",
-    dpi: "72 dpi",
-    desc: "Smallest file — great for email and web sharing",
-  },
-  {
-    value: "ebook",
-    label: "eBook",
-    dpi: "150 dpi",
-    desc: "Balanced quality — good for reading on screen",
-  },
-  {
-    value: "printer",
-    label: "Printer",
-    dpi: "300 dpi",
-    desc: "High quality — suitable for printing",
-  },
+const PRESETS: { value: Preset; label: string; dpi: number; quality: number; desc: string }[] = [
+  { value: "screen",  label: "Screen",  dpi: 72,  quality: 0.5, desc: "Smallest file — great for email and web sharing" },
+  { value: "ebook",   label: "eBook",   dpi: 120, quality: 0.72, desc: "Balanced quality — good for reading on screen" },
+  { value: "printer", label: "Printer", dpi: 200, quality: 0.88, desc: "High quality — suitable for printing" },
 ];
 
 function formatBytes(bytes: number): string {
@@ -52,47 +37,72 @@ function formatBytes(bytes: number): string {
   return parseFloat((bytes / Math.pow(k, i)).toFixed(1)) + " " + sizes[i];
 }
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-let gsModule: any = null;
-
-async function getGS() {
-  if (gsModule) return gsModule;
-  const createGS = (await import("@jspawn/ghostscript-wasm/gs.mjs")).default;
-  gsModule = await createGS({
-    locateFile: () => "/gs.wasm",
-  });
-  return gsModule;
-}
-
-async function compressPdf(file: File, preset: Preset): Promise<Blob> {
-  const gs = await getGS();
+async function compressPdf(
+  file: File,
+  preset: Preset,
+  onProgress: (text: string) => void,
+  signal: AbortSignal
+): Promise<Blob> {
+  const { getDocument, GlobalWorkerOptions } = await import("pdfjs-dist");
+  GlobalWorkerOptions.workerSrc = "/pdf.worker.min.mjs";
+  const { jsPDF } = await import("jspdf");
 
   const arrayBuffer = await file.arrayBuffer();
-  const inputBytes = new Uint8Array(arrayBuffer);
+  if (signal.aborted) throw new Error("Cancelled");
+  onProgress("Parsing PDF…");
 
-  const inputPath = "/input.pdf";
-  const outputPath = "/output.pdf";
+  const loadingTask = getDocument({ data: arrayBuffer });
+  const pdfDoc = await loadingTask.promise;
+  const numPages = pdfDoc.numPages;
 
-  gs.FS.writeFile(inputPath, inputBytes);
+  const cfg = PRESETS.find((p) => p.value === preset)!;
+  const scale = cfg.dpi / 72;
 
-  gs.callMain([
-    "-sDEVICE=pdfwrite",
-    "-dCompatibilityLevel=1.4",
-    `-dPDFSETTINGS=/${preset}`,
-    "-dNOPAUSE",
-    "-dQUIET",
-    "-dBATCH",
-    `-sOutputFile=${outputPath}`,
-    inputPath,
-  ]);
+  const firstPage = await pdfDoc.getPage(1);
+  const vp0 = firstPage.getViewport({ scale });
+  const mmW = (vp0.width / cfg.dpi) * 25.4;
+  const mmH = (vp0.height / cfg.dpi) * 25.4;
 
-  const output = gs.FS.readFile(outputPath);
+  const doc = new jsPDF({
+    orientation: mmW > mmH ? "l" : "p",
+    unit: "mm",
+    format: [mmW, mmH],
+    compress: true,
+  });
 
-  // cleanup
-  try { gs.FS.unlink(inputPath); } catch { /* ignore */ }
-  try { gs.FS.unlink(outputPath); } catch { /* ignore */ }
+  const canvas = document.createElement("canvas");
+  const ctx = canvas.getContext("2d")!;
 
-  return new Blob([output], { type: "application/pdf" });
+  for (let pageNum = 1; pageNum <= numPages; pageNum++) {
+    if (signal.aborted) throw new Error("Cancelled");
+    onProgress(`Rendering page ${pageNum} / ${numPages}…`);
+
+    const page = await pdfDoc.getPage(pageNum);
+    const vp = page.getViewport({ scale });
+    canvas.width = vp.width;
+    canvas.height = vp.height;
+
+    await page.render({ canvasContext: ctx, viewport: vp }).promise;
+
+    // Extract raw JPEG bytes (avoid base64 overhead in PDF)
+    const jpegBlob = await new Promise<Blob>((res) =>
+      canvas.toBlob((b) => res(b!), "image/jpeg", cfg.quality)
+    );
+    const jpegBytes = new Uint8Array(await jpegBlob.arrayBuffer());
+
+    const mmPageW = (vp.width / cfg.dpi) * 25.4;
+    const mmPageH = (vp.height / cfg.dpi) * 25.4;
+
+    if (pageNum > 1) {
+      doc.addPage([mmPageW, mmPageH], mmPageW > mmPageH ? "l" : "p");
+    }
+    doc.addImage(
+      jpegBytes, "JPEG", 0, 0, mmPageW, mmPageH, undefined, "FAST"
+    );
+  }
+
+  const pdfBytes = doc.output("arraybuffer");
+  return new Blob([pdfBytes], { type: "application/pdf" });
 }
 
 export default function PdfCompressClient() {
@@ -101,6 +111,8 @@ export default function PdfCompressClient() {
   const [isDragging, setIsDragging] = useState(false);
   const [isProcessing, setIsProcessing] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
+  // Track abort controllers per pdf id so delete cancels in-flight processing
+  const abortRefs = useRef<Map<string, AbortController>>(new Map());
 
   const addFiles = useCallback((files: FileList | File[]) => {
     const newPdfs: CompressedPdf[] = Array.from(files)
@@ -114,6 +126,18 @@ export default function PdfCompressClient() {
         status: "pending" as const,
       }));
     setPdfs((prev) => [...prev, ...newPdfs]);
+  }, []);
+
+  const handleDragOver = useCallback((e: React.DragEvent) => {
+    e.preventDefault();
+    setIsDragging(true);
+  }, []);
+
+  const handleDragLeave = useCallback((e: React.DragEvent) => {
+    // Only reset if leaving the outer container entirely
+    if (!e.currentTarget.contains(e.relatedTarget as Node)) {
+      setIsDragging(false);
+    }
   }, []);
 
   const handleDrop = useCallback(
@@ -135,48 +159,69 @@ export default function PdfCompressClient() {
     [addFiles]
   );
 
+  const removePdf = useCallback((id: string) => {
+    // Abort any in-flight processing for this id
+    abortRefs.current.get(id)?.abort();
+    abortRefs.current.delete(id);
+    setPdfs((prev) => prev.filter((p) => p.id !== id));
+  }, []);
+
   const processAll = useCallback(async () => {
     setIsProcessing(true);
-    const updated = [...pdfs];
 
-    for (let i = 0; i < updated.length; i++) {
-      updated[i] = { ...updated[i], status: "pending", compressedBlob: null, compressedSize: 0 };
-    }
-    setPdfs([...updated]);
+    // Snapshot current list and reset statuses
+    setPdfs((prev) => {
+      const reset = prev.map((p) => ({
+        ...p, status: "pending" as const, compressedBlob: null, compressedSize: 0, statusText: undefined, error: undefined,
+      }));
+      return reset;
+    });
 
-    for (let i = 0; i < updated.length; i++) {
-      updated[i] = { ...updated[i], status: "processing" };
-      setPdfs([...updated]);
+    // Use a ref-based snapshot to avoid stale closure
+    setPdfs((snapshot) => {
+      (async () => {
+        for (const item of snapshot) {
+          const ac = new AbortController();
+          abortRefs.current.set(item.id, ac);
 
-      try {
-        const blob = await compressPdf(updated[i].file, preset);
-        if (blob.size >= updated[i].originalSize) {
-          updated[i] = {
-            ...updated[i],
-            compressedBlob: updated[i].file,
-            compressedSize: updated[i].originalSize,
-            status: "done",
-          };
-        } else {
-          updated[i] = {
-            ...updated[i],
-            compressedBlob: blob,
-            compressedSize: blob.size,
-            status: "done",
-          };
+          setPdfs((prev) => prev.map((p) =>
+            p.id === item.id ? { ...p, status: "processing" as const, statusText: "Starting…" } : p
+          ));
+
+          try {
+            const blob = await compressPdf(item.file, preset, (text) => {
+              setPdfs((prev) => prev.map((p) =>
+                p.id === item.id ? { ...p, statusText: text } : p
+              ));
+            }, ac.signal);
+
+            abortRefs.current.delete(item.id);
+
+            setPdfs((prev) => {
+              const existing = prev.find((p) => p.id === item.id);
+              if (!existing) return prev; // was deleted
+              return prev.map((p) => {
+                if (p.id !== item.id) return p;
+                if (blob.size >= item.originalSize) {
+                  return { ...p, compressedBlob: item.file, compressedSize: item.originalSize, status: "done" as const, statusText: undefined };
+                }
+                return { ...p, compressedBlob: blob, compressedSize: blob.size, status: "done" as const, statusText: undefined };
+              });
+            });
+          } catch (err) {
+            abortRefs.current.delete(item.id);
+            const msg = err instanceof Error ? err.message : "Failed";
+            if (msg === "Cancelled") continue;
+            setPdfs((prev) => prev.map((p) =>
+              p.id === item.id ? { ...p, status: "error" as const, statusText: undefined, error: msg } : p
+            ));
+          }
         }
-      } catch (err) {
-        updated[i] = {
-          ...updated[i],
-          status: "error",
-          error: err instanceof Error ? err.message : "Failed",
-        };
-      }
-      setPdfs([...updated]);
-    }
-
-    setIsProcessing(false);
-  }, [pdfs, preset]);
+        setIsProcessing(false);
+      })();
+      return snapshot; // return unchanged, we update inside async block
+    });
+  }, [preset]);
 
   const downloadOne = useCallback((pdf: CompressedPdf) => {
     if (!pdf.compressedBlob) return;
@@ -192,11 +237,9 @@ export default function PdfCompressClient() {
     pdfs.filter((p) => p.status === "done").forEach(downloadOne);
   }, [pdfs, downloadOne]);
 
-  const removePdf = useCallback((id: string) => {
-    setPdfs((prev) => prev.filter((p) => p.id !== id));
-  }, []);
-
   const handleReset = useCallback(() => {
+    abortRefs.current.forEach((ac) => ac.abort());
+    abortRefs.current.clear();
     setPdfs([]);
     if (fileInputRef.current) fileInputRef.current.value = "";
   }, []);
@@ -212,38 +255,38 @@ export default function PdfCompressClient() {
       {/* Upload Area */}
       <div
         onDrop={handleDrop}
-        onDragOver={(e) => { e.preventDefault(); setIsDragging(true); }}
-        onDragLeave={() => setIsDragging(false)}
+        onDragOver={handleDragOver}
+        onDragLeave={handleDragLeave}
         onClick={() => fileInputRef.current?.click()}
         className={`relative border-2 border-dashed rounded-2xl p-8 sm:p-12 text-center cursor-pointer
-                   transition-all duration-300 bg-white ${
+                   transition-all duration-200 bg-white ${
                      isDragging
-                       ? "border-orange-500 bg-orange-50 scale-[1.02]"
+                       ? "border-orange-500 bg-orange-50 scale-[1.02] shadow-lg"
                        : "border-gray-200 hover:border-orange-400 hover:bg-orange-50/30"
                    }`}
       >
-        <div className="w-16 h-16 rounded-full bg-orange-50 flex items-center justify-center mx-auto mb-4">
-          <FileText className="w-7 h-7 text-orange-500" />
+        <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 transition-colors ${isDragging ? "bg-orange-100" : "bg-orange-50"}`}>
+          <FileText className={`w-7 h-7 transition-colors ${isDragging ? "text-orange-600" : "text-orange-500"}`} />
         </div>
-        <button className="px-6 py-3 bg-orange-600 text-white rounded-xl text-sm font-semibold hover:bg-orange-700 transition-colors shadow-lg shadow-orange-500/25 mb-3">
-          Upload PDF
-        </button>
-        <p className="text-sm text-gray-500 mb-1">or drop files here</p>
+        {isDragging ? (
+          <p className="text-lg font-semibold text-orange-600 mb-1">Drop PDF files here</p>
+        ) : (
+          <>
+            <button className="px-6 py-3 bg-orange-600 text-white rounded-xl text-sm font-semibold hover:bg-orange-700 transition-colors shadow-lg shadow-orange-500/25 mb-3">
+              Upload PDF
+            </button>
+            <p className="text-sm text-gray-500 mb-1">or drop files here</p>
+          </>
+        )}
         <p className="text-xs text-gray-400">PDF files only — multiple files allowed</p>
 
         <div className="flex items-center justify-center gap-6 mt-4 text-xs text-gray-400">
-          <span className="flex items-center gap-1">
-            <span className="w-1.5 h-1.5 rounded-full bg-green-400" />
-            No upload to server
-          </span>
-          <span className="flex items-center gap-1">
-            <span className="w-1.5 h-1.5 rounded-full bg-green-400" />
-            100% free
-          </span>
-          <span className="flex items-center gap-1">
-            <span className="w-1.5 h-1.5 rounded-full bg-green-400" />
-            Powered by Ghostscript
-          </span>
+          {["No upload to server", "100% free", "Powered by PDF.js"].map((t) => (
+            <span key={t} className="flex items-center gap-1">
+              <span className="w-1.5 h-1.5 rounded-full bg-green-400" />
+              {t}
+            </span>
+          ))}
         </div>
 
         <input
@@ -259,31 +302,27 @@ export default function PdfCompressClient() {
       {/* Controls */}
       {pdfs.length > 0 && (
         <div className="bg-white rounded-2xl border border-gray-200 p-5">
-          <div>
-            <label className="block text-sm font-medium text-gray-700 mb-3">
-              Compression Quality
-            </label>
-            <div className="grid grid-cols-3 gap-3">
-              {PRESETS.map((p) => (
-                <button
-                  key={p.value}
-                  onClick={() => setPreset(p.value)}
-                  className={`p-3 rounded-xl border-2 text-left transition-all ${
-                    preset === p.value
-                      ? "border-orange-500 bg-orange-50"
-                      : "border-gray-200 hover:border-gray-300"
-                  }`}
-                >
-                  <div className={`text-sm font-semibold mb-0.5 ${
-                    preset === p.value ? "text-orange-700" : "text-gray-800"
-                  }`}>
-                    {p.label}
-                  </div>
-                  <div className="text-xs text-gray-500">{p.dpi}</div>
-                  <div className="text-xs text-gray-400 mt-1 leading-tight">{p.desc}</div>
-                </button>
-              ))}
-            </div>
+          <label className="block text-sm font-medium text-gray-700 mb-3">
+            Compression Quality
+          </label>
+          <div className="grid grid-cols-3 gap-3">
+            {PRESETS.map((p) => (
+              <button
+                key={p.value}
+                onClick={() => setPreset(p.value)}
+                className={`p-3 rounded-xl border-2 text-left transition-all ${
+                  preset === p.value
+                    ? "border-orange-500 bg-orange-50"
+                    : "border-gray-200 hover:border-gray-300"
+                }`}
+              >
+                <div className={`text-sm font-semibold mb-0.5 ${preset === p.value ? "text-orange-700" : "text-gray-800"}`}>
+                  {p.label}
+                </div>
+                <div className="text-xs text-gray-500">{p.dpi} dpi</div>
+                <div className="text-xs text-gray-400 mt-1 leading-tight">{p.desc}</div>
+              </button>
+            ))}
           </div>
 
           <div className="flex flex-wrap items-center gap-3 mt-5 pt-5 border-t border-gray-100">
@@ -293,10 +332,7 @@ export default function PdfCompressClient() {
               className="inline-flex items-center gap-2 px-6 py-2.5 bg-orange-600 text-white rounded-xl text-sm font-semibold hover:bg-orange-700 transition-colors disabled:opacity-50 shadow-sm"
             >
               {isProcessing ? (
-                <>
-                  <RefreshCw className="w-4 h-4 animate-spin" />
-                  Compressing...
-                </>
+                <><RefreshCw className="w-4 h-4 animate-spin" />Compressing…</>
               ) : (
                 <>Compress PDF</>
               )}
@@ -325,9 +361,7 @@ export default function PdfCompressClient() {
 
       {/* Summary */}
       {allDone && totalOriginal > 0 && (
-        <div className={`border rounded-2xl p-5 text-center ${
-          savings > 0 ? "bg-green-50 border-green-200" : "bg-yellow-50 border-yellow-200"
-        }`}>
+        <div className={`border rounded-2xl p-5 text-center ${savings > 0 ? "bg-green-50 border-green-200" : "bg-yellow-50 border-yellow-200"}`}>
           {savings > 0 ? (
             <>
               <CheckCircle className="w-8 h-8 text-green-500 mx-auto mb-2" />
@@ -353,10 +387,7 @@ export default function PdfCompressClient() {
       {pdfs.length > 0 && (
         <div className="space-y-3">
           {pdfs.map((pdf) => (
-            <div
-              key={pdf.id}
-              className="bg-white rounded-xl border border-gray-200 p-4 flex items-center gap-4"
-            >
+            <div key={pdf.id} className="bg-white rounded-xl border border-gray-200 p-4 flex items-center gap-4">
               <div className="w-10 h-10 rounded-lg bg-orange-50 flex items-center justify-center flex-shrink-0">
                 <FileText className="w-5 h-5 text-orange-500" />
               </div>
@@ -368,9 +399,7 @@ export default function PdfCompressClient() {
                   {pdf.status === "done" && (
                     <>
                       <span className="text-xs text-gray-400">→</span>
-                      <span className={`text-xs font-medium ${
-                        pdf.compressedSize < pdf.originalSize ? "text-green-600" : "text-yellow-600"
-                      }`}>
+                      <span className={`text-xs font-medium ${pdf.compressedSize < pdf.originalSize ? "text-green-600" : "text-yellow-600"}`}>
                         {formatBytes(pdf.compressedSize)}
                       </span>
                       {pdf.compressedSize < pdf.originalSize ? (
@@ -383,12 +412,11 @@ export default function PdfCompressClient() {
                     </>
                   )}
                   {pdf.status === "processing" && (
-                    <span className="text-xs text-orange-500">Compressing...</span>
+                    <span className="text-xs text-orange-500">{pdf.statusText || "Processing…"}</span>
                   )}
                   {pdf.status === "error" && (
                     <span className="text-xs text-red-500 flex items-center gap-1">
-                      <AlertCircle className="w-3 h-3" />
-                      {pdf.error}
+                      <AlertCircle className="w-3 h-3" />{pdf.error}
                     </span>
                   )}
                 </div>
@@ -396,22 +424,14 @@ export default function PdfCompressClient() {
 
               <div className="flex items-center gap-2 flex-shrink-0">
                 {pdf.status === "done" && (
-                  <button
-                    onClick={() => downloadOne(pdf)}
-                    className="p-2 rounded-lg hover:bg-orange-50 text-orange-600 transition-colors"
-                    title="Download"
-                  >
+                  <button onClick={() => downloadOne(pdf)} className="p-2 rounded-lg hover:bg-orange-50 text-orange-600 transition-colors" title="Download">
                     <Download className="w-4 h-4" />
                   </button>
                 )}
                 {pdf.status === "processing" && (
                   <RefreshCw className="w-4 h-4 text-orange-500 animate-spin" />
                 )}
-                <button
-                  onClick={() => removePdf(pdf.id)}
-                  className="p-2 rounded-lg hover:bg-red-50 text-gray-400 hover:text-red-500 transition-colors"
-                  title="Remove"
-                >
+                <button onClick={() => removePdf(pdf.id)} className="p-2 rounded-lg hover:bg-red-50 text-gray-400 hover:text-red-500 transition-colors" title="Remove">
                   <Trash2 className="w-4 h-4" />
                 </button>
               </div>
