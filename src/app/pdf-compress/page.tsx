@@ -4,7 +4,7 @@ import PdfCompressClient from "./PdfCompressClient";
 export const metadata: Metadata = {
   title: "PDF Compressor - Compress PDF Free Online | FreeAIKit",
   description:
-    "Compress PDF files online for free. Reduce PDF size by up to 80% while maintaining quality. No upload, runs in your browser with Ghostscript WASM. No signup required.",
+    "Compress PDF files online for free. Reduce PDF size by up to 80% while maintaining quality. No upload, runs entirely in your browser. No signup required.",
   keywords: [
     "pdf compressor",
     "compress pdf",
@@ -31,8 +31,8 @@ export default function PdfCompressPage() {
           PDF Compressor
         </h1>
         <p className="text-gray-600 text-lg max-w-xl mx-auto">
-          Compress PDF files up to 80% smaller. Powered by Ghostscript — the
-          same engine used by professional PDF tools. 100% free, runs in your
+          Compress PDF files up to 80% smaller. Powered by PDF.js — renders
+          each page at your chosen quality level. 100% free, runs in your
           browser.
         </p>
       </div>
@@ -45,16 +45,16 @@ export default function PdfCompressPage() {
         </h2>
         <div className="prose prose-gray max-w-none">
           <p className="text-gray-600 leading-relaxed mb-4">
-            Our PDF compressor uses Ghostscript compiled to WebAssembly (WASM)
-            — the same engine that powers professional PDF processing tools and
-            has been the industry standard since the 1980s. It runs entirely in
-            your browser, so your files never leave your device.
+            Our PDF compressor uses PDF.js to render each page at your chosen
+            resolution, then recompresses it as a high-quality JPEG image inside
+            a new PDF. It runs entirely in your browser — your files never leave
+            your device.
           </p>
           <p className="text-gray-600 leading-relaxed mb-4">
-            Ghostscript compresses PDFs by resampling embedded images to a lower
-            resolution, subsetting fonts (keeping only the characters actually
-            used), and optimizing internal PDF streams. The result is a
-            significantly smaller file with minimal visible quality loss.
+            This approach is especially effective for image-heavy PDFs such as
+            presentations, brochures, and scanned documents. Choose Screen for
+            maximum compression, eBook for a balanced result, or Printer for
+            high-fidelity output.
           </p>
 
           <h3 className="text-lg font-semibold mt-6 mb-3">Quality Presets</h3>
@@ -65,11 +65,11 @@ export default function PdfCompressPage() {
             </li>
             <li className="flex items-start gap-2">
               <span className="font-semibold text-gray-800 w-16 flex-shrink-0">eBook</span>
-              <span>150 dpi image resolution. Balanced quality and size — good for on-screen reading.</span>
+              <span>120 dpi image resolution. Balanced quality and size — good for on-screen reading.</span>
             </li>
             <li className="flex items-start gap-2">
               <span className="font-semibold text-gray-800 w-16 flex-shrink-0">Printer</span>
-              <span>300 dpi image resolution. High quality for printing — still smaller than the original.</span>
+              <span>200 dpi image resolution. High quality for printing — still smaller than the original.</span>
             </li>
           </ul>
 
@@ -77,7 +77,7 @@ export default function PdfCompressPage() {
           <ul className="space-y-2 text-gray-600">
             <li className="flex items-start gap-2">
               <span className="text-green-500 mt-0.5">&#10003;</span>
-              <span><strong>Ghostscript Engine</strong> — Industry-standard PDF processing, compiled to WASM</span>
+              <span><strong>PDF.js Rendering</strong> — Mozilla's battle-tested PDF engine, runs locally</span>
             </li>
             <li className="flex items-start gap-2">
               <span className="text-green-500 mt-0.5">&#10003;</span>
@@ -111,8 +111,9 @@ export default function PdfCompressPage() {
           <div>
             <h3 className="font-semibold mb-1">Will the text still be selectable after compression?</h3>
             <p className="text-gray-600 text-sm">
-              Yes. Ghostscript preserves vector text, fonts, and document structure.
-              Only image resolution is reduced — text remains sharp and selectable.
+              Pages are rendered as images, so the output is visually identical
+              but text is no longer selectable. This trade-off enables
+              significantly smaller files.
             </p>
           </div>
           <div>

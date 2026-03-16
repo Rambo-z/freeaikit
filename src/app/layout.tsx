@@ -95,14 +95,20 @@ export default function RootLayout({
                     </Link>
                   </li>
                   <li>
-                    <span className="text-sm text-gray-500">
-                      QR Code Art (soon)
-                    </span>
+                    <Link
+                      href="/image-convert"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Image Converter
+                    </Link>
                   </li>
                   <li>
-                    <span className="text-sm text-gray-500">
-                      PDF Chat (soon)
-                    </span>
+                    <Link
+                      href="/pdf-compress"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      PDF Compressor
+                    </Link>
                   </li>
                 </ul>
               </div>
