@@ -132,16 +132,16 @@ const tools = [
   {
     name: "Image Format Converter",
     description:
-      "Convert images between PNG, JPG, WebP, SVG and more formats instantly.",
+      "Convert images between PNG, JPG, WebP and more formats instantly. Batch support.",
     href: "/image-convert",
     icon: Image,
     category: "image",
     color: "from-teal-500 to-emerald-500",
     bgColor: "bg-teal-50",
     iconColor: "text-teal-600",
-    tag: "Coming Soon",
-    tagColor: "bg-gray-400 text-white",
-    ready: false,
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
   },
 ];
 

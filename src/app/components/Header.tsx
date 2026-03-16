@@ -8,6 +8,7 @@ const navLinks = [
   { href: "/", label: "All Tools" },
   { href: "/bg-remover", label: "BG Remover" },
   { href: "/image-compress", label: "Compressor" },
+  { href: "/image-convert", label: "Converter" },
 ];
 
 export default function Header() {
