@@ -118,16 +118,16 @@ const tools = [
   {
     name: "Image Compressor",
     description:
-      "Compress JPG, PNG, SVG, and GIFs while saving space and maintaining quality.",
+      "Compress JPG, PNG, WebP while saving space and maintaining quality. Batch support.",
     href: "/image-compress",
     icon: FileImage,
     category: "image",
     color: "from-sky-500 to-blue-500",
     bgColor: "bg-sky-50",
     iconColor: "text-sky-600",
-    tag: "Coming Soon",
-    tagColor: "bg-gray-400 text-white",
-    ready: false,
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
   },
   {
     name: "Image Format Converter",
@@ -184,7 +184,7 @@ export default function Home() {
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight mb-5">
               Free Tools to Make{" "}
               <span className="relative">
-                <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600 bg-clip-text text-transparent">
+                <span className="text-blue-600">
                   Everything
                 </span>
                 <svg
@@ -194,23 +194,10 @@ export default function Home() {
                 >
                   <path
                     d="M2 8C30 3 70 2 100 5C130 8 170 4 198 2"
-                    stroke="url(#underline-gradient)"
+                    stroke="#2563eb"
                     strokeWidth="3"
                     strokeLinecap="round"
                   />
-                  <defs>
-                    <linearGradient
-                      id="underline-gradient"
-                      x1="0"
-                      y1="0"
-                      x2="200"
-                      y2="0"
-                    >
-                      <stop stopColor="#2563eb" />
-                      <stop offset="0.5" stopColor="#9333ea" />
-                      <stop offset="1" stopColor="#ec4899" />
-                    </linearGradient>
-                  </defs>
                 </svg>
               </span>{" "}
               Simple
@@ -387,7 +374,7 @@ export default function Home() {
       </section>
 
       {/* CTA Section */}
-      <section className="bg-gradient-to-r from-blue-600 via-purple-600 to-pink-600">
+      <section className="bg-gray-900">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-14 text-center">
           <h2 className="text-2xl sm:text-3xl font-bold text-white mb-3">
             Ready to Get Started?

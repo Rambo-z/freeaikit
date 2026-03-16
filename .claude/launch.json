@@ -4,8 +4,9 @@
     {
       "name": "freeaikit-dev",
       "runtimeExecutable": "npx",
-      "runtimeArgs": ["next", "dev", "--port", "3099"],
-      "port": 3099
+      "runtimeArgs": ["next", "dev", "--port", "3099", "--webpack"],
+      "port": 3099,
+      "cwd": "E:/AI_Coding/freeaikit"
     }
   ]
 }

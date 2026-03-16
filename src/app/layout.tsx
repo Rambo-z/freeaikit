@@ -51,10 +51,10 @@ export default function RootLayout({
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="flex items-center justify-between h-14">
               <Link href="/" className="flex items-center gap-2.5">
-                <div className="w-8 h-8 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 rounded-lg flex items-center justify-center shadow-sm">
+                <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center shadow-sm">
                   <span className="text-white font-bold text-xs">FK</span>
                 </div>
-                <span className="text-lg font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+                <span className="text-lg font-bold text-gray-900">
                   FreeAIKit
                 </span>
               </Link>
@@ -70,6 +70,12 @@ export default function RootLayout({
                   className="px-3 py-1.5 text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
                 >
                   BG Remover
+                </Link>
+                <Link
+                  href="/image-compress"
+                  className="px-3 py-1.5 text-sm font-medium text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
+                >
+                  Compressor
                 </Link>
               </nav>
               <div className="flex items-center gap-3">
@@ -94,7 +100,7 @@ export default function RootLayout({
               {/* Brand */}
               <div className="md:col-span-2">
                 <div className="flex items-center gap-2.5 mb-3">
-                  <div className="w-7 h-7 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 rounded-lg flex items-center justify-center">
+                  <div className="w-7 h-7 bg-blue-600 rounded-lg flex items-center justify-center">
                     <span className="text-white font-bold text-[10px]">FK</span>
                   </div>
                   <span className="text-base font-bold text-white">
@@ -122,9 +128,12 @@ export default function RootLayout({
                     </Link>
                   </li>
                   <li>
-                    <span className="text-sm text-gray-500">
-                      Image Upscaler (soon)
-                    </span>
+                    <Link
+                      href="/image-compress"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Image Compressor
+                    </Link>
                   </li>
                   <li>
                     <span className="text-sm text-gray-500">
@@ -171,7 +180,7 @@ export default function RootLayout({
                 reserved. All tools are 100% free.
               </p>
               <p className="text-xs text-gray-600">
-                Made with AI. Powered by your browser.
+                Powered by your browser. Your files never leave your device.
               </p>
             </div>
           </div>

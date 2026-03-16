@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef } from "react";
 import { Upload, Download, RefreshCw, Loader2, AlertCircle, ImageIcon } from "lucide-react";
+import EmailCapture from "../components/EmailCapture";
 
 type ProcessingState = "idle" | "loading-model" | "processing" | "done" | "error";
 
@@ -263,6 +264,9 @@ export default function BgRemoverClient() {
               Process Another Image
             </button>
           </div>
+
+          {/* Email Capture */}
+          <EmailCapture trigger="after-use" />
         </div>
       )}
     </div>
