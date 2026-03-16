@@ -23,6 +23,15 @@ import {
   Users,
   Download,
   Star,
+  Braces,
+  Code2,
+  Type,
+  Crop,
+  SlidersHorizontal,
+  Globe,
+  Lock,
+  BookOpen,
+  Link2,
 } from "lucide-react";
 
 const categories = [
@@ -31,6 +40,7 @@ const categories = [
   { id: "ai", label: "AI Tools", icon: Zap },
   { id: "pdf", label: "PDF Tools", icon: FileText },
   { id: "design", label: "Design", icon: Palette },
+  { id: "dev", label: "Dev Tools", icon: Code2 },
 ];
 
 const tools = [
@@ -244,12 +254,138 @@ const tools = [
     tagColor: "bg-green-500 text-white",
     ready: true,
   },
+  {
+    name: "JSON Formatter",
+    description:
+      "Format, beautify, minify and validate JSON online. Syntax highlighting, instant error detection.",
+    href: "/json-formatter",
+    icon: Braces,
+    category: "dev",
+    color: "from-amber-500 to-orange-500",
+    bgColor: "bg-amber-50",
+    iconColor: "text-amber-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "CSS Minifier",
+    description:
+      "Minify CSS to reduce file size or beautify minified CSS to make it readable. Shows savings stats.",
+    href: "/css-minifier",
+    icon: Code2,
+    category: "dev",
+    color: "from-sky-500 to-cyan-500",
+    bgColor: "bg-sky-50",
+    iconColor: "text-sky-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Text Case Converter",
+    description:
+      "Convert text between camelCase, snake_case, kebab-case, UPPER CASE, Title Case and more.",
+    href: "/text-case",
+    icon: Type,
+    category: "dev",
+    color: "from-violet-500 to-purple-500",
+    bgColor: "bg-violet-50",
+    iconColor: "text-violet-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Image Crop & Rotate",
+    description:
+      "Crop images to any aspect ratio or custom size. Rotate 90°/180°, flip horizontally or vertically.",
+    href: "/image-crop",
+    icon: Crop,
+    category: "image",
+    color: "from-rose-500 to-pink-500",
+    bgColor: "bg-rose-50",
+    iconColor: "text-rose-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Image Filters",
+    description:
+      "Apply filters to images: brightness, contrast, saturation, blur, grayscale, sepia and more.",
+    href: "/image-filters",
+    icon: SlidersHorizontal,
+    category: "image",
+    color: "from-fuchsia-500 to-pink-500",
+    bgColor: "bg-fuchsia-50",
+    iconColor: "text-fuchsia-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Favicon Generator",
+    description:
+      "Generate favicons for all platforms from any image: 16×16, 32×32, 180×180, 192×192, 512×512.",
+    href: "/favicon-generator",
+    icon: Globe,
+    category: "design",
+    color: "from-emerald-500 to-green-500",
+    bgColor: "bg-emerald-50",
+    iconColor: "text-emerald-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Password Generator",
+    description:
+      "Generate strong, random passwords. Customize length and character types. Cryptographically secure.",
+    href: "/password-generator",
+    icon: Lock,
+    category: "dev",
+    color: "from-slate-500 to-gray-500",
+    bgColor: "bg-slate-50",
+    iconColor: "text-slate-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Word Counter",
+    description:
+      "Count words, characters, sentences, paragraphs and reading time. Find top keywords. Real-time.",
+    href: "/word-counter",
+    icon: BookOpen,
+    category: "dev",
+    color: "from-teal-500 to-cyan-500",
+    bgColor: "bg-teal-50",
+    iconColor: "text-teal-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "URL Encoder / Decoder",
+    description:
+      "Encode and decode URLs with encodeURIComponent. Parse any URL into protocol, path, params, hash.",
+    href: "/url-encoder",
+    icon: Link2,
+    category: "dev",
+    color: "from-orange-500 to-amber-500",
+    bgColor: "bg-orange-50",
+    iconColor: "text-orange-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
 ];
 
 const stats = [
   { value: "No Limits", label: "Files Per Session", icon: Download },
   { value: "100%", label: "Free Forever", icon: DollarSign },
-  { value: "14+", label: "Online Tools", icon: Wand2 },
+  { value: "22+", label: "Online Tools", icon: Wand2 },
   { value: "0 bytes", label: "Data Uploaded", icon: Shield },
 ];
 

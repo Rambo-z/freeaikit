@@ -191,6 +191,78 @@ export default function RootLayout({
                       Base64 Image
                     </Link>
                   </li>
+                  <li>
+                    <Link
+                      href="/json-formatter"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      JSON Formatter
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/css-minifier"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      CSS Minifier
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/text-case"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Text Case Converter
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/image-crop"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Image Crop & Rotate
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/image-filters"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Image Filters
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/favicon-generator"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Favicon Generator
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/password-generator"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Password Generator
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/word-counter"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Word Counter
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/url-encoder"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      URL Encoder / Decoder
+                    </Link>
+                  </li>
                 </ul>
               </div>
 

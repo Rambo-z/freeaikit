@@ -25,6 +25,7 @@
     "qrcode": "^1.5.4",
     "react": "19.2.3",
     "react-dom": "19.2.3",
+    "react-image-crop": "^11.0.10",
     "upng-js": "^2.1.0"
   },
   "devDependencies": {

@@ -17,6 +17,15 @@ const navLinks = [
   { href: "/color-palette", label: "Colors" },
   { href: "/image-watermark", label: "Watermark" },
   { href: "/base64-image", label: "Base64" },
+  { href: "/json-formatter", label: "JSON" },
+  { href: "/css-minifier", label: "CSS" },
+  { href: "/text-case", label: "Text Case" },
+  { href: "/image-crop", label: "Crop" },
+  { href: "/image-filters", label: "Filters" },
+  { href: "/favicon-generator", label: "Favicon" },
+  { href: "/password-generator", label: "Password" },
+  { href: "/word-counter", label: "Words" },
+  { href: "/url-encoder", label: "URL" },
 ];
 
 export default function Header() {
