@@ -146,10 +146,10 @@ const tools = [
 ];
 
 const stats = [
-  { value: "10K+", label: "Images Processed", icon: Image },
+  { value: "No Limits", label: "Files Per Session", icon: Download },
   { value: "100%", label: "Free Forever", icon: DollarSign },
   { value: "8+", label: "Online Tools", icon: Wand2 },
-  { value: "0", label: "Data Uploaded", icon: Shield },
+  { value: "0 bytes", label: "Data Uploaded", icon: Shield },
 ];
 
 export default function Home() {

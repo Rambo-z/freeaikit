@@ -43,10 +43,11 @@ export default function ImageCompressPage() {
         </h2>
         <div className="prose prose-gray max-w-none">
           <p className="text-gray-600 leading-relaxed mb-4">
-            Our image compressor uses your browser&apos;s built-in Canvas API to re-encode images
-            at a lower quality setting. For JPG and WebP, this means adjusting the compression
-            level. For PNG, we convert to an optimized format. All processing happens locally —
-            your images never leave your device.
+            Our image compressor uses industry-grade WebAssembly (WASM) engines compiled from
+            native C libraries — MozJPEG for JPG, libwebp for WebP, and libimagequant (the same
+            engine behind TinyPNG) for PNG. PNG compression uses perceptual color quantization,
+            reducing file size by 60–80% while keeping the image visually identical. All
+            processing runs locally in your browser — your images never leave your device.
           </p>
           <h3 className="text-lg font-semibold mt-6 mb-3">Features</h3>
           <ul className="space-y-2 text-gray-600">
