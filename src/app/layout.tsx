@@ -44,6 +44,15 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZD9YFMFMN9" />
+        <script dangerouslySetInnerHTML={{ __html: `
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-ZD9YFMFMN9');
+        `}} />
+      </head>
       <body
         className={`${inter.variable} font-sans antialiased bg-gray-50 text-gray-900`}
       >
