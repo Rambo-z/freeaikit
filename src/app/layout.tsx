@@ -143,6 +143,54 @@ export default function RootLayout({
                       PDF Merge & Split
                     </Link>
                   </li>
+                  <li>
+                    <Link
+                      href="/image-to-pdf"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Image to PDF
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/pdf-to-images"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      PDF to Images
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/qr-code"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      QR Code Generator
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/color-palette"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Color Palette Extractor
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/image-watermark"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Image Watermark
+                    </Link>
+                  </li>
+                  <li>
+                    <Link
+                      href="/base64-image"
+                      className="text-sm hover:text-white transition-colors"
+                    >
+                      Base64 Image
+                    </Link>
+                  </li>
                 </ul>
               </div>
 

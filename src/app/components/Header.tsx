@@ -9,9 +9,14 @@ const navLinks = [
   { href: "/bg-remover", label: "BG Remover" },
   { href: "/image-compress", label: "Compressor" },
   { href: "/image-convert", label: "Converter" },
-  { href: "/image-to-svg", label: "SVG" },
   { href: "/image-resize", label: "Resize" },
   { href: "/pdf-merge", label: "PDF Merge" },
+  { href: "/image-to-pdf", label: "Img→PDF" },
+  { href: "/pdf-to-images", label: "PDF→Img" },
+  { href: "/qr-code", label: "QR Code" },
+  { href: "/color-palette", label: "Colors" },
+  { href: "/image-watermark", label: "Watermark" },
+  { href: "/base64-image", label: "Base64" },
 ];
 
 export default function Header() {
