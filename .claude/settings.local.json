@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx next:*)",
+      "Bash(npx wrangler:*)",
+      "WebFetch(domain:www.npmjs.com)",
+      "WebFetch(domain:registry.npmjs.org)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:mupdf.com)",
+      "WebSearch",
+      "Bash(npm install:*)",
+      "Bash(npm show:*)",
+      "Bash(ls \"C:\\\\Users\\\\youme\\\\.claude\\\\projects\\\\e--AI-Coding-freeaikit\\\\memory\"\" 2>/dev/null || echo \"directory empty or missing \")",
+      "WebFetch(domain:www.iloveimg.com)"
+    ]
+  }
+}

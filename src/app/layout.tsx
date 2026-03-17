@@ -64,9 +64,9 @@ export default function RootLayout({
         {/* Footer */}
         <footer className="bg-gray-900 text-gray-400 py-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
+            <div className="grid grid-cols-2 md:grid-cols-5 gap-8">
               {/* Brand */}
-              <div className="md:col-span-2">
+              <div className="col-span-2 md:col-span-1">
                 <div className="flex items-center gap-2.5 mb-3">
                   <div className="w-7 h-7 bg-blue-600 rounded-lg flex items-center justify-center">
                     <span className="text-white font-bold text-[10px]">FK</span>
@@ -75,219 +75,85 @@ export default function RootLayout({
                     FreeAIKit
                   </span>
                 </div>
-                <p className="text-sm leading-relaxed max-w-sm">
-                  Free AI-powered tools that run in your browser. No signup, no
-                  watermark, no limits. Your files never leave your device.
+                <p className="text-sm leading-relaxed">
+                  Free tools that run in your browser. No signup, no watermark.
+                  Your files never leave your device.
                 </p>
+                <div className="mt-4 space-y-1">
+                  <Link href="/" className="block text-sm hover:text-white transition-colors">Home</Link>
+                  <a href="mailto:hello@freeaikit.app" className="block text-sm hover:text-white transition-colors">Contact</a>
+                </div>
               </div>
 
-              {/* Tools */}
+              {/* Image Tools */}
               <div>
-                <h4 className="text-sm font-semibold text-white mb-3">
-                  Tools
-                </h4>
+                <h4 className="text-sm font-semibold text-white mb-3">Image</h4>
                 <ul className="space-y-2">
-                  <li>
-                    <Link
-                      href="/bg-remover"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Background Remover
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/image-compress"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Image Compressor
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/image-convert"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Image Converter
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/image-to-svg"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Image to SVG
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/image-resize"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Image Resizer
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/pdf-compress"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      PDF Compressor
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/pdf-merge"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      PDF Merge & Split
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/image-to-pdf"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Image to PDF
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/pdf-to-images"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      PDF to Images
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/qr-code"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      QR Code Generator
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/color-palette"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Color Palette Extractor
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/image-watermark"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Image Watermark
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/base64-image"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Base64 Image
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/json-formatter"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      JSON Formatter
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/css-minifier"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      CSS Minifier
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/text-case"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Text Case Converter
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/image-crop"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Image Crop & Rotate
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/image-filters"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Image Filters
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/favicon-generator"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Favicon Generator
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/password-generator"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Password Generator
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/word-counter"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Word Counter
-                    </Link>
-                  </li>
-                  <li>
-                    <Link
-                      href="/url-encoder"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      URL Encoder / Decoder
-                    </Link>
-                  </li>
+                  {[
+                    ["/bg-remover",      "BG Remover"],
+                    ["/image-compress",  "Compressor"],
+                    ["/image-convert",   "Converter"],
+                    ["/image-resize",    "Resizer"],
+                    ["/image-crop",      "Crop & Rotate"],
+                    ["/image-filters",   "Filters"],
+                    ["/image-watermark", "Watermark"],
+                    ["/image-to-svg",    "Image to SVG"],
+                    ["/base64-image",    "Base64"],
+                  ].map(([href, label]) => (
+                    <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
+                  ))}
                 </ul>
               </div>
 
-              {/* Links */}
+              {/* PDF & Design */}
               <div>
-                <h4 className="text-sm font-semibold text-white mb-3">
-                  Links
-                </h4>
+                <h4 className="text-sm font-semibold text-white mb-3">PDF</h4>
                 <ul className="space-y-2">
-                  <li>
-                    <Link
-                      href="/"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Home
-                    </Link>
-                  </li>
-                  <li>
-                    <a
-                      href="mailto:hello@freeaikit.app"
-                      className="text-sm hover:text-white transition-colors"
-                    >
-                      Contact
-                    </a>
-                  </li>
+                  {[
+                    ["/pdf-compress",  "PDF Compressor"],
+                    ["/pdf-merge",     "Merge & Split"],
+                    ["/pdf-rotate",    "PDF Rotate"],
+                    ["/pdf-unlock",    "PDF Unlock"],
+                    ["/pdf-protect",   "PDF Protect"],
+                    ["/pdf-extract",   "Extract Pages"],
+                    ["/image-to-pdf",  "Image to PDF"],
+                    ["/pdf-to-images", "PDF to Images"],
+                  ].map(([href, label]) => (
+                    <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
+                  ))}
+                </ul>
+                <h4 className="text-sm font-semibold text-white mt-6 mb-3">Design</h4>
+                <ul className="space-y-2">
+                  {[
+                    ["/qr-code",           "QR Code"],
+                    ["/color-palette",     "Color Palette"],
+                    ["/color-converter",   "Color Converter"],
+                    ["/favicon-generator", "Favicon Generator"],
+                  ].map(([href, label]) => (
+                    <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
+                  ))}
+                </ul>
+              </div>
+
+              {/* Dev Tools */}
+              <div>
+                <h4 className="text-sm font-semibold text-white mb-3">Dev Tools</h4>
+                <ul className="space-y-2">
+                  {[
+                    ["/json-formatter",      "JSON Formatter"],
+                    ["/css-minifier",        "CSS Minifier"],
+                    ["/text-case",           "Text Case"],
+                    ["/markdown-editor",     "Markdown Editor"],
+                    ["/regex-tester",        "Regex Tester"],
+                    ["/hash-generator",      "Hash Generator"],
+                    ["/timestamp-converter", "Timestamp Converter"],
+                    ["/uuid-generator",      "UUID Generator"],
+                    ["/password-generator",  "Password Generator"],
+                    ["/word-counter",        "Word Counter"],
+                    ["/url-encoder",         "URL Encoder"],
+                  ].map(([href, label]) => (
+                    <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
+                  ))}
                 </ul>
               </div>
             </div>
