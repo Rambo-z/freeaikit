@@ -20,6 +20,10 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/image-watermark",label: "Watermark" },
       { href: "/image-to-svg",   label: "Image to SVG" },
       { href: "/base64-image",   label: "Base64 Image" },
+      { href: "/image-to-text",  label: "Image to Text (OCR)" },
+      { href: "/gif-maker",      label: "GIF Maker" },
+      { href: "/image-blur",     label: "Blur Image" },
+      { href: "/meme-generator", label: "Meme Generator" },
     ],
   },
   {

@@ -99,6 +99,10 @@ export default function RootLayout({
                     ["/image-watermark", "Watermark"],
                     ["/image-to-svg",    "Image to SVG"],
                     ["/base64-image",    "Base64"],
+                    ["/image-to-text",  "Image to Text"],
+                    ["/gif-maker",      "GIF Maker"],
+                    ["/image-blur",     "Blur Image"],
+                    ["/meme-generator", "Meme Generator"],
                   ].map(([href, label]) => (
                     <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
                   ))}

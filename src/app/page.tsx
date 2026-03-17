@@ -52,6 +52,10 @@ import {
   Bot,
   BarChart3,
   Eye,
+  ScanText,
+  Film,
+  Blend,
+  Laugh,
 } from "lucide-react";
 
 const categories = [
@@ -695,12 +699,68 @@ const tools = [
     tagColor: "bg-green-500 text-white",
     ready: true,
   },
+  {
+    name: "Image to Text (OCR)",
+    description:
+      "Extract text from images using OCR. Supports 100+ languages, screenshots, scanned documents.",
+    href: "/image-to-text",
+    icon: ScanText,
+    category: "image",
+    color: "from-blue-500 to-indigo-500",
+    bgColor: "bg-blue-50",
+    iconColor: "text-blue-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "GIF Maker",
+    description:
+      "Create animated GIFs from images. Set frame delay, quality, and loop. Download as GIF.",
+    href: "/gif-maker",
+    icon: Film,
+    category: "image",
+    color: "from-pink-500 to-rose-500",
+    bgColor: "bg-pink-50",
+    iconColor: "text-pink-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Blur Image / Face Blur",
+    description:
+      "Blur faces, regions, or sensitive areas. Draw rectangles to blur. Gaussian or pixelation.",
+    href: "/image-blur",
+    icon: Blend,
+    category: "image",
+    color: "from-slate-500 to-gray-500",
+    bgColor: "bg-slate-50",
+    iconColor: "text-slate-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Meme Generator",
+    description:
+      "Create memes with custom text. Upload any image, add top/bottom text, customize fonts and colors.",
+    href: "/meme-generator",
+    icon: Laugh,
+    category: "image",
+    color: "from-yellow-500 to-orange-500",
+    bgColor: "bg-yellow-50",
+    iconColor: "text-yellow-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
 ];
 
 const stats = [
   { value: "No Limits", label: "Files Per Session", icon: Download },
   { value: "100%", label: "Free Forever", icon: DollarSign },
-  { value: "43+", label: "Online Tools", icon: Wand2 },
+  { value: "47+", label: "Online Tools", icon: Wand2 },
   { value: "0 bytes", label: "Data Uploaded", icon: Shield },
 ];
 
