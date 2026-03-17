@@ -64,7 +64,7 @@ export default function RootLayout({
         {/* Footer */}
         <footer className="bg-gray-900 text-gray-400 py-12">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="grid grid-cols-2 md:grid-cols-5 gap-8">
+            <div className="grid grid-cols-2 md:grid-cols-6 gap-8">
               {/* Brand */}
               <div className="col-span-2 md:col-span-1">
                 <div className="flex items-center gap-2.5 mb-3">
@@ -157,6 +157,22 @@ export default function RootLayout({
                     ["/jwt-decoder",        "JWT Decoder"],
                     ["/base-converter",     "Base Converter"],
                     ["/xml-formatter",      "XML Formatter"],
+                  ].map(([href, label]) => (
+                    <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
+                  ))}
+                </ul>
+              </div>
+
+              {/* SEO Tools */}
+              <div>
+                <h4 className="text-sm font-semibold text-white mb-3">SEO</h4>
+                <ul className="space-y-2">
+                  {[
+                    ["/meta-tag-generator", "Meta Tags"],
+                    ["/schema-generator",   "Schema Markup"],
+                    ["/robots-generator",   "Robots.txt"],
+                    ["/keyword-density",    "Keyword Density"],
+                    ["/og-preview",         "OG Preview"],
                   ].map(([href, label]) => (
                     <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
                   ))}

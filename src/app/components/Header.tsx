@@ -58,6 +58,16 @@ const NAV_GROUPS: NavGroup[] = [
     ],
   },
   {
+    label: "SEO",
+    items: [
+      { href: "/meta-tag-generator", label: "Meta Tag Generator" },
+      { href: "/schema-generator",   label: "Schema Markup" },
+      { href: "/robots-generator",   label: "Robots.txt Generator" },
+      { href: "/keyword-density",    label: "Keyword Density" },
+      { href: "/og-preview",         label: "OG Preview" },
+    ],
+  },
+  {
     label: "Design",
     items: [
       { href: "/qr-code",          label: "QR Code Generator" },

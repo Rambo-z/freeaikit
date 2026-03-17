@@ -47,6 +47,11 @@ import {
   Key,
   Binary,
   FileType,
+  Tags,
+  FileCheck,
+  Bot,
+  BarChart3,
+  Eye,
 } from "lucide-react";
 
 const categories = [
@@ -56,6 +61,7 @@ const categories = [
   { id: "pdf", label: "PDF Tools", icon: FileText },
   { id: "design", label: "Design", icon: Palette },
   { id: "dev", label: "Dev Tools", icon: Code2 },
+  { id: "seo", label: "SEO Tools", icon: Search },
 ];
 
 const tools = [
@@ -619,12 +625,82 @@ const tools = [
     tagColor: "bg-green-500 text-white",
     ready: true,
   },
+  {
+    name: "Meta Tag Generator",
+    description:
+      "Generate SEO meta tags with live Google, Facebook, and Twitter previews. Copy HTML instantly.",
+    href: "/meta-tag-generator",
+    icon: Tags,
+    category: "seo",
+    color: "from-blue-500 to-indigo-500",
+    bgColor: "bg-blue-50",
+    iconColor: "text-blue-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Schema Markup Generator",
+    description:
+      "Generate JSON-LD structured data for Google rich results. Article, Product, FAQ, and more.",
+    href: "/schema-generator",
+    icon: FileCheck,
+    category: "seo",
+    color: "from-emerald-500 to-teal-500",
+    bgColor: "bg-emerald-50",
+    iconColor: "text-emerald-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Robots.txt Generator",
+    description:
+      "Generate robots.txt to control search engine crawling. Add rules, sitemaps, crawl delay.",
+    href: "/robots-generator",
+    icon: Bot,
+    category: "seo",
+    color: "from-gray-500 to-slate-500",
+    bgColor: "bg-gray-100",
+    iconColor: "text-gray-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Keyword Density Checker",
+    description:
+      "Analyze keyword density, word frequency, and n-gram phrases. Optimize content for SEO.",
+    href: "/keyword-density",
+    icon: BarChart3,
+    category: "seo",
+    color: "from-orange-500 to-amber-500",
+    bgColor: "bg-orange-50",
+    iconColor: "text-orange-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Open Graph Preview",
+    description:
+      "Preview how your page looks when shared on Facebook, Twitter, LinkedIn, and Discord.",
+    href: "/og-preview",
+    icon: Eye,
+    category: "seo",
+    color: "from-violet-500 to-purple-500",
+    bgColor: "bg-violet-50",
+    iconColor: "text-violet-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
 ];
 
 const stats = [
   { value: "No Limits", label: "Files Per Session", icon: Download },
   { value: "100%", label: "Free Forever", icon: DollarSign },
-  { value: "38+", label: "Online Tools", icon: Wand2 },
+  { value: "43+", label: "Online Tools", icon: Wand2 },
   { value: "0 bytes", label: "Data Uploaded", icon: Shield },
 ];
 
