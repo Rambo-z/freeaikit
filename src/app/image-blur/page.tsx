@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ImageBlurClient from "./ImageBlurClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Blur Image / Face Blur - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function ImageBlurPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Blur Image / Face Blur" description="Blur faces, regions, or sensitive areas in images. Draw rectangles to blur. Adjustable blur intensity. Free, instant, runs in your browser." slug="image-blur" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Blur Image / Face Blur
@@ -52,6 +55,7 @@ export default function ImageBlurPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="image-blur" />
     </div>
   );
 }

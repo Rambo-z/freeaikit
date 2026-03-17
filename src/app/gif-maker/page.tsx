@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import GifMakerClient from "./GifMakerClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "GIF Maker - Create Animated GIFs Free | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function GifMakerPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="GIF Maker" description="Create animated GIFs from images. Upload multiple images, set frame delay, adjust quality. Free, instant, runs in your browser." slug="gif-maker" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           GIF Maker
@@ -52,6 +55,7 @@ export default function GifMakerPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="gif-maker" />
     </div>
   );
 }

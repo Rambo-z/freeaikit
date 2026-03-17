@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import HashGeneratorClient from "./HashGeneratorClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Hash Generator - Free Online MD5, SHA-1, SHA-256, SHA-512 Tool",
@@ -23,5 +25,13 @@ export const metadata: Metadata = {
 };
 
 export default function HashGeneratorPage() {
-  return <HashGeneratorClient />;
+  return (
+    <>
+      <ToolJsonLd name="Hash Generator" description="Generate MD5, SHA-1, SHA-256, and SHA-512 hashes from text or files. Real-time hashing, file drag & drop, one-click copy. Free, no upload to server." slug="hash-generator" />
+      <HashGeneratorClient />
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <RelatedTools currentSlug="hash-generator" />
+      </div>
+    </>
+  );
 }

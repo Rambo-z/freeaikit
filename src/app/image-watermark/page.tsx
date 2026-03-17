@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ImageWatermarkClient from "./ImageWatermarkClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Image Watermark Tool - Add Text Watermark to Photos Free | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function ImageWatermarkPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Image Watermark Tool" description="Add text watermarks to images for free. Customize font size, color, opacity, position, and rotation. Single or tiled repeat mode. Download as PNG. No upload to server." slug="image-watermark" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">Image Watermark</h1>
         <p className="text-gray-600 text-lg max-w-xl mx-auto">
@@ -39,6 +42,7 @@ export default function ImageWatermarkPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="image-watermark" />
     </div>
   );
 }

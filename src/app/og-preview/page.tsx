@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import OgPreviewClient from "./OgPreviewClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Open Graph Preview - Free Online SEO Tool | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function OgPreviewPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Open Graph Preview" description="Preview how your page will look when shared on Facebook, Twitter, LinkedIn, and Discord. Test Open Graph and Twitter Card meta tags. Free, instant." slug="og-preview" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Open Graph Preview
@@ -52,6 +55,7 @@ export default function OgPreviewPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="og-preview" />
     </div>
   );
 }

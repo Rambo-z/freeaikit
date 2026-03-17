@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import BaseConverterClient from "./BaseConverterClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Number Base Converter - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function BaseConverterPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Number Base Converter" description="Convert numbers between binary, octal, decimal, and hexadecimal. Supports large numbers and real-time conversion. Free, instant, runs in your browser." slug="base-converter" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Number Base Converter
@@ -52,6 +55,7 @@ export default function BaseConverterPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="base-converter" />
     </div>
   );
 }

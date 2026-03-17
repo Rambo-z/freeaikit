@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import QrCodeClient from "./QrCodeClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "QR Code Generator - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function QrCodePage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="QR Code Generator" description="Generate QR codes for URLs, text, email, phone numbers, and WiFi instantly for free. Customize colors, size, and error correction. Download as PNG or SVG." slug="qr-code" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">QR Code Generator</h1>
         <p className="text-gray-600 text-lg max-w-xl mx-auto">
@@ -38,6 +41,7 @@ export default function QrCodePage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="qr-code" />
     </div>
   );
 }

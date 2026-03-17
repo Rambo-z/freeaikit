@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import CsvToJsonClient from "./CsvToJsonClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "CSV to JSON Converter - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function CsvToJsonPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="CSV to JSON Converter" description="Convert CSV to JSON and JSON to CSV online. Supports custom delimiters, headers, and nested data. Free, instant, runs in your browser." slug="csv-to-json" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           CSV to JSON Converter
@@ -52,6 +55,7 @@ export default function CsvToJsonPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="csv-to-json" />
     </div>
   );
 }

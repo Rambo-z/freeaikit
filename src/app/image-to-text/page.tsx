@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ImageToTextClient from "./ImageToTextClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Image to Text (OCR) - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function ImageToTextPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Image to Text (OCR)" description="Extract text from images using OCR. Supports 100+ languages, screenshots, photos, scanned documents. Free, instant, runs in your browser." slug="image-to-text" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Image to Text (OCR)
@@ -52,6 +55,7 @@ export default function ImageToTextPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="image-to-text" />
     </div>
   );
 }

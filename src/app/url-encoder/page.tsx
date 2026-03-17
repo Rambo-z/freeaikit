@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import UrlEncoderClient from "./UrlEncoderClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "URL Encoder / Decoder - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function UrlEncoderPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="URL Encoder / Decoder" description="Encode and decode URLs and query strings with encodeURIComponent / decodeURIComponent. Parse any URL into its components. Free, instant, runs in browser." slug="url-encoder" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           URL Encoder / Decoder
@@ -52,6 +55,7 @@ export default function UrlEncoderPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="url-encoder" />
     </div>
   );
 }

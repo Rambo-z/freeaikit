@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import PdfCompressClient from "./PdfCompressClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "PDF Compressor - Compress PDF Free Online | FreeAIKit",
@@ -26,6 +28,7 @@ export const metadata: Metadata = {
 export default function PdfCompressPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="PDF Compressor" description="Compress PDF files online for free. Reduce PDF size by up to 80% while maintaining quality. No upload, runs entirely in your browser. No signup required." slug="pdf-compress" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           PDF Compressor
@@ -132,6 +135,7 @@ export default function PdfCompressPage() {
           </div>
         </div>
       </section>
+      <RelatedTools currentSlug="pdf-compress" />
     </div>
   );
 }

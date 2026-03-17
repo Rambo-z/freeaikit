@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import CssMinifierClient from "./CssMinifierClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "CSS Minifier & Beautifier - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function CssMinifierPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="CSS Minifier & Beautifier" description="Minify CSS to reduce file size or beautify minified CSS to make it readable. Shows size reduction stats. Free, instant, runs in your browser — no upload." slug="css-minifier" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           CSS Minifier & Beautifier
@@ -56,6 +59,7 @@ export default function CssMinifierPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="css-minifier" />
     </div>
   );
 }

@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ImageConvertClient from "./ImageConvertClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Image Format Converter - Convert JPG, PNG, WebP Free | FreeAIKit",
@@ -26,6 +28,7 @@ export const metadata: Metadata = {
 export default function ImageConvertPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Image Format Converter" description="Convert images between JPG, PNG, and WebP instantly in your browser. Free, no upload, no signup. Batch convert multiple images at once." slug="image-convert" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Image Format Converter
@@ -124,6 +127,7 @@ export default function ImageConvertPage() {
           </div>
         </div>
       </section>
+      <RelatedTools currentSlug="image-convert" />
     </div>
   );
 }

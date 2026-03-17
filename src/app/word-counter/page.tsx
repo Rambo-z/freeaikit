@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import WordCounterClient from "./WordCounterClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Word Counter - Free Online Character & Word Count | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function WordCounterPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Word Counter" description="Count words, characters, sentences, paragraphs and reading time instantly. Find top keywords. Free online word counter with real-time stats. No signup required." slug="word-counter" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Word Counter
@@ -52,6 +55,7 @@ export default function WordCounterPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="word-counter" />
     </div>
   );
 }

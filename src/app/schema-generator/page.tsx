@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import SchemaGeneratorClient from "./SchemaGeneratorClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Schema Markup Generator (JSON-LD) - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function SchemaGeneratorPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Schema Markup Generator (JSON" description="Generate structured data markup (JSON-LD) for Google rich results. Support for Article, Product, FAQ, LocalBusiness, Recipe, and more. Free, instant." slug="schema-generator" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Schema Markup Generator
@@ -52,6 +55,7 @@ export default function SchemaGeneratorPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="schema-generator" />
     </div>
   );
 }

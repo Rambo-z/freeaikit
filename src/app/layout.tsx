@@ -81,6 +81,8 @@ export default function RootLayout({
                 </p>
                 <div className="mt-4 space-y-1">
                   <Link href="/" className="block text-sm hover:text-white transition-colors">Home</Link>
+                  <Link href="/privacy-policy" className="block text-sm hover:text-white transition-colors">Privacy</Link>
+                  <Link href="/terms" className="block text-sm hover:text-white transition-colors">Terms</Link>
                   <a href="mailto:hello@freeaikit.app" className="block text-sm hover:text-white transition-colors">Contact</a>
                 </div>
               </div>

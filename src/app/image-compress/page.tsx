@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ImageCompressClient from "./ImageCompressClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Image Compressor - Compress JPG, PNG, WebP Free | FreeAIKit",
@@ -26,6 +28,7 @@ export const metadata: Metadata = {
 export default function ImageCompressPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Image Compressor" description="Compress images online for free. Reduce JPG, PNG, WebP file size while maintaining quality. No upload, runs in your browser. No signup required." slug="image-compress" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Image Compressor
@@ -109,6 +112,7 @@ export default function ImageCompressPage() {
           </div>
         </div>
       </section>
+      <RelatedTools currentSlug="image-compress" />
     </div>
   );
 }

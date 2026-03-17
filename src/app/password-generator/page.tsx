@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import PasswordGeneratorClient from "./PasswordGeneratorClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Password Generator - Free & Secure | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function PasswordGeneratorPage() {
   return (
     <div className="max-w-2xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Password Generator" description="Generate strong, random passwords instantly. Choose length, uppercase, lowercase, numbers and symbols. Uses cryptographically secure randomness. Free, no data stored." slug="password-generator" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Password Generator
@@ -52,6 +55,7 @@ export default function PasswordGeneratorPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="password-generator" />
     </div>
   );
 }

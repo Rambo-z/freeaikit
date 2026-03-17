@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ImageFiltersClient from "./ImageFiltersClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Image Filters & Effects - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function ImageFiltersPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Image Filters & Effects" description="Apply filters to photos online: brightness, contrast, saturation, blur, grayscale, sepia, hue. Real-time preview, download full-resolution result. Free, no upload." slug="image-filters" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Image Filters & Effects
@@ -52,6 +55,7 @@ export default function ImageFiltersPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="image-filters" />
     </div>
   );
 }

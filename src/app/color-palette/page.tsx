@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ColorPaletteClient from "./ColorPaletteClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Color Palette Extractor - Extract Colors from Image Free | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function ColorPalettePage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Color Palette Extractor" description="Extract dominant color palettes from any image instantly. Get hex codes and RGB values. Copy as CSS variables. Free, no upload to server." slug="color-palette" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">Color Palette Extractor</h1>
         <p className="text-gray-600 text-lg max-w-xl mx-auto">
@@ -38,6 +41,7 @@ export default function ColorPalettePage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="color-palette" />
     </div>
   );
 }

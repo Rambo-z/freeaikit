@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import RegexTesterClient from "./RegexTesterClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Regex Tester - Free Online Regular Expression Tester",
@@ -21,5 +23,13 @@ export const metadata: Metadata = {
 };
 
 export default function RegexTesterPage() {
-  return <RegexTesterClient />;
+  return (
+    <>
+      <ToolJsonLd name="Regex Tester" description="Test and debug regular expressions online. Real-time match highlighting, groups, flags support. Free regex tester with no signup." slug="regex-tester" />
+      <RegexTesterClient />
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <RelatedTools currentSlug="regex-tester" />
+      </div>
+    </>
+  );
 }

@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import PdfToImagesClient from "./PdfToImagesClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "PDF to Image Converter - PDF to JPG/PNG Free | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function PdfToImagesPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="PDF to Image Converter" description="Convert PDF pages to JPG or PNG images online for free. Choose resolution (72–300 DPI) and quality. No upload to server, runs in your browser." slug="pdf-to-images" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">PDF to Images</h1>
         <p className="text-gray-600 text-lg max-w-xl mx-auto">
@@ -37,6 +40,7 @@ export default function PdfToImagesPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="pdf-to-images" />
     </div>
   );
 }

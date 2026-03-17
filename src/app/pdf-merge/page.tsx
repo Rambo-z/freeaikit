@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import PdfMergeClient from "./PdfMergeClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "PDF Merge & Split - Free Online PDF Tool | FreeAIKit",
@@ -19,6 +21,7 @@ export const metadata: Metadata = {
 export default function PdfMergePage() {
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="PDF Merge & Split" description="Merge multiple PDF files into one, or split a PDF into separate files by page range. 100% free, no upload to server, runs in your browser." slug="pdf-merge" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           PDF Merge & Split
@@ -64,6 +67,7 @@ export default function PdfMergePage() {
           ))}
         </div>
       </section>
+      <RelatedTools currentSlug="pdf-merge" />
     </div>
   );
 }

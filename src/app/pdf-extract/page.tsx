@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import PdfExtractClient from "./PdfExtractClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "PDF Extract Pages - Extract Pages from PDF Online Free",
@@ -13,5 +15,13 @@ export const metadata: Metadata = {
 };
 
 export default function PdfExtractPage() {
-  return <PdfExtractClient />;
+  return (
+    <>
+      <ToolJsonLd name="PDF Extract Pages" description="Extract specific pages from a PDF file online. Select page ranges and download as a new PDF. Free, no signup, 100% browser-based." slug="pdf-extract" />
+      <PdfExtractClient />
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <RelatedTools currentSlug="pdf-extract" />
+      </div>
+    </>
+  );
 }

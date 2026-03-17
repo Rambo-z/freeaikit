@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import Base64ImageClient from "./Base64ImageClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Base64 Image Encoder/Decoder - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function Base64ImagePage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Base64 Image Encoder/Decoder" description="Convert images to Base64 strings and decode Base64 back to images. Supports PNG, JPG, WebP, SVG. Copy data URLs for use in HTML/CSS/JS. Free, no upload to server." slug="base64-image" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">Base64 Image Encoder / Decoder</h1>
         <p className="text-gray-600 text-lg max-w-xl mx-auto">
@@ -39,6 +42,7 @@ export default function Base64ImagePage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="base64-image" />
     </div>
   );
 }

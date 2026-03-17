@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import XmlFormatterClient from "./XmlFormatterClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "XML Formatter & Beautifier - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function XmlFormatterPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="XML Formatter & Beautifier" description="Format, beautify, and minify XML online. Validate XML syntax and fix indentation. Free, instant, runs in your browser." slug="xml-formatter" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           XML Formatter & Beautifier
@@ -52,6 +55,7 @@ export default function XmlFormatterPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="xml-formatter" />
     </div>
   );
 }

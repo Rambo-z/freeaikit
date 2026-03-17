@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import TextCaseClient from "./TextCaseClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Text Case Converter - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function TextCasePage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Text Case Converter" description="Convert text between UPPERCASE, lowercase, Title Case, camelCase, PascalCase, snake_case, kebab-case and more. Instant, free, runs in your browser." slug="text-case" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Text Case Converter
@@ -57,6 +60,7 @@ export default function TextCasePage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="text-case" />
     </div>
   );
 }

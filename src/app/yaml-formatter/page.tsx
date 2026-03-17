@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import YamlFormatterClient from "./YamlFormatterClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "YAML Formatter & Validator - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function YamlFormatterPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="YAML Formatter & Validator" description="Format, beautify, validate, and convert YAML online. Convert between YAML and JSON instantly. Free, runs in your browser." slug="yaml-formatter" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           YAML Formatter & Validator
@@ -52,6 +55,7 @@ export default function YamlFormatterPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="yaml-formatter" />
     </div>
   );
 }

@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import HtmlEncoderClient from "./HtmlEncoderClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "HTML Entity Encoder / Decoder - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function HtmlEncoderPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="HTML Entity Encoder / Decoder" description="Encode special characters to HTML entities and decode HTML entities back to text. Supports named and numeric entities. Free, instant, in-browser." slug="html-encoder" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           HTML Entity Encoder / Decoder
@@ -52,6 +55,7 @@ export default function HtmlEncoderPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="html-encoder" />
     </div>
   );
 }

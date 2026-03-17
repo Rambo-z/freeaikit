@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import JsonFormatterClient from "./JsonFormatterClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "JSON Formatter & Validator - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function JsonFormatterPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="JSON Formatter & Validator" description="Format, beautify, minify and validate JSON online. Syntax highlighting, error detection with line hints. Free, instant, no data uploaded." slug="json-formatter" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           JSON Formatter & Validator
@@ -56,6 +59,7 @@ export default function JsonFormatterPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="json-formatter" />
     </div>
   );
 }

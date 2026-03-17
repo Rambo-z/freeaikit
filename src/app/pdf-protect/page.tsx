@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import PdfProtectClient from "./PdfProtectClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "PDF Protect - Add Password to PDF Online Free",
@@ -13,5 +15,13 @@ export const metadata: Metadata = {
 };
 
 export default function PdfProtectPage() {
-  return <PdfProtectClient />;
+  return (
+    <>
+      <ToolJsonLd name="PDF Protect" description="Add password protection to PDF files online. Encrypt your PDF with a password to restrict access. Free, no signup, 100% browser-based." slug="pdf-protect" />
+      <PdfProtectClient />
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <RelatedTools currentSlug="pdf-protect" />
+      </div>
+    </>
+  );
 }

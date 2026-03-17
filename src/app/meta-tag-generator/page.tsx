@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import MetaTagGeneratorClient from "./MetaTagGeneratorClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Meta Tag Generator - Free Online SEO Tool | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function MetaTagGeneratorPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Meta Tag Generator" description="Generate perfect meta tags for SEO. Preview how your page looks on Google, Facebook, and Twitter. Open Graph and Twitter Card support. Free, instant." slug="meta-tag-generator" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Meta Tag Generator
@@ -52,6 +55,7 @@ export default function MetaTagGeneratorPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="meta-tag-generator" />
     </div>
   );
 }

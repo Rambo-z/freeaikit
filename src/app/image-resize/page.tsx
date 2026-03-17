@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ImageResizeClient from "./ImageResizeClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Image Resizer - Resize Images Online Free | FreeAIKit",
@@ -19,6 +21,7 @@ export const metadata: Metadata = {
 export default function ImageResizePage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Image Resizer" description="Resize images online for free. Set exact pixel dimensions or scale by percentage. Supports JPG, PNG, WebP. Batch processing, no upload to server." slug="image-resize" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Image Resizer
@@ -63,6 +66,7 @@ export default function ImageResizePage() {
           ))}
         </div>
       </section>
+      <RelatedTools currentSlug="image-resize" />
     </div>
   );
 }

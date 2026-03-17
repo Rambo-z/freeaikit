@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import RobotsGeneratorClient from "./RobotsGeneratorClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Robots.txt Generator - Free Online SEO Tool | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function RobotsGeneratorPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Robots.txt Generator" description="Generate a robots.txt file for your website. Control search engine crawling with allow/disallow rules, sitemaps, and crawl delay. Free, instant." slug="robots-generator" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Robots.txt Generator
@@ -52,6 +55,7 @@ export default function RobotsGeneratorPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="robots-generator" />
     </div>
   );
 }

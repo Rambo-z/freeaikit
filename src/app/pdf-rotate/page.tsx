@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import PdfRotateClient from "./PdfRotateClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "PDF Rotate - Rotate PDF Pages Online Free",
@@ -13,5 +15,13 @@ export const metadata: Metadata = {
 };
 
 export default function PdfRotatePage() {
-  return <PdfRotateClient />;
+  return (
+    <>
+      <ToolJsonLd name="PDF Rotate" description="Rotate PDF pages online. Rotate all pages or specific pages by 90, 180, or 270 degrees. Free, no signup, works in your browser." slug="pdf-rotate" />
+      <PdfRotateClient />
+      <div className="max-w-3xl mx-auto px-4 py-8">
+        <RelatedTools currentSlug="pdf-rotate" />
+      </div>
+    </>
+  );
 }

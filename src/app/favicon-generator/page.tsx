@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import FaviconGeneratorClient from "./FaviconGeneratorClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Favicon Generator - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function FaviconGeneratorPage() {
   return (
     <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Favicon Generator" description="Generate favicons in all sizes from any image: 16x16, 32x32, 48x48, 64x64, 128x128, 180x180 (Apple touch icon), 192x192 (Android). Download PNG files instantly." slug="favicon-generator" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Favicon Generator
@@ -52,6 +55,7 @@ export default function FaviconGeneratorPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="favicon-generator" />
     </div>
   );
 }

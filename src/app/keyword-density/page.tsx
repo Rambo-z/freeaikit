@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import KeywordDensityClient from "./KeywordDensityClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Keyword Density Checker - Free Online SEO Tool | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function KeywordDensityPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Keyword Density Checker" description="Analyze keyword density and word frequency in your text. Find top keywords, 2-word and 3-word phrases. Optimize for SEO. Free, instant, runs in your browser." slug="keyword-density" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Keyword Density Checker
@@ -52,6 +55,7 @@ export default function KeywordDensityPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="keyword-density" />
     </div>
   );
 }

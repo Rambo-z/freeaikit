@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ImageToPdfClient from "./ImageToPdfClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Image to PDF Converter - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function ImageToPdfPage() {
   return (
     <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Image to PDF Converter" description="Convert JPG, PNG, WebP images to PDF online for free. Combine multiple images into one PDF. Choose page size, orientation, and margin. No upload to server." slug="image-to-pdf" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">Image to PDF</h1>
         <p className="text-gray-600 text-lg max-w-xl mx-auto">
@@ -38,6 +41,7 @@ export default function ImageToPdfPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="image-to-pdf" />
     </div>
   );
 }

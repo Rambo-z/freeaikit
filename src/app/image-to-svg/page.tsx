@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ImageToSvgClient from "./ImageToSvgClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Image to SVG Converter - Free Online PNG/JPG to SVG | FreeAIKit",
@@ -25,6 +27,7 @@ export const metadata: Metadata = {
 export default function ImageToSvgPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Image to SVG Converter" description="Convert PNG, JPG, WebP images to SVG vector format for free. No upload to server, runs in your browser. Perfect for logos, icons, and illustrations." slug="image-to-svg" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Image to SVG Converter
@@ -118,6 +121,7 @@ export default function ImageToSvgPage() {
           ))}
         </div>
       </section>
+      <RelatedTools currentSlug="image-to-svg" />
     </div>
   );
 }

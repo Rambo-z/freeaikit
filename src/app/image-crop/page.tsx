@@ -1,5 +1,7 @@
 import type { Metadata } from "next";
 import ImageCropClient from "./ImageCropClient";
+import ToolJsonLd from "../components/ToolJsonLd";
+import RelatedTools from "../components/RelatedTools";
 
 export const metadata: Metadata = {
   title: "Image Crop & Rotate - Free Online | FreeAIKit",
@@ -16,6 +18,7 @@ export const metadata: Metadata = {
 export default function ImageCropPage() {
   return (
     <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+      <ToolJsonLd name="Image Crop & Rotate" description="Crop images to any size or aspect ratio. Rotate 90°/180°/270°, flip horizontally or vertically. Free ratio presets: 1:1, 4:3, 16:9. Download full-resolution result." slug="image-crop" />
       <div className="text-center mb-10">
         <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
           Image Crop & Rotate
@@ -52,6 +55,7 @@ export default function ImageCropPage() {
           </div>
         ))}
       </section>
+      <RelatedTools currentSlug="image-crop" />
     </div>
   );
 }
