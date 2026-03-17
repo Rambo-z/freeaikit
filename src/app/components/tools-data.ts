@@ -29,6 +29,7 @@ export const ALL_TOOLS: ToolInfo[] = [
   { name: "PDF Rotate", slug: "pdf-rotate", description: "Rotate PDF pages by 90, 180, or 270 degrees.", category: "pdf" },
   { name: "PDF Protect", slug: "pdf-protect", description: "Add watermark and protection metadata to PDF documents.", category: "pdf" },
   { name: "PDF Extract Pages", slug: "pdf-extract", description: "Extract specific pages from a PDF by page range.", category: "pdf" },
+  { name: "PDF to Editable PPT", slug: "pdf-to-ppt", description: "Convert image-based PDF slides to editable PowerPoint with OCR.", category: "pdf" },
   // Dev Tools
   { name: "JSON Formatter", slug: "json-formatter", description: "Format, beautify, minify and validate JSON with syntax highlighting.", category: "dev" },
   { name: "CSS Minifier", slug: "css-minifier", description: "Minify CSS to reduce file size or beautify minified CSS.", category: "dev" },
