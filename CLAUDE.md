@@ -116,18 +116,19 @@ npx wrangler pages deploy out --project-name=freeaikit --commit-dirty=true --bra
 
 ## 七、待开发路线图
 
-### 待修复（优先）
-- [ ] page.tsx "How Does Image Compression Work?" 文案仍写 Canvas API → 改为 WASM 描述
-- [ ] 移动端无汉堡菜单
-- [ ] Stats 硬编码假数据
+### 已修复
+- [x] page.tsx 压缩文案已改为 WASM 描述（MozJPEG/libwebp/libimagequant）
+- [x] 移动端汉堡菜单已实现（Header.tsx）
+- [x] Stats 数字已更新为 43+
 
-### 下一批工具
-1. **PDF Compressor** — 用户明确需求（PDF太大上传受限），pdf-lib.js 或 WASM 方案
-2. **Image to SVG** — potrace.js / imagetracerjs
-3. **Image Format Converter** — 利用已有 WASM 引擎
+### 下一批工具（批次F：图片高级功能）
+1. **Image to Text (OCR)** — Tesseract.js WASM，搜索量 500K+
+2. **GIF Maker** — gif.js 或 FFMPEG WASM，搜索量 300K+
+3. **Blur Face / Region** — Canvas 手动框选模糊，搜索量 100K+
+4. **Meme Generator** — Canvas + 文字叠加，搜索量 80K+
 
 ### 长期
-- AI Image Upscaler / QR Code Art / PDF Chat / Color Palette / Text Rewriter
+- AI Image Upscaler（WASM 体积大）/ AI Text Rewriter（需 API 成本）
 
 ---
 
