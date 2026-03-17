@@ -49,6 +49,12 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/password-generator",  label: "Password Generator" },
       { href: "/word-counter",        label: "Word Counter" },
       { href: "/url-encoder",         label: "URL Encoder / Decoder" },
+      { href: "/yaml-formatter",     label: "YAML Formatter" },
+      { href: "/csv-to-json",        label: "CSV to JSON" },
+      { href: "/html-encoder",       label: "HTML Entity Encoder" },
+      { href: "/jwt-decoder",        label: "JWT Decoder" },
+      { href: "/base-converter",     label: "Base Converter" },
+      { href: "/xml-formatter",      label: "XML Formatter" },
     ],
   },
   {

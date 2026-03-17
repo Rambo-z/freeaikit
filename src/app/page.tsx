@@ -41,6 +41,12 @@ import {
   Unlock,
   RotateCw,
   Scissors,
+  FileJson,
+  Table,
+  Code,
+  Key,
+  Binary,
+  FileType,
 } from "lucide-react";
 
 const categories = [
@@ -529,12 +535,96 @@ const tools = [
     tagColor: "bg-green-500 text-white",
     ready: true,
   },
+  {
+    name: "YAML Formatter",
+    description:
+      "Format, beautify, validate YAML and convert between YAML and JSON. Supports custom indentation.",
+    href: "/yaml-formatter",
+    icon: FileJson,
+    category: "dev",
+    color: "from-rose-500 to-pink-500",
+    bgColor: "bg-rose-50",
+    iconColor: "text-rose-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "CSV to JSON",
+    description:
+      "Convert CSV to JSON arrays and JSON back to CSV. Auto-detect delimiters, RFC 4180 compliant.",
+    href: "/csv-to-json",
+    icon: Table,
+    category: "dev",
+    color: "from-emerald-500 to-teal-500",
+    bgColor: "bg-emerald-50",
+    iconColor: "text-emerald-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "HTML Entity Encoder",
+    description:
+      "Encode special characters to HTML entities and decode entities back to text. Named and numeric modes.",
+    href: "/html-encoder",
+    icon: Code,
+    category: "dev",
+    color: "from-orange-500 to-red-500",
+    bgColor: "bg-orange-50",
+    iconColor: "text-orange-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "JWT Decoder",
+    description:
+      "Decode and inspect JSON Web Tokens. View header, payload, claims, and check expiration status.",
+    href: "/jwt-decoder",
+    icon: Key,
+    category: "dev",
+    color: "from-amber-500 to-yellow-500",
+    bgColor: "bg-amber-50",
+    iconColor: "text-amber-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "Number Base Converter",
+    description:
+      "Convert numbers between binary, octal, decimal, and hexadecimal. Supports large numbers with BigInt.",
+    href: "/base-converter",
+    icon: Binary,
+    category: "dev",
+    color: "from-sky-500 to-blue-500",
+    bgColor: "bg-sky-50",
+    iconColor: "text-sky-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
+    name: "XML Formatter",
+    description:
+      "Format, beautify, and minify XML online. Validate syntax, fix indentation. Shows size stats.",
+    href: "/xml-formatter",
+    icon: FileType,
+    category: "dev",
+    color: "from-indigo-500 to-violet-500",
+    bgColor: "bg-indigo-50",
+    iconColor: "text-indigo-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
 ];
 
 const stats = [
   { value: "No Limits", label: "Files Per Session", icon: Download },
   { value: "100%", label: "Free Forever", icon: DollarSign },
-  { value: "32+", label: "Online Tools", icon: Wand2 },
+  { value: "38+", label: "Online Tools", icon: Wand2 },
   { value: "0 bytes", label: "Data Uploaded", icon: Shield },
 ];
 

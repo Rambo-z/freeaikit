@@ -151,6 +151,12 @@ export default function RootLayout({
                     ["/password-generator",  "Password Generator"],
                     ["/word-counter",        "Word Counter"],
                     ["/url-encoder",         "URL Encoder"],
+                    ["/yaml-formatter",     "YAML Formatter"],
+                    ["/csv-to-json",        "CSV to JSON"],
+                    ["/html-encoder",       "HTML Encoder"],
+                    ["/jwt-decoder",        "JWT Decoder"],
+                    ["/base-converter",     "Base Converter"],
+                    ["/xml-formatter",      "XML Formatter"],
                   ].map(([href, label]) => (
                     <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
                   ))}
