@@ -37,7 +37,6 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/pdf-extract",   label: "Extract Pages" },
       { href: "/image-to-pdf",  label: "Image to PDF" },
       { href: "/pdf-to-images", label: "PDF to Images" },
-      { href: "/pdf-to-ppt",   label: "PDF to Editable PPT" },
     ],
   },
   {

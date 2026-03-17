@@ -547,20 +547,6 @@ const tools = [
     ready: true,
   },
   {
-    name: "PDF to Editable PPT",
-    description:
-      "Convert image-based PDF slides to editable PowerPoint. OCR extracts text as real text boxes. Perfect for NotebookLM.",
-    href: "/pdf-to-ppt",
-    icon: Presentation,
-    category: "pdf",
-    color: "from-orange-500 to-red-500",
-    bgColor: "bg-orange-50",
-    iconColor: "text-orange-600",
-    tag: "Hot",
-    tagColor: "bg-red-500 text-white",
-    ready: true,
-  },
-  {
     name: "YAML Formatter",
     description:
       "Format, beautify, validate YAML and convert between YAML and JSON. Supports custom indentation.",
@@ -775,7 +761,7 @@ const tools = [
 const stats = [
   { value: "No Limits", label: "Files Per Session", icon: Download },
   { value: "100%", label: "Free Forever", icon: DollarSign },
-  { value: "48+", label: "Online Tools", icon: Wand2 },
+  { value: "47+", label: "Online Tools", icon: Wand2 },
   { value: "0 bytes", label: "Data Uploaded", icon: Shield },
 ];
 

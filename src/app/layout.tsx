@@ -125,7 +125,6 @@ export default function RootLayout({
                     ["/pdf-extract",   "Extract Pages"],
                     ["/image-to-pdf",  "Image to PDF"],
                     ["/pdf-to-images", "PDF to Images"],
-                    ["/pdf-to-ppt",   "PDF to PPT"],
                   ].map(([href, label]) => (
                     <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
                   ))}
