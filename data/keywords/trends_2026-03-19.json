@@ -1,8 +1,8 @@
 {
   "date": "2026-03-19",
   "batch": 0,
-  "total_rising_found": 152,
-  "new_opportunities": 145,
+  "total_rising_found": 155,
+  "new_opportunities": 148,
   "existing_matches": 7,
   "errors": 4,
   "opportunities": [
@@ -447,6 +447,16 @@
       "suggested_slug": "mov-to-mp4"
     },
     {
+      "keyword": "ai image editor",
+      "root": "compressor",
+      "prefix": "ai",
+      "trend_score": 9800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-editor"
+    },
+    {
       "keyword": "audiobooks free trial",
       "root": "song",
       "prefix": "free",
@@ -475,6 +485,16 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "mindfulness-apps"
+    },
+    {
+      "keyword": "convert word document to pdf online",
+      "root": "convert",
+      "prefix": "ai",
+      "trend_score": 9050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "convert-word-document-to-pdf-online"
     },
     {
       "keyword": "gluten free pizza crust recipe",
@@ -555,16 +575,6 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "zip-file-compressor-download"
-    },
-    {
-      "keyword": "ai image editor",
-      "root": "compressor",
-      "prefix": "ai",
-      "trend_score": 8200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "image-editor"
     },
     {
       "keyword": "convert pdf to word document online",
@@ -995,16 +1005,6 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "case-converter"
-    },
-    {
-      "keyword": "case converter online",
-      "root": "converter",
-      "prefix": "online",
-      "trend_score": 180,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "case-converter-online"
     }
   ],
   "existing": [
@@ -1042,7 +1042,7 @@
       "keyword": "pdf compressor for free",
       "root": "compressor",
       "prefix": "free",
-      "trend_score": 110,
+      "trend_score": 100,
       "source": "google_trends_rising",
       "discovered": "2026-03-19",
       "already_have": true,

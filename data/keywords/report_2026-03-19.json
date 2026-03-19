@@ -1,7 +1,7 @@
 {
   "date": "2026-03-19",
   "stats": {
-    "trends_total": 152,
+    "trends_total": 155,
     "suggest_total": 1277
   },
   "total_opportunities": 1144,
@@ -42,7 +42,7 @@
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 8200,
+      "trend_score": 9800,
       "suggested_slug": "image-editor",
       "root": "compressor",
       "already_have": false,
@@ -563,6 +563,21 @@
       "competition": 0.5
     },
     {
+      "keyword": "convert word document to pdf online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 9050,
+      "suggested_slug": "convert-word-document-to-pdf-online",
+      "root": "convert",
+      "already_have": false,
+      "combined_score": 330,
+      "difficulty": "需WASM",
+      "search_volume": 70,
+      "cpc": 1.51,
+      "competition": 0.2
+    },
+    {
       "keyword": "convert pdf to word document online",
       "sources": [
         "trends_rising"
@@ -621,21 +636,6 @@
       "search_volume": 4400,
       "cpc": 1.63,
       "competition": 0.5
-    },
-    {
-      "keyword": "case converter online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 180,
-      "suggested_slug": "case-converter-online",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 270,
-      "difficulty": "",
-      "search_volume": 390,
-      "cpc": 0,
-      "competition": 0.2
     },
     {
       "keyword": "spotify to mp3 converter online free",
