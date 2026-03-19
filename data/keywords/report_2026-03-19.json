@@ -1,11 +1,658 @@
 {
   "date": "2026-03-19",
   "stats": {
-    "trends_total": 0,
-    "suggest_total": 172
+    "trends_total": 78,
+    "suggest_total": 174
   },
-  "total_opportunities": 165,
+  "total_opportunities": 238,
   "top_50": [
+    {
+      "keyword": "epoch time converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 5800,
+      "suggested_slug": "epoch-time-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "",
+      "search_volume": 22200,
+      "cpc": 11.65,
+      "competition": 0.2
+    },
+    {
+      "keyword": "air compressor",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 70,
+      "suggested_slug": "air-compressor",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "需WASM",
+      "search_volume": 165000,
+      "cpc": 1.06,
+      "competition": 0.8
+    },
+    {
+      "keyword": "air compressor for car",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 300,
+      "suggested_slug": "air-compressor-for-car",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "需WASM",
+      "search_volume": 27100,
+      "cpc": 0.83,
+      "competition": 0.8
+    },
+    {
+      "keyword": "grok ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 81600,
+      "suggested_slug": "grok-ai",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 673000,
+      "cpc": 2.05,
+      "competition": 0.2
+    },
+    {
+      "keyword": "google ai studio",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 78450,
+      "suggested_slug": "google-studio",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需API",
+      "search_volume": 673000,
+      "cpc": 0.6,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ai news today",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 56500,
+      "suggested_slug": "news-today",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需API",
+      "search_volume": 49500,
+      "cpc": 3.82,
+      "competition": 0.2
+    },
+    {
+      "keyword": "new york times",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 37000,
+      "suggested_slug": "new-york-times",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 2240000,
+      "cpc": 3.31,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ilovepdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 27150,
+      "suggested_slug": "ilovepdf",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 246000,
+      "cpc": 2.72,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf combiner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 18050,
+      "suggested_slug": "pdf-combiner",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 165000,
+      "cpc": 0.89,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf24",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 15750,
+      "suggested_slug": "pdf24",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 14800,
+      "cpc": 2.6,
+      "competition": 0.2
+    },
+    {
+      "keyword": "smallpdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 15050,
+      "suggested_slug": "smallpdf",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 74000,
+      "cpc": 1.56,
+      "competition": 0.5
+    },
+    {
+      "keyword": "meshy ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 14300,
+      "suggested_slug": "meshy-ai",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 33100,
+      "cpc": 2.18,
+      "competition": 0.5
+    },
+    {
+      "keyword": "pdfgear",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 13800,
+      "suggested_slug": "pdfgear",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 33100,
+      "cpc": 3.03,
+      "competition": 0.5
+    },
+    {
+      "keyword": "mp4 to gif",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 11050,
+      "suggested_slug": "mp4-to-gif",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 110000,
+      "cpc": 0.22,
+      "competition": 0.2
+    },
+    {
+      "keyword": "tinypng",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 10100,
+      "suggested_slug": "tinypng",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 27100,
+      "cpc": 1.74,
+      "competition": 0.2
+    },
+    {
+      "keyword": "walter writes ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 7550,
+      "suggested_slug": "walter-writes-ai",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 60500,
+      "cpc": 2.95,
+      "competition": 0.5
+    },
+    {
+      "keyword": "wetransfer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 5600,
+      "suggested_slug": "wetransfer",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 450000,
+      "cpc": 5.43,
+      "competition": 0.2
+    },
+    {
+      "keyword": "tinkercad",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 4700,
+      "suggested_slug": "tinkercad",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 1000000,
+      "cpc": 6.01,
+      "competition": 0.2
+    },
+    {
+      "keyword": "hedra ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 3050,
+      "suggested_slug": "hedra-ai",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 0.58,
+      "competition": 0.5
+    },
+    {
+      "keyword": "ai news",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1700,
+      "suggested_slug": "news",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需API",
+      "search_volume": 74000,
+      "cpc": 4.94,
+      "competition": 0.2
+    },
+    {
+      "keyword": "catalytic converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 600,
+      "suggested_slug": "catalytic-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 790,
+      "difficulty": "",
+      "search_volume": 246000,
+      "cpc": 1.32,
+      "competition": 0.2
+    },
+    {
+      "keyword": "google ai news",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 202300,
+      "suggested_slug": "google-news",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "需API",
+      "search_volume": 8100,
+      "cpc": 7.81,
+      "competition": 0.2
+    },
+    {
+      "keyword": "grok",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 650,
+      "suggested_slug": "grok",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "",
+      "search_volume": 2240000,
+      "cpc": 2.42,
+      "competition": 0.2
+    },
+    {
+      "keyword": "sora ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 600,
+      "suggested_slug": "sora-ai",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "",
+      "search_volume": 368000,
+      "cpc": 2.67,
+      "competition": 0.2
+    },
+    {
+      "keyword": "perplexity ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 550,
+      "suggested_slug": "perplexity-ai",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "",
+      "search_volume": 450000,
+      "cpc": 2.1,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ai mode",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 550,
+      "suggested_slug": "mode",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "需API",
+      "search_volume": 1830000,
+      "cpc": 1.32,
+      "competition": 0.2
+    },
+    {
+      "keyword": "time converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "time-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "money converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 90,
+      "suggested_slug": "money-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 74000,
+      "cpc": 0.35,
+      "competition": 0.2
+    },
+    {
+      "keyword": "photo compressor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 40,
+      "suggested_slug": "photo-compressor",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 60500,
+      "cpc": 1.47,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf to jpg converter free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 450,
+      "suggested_slug": "pdf-to-jpg-converter-free",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 680,
+      "difficulty": "需WASM",
+      "search_volume": 18100,
+      "cpc": 0.75,
+      "competition": 0.5
+    },
+    {
+      "keyword": "jpg to pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "jpg-to-pdf-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 670,
+      "difficulty": "需WASM",
+      "search_volume": 14800,
+      "cpc": 0.69,
+      "competition": 0.2
+    },
+    {
+      "keyword": "png to pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 100,
+      "suggested_slug": "png-to-pdf-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 670,
+      "difficulty": "需WASM",
+      "search_volume": 14800,
+      "cpc": 0.93,
+      "competition": 0.2
+    },
+    {
+      "keyword": "check for ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 400,
+      "suggested_slug": "check-for-ai",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "",
+      "search_volume": 40500,
+      "cpc": 2.17,
+      "competition": 0.2
+    },
+    {
+      "keyword": "izotope",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 170,
+      "suggested_slug": "izotope",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "",
+      "search_volume": 14800,
+      "cpc": 0.37,
+      "competition": 0.5
+    },
+    {
+      "keyword": "jpg to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 140,
+      "suggested_slug": "jpg-to-pdf",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 201000,
+      "cpc": 0.53,
+      "competition": 0.2
+    },
+    {
+      "keyword": "open ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 120,
+      "suggested_slug": "open-ai",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "",
+      "search_volume": 1500000,
+      "cpc": 0.54,
+      "competition": 0.2
+    },
+    {
+      "keyword": "heic to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 120,
+      "suggested_slug": "heic-to-pdf",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 40500,
+      "cpc": 0.22,
+      "competition": 0.2
+    },
+    {
+      "keyword": "small pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "small-pdf",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 74000,
+      "cpc": 1.56,
+      "competition": 0.5
+    },
+    {
+      "keyword": "png to svg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 100,
+      "suggested_slug": "png-to-svg",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 49500,
+      "cpc": 0.56,
+      "competition": 0.2
+    },
+    {
+      "keyword": "png to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 90,
+      "suggested_slug": "png-to-pdf",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 90500,
+      "cpc": 0.53,
+      "competition": 0.2
+    },
+    {
+      "keyword": "google ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "google-ai",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "",
+      "search_volume": 1220000,
+      "cpc": 0.2,
+      "competition": 0.2
+    },
+    {
+      "keyword": "claude ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 40,
+      "suggested_slug": "claude-ai",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "",
+      "search_volume": 1220000,
+      "cpc": 3.06,
+      "competition": 0.5
+    },
+    {
+      "keyword": "2026 winter olympics women single skating free skating",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "2026-winter-olympics-women-single-skating-skating",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 630,
+      "difficulty": "",
+      "search_volume": 1000000,
+      "cpc": 2.25,
+      "competition": 0.2
+    },
     {
       "keyword": "free compressor pdf",
       "sources": [
@@ -19,742 +666,98 @@
       "difficulty": "需WASM",
       "search_volume": 14800,
       "cpc": 1.69,
-      "competition": "MEDIUM"
+      "competition": 0.5
     },
     {
-      "keyword": "air compressor",
+      "keyword": "free online drawing courses",
       "sources": [
-        "suggest"
+        "trends_rising"
       ],
-      "trend_score": 0,
-      "suggested_slug": "air-compressor",
+      "trend_score": 5500,
+      "suggested_slug": "drawing-courses",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 590,
-      "difficulty": "需WASM",
-      "search_volume": 165000,
-      "cpc": 1.06,
-      "competition": "HIGH"
-    },
-    {
-      "keyword": "air compressor hose",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "air-compressor-hose",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 590,
-      "difficulty": "需WASM",
-      "search_volume": 12100,
-      "cpc": 0.84,
-      "competition": "HIGH"
-    },
-    {
-      "keyword": "free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 320,
-      "difficulty": "",
-      "search_volume": 8100,
-      "cpc": 0.26,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free compressor video",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "compressor-video",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 320,
-      "difficulty": "需WASM",
-      "search_volume": 5400,
-      "cpc": 1.05,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free converter to pdf",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-to-pdf",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 300,
-      "difficulty": "需WASM",
-      "search_volume": 1000,
-      "cpc": 1.99,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free converter to mp4",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-to-mp4",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 300,
-      "difficulty": "",
-      "search_volume": 4400,
-      "cpc": 1.44,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "best inverter generator",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "inverter-generator",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 290,
+      "combined_score": 580,
       "difficulty": "",
       "search_volume": 2900,
-      "cpc": 0.95,
-      "competition": "HIGH"
+      "cpc": 3.09,
+      "competition": 0.2
     },
     {
-      "keyword": "ai converter",
+      "keyword": "file compare online",
       "sources": [
-        "suggest"
+        "trends_rising"
       ],
-      "trend_score": 0,
-      "suggested_slug": "converter",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 290,
-      "difficulty": "需API",
-      "search_volume": 1600,
-      "cpc": 2.51,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "air compressor oil",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "air-compressor-oil",
+      "trend_score": 8950,
+      "suggested_slug": "file-compare-online",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 290,
-      "difficulty": "需WASM",
-      "search_volume": 8100,
-      "cpc": 0.66,
-      "competition": "HIGH"
+      "combined_score": 570,
+      "difficulty": "",
+      "search_volume": 2900,
+      "cpc": 2.24,
+      "competition": 0.2
     },
     {
-      "keyword": "air compressor motor",
+      "keyword": "what is a catalytic converter",
       "sources": [
-        "suggest"
+        "trends_rising"
       ],
-      "trend_score": 0,
-      "suggested_slug": "air-compressor-motor",
+      "trend_score": 1000,
+      "suggested_slug": "what-is-a-catalytic-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 550,
+      "difficulty": "",
+      "search_volume": 9900,
+      "cpc": 0.18,
+      "competition": 0.2
+    },
+    {
+      "keyword": "vomo ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 4800,
+      "suggested_slug": "vomo-ai",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "",
+      "search_volume": 2900,
+      "cpc": 5.31,
+      "competition": 0.5
+    },
+    {
+      "keyword": "eu ai act news",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 32650,
+      "suggested_slug": "eu-act-news",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 290,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 1.06,
-      "competition": "HIGH"
-    },
-    {
-      "keyword": "free converter pdf to word",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-pdf-to-word",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 280,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 2.23,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free converter pdf to jpg",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-pdf-to-jpg",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 280,
-      "difficulty": "需WASM",
-      "search_volume": 1600,
-      "cpc": 1.15,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free converter video to mp3",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-video-to-mp3",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 280,
-      "difficulty": "需WASM",
-      "search_volume": 1000,
-      "cpc": 1.43,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free converter heic to jpg",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-heic-to-jpg",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 280,
-      "difficulty": "需WASM",
-      "search_volume": 1600,
-      "cpc": 0.48,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free financial advisor",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "financial-advisor",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 270,
+      "combined_score": 520,
       "difficulty": "需API",
       "search_volume": 3600,
-      "cpc": 22.21,
-      "competition": "HIGH"
-    },
-    {
-      "keyword": "free tax advisor",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "tax-advisor",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 270,
-      "difficulty": "需API",
-      "search_volume": 1300,
-      "cpc": 20.99,
-      "competition": "HIGH"
-    },
-    {
-      "keyword": "ai action figure generator",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-generator",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 270,
-      "difficulty": "需API",
-      "search_volume": 3600,
-      "cpc": 1.74,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free action movies",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-movies",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 270,
-      "difficulty": "",
-      "search_volume": 4400,
-      "cpc": 1.02,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free video compressor tool",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-compressor",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 200,
-      "difficulty": "需WASM",
-      "search_volume": 170,
-      "cpc": 2.3,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free compressor online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "compressor-online",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 200,
-      "difficulty": "需WASM",
-      "search_volume": 110,
-      "cpc": 1.8,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free converter software",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-software",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 170,
-      "difficulty": "",
-      "search_volume": 590,
-      "cpc": 2.13,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free converter mp3",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-mp3",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 170,
-      "difficulty": "",
-      "search_volume": 260,
-      "cpc": 1.52,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free compressor",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "compressor",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 170,
-      "difficulty": "需WASM",
-      "search_volume": 590,
-      "cpc": 1.57,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free compressor plugin",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "compressor-plugin",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 170,
-      "difficulty": "需WASM",
-      "search_volume": 260,
-      "cpc": 2.27,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "adobe free compressor tool",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "adobe-compressor",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 150,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free file compressor tool",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "file-compressor",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 150,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video compressor converter free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-compressor-converter-free",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 150,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "png compressor free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "png-compressor-converter",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 150,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free converter tools store",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converters-store",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 150,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free converter to jpg",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-to-jpg",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 150,
-      "difficulty": "需WASM",
-      "search_volume": 390,
-      "cpc": 1.3,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "best generator converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "generator-converter",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 140,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai converter image",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-image",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 140,
-      "difficulty": "需WASM",
-      "search_volume": 110,
-      "cpc": 1.51,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free compression tool online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "compression-online",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video compressor tool download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-compressor-download",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video converter compressor free download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-compressor-download",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "需WASM",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-free",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "需API",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "online converter free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-converter",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "how can i get free tools",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "how-can-i-gets",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "",
-      "search_volume": 110,
-      "cpc": 1.59,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "ai action figure generator free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-generator-free",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "需API",
-      "search_volume": 880,
-      "cpc": 1.86,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free tool convert pdf to word",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "tool-convert-pdf-to-word",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "需WASM",
-      "search_volume": 170,
-      "cpc": 3.55,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free converter mp4 to mp3",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-mp4-to-mp3",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "",
-      "search_volume": 110,
-      "cpc": 1.15,
-      "competition": "LOW"
+      "cpc": 2.03,
+      "competition": 0.2
     },
     {
       "keyword": "air compressor online",
       "sources": [
+        "trends_rising",
         "suggest"
       ],
-      "trend_score": 0,
+      "trend_score": 70,
       "suggested_slug": "air-compressor-online",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 120,
+      "combined_score": 420,
       "difficulty": "需WASM",
       "search_volume": 40,
       "cpc": 9.29,
-      "competition": "HIGH"
-    },
-    {
-      "keyword": "compressor free convert",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "compressor-convert",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 120,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "compress free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "compress-converter",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 120,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai converter free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-free",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 120,
-      "difficulty": "需API",
-      "search_volume": 90,
-      "cpc": 2.43,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free compressor vst",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "compressor-vst",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 120,
-      "difficulty": "需WASM",
-      "search_volume": 90,
-      "cpc": 3.7,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "ai action figure generator online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-generator-free",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需API",
-      "search_volume": 20,
-      "cpc": 0.78,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "ai video compressor online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-compressor-free",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free financial advisor tools",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "financial-advisors",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 100,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "competition": 0.8
     }
   ]
 }
