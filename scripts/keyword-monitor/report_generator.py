@@ -70,25 +70,36 @@ def merge_opportunities(trends_data, suggest_data):
             continue
         if data["suggested_slug"] in EXISTING_SLUGS:
             continue
-        # Smart scoring
+        # Scoring — search volume is king, everything else is bonus
         kw_lower = kw.lower()
-        score = data["trend_score"]
+        score = 0
 
-        # +50 for each tool-signal word in the keyword
+        # Base: trend score (飙升倍数)
+        trend = data["trend_score"]
+        if trend >= 99999:
+            score += 500  # Breakout
+        elif trend >= 1000:
+            score += 300
+        elif trend >= 500:
+            score += 200
+        elif trend > 0:
+            score += 100
+
+        # Tool-signal words (+50 each)
         tool_hits = sum(1 for w in TOOL_SIGNAL_WORDS if w in kw_lower)
         score += tool_hits * 50
 
-        # +30 for containing "free" or "online" (high commercial intent)
+        # Commercial intent
         if "free" in kw_lower:
             score += 30
         if "online" in kw_lower:
             score += 30
 
-        # +200 bonus if found in both Trends and Suggest
+        # Multi-source bonus (Trends + Suggest = validated demand)
         if len(data["sources"]) > 1:
             score += 200
 
-        # Shorter keywords tend to have higher search volume
+        # Short keywords = broader demand
         word_count = len(kw.split())
         if word_count <= 3:
             score += 40

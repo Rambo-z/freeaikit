@@ -2,26 +2,36 @@
 FreeAIKit Growth Engine — Keyword Monitor Configuration
 """
 
-# 122 keyword roots from the AI出海手册
+# 78 keyword roots — refined for freeaikit.app (online tool focus)
+# Removed 44 noise-producing roots, added 25 high-value tool roots
 KEYWORD_ROOTS = [
-    "action", "advisor", "agent", "ai", "analyzer", "anime", "answer", "art",
-    "assistant", "audio", "avatar", "best", "builder", "calculator", "cartoon",
-    "cataloger", "character", "chart", "chat", "cheat", "checker", "clue",
-    "code", "coloring page", "comparator", "compiler", "composer", "connector",
-    "constructor", "convert", "converter", "crawler", "creator", "dashboard",
-    "designer", "detector", "diagram", "directory", "downloader", "editor",
-    "emoji", "enhancer", "evaluator", "example", "explorer", "extractor",
-    "face", "faq", "figure", "filter", "finder", "font", "format", "generator",
-    "graph", "guide", "helper", "hint", "how to", "humanizer", "icon", "ideas",
-    "illustration", "image", "interior design", "interpreter", "layout", "list",
-    "logo", "maker", "manager", "meme", "model", "modifier", "monitor", "music",
-    "navigator", "notifier", "online", "optimizer", "paraphraser", "pattern",
-    "photo", "picture", "planner", "portal", "portrait", "processor",
-    "product photo", "receiver", "recommend", "recorder", "resources",
-    "responder", "restorer", "review", "sample", "scheduler", "scraper",
-    "sender", "simulator", "solver", "song", "sound", "speech", "starter",
-    "studio", "style", "summarizer", "summary", "syncer", "tattoo", "template",
-    "tester", "text",
+    # File processing (our strength)
+    "compressor", "converter", "convert", "editor", "extractor", "filter",
+    "format", "image", "photo", "picture", "portrait", "product photo",
+    "processor", "merger", "splitter", "cropper", "resizer", "watermark",
+    # Generators & builders
+    "builder", "calculator", "creator", "generator", "maker",
+    # Check & validate
+    "analyzer", "checker", "comparator", "detector", "tester", "validator",
+    "scanner", "diff",
+    # Text & code tools
+    "code", "compiler", "humanizer", "paraphraser", "solver", "summarizer",
+    "text", "formatter", "minifier", "beautifier", "obfuscator",
+    # Encode & decode
+    "encoder", "decoder", "hash", "translator",
+    # Design tools
+    "chart", "diagram", "graph", "coloring page", "designer", "emoji",
+    "font", "icon", "illustration", "logo", "meme", "pattern", "style",
+    "tattoo", "template", "gradient", "palette", "picker",
+    # Media tools
+    "audio", "avatar", "face", "cartoon", "music", "recorder",
+    "sound", "speech", "song", "enhancer", "upscaler", "colorizer",
+    "restorer",
+    # Utility tools
+    "counter", "downloader", "finder", "modifier", "optimizer",
+    "planner", "scheduler", "simulator",
+    # SEO & web tools
+    "sitemap", "qr", "barcode", "remover",
 ]
 
 # Prefixes to combine with roots for Google Trends
@@ -70,18 +80,32 @@ EXISTING_KEYWORDS = [
 # Feishu webhook URL — set via environment variable
 # FEISHU_WEBHOOK_URL = os.environ.get("FEISHU_WEBHOOK_URL", "")
 
-# Batch settings: 122 roots ÷ 12 batches ≈ 10-11 roots per run
+# Batch settings: 78 roots ÷ 12 batches ≈ 7 roots per run
 BATCH_COUNT = 12
 
 # Noise filter: skip suggestions containing these (not tool-related)
 NOISE_WORDS = [
-    "what is", "how to use", "meaning of", "definition",
-    "reddit", "quora", "youtube", "tiktok", "instagram",
-    "download apk", "mod apk", "crack", "torrent",
-    "palestine", "ukraine", "politics", "news",
-    "login", "sign up", "pricing", "review",
-    "jobs", "salary", "career", "course", "tutorial",
-    "vs ", "versus", "alternative to",
+    # Informational intent (not tool users)
+    "what is", "how to use", "how does", "meaning of", "definition",
+    "explain", "example of", "tutorial", "course", "learn",
+    # Social / entertainment
+    "reddit", "quora", "youtube", "tiktok", "instagram", "twitter",
+    "movie", "movies", "anime", "manga", "game", "games", "gaming",
+    "dnd", "d&d", "5e", "pf2e", "wow", "minecraft",
+    # Downloads / piracy
+    "download apk", "mod apk", "crack", "torrent", "pirated",
+    # Politics / news / events
+    "palestine", "ukraine", "politics", "news", "summit", "white house",
+    "election", "government", "congress",
+    # Services (not online tools)
+    "near me", "for seniors", "for low income", "in my area",
+    "jobs", "salary", "career", "hiring", "interview",
+    "login", "sign up", "pricing", "subscription",
+    # Comparison / reviews
+    "vs ", "versus", "alternative to", "review", "reviews", "best app",
+    # Physical products
+    "buy", "purchase", "order", "shipping", "delivery",
+    "figure", "figures", "toy", "toys", "potion",
 ]
 
 # Tool-like signal words (keyword containing these gets higher score)
