@@ -1,9 +1,9 @@
 {
   "date": "2026-03-19",
   "batch": 0,
-  "total_suggestions": 65,
-  "new_opportunities": 65,
-  "existing_matches": 0,
+  "total_suggestions": 172,
+  "new_opportunities": 165,
+  "existing_matches": 7,
   "opportunities": [
     {
       "keyword": "free palestine direct action toolkit",
@@ -589,7 +589,971 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "action-pf2e"
+    },
+    {
+      "keyword": "free compression tool online",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compression-online"
+    },
+    {
+      "keyword": "free compress tool pdf",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compress-pdf"
+    },
+    {
+      "keyword": "free compression tool mac",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compression-mac"
+    },
+    {
+      "keyword": "free video compressor tool",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-compressor"
+    },
+    {
+      "keyword": "adobe free compressor tool",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "adobe-compressor"
+    },
+    {
+      "keyword": "free file compressor tool",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "file-compressor"
+    },
+    {
+      "keyword": "free video compressor tool download",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-compressor-download"
+    },
+    {
+      "keyword": "air compressor online",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-online"
+    },
+    {
+      "keyword": "air compressor online shopping",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-shopping"
+    },
+    {
+      "keyword": "air compressor online price",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-price"
+    },
+    {
+      "keyword": "air compressor online training",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-training"
+    },
+    {
+      "keyword": "air compressor online stores",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-stores"
+    },
+    {
+      "keyword": "compress ai online",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compress-online"
+    },
+    {
+      "keyword": "ai file compressor online",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "file-compressor-online"
+    },
+    {
+      "keyword": "ai video compressor online free",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-compressor-free"
+    },
+    {
+      "keyword": "ai video compressor online",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-compressor-online"
+    },
+    {
+      "keyword": "compressor free convert",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor-convert"
+    },
+    {
+      "keyword": "compress free converter",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compress-converter"
+    },
+    {
+      "keyword": "video compressor converter free",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-compressor-converter-free"
+    },
+    {
+      "keyword": "compress pdf converter free",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compress-pdf-converter-free"
+    },
+    {
+      "keyword": "compress jpg converter free",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compress-jpg-converter-free"
+    },
+    {
+      "keyword": "video converter compressor free download",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-converter-compressor-download"
+    },
+    {
+      "keyword": "png compressor free converter",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "png-compressor-converter"
+    },
+    {
+      "keyword": "converting ac compressor to air compressor",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converting-ac-compressor-to-air-compressor"
+    },
+    {
+      "keyword": "best air compressor generator combo",
+      "root": "compressor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-generator-combo"
+    },
+    {
+      "keyword": "what size generator to run air compressor",
+      "root": "compressor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "what-size-generator-to-run-air-compressor"
+    },
+    {
+      "keyword": "will a 2000 watt generator run an air compressor",
+      "root": "compressor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "will-a-2000-watt-generator-run-an-air-compressor"
+    },
+    {
+      "keyword": "difference between generator and compressor",
+      "root": "compressor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "difference-between-generator-and-compressor"
+    },
+    {
+      "keyword": "free converter tools store",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converters-store"
+    },
+    {
+      "keyword": "free tool convert pdf to word",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-convert-pdf-to-word"
+    },
+    {
+      "keyword": "free tool convert mbr to gpt",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-convert-mbr-to-gpt"
+    },
+    {
+      "keyword": "free tool convert pdf to excel",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-convert-pdf-to-excel"
+    },
+    {
+      "keyword": "free tool convert pdf to jpg",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-convert-pdf-to-jpg"
+    },
+    {
+      "keyword": "free tool convert heic to jpg",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-convert-heic-to-jpg"
+    },
+    {
+      "keyword": "free tool convert pdf to ppt",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-convert-pdf-to-ppt"
+    },
+    {
+      "keyword": "free converter software",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-software"
+    },
+    {
+      "keyword": "ai convert online (lineartify)",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "convert-(lineartify)"
+    },
+    {
+      "keyword": "ai translation online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "translation-online"
+    },
+    {
+      "keyword": "ai converter free",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-free"
+    },
+    {
+      "keyword": "ai photo converter online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-converter-online"
+    },
+    {
+      "keyword": "ai video converter online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-converter-online"
+    },
+    {
+      "keyword": "ai voice converter online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-converter-online"
+    },
+    {
+      "keyword": "ai converter online free",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-free"
+    },
+    {
+      "keyword": "ai dxf converter online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "dxf-converter-online"
+    },
+    {
+      "keyword": "mp3 converter converter free",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "mp3-converter-converter-free"
+    },
+    {
+      "keyword": "convert free convert",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "convert-convert"
+    },
+    {
+      "keyword": "mp4 converter free converter",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "mp4-converter-converter"
+    },
+    {
+      "keyword": "pdf converter free converter",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "pdf-converter-converter"
+    },
+    {
+      "keyword": "video converter free converter",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-converter-converter"
+    },
+    {
+      "keyword": "online converter free converter",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-converter"
+    },
+    {
+      "keyword": "pdf to word converter converter free",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "pdf-to-word-converter-converter-free"
+    },
+    {
+      "keyword": "best generator converter",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "generator-converter"
+    },
+    {
+      "keyword": "best inverter generator",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "inverter-generator"
+    },
+    {
+      "keyword": "best inverter generator for home",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-for-home"
+    },
+    {
+      "keyword": "best inverter generator for home backup",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-for-home-backup"
+    },
+    {
+      "keyword": "best inverter generator for rv",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-for-rv"
+    },
+    {
+      "keyword": "best inverter generator for the money",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-for-the-money"
+    },
+    {
+      "keyword": "best inverter generator australia",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-australia"
+    },
+    {
+      "keyword": "best inverter generator canada",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-canada"
+    },
+    {
+      "keyword": "best inverter generator philippines",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-philippines"
+    },
+    {
+      "keyword": "best inverter generator for camping",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-for-camping"
+    },
+    {
+      "keyword": "ai converter",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter"
+    },
+    {
+      "keyword": "ai converter to human",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-to-human"
+    },
+    {
+      "keyword": "ai converter image",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-image"
+    },
+    {
+      "keyword": "ai converter to human text",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-to-human-text"
+    },
+    {
+      "keyword": "ai converter to human free",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-to-human-free"
+    },
+    {
+      "keyword": "ai converter text",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-text"
+    },
+    {
+      "keyword": "ai converter to pdf",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-to-pdf"
+    },
+    {
+      "keyword": "ai converter video",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-video"
+    },
+    {
+      "keyword": "ai converter canva",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-canva"
+    },
+    {
+      "keyword": "free converter",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter"
+    },
+    {
+      "keyword": "free converter pdf to word",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-pdf-to-word"
+    },
+    {
+      "keyword": "free converter pdf to jpg",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-pdf-to-jpg"
+    },
+    {
+      "keyword": "free converter to pdf",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-to-pdf"
+    },
+    {
+      "keyword": "free converter mp3",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-mp3"
+    },
+    {
+      "keyword": "free converter mp4 to mp3",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-mp4-to-mp3"
+    },
+    {
+      "keyword": "free converter video to mp3",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-video-to-mp3"
+    },
+    {
+      "keyword": "free converter heic to jpg",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-heic-to-jpg"
+    },
+    {
+      "keyword": "free converter to jpg",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-to-jpg"
+    },
+    {
+      "keyword": "free converter to mp4",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "converter-to-mp4"
+    },
+    {
+      "keyword": "air compressor",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor"
+    },
+    {
+      "keyword": "ai compressor plugin",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor-plugin"
+    },
+    {
+      "keyword": "air compressor for car",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-for-car"
+    },
+    {
+      "keyword": "air compressor harbor freight",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-harbor-freight"
+    },
+    {
+      "keyword": "air compressor hose",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-hose"
+    },
+    {
+      "keyword": "air compressor home depot",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-home-depot"
+    },
+    {
+      "keyword": "air compressor oil",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-oil"
+    },
+    {
+      "keyword": "air compressor motor",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-motor"
+    },
+    {
+      "keyword": "air compressor tire inflator",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-tire-inflator"
+    },
+    {
+      "keyword": "air compressor pressure switch",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "air-compressor-pressure-switch"
+    },
+    {
+      "keyword": "free compressor",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor"
+    },
+    {
+      "keyword": "free compressor plugin",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor-plugin"
+    },
+    {
+      "keyword": "free compressor vst",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor-vst"
+    },
+    {
+      "keyword": "free compressor pdf",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor-pdf"
+    },
+    {
+      "keyword": "free compressor video",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor-video"
+    },
+    {
+      "keyword": "free compressor vst plugin",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor-vst-plugin"
+    },
+    {
+      "keyword": "free compressor plugin for vocals",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor-plugin-for-vocals"
+    },
+    {
+      "keyword": "free compressor online",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor-online"
+    },
+    {
+      "keyword": "free compress gif",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compress-gif"
+    },
+    {
+      "keyword": "free compressor plugin fl studio",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "compressor-plugin-fl-studio"
     }
   ],
-  "existing": []
+  "existing": [
+    {
+      "keyword": "free image compressor tool",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "image-compressor"
+    },
+    {
+      "keyword": "free pdf compressor tool download",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "pdf-compressor-download"
+    },
+    {
+      "keyword": "ai pdf compressor online free",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "pdf-compressor-free"
+    },
+    {
+      "keyword": "pdf compress converter free online",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "pdf-compress-converter-online"
+    },
+    {
+      "keyword": "compress image converter free",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "compress-image-converter-free"
+    },
+    {
+      "keyword": "free tool convert image to text",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "tool-convert-image-to-text"
+    },
+    {
+      "keyword": "ai image converter online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "image-converter-online"
+    }
+  ]
 }

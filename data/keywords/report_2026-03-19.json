@@ -2,10 +2,235 @@
   "date": "2026-03-19",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 65
+    "suggest_total": 172
   },
-  "total_opportunities": 65,
+  "total_opportunities": 165,
   "top_50": [
+    {
+      "keyword": "free compressor pdf",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "compressor-pdf",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 620,
+      "difficulty": "需WASM",
+      "search_volume": 14800,
+      "cpc": 1.69,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "air compressor",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "air-compressor",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "需WASM",
+      "search_volume": 165000,
+      "cpc": 1.06,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "air compressor hose",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "air-compressor-hose",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "需WASM",
+      "search_volume": 12100,
+      "cpc": 0.84,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "free converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 320,
+      "difficulty": "",
+      "search_volume": 8100,
+      "cpc": 0.26,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "free compressor video",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "compressor-video",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 320,
+      "difficulty": "需WASM",
+      "search_volume": 5400,
+      "cpc": 1.05,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "free converter to pdf",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-to-pdf",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 300,
+      "difficulty": "需WASM",
+      "search_volume": 1000,
+      "cpc": 1.99,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "free converter to mp4",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-to-mp4",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 300,
+      "difficulty": "",
+      "search_volume": 4400,
+      "cpc": 1.44,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "best inverter generator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "inverter-generator",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 290,
+      "difficulty": "",
+      "search_volume": 2900,
+      "cpc": 0.95,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "ai converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 290,
+      "difficulty": "需API",
+      "search_volume": 1600,
+      "cpc": 2.51,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "air compressor oil",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "air-compressor-oil",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 290,
+      "difficulty": "需WASM",
+      "search_volume": 8100,
+      "cpc": 0.66,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "air compressor motor",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "air-compressor-motor",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 290,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 1.06,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "free converter pdf to word",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-pdf-to-word",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 280,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 2.23,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "free converter pdf to jpg",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-pdf-to-jpg",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 280,
+      "difficulty": "需WASM",
+      "search_volume": 1600,
+      "cpc": 1.15,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "free converter video to mp3",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-video-to-mp3",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 280,
+      "difficulty": "需WASM",
+      "search_volume": 1000,
+      "cpc": 1.43,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "free converter heic to jpg",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-heic-to-jpg",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 280,
+      "difficulty": "需WASM",
+      "search_volume": 1600,
+      "cpc": 0.48,
+      "competition": "LOW"
+    },
     {
       "keyword": "free financial advisor",
       "sources": [
@@ -67,64 +292,289 @@
       "competition": "LOW"
     },
     {
-      "keyword": "ai action figure",
+      "keyword": "free video compressor tool",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "action-figure",
-      "root": "action",
+      "suggested_slug": "video-compressor",
+      "root": "compressor",
       "already_have": false,
-      "combined_score": 240,
-      "difficulty": "需API",
-      "search_volume": 9900,
-      "cpc": 1.07,
+      "combined_score": 200,
+      "difficulty": "需WASM",
+      "search_volume": 170,
+      "cpc": 2.3,
       "competition": "LOW"
     },
     {
-      "keyword": "ai action plan",
+      "keyword": "free compressor online",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "action-plan",
-      "root": "action",
+      "suggested_slug": "compressor-online",
+      "root": "compressor",
       "already_have": false,
-      "combined_score": 240,
-      "difficulty": "需API",
-      "search_volume": 2900,
-      "cpc": 11.76,
-      "competition": "LOW"
+      "combined_score": 200,
+      "difficulty": "需WASM",
+      "search_volume": 110,
+      "cpc": 1.8,
+      "competition": "MEDIUM"
     },
     {
-      "keyword": "free action movies on youtube",
+      "keyword": "free converter software",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "action-movies-on-youtube",
-      "root": "action",
+      "suggested_slug": "converter-software",
+      "root": "converter",
       "already_have": false,
-      "combined_score": 230,
+      "combined_score": 170,
       "difficulty": "",
-      "search_volume": 3600,
-      "cpc": 1.26,
+      "search_volume": 590,
+      "cpc": 2.13,
       "competition": "LOW"
     },
     {
-      "keyword": "ai action figure trend",
+      "keyword": "free converter mp3",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "action-figure-trend",
-      "root": "action",
+      "suggested_slug": "converter-mp3",
+      "root": "converter",
       "already_have": false,
-      "combined_score": 220,
-      "difficulty": "需API",
-      "search_volume": 6600,
-      "cpc": 1.64,
+      "combined_score": 170,
+      "difficulty": "",
+      "search_volume": 260,
+      "cpc": 1.52,
       "competition": "LOW"
+    },
+    {
+      "keyword": "free compressor",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "compressor",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 170,
+      "difficulty": "需WASM",
+      "search_volume": 590,
+      "cpc": 1.57,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "free compressor plugin",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "compressor-plugin",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 170,
+      "difficulty": "需WASM",
+      "search_volume": 260,
+      "cpc": 2.27,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "adobe free compressor tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "adobe-compressor",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 150,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free file compressor tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "file-compressor",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 150,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "video compressor converter free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "video-compressor-converter-free",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 150,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "png compressor free converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "png-compressor-converter",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 150,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free converter tools store",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converters-store",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 150,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free converter to jpg",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-to-jpg",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 150,
+      "difficulty": "需WASM",
+      "search_volume": 390,
+      "cpc": 1.3,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "best generator converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "generator-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 140,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "ai converter image",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-image",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 140,
+      "difficulty": "需WASM",
+      "search_volume": 110,
+      "cpc": 1.51,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "free compression tool online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "compression-online",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free video compressor tool download",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "video-compressor-download",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "video converter compressor free download",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "video-converter-compressor-download",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 10,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "ai converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-free",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需API",
+      "search_volume": 10,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "online converter free converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
     },
     {
       "keyword": "how can i get free tools",
@@ -157,63 +607,108 @@
       "competition": "LOW"
     },
     {
-      "keyword": "free action potion",
+      "keyword": "free tool convert pdf to word",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "action-potion",
-      "root": "action",
+      "suggested_slug": "tool-convert-pdf-to-word",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 170,
+      "cpc": 3.55,
+      "competition": "MEDIUM"
+    },
+    {
+      "keyword": "free converter mp4 to mp3",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "converter-mp4-to-mp3",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 110,
+      "cpc": 1.15,
+      "competition": "LOW"
+    },
+    {
+      "keyword": "air compressor online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "air-compressor-online",
+      "root": "compressor",
       "already_have": false,
       "combined_score": 120,
-      "difficulty": "",
-      "search_volume": 390,
+      "difficulty": "需WASM",
+      "search_volume": 40,
+      "cpc": 9.29,
+      "competition": "HIGH"
+    },
+    {
+      "keyword": "compressor free convert",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "compressor-convert",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "需WASM",
+      "search_volume": 0,
       "cpc": 0,
-      "competition": "LOW"
+      "competition": 0
     },
     {
-      "keyword": "free action 5e",
+      "keyword": "compress free converter",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "action-5e",
-      "root": "action",
+      "suggested_slug": "compress-converter",
+      "root": "compressor",
       "already_have": false,
       "combined_score": 120,
-      "difficulty": "",
-      "search_volume": 140,
+      "difficulty": "需WASM",
+      "search_volume": 0,
       "cpc": 0,
-      "competition": "LOW"
+      "competition": 0
     },
     {
-      "keyword": "free action",
+      "keyword": "ai converter free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "action",
-      "root": "action",
+      "suggested_slug": "converter-free",
+      "root": "converter",
       "already_have": false,
       "combined_score": 120,
-      "difficulty": "",
-      "search_volume": 260,
-      "cpc": 1.45,
+      "difficulty": "需API",
+      "search_volume": 90,
+      "cpc": 2.43,
       "competition": "LOW"
     },
     {
-      "keyword": "free action figures",
+      "keyword": "free compressor vst",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "action-figures",
-      "root": "action",
+      "suggested_slug": "compressor-vst",
+      "root": "compressor",
       "already_have": false,
       "combined_score": 120,
-      "difficulty": "",
-      "search_volume": 260,
-      "cpc": 0.7,
+      "difficulty": "需WASM",
+      "search_volume": 90,
+      "cpc": 3.7,
       "competition": "LOW"
     },
     {
@@ -232,6 +727,21 @@
       "competition": "LOW"
     },
     {
+      "keyword": "ai video compressor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "video-compressor-free",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "free financial advisor tools",
       "sources": [
         "suggest"
@@ -245,516 +755,6 @@
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
-    },
-    {
-      "keyword": "ai advisor",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "advisor",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 90,
-      "difficulty": "需API",
-      "search_volume": 260,
-      "cpc": 15.84,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "ai advisor jobs",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "advisor-jobs",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 90,
-      "difficulty": "需API",
-      "search_volume": 170,
-      "cpc": 1.88,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "ai action",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 90,
-      "difficulty": "需API",
-      "search_volume": 210,
-      "cpc": 7.17,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "ai action summit",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-summit",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 90,
-      "difficulty": "需API",
-      "search_volume": 210,
-      "cpc": 5.16,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free palestine direct action toolkit",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "palestine-direct-actionkit",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai action figure generator online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-generator-online",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "需API",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "action to pdf converter free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-to-pdf-converter-free",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best action figure generator free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-generator-free",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best ai action figure generator free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-generator-free",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "需API",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free financial advisor ai tool",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "financial-advisor",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free financial advisor near me",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "financial-advisor-near-me",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "需API",
-      "search_volume": 480,
-      "cpc": 18.66,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free financial advisor for low income",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "financial-advisor-for-low-income",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "需API",
-      "search_volume": 260,
-      "cpc": 9.65,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free financial advisor for seniors near me",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "financial-advisor-for-seniors-near-me",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "需API",
-      "search_volume": 170,
-      "cpc": 7.83,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free action potion wow classic",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-potion-wow-classic",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "",
-      "search_volume": 140,
-      "cpc": 0,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free action movies on prime",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-movies-on-prime",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 80,
-      "difficulty": "",
-      "search_volume": 170,
-      "cpc": 0.09,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "best action figure generator",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-generator",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 70,
-      "difficulty": "",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "requirements for generator action",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "requirements-for-generator-action",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 70,
-      "difficulty": "",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "ai advice online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "advice-online",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 70,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai consultant online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "consultant-online",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 70,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "online counsellor ai",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "counsellor-ai",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 70,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free advisory services",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "advisory-services",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 70,
-      "difficulty": "需API",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free advisors",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "advisors",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 70,
-      "difficulty": "需API",
-      "search_volume": 10,
-      "cpc": 43.97,
-      "competition": "MEDIUM"
-    },
-    {
-      "keyword": "free mortgage advisor",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "mortgage-advisor",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 70,
-      "difficulty": "需API",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free action dnd",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-dnd",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 70,
-      "difficulty": "",
-      "search_volume": 70,
-      "cpc": 0,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "free action pf2e",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-pf2e",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 70,
-      "difficulty": "",
-      "search_volume": 50,
-      "cpc": 0,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "ai action figure online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-free",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 60,
-      "difficulty": "需API",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "create ai action figure online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "create-action-figure-free",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 60,
-      "difficulty": "需API",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai action figure online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-online",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 50,
-      "difficulty": "需API",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai action summit online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-summit-online",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 50,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best action figure generator app",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-generator-app",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 50,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best action figure ai generator",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-figure-generator",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 50,
-      "difficulty": "需API",
-      "search_volume": 10,
-      "cpc": 0,
-      "competition": "LOW"
-    },
-    {
-      "keyword": "ai consultant online course",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "consultant-course",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 50,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free financial advisor chicago",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "financial-advisor-chicago",
-      "root": "advisor",
-      "already_have": false,
-      "combined_score": 50,
-      "difficulty": "需API",
-      "search_volume": 20,
-      "cpc": 28.35,
-      "competition": "HIGH"
-    },
-    {
-      "keyword": "ai action plan white house",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "action-plan-white-house",
-      "root": "action",
-      "already_have": false,
-      "combined_score": 50,
-      "difficulty": "需API",
-      "search_volume": 210,
-      "cpc": 0,
-      "competition": "LOW"
     }
   ]
 }
