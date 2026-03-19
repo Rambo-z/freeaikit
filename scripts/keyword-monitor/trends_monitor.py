@@ -13,20 +13,47 @@ import os
 import sys
 from datetime import datetime, timezone
 
-from config import DATA_DIR, EXISTING_KEYWORDS, KEYWORD_ROOTS, TREND_PREFIXES, get_batch_roots
+from config import (
+    DATA_DIR, EXISTING_KEYWORDS, KEYWORD_ROOTS, NOISE_WORDS,
+    TOOL_CONTENT_WORDS, TOOL_SIGNAL_WORDS, TREND_PREFIXES, get_batch_roots,
+)
 from dataforseo_client import check_credentials, get_rising_queries
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
+# Precompute lowercase sets for fast matching
+_NOISE_WORDS_LOWER = [w.lower() for w in NOISE_WORDS]
+_ALL_TOOL_WORDS = [w.lower() for w in TOOL_SIGNAL_WORDS + TOOL_CONTENT_WORDS]
+
+
+def _is_noise(query):
+    """Check if a query matches any noise/brand blacklist word."""
+    q = query.lower()
+    return any(nw in q for nw in _NOISE_WORDS_LOWER)
+
+
+def _has_tool_relevance(query):
+    """Check if a query contains at least one tool-relevant word."""
+    q = query.lower()
+    return any(tw in q for tw in _ALL_TOOL_WORDS)
+
 
 def fetch_all_rising(roots, prefixes):
-    """Fetch rising keywords from DataForSEO for all root+prefix combos."""
+    """Fetch rising keywords from DataForSEO for all root+prefix combos.
+
+    Three-layer filtering:
+    1. NOISE_WORDS blacklist — brands, news, physical products
+    2. Tool relevance check — must contain a TOOL_SIGNAL or TOOL_CONTENT word
+    3. EXISTING_KEYWORDS dedup — already built on freeaikit
+    """
     if not check_credentials():
         print("ERROR: DATAFORSEO_LOGIN and DATAFORSEO_PASSWORD must be set")
         return [], ["Missing DataForSEO credentials"]
 
     results = []
     errors = []
+    noise_skipped = 0
+    relevance_skipped = 0
     total = len(roots) * len(prefixes)
     count = 0
 
@@ -38,6 +65,7 @@ def fetch_all_rising(roots, prefixes):
 
             try:
                 rising = get_rising_queries(kw)
+                accepted = 0
                 for entry in rising:
                     query = entry["query"].lower().strip()
                     value = entry["value"]
@@ -45,6 +73,17 @@ def fetch_all_rising(roots, prefixes):
                         value = 99999
                     else:
                         value = int(value) if value else 0
+
+                    # Layer 1: Noise blacklist
+                    if _is_noise(query):
+                        noise_skipped += 1
+                        continue
+
+                    # Layer 2: Tool relevance — must contain a tool word
+                    if not _has_tool_relevance(query):
+                        relevance_skipped += 1
+                        print(f"    Skipped (no tool signal): {query}")
+                        continue
 
                     already_have = any(
                         ek in query or query in ek
@@ -70,9 +109,10 @@ def fetch_all_rising(roots, prefixes):
                         "already_have": already_have,
                         "suggested_slug": suggested_slug,
                     })
+                    accepted += 1
 
                 if rising:
-                    print(f"  Found {len(rising)} rising queries")
+                    print(f"  Found {len(rising)} rising, accepted {accepted}")
                 else:
                     print(f"  No rising queries")
 
@@ -80,6 +120,11 @@ def fetch_all_rising(roots, prefixes):
                 error_msg = f"Error for '{kw}': {str(e)}"
                 print(f"  FAILED: {error_msg}")
                 errors.append(error_msg)
+
+    print(f"\n=== FILTERING STATS ===")
+    print(f"Noise blacklist skipped: {noise_skipped}")
+    print(f"No tool relevance skipped: {relevance_skipped}")
+    print(f"Accepted: {len(results)}")
 
     return results, errors
 

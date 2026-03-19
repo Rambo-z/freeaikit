@@ -96,7 +96,8 @@ NOISE_WORDS = [
     "download apk", "mod apk", "crack", "torrent", "pirated",
     # Politics / news / events
     "palestine", "ukraine", "politics", "news", "summit", "white house",
-    "election", "government", "congress",
+    "election", "government", "congress", "olympics", "skating",
+    "new york times",
     # Services (not online tools)
     "near me", "for seniors", "for low income", "in my area",
     "jobs", "salary", "career", "hiring", "interview",
@@ -106,6 +107,14 @@ NOISE_WORDS = [
     # Physical products
     "buy", "purchase", "order", "shipping", "delivery",
     "figure", "figures", "toy", "toys", "potion",
+    "catalytic", "air compressor",
+    # AI brands & competitor tools (not actionable for us)
+    "chatgpt", "grok", "perplexity", "claude ai", "openai", "sora",
+    "google ai studio", "copilot", "gemini",
+    "tinkercad", "ilovepdf", "pdf24", "smallpdf", "pdfgear",
+    "tinypng", "wetransfer", "izotope", "meshy", "hedra", "vomo",
+    "walter writes", "canva", "figma", "midjourney", "runway",
+    "pika", "kling", "luma", "ideogram", "leonardo ai",
 ]
 
 # Tool-like signal words (keyword containing these gets higher score)
@@ -115,6 +124,31 @@ TOOL_SIGNAL_WORDS = [
     "optimizer", "analyzer", "detector", "extractor", "calculator",
     "encoder", "decoder", "translator", "enhancer", "resizer",
     "downloader", "tester", "validator", "scanner", "viewer",
+]
+
+# Broader content words that indicate the keyword is tool-relevant
+# Used for Trends second-pass filtering: if a rising keyword contains
+# NONE of these AND none of TOOL_SIGNAL_WORDS, it's likely noise
+TOOL_CONTENT_WORDS = [
+    # Actions
+    "convert", "compress", "edit", "generate", "make", "create",
+    "check", "merge", "split", "extract", "resize", "crop",
+    "format", "encode", "decode", "translate", "download",
+    "remove", "detect", "scan", "optimize", "minify", "beautify",
+    "compare", "diff", "validate", "parse", "render",
+    # File types / digital content
+    "pdf", "image", "photo", "picture", "video", "audio", "text",
+    "json", "csv", "html", "xml", "yaml", "svg", "gif", "png",
+    "jpg", "jpeg", "webp", "heic", "mp4", "mp3", "wav", "file",
+    # Tool-related modifiers
+    "to", "from", "into", "online", "free", "ai ",
+    # Design / media
+    "font", "color", "icon", "logo", "chart", "diagram", "qr",
+    "barcode", "watermark", "gradient", "palette", "emoji",
+    "avatar", "meme", "template",
+    # Specific tool types
+    "calculator", "counter", "planner", "scheduler", "simulator",
+    "recorder", "upscaler", "colorizer", "restorer",
 ]
 
 # Auto-difficulty estimation rules
