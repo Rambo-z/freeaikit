@@ -278,9 +278,10 @@ def main():
             token = get_tenant_access_token()
             if token:
                 existing = search_existing_keywords(token)  # {kw: record_id}
+                noise_check = [w.lower() for w in NOISE_WORDS]
                 deleted = 0
                 for kw, rid in list(existing.items()):
-                    if any(nw in kw for nw in noise_lower):
+                    if any(nw in kw for nw in noise_check):
                         if delete_record(token, rid):
                             deleted += 1
                             print(f"  Deleted noise: {kw}")
