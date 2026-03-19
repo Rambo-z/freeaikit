@@ -23,6 +23,14 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 15
 
+    env:
+      DATAFORSEO_LOGIN: ${{ secrets.DATAFORSEO_LOGIN }}
+      DATAFORSEO_PASSWORD: ${{ secrets.DATAFORSEO_PASSWORD }}
+      FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+      FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+      FEISHU_BITABLE_APP: JEAMbCEtQaXV6KsGLI9cOgfynpe
+      FEISHU_BITABLE_TABLE: tbl9yk0J67xFBJ2N
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -55,17 +63,16 @@ jobs:
             echo "flag=" >> $GITHUB_OUTPUT
           fi
 
+      - name: Run Google Trends monitor (batch)
+        working-directory: scripts/keyword-monitor
+        run: python trends_monitor.py --batch ${{ steps.batch.outputs.index }} ${{ steps.limit.outputs.flag }}
+
       - name: Run Google Suggest monitor (batch)
         working-directory: scripts/keyword-monitor
         run: python suggest_monitor.py --batch ${{ steps.batch.outputs.index }} ${{ steps.limit.outputs.flag }}
 
-      - name: Generate merged report & sync to Bitable
+      - name: Generate report, enrich volume & sync to Bitable
         working-directory: scripts/keyword-monitor
-        env:
-          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
-          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
-          FEISHU_BITABLE_APP: JEAMbCEtQaXV6KsGLI9cOgfynpe
-          FEISHU_BITABLE_TABLE: tbl9yk0J67xFBJ2N
         run: python report_generator.py
 
       - name: Commit reports to repository

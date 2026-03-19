@@ -1,1 +1,2 @@
-pytrends>=4.9.0
+# No external dependencies — uses only stdlib (urllib, json, base64)
+# DataForSEO API + Google Suggest API are called via urllib

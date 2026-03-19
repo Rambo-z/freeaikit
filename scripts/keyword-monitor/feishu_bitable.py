@@ -144,6 +144,12 @@ def create_record(token, opportunity):
     if difficulty:
         fields["\u96be\u5ea6"] = difficulty
 
+    # Add search volume + CPC as 备注
+    vol = opportunity.get("search_volume", 0)
+    cpc = opportunity.get("cpc", 0)
+    if vol or cpc:
+        fields["\u5907\u6ce8"] = f"月搜索量: {vol:,}, CPC: ${cpc:.2f}"
+
     payload = json.dumps({"fields": fields}).encode("utf-8")
     req = urllib.request.Request(url, data=payload, headers=headers)
 

@@ -192,6 +192,35 @@ def main():
     # Merge and rank
     opportunities = merge_opportunities(trends_data, suggest_data)
 
+    # Enrich with search volume from DataForSEO (if credentials set)
+    if os.environ.get("DATAFORSEO_LOGIN") and os.environ.get("DATAFORSEO_PASSWORD"):
+        try:
+            from dataforseo_client import get_search_volume
+            # Batch lookup top 100 keywords
+            top_keywords = [o["keyword"] for o in opportunities[:100]]
+            if top_keywords:
+                print(f"Fetching search volume for {len(top_keywords)} keywords...")
+                volumes = get_search_volume(top_keywords)
+                for opp in opportunities:
+                    vol_data = volumes.get(opp["keyword"].lower(), {})
+                    opp["search_volume"] = vol_data.get("volume", 0)
+                    opp["cpc"] = vol_data.get("cpc", 0)
+                    opp["competition"] = vol_data.get("competition", 0)
+                    # Boost score with search volume
+                    if opp["search_volume"] >= 10000:
+                        opp["combined_score"] += 500
+                    elif opp["search_volume"] >= 1000:
+                        opp["combined_score"] += 200
+                    elif opp["search_volume"] >= 100:
+                        opp["combined_score"] += 50
+                # Re-sort after volume boost
+                opportunities.sort(key=lambda x: x["combined_score"], reverse=True)
+                print(f"Search volume enriched. Top keyword: {opportunities[0]['keyword']} (vol: {opportunities[0].get('search_volume', 0)})")
+        except Exception as e:
+            print(f"WARNING: Search volume lookup failed: {e}")
+    else:
+        print("Skipping search volume (DATAFORSEO credentials not set)")
+
     # Save JSON report
     report_json_path = os.path.join(DATA_DIR, f"report_{date_str}.json")
     report = {

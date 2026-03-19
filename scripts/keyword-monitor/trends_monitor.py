@@ -1,114 +1,85 @@
 """
 FreeAIKit Growth Engine — Google Trends Rising Keywords Monitor
 
-Scans 122 keyword roots with prefixes via pytrends,
-collects Rising (飙升) queries, outputs JSON report.
+Uses DataForSEO API for reliable Google Trends rising query data.
+No rate limiting, no IP blocking, ~1 second per query.
 
 Usage:
-    python trends_monitor.py [--dry-run]
+    python trends_monitor.py [--batch N] [--limit N] [--dry-run]
 """
 
 import json
 import os
-import random
 import sys
-import time
 from datetime import datetime, timezone
 
 from config import DATA_DIR, EXISTING_KEYWORDS, KEYWORD_ROOTS, TREND_PREFIXES, get_batch_roots
+from dataforseo_client import check_credentials, get_rising_queries
 
-# Ensure data dir exists
 os.makedirs(DATA_DIR, exist_ok=True)
 
 
-def get_rising_keywords(roots=None):
-    """Fetch rising keywords from Google Trends for all root+prefix combos."""
-    if roots is None:
-        roots = KEYWORD_ROOTS
+def fetch_all_rising(roots, prefixes):
+    """Fetch rising keywords from DataForSEO for all root+prefix combos."""
+    if not check_credentials():
+        print("ERROR: DATAFORSEO_LOGIN and DATAFORSEO_PASSWORD must be set")
+        return [], ["Missing DataForSEO credentials"]
 
-    try:
-        from pytrends.request import TrendReq
-    except ImportError:
-        print("ERROR: pytrends not installed. Run: pip install pytrends")
-        sys.exit(1)
-
-    pytrends = TrendReq(hl="en-US", tz=360, timeout=(10, 30))
     results = []
     errors = []
-    total = len(roots) * len(TREND_PREFIXES)
+    total = len(roots) * len(prefixes)
     count = 0
 
     for root in roots:
-        for prefix in TREND_PREFIXES:
+        for prefix in prefixes:
             kw = f"{prefix} {root}"
             count += 1
             print(f"[{count}/{total}] Querying: {kw}")
 
-            retries = 0
-            max_retries = 3
-            while retries <= max_retries:
-                try:
-                    pytrends.build_payload([kw], timeframe="now 7-d")
-                    related = pytrends.related_queries()
-                    break
-                except Exception as retry_err:
-                    retries += 1
-                    if retries > max_retries:
-                        error_msg = f"Error for '{kw}' after {max_retries} retries: {str(retry_err)}"
-                        print(f"  FAILED: {error_msg}")
-                        errors.append(error_msg)
-                        related = {}
-                        break
-                    wait = 30 * retries  # 30s, 60s, 90s
-                    print(f"  Rate limited, retry {retries}/{max_retries} in {wait}s...")
-                    time.sleep(wait)
-
             try:
-                if kw in related and related[kw]["rising"] is not None:
-                    rising_df = related[kw]["rising"]
-                    for _, row in rising_df.iterrows():
-                        query = row["query"].lower().strip()
-                        value = int(row["value"]) if row["value"] != "Breakout" else 99999
+                rising = get_rising_queries(kw)
+                for entry in rising:
+                    query = entry["query"].lower().strip()
+                    value = entry["value"]
+                    if isinstance(value, str) and value.lower() == "breakout":
+                        value = 99999
+                    else:
+                        value = int(value) if value else 0
 
-                        # Check if this keyword relates to an existing tool
-                        already_have = any(
-                            ek in query or query in ek
-                            for ek in EXISTING_KEYWORDS
-                        )
+                    already_have = any(
+                        ek in query or query in ek
+                        for ek in EXISTING_KEYWORDS
+                    )
 
-                        # Generate suggested slug
-                        suggested_slug = (
-                            query.replace("ai ", "")
-                            .replace("free ", "")
-                            .replace("online ", "")
-                            .replace(" tool", "")
-                            .strip()
-                            .replace(" ", "-")
-                        )
+                    suggested_slug = (
+                        query.replace("ai ", "")
+                        .replace("free ", "")
+                        .replace("online ", "")
+                        .replace(" tool", "")
+                        .strip()
+                        .replace(" ", "-")
+                    )
 
-                        results.append({
-                            "keyword": query,
-                            "root": root,
-                            "prefix": prefix,
-                            "trend_score": value,
-                            "source": "google_trends_rising",
-                            "discovered": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
-                            "already_have": already_have,
-                            "suggested_slug": suggested_slug,
-                        })
+                    results.append({
+                        "keyword": query,
+                        "root": root,
+                        "prefix": prefix,
+                        "trend_score": value,
+                        "source": "google_trends_rising",
+                        "discovered": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                        "already_have": already_have,
+                        "suggested_slug": suggested_slug,
+                    })
+
+                if rising:
+                    print(f"  Found {len(rising)} rising queries")
+                else:
+                    print(f"  No rising queries")
 
             except Exception as e:
-                error_msg = f"Error processing results for '{kw}': {str(e)}"
-                print(f"  WARNING: {error_msg}")
+                error_msg = f"Error for '{kw}': {str(e)}"
+                print(f"  FAILED: {error_msg}")
                 errors.append(error_msg)
-
-            # Rate limiting: shorter sleep for small batches, longer for full runs
-            if len(roots) <= 15:
-                sleep_time = random.uniform(5, 10)
-            else:
-                sleep_time = random.uniform(20, 35)
-            print(f"  Sleeping {sleep_time:.1f}s...")
-            time.sleep(sleep_time)
 
     return results, errors
 
@@ -126,13 +97,11 @@ def deduplicate(results):
 def main():
     dry_run = "--dry-run" in sys.argv
 
-    # Batch mode: --batch N (0-11)
     batch_index = None
     for i, arg in enumerate(sys.argv):
         if arg == "--batch" and i + 1 < len(sys.argv):
             batch_index = int(sys.argv[i + 1])
 
-    # Optional limit: --limit N
     limit = None
     for i, arg in enumerate(sys.argv):
         if arg == "--limit" and i + 1 < len(sys.argv):
@@ -149,28 +118,25 @@ def main():
     print(f"=== {'BATCH ' + str(batch_index) if batch_index is not None else 'FULL'} MODE: {len(roots)} roots ===")
 
     if dry_run:
-        print("=== DRY RUN MODE ===")
         print(f"Would query {len(roots)} roots × {len(TREND_PREFIXES)} prefixes = {len(roots) * len(TREND_PREFIXES)} combos")
-        print(f"Output to: {DATA_DIR}")
         return
 
     print(f"Starting Google Trends monitor at {datetime.now(timezone.utc).isoformat()}")
     print(f"Roots: {len(roots)}, Prefixes: {len(TREND_PREFIXES)}")
-    print(f"Total queries: {len(roots) * len(TREND_PREFIXES)}")
+    total_queries = len(roots) * len(TREND_PREFIXES)
+    print(f"Total queries: {total_queries} (est. cost: ${total_queries * 0.001:.3f})")
     print()
 
-    results, errors = get_rising_keywords(roots)
+    results, errors = fetch_all_rising(roots, TREND_PREFIXES)
     deduped = deduplicate(results)
 
-    # Separate new opportunities from existing
     new_opportunities = [r for r in deduped if not r["already_have"]]
     existing_matches = [r for r in deduped if r["already_have"]]
 
-    # Save results — in batch mode, merge with existing day's data
     date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     output_path = os.path.join(DATA_DIR, f"trends_{date_str}.json")
 
-    # Load existing data if batch mode (accumulate throughout the day)
+    # In batch mode, merge with existing day's data
     prev_opps = []
     prev_existing = []
     prev_errors = []
@@ -181,17 +147,17 @@ def main():
             prev_existing = prev.get("existing", [])
             prev_errors = prev.get("error_log", [])
 
-    merged_opps = prev_opps + new_opportunities
-    merged_existing = prev_existing + existing_matches
-    merged_errors = prev_errors + errors
+    merged_opps = {o["keyword"]: o for o in prev_opps}
+    for o in new_opportunities:
+        if o["keyword"] not in merged_opps or o["trend_score"] > merged_opps[o["keyword"]].get("trend_score", 0):
+            merged_opps[o["keyword"]] = o
+    merged_opps = sorted(merged_opps.values(), key=lambda x: x.get("trend_score", 0), reverse=True)
 
-    # Deduplicate merged results by keyword
-    seen = {}
-    for opp in merged_opps:
-        kw = opp["keyword"]
-        if kw not in seen or opp.get("trend_score", 0) > seen[kw].get("trend_score", 0):
-            seen[kw] = opp
-    merged_opps = sorted(seen.values(), key=lambda x: x.get("trend_score", 0), reverse=True)
+    merged_existing = {o["keyword"]: o for o in prev_existing}
+    for o in existing_matches:
+        merged_existing[o["keyword"]] = o
+
+    merged_errors = prev_errors + errors
 
     report = {
         "date": date_str,
@@ -201,7 +167,7 @@ def main():
         "existing_matches": len(merged_existing),
         "errors": len(merged_errors),
         "opportunities": merged_opps[:100],
-        "existing": merged_existing[:20],
+        "existing": list(merged_existing.values())[:20],
         "error_log": merged_errors[:20],
     }
 
@@ -215,7 +181,6 @@ def main():
     print(f"Errors: {len(errors)}")
     print(f"Saved to: {output_path}")
 
-    # Print top 20 new opportunities
     print(f"\n=== TOP 20 NEW OPPORTUNITIES ===")
     for i, opp in enumerate(new_opportunities[:20], 1):
         score = "BREAKOUT" if opp["trend_score"] == 99999 else str(opp["trend_score"])
