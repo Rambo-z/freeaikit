@@ -1,9 +1,9 @@
 {
   "date": "2026-03-19",
-  "batch": 10,
-  "total_suggestions": 1222,
-  "new_opportunities": 1184,
-  "existing_matches": 38,
+  "batch": 11,
+  "total_suggestions": 1245,
+  "new_opportunities": 1221,
+  "existing_matches": 24,
   "opportunities": [
     {
       "keyword": "free palestine direct action toolkit",
@@ -10660,6 +10660,339 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "schedule-1"
+    },
+    {
+      "keyword": "free removal tool",
+      "root": "remover",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "removal"
+    },
+    {
+      "keyword": "free removal tool for photos",
+      "root": "remover",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "removal-for-photos"
+    },
+    {
+      "keyword": "free remove tool app",
+      "root": "remover",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remove-app"
+    },
+    {
+      "keyword": "free remove tool online",
+      "root": "remover",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remove-online"
+    },
+    {
+      "keyword": "free remove tool photoshop",
+      "root": "remover",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remove-photoshop"
+    },
+    {
+      "keyword": "free image remover tool",
+      "root": "remover",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-remover"
+    },
+    {
+      "keyword": "free ai remover tool",
+      "root": "remover",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover"
+    },
+    {
+      "keyword": "free plagiarism remover tool",
+      "root": "remover",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "plagiarism-remover"
+    },
+    {
+      "keyword": "free watermark remover tool",
+      "root": "remover",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "watermark-remover"
+    },
+    {
+      "keyword": "ai remover online free",
+      "root": "remover",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-free"
+    },
+    {
+      "keyword": "ai remover online photo",
+      "root": "remover",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-photo"
+    },
+    {
+      "keyword": "ai remover online text",
+      "root": "remover",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-text"
+    },
+    {
+      "keyword": "ai beard remover online free",
+      "root": "remover",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "beard-remover-free"
+    },
+    {
+      "keyword": "ai beard remover online",
+      "root": "remover",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "beard-remover-online"
+    },
+    {
+      "keyword": "ai object remover online",
+      "root": "remover",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "object-remover-online"
+    },
+    {
+      "keyword": "ai vocal remover online free",
+      "root": "remover",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "vocal-remover-free"
+    },
+    {
+      "keyword": "ai vocal remover online",
+      "root": "remover",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "vocal-remover-online"
+    },
+    {
+      "keyword": "best clothes remover generator",
+      "root": "remover",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "clothes-remover-generator"
+    },
+    {
+      "keyword": "natural goo remover",
+      "root": "remover",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "natural-goo-remover"
+    },
+    {
+      "keyword": "ai remover",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover"
+    },
+    {
+      "keyword": "ai remover from text",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-from-text"
+    },
+    {
+      "keyword": "ai remover video",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-video"
+    },
+    {
+      "keyword": "ai remover tool",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover"
+    },
+    {
+      "keyword": "ai remover from photo",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-from-photo"
+    },
+    {
+      "keyword": "ai remover free",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-free"
+    },
+    {
+      "keyword": "ai remover from text free",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-from-text-free"
+    },
+    {
+      "keyword": "ai remover background",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-background"
+    },
+    {
+      "keyword": "ai remover essay",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-essay"
+    },
+    {
+      "keyword": "ai remover extension",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover-extension"
+    },
+    {
+      "keyword": "free remover",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remover"
+    },
+    {
+      "keyword": "free removal of background",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "removal-of-background"
+    },
+    {
+      "keyword": "free removal of appliances",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "removal-of-appliances"
+    },
+    {
+      "keyword": "free removal of junk",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "removal-of-junk"
+    },
+    {
+      "keyword": "free removal of watermark",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "removal-of-watermark"
+    },
+    {
+      "keyword": "free removal mtg",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "removal-mtg"
+    },
+    {
+      "keyword": "free removal spells mtg",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "removal-spells-mtg"
+    },
+    {
+      "keyword": "free removal of background from image",
+      "root": "remover",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "removal-of-background-from-image"
     }
   ],
   "existing": [
