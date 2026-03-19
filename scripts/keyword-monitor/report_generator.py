@@ -13,7 +13,7 @@ import os
 import sys
 from datetime import datetime, timezone
 
-from config import DATA_DIR, DIFFICULTY_RULES, EXISTING_SLUGS, TOOL_SIGNAL_WORDS
+from config import DATA_DIR, DIFFICULTY_RULES, EXISTING_SLUGS, NOISE_WORDS, TOOL_SIGNAL_WORDS
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -63,12 +63,17 @@ def merge_opportunities(trends_data, suggest_data):
         if "suggest" not in all_keywords[kw]["sources"]:
             all_keywords[kw]["sources"].append("suggest")
 
-    # Filter out already-have and existing slugs
+    # Filter out already-have, existing slugs, and noise
+    noise_lower = [w.lower() for w in NOISE_WORDS]
     opportunities = []
     for kw, data in all_keywords.items():
         if data["already_have"]:
             continue
         if data["suggested_slug"] in EXISTING_SLUGS:
+            continue
+        # Safety net: skip noise that slipped through earlier stages
+        kw_check = kw.lower()
+        if any(nw in kw_check for nw in noise_lower):
             continue
         # Scoring — search volume is king, everything else is bonus
         kw_lower = kw.lower()

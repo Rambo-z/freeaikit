@@ -121,6 +121,11 @@ def get_suggest_keywords(roots=None):
             suggestions = fetch_suggestions(query.strip())
             for suggestion in suggestions:
                 suggestion_lower = suggestion.lower().strip()
+
+                # Skip noise
+                if any(noise in suggestion_lower for noise in NOISE_WORDS):
+                    continue
+
                 already_have = any(
                     ek in suggestion_lower for ek in EXISTING_KEYWORDS
                 )
