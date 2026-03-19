@@ -117,9 +117,16 @@ NOISE_WORDS = [
     "pika", "kling", "luma", "ideogram", "leonardo ai",
     "convertio", "cloud convert", "freeconvert", "remaker ai", "aiarty",
     "fotor", "pixlr", "remove.bg", "unscreen", "kapwing", "veed",
+    "imgupscaler", "photogrid", "vmake ai", "lupa upscaler", "zoviz",
+    "topaz", "photoapp", "search atlas",
     # Entertainment / non-tool
     "kpop", "demon hunter", "audiobook", "podcast", "lyrics",
     "free trial", "free song", "free music",
+    # Non-tool intents
+    "recipe", "safari booking", "jawai", "cybersecurity",
+    "mindfulness", "meditation", "drawing software",
+    "how to", "on iphone", "on android",
+    "survey", "cloud storage",
 ]
 
 # Tool-like signal words (keyword containing these gets higher score)

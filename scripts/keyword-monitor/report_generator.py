@@ -268,8 +268,25 @@ def main():
     # Sync to Feishu Bitable (if credentials are configured)
     if os.environ.get("FEISHU_APP_ID") and os.environ.get("FEISHU_APP_SECRET"):
         try:
-            from feishu_bitable import sync_opportunities
-            # Add discovered date to each opportunity for Bitable
+            from feishu_bitable import (
+                delete_record, get_tenant_access_token,
+                search_existing_keywords, sync_opportunities,
+            )
+
+            # Step 1: Clean noise records from table
+            print("\n=== Cleaning noise records from Bitable ===")
+            token = get_tenant_access_token()
+            if token:
+                existing = search_existing_keywords(token)  # {kw: record_id}
+                deleted = 0
+                for kw, rid in list(existing.items()):
+                    if any(nw in kw for nw in noise_lower):
+                        if delete_record(token, rid):
+                            deleted += 1
+                            print(f"  Deleted noise: {kw}")
+                print(f"Cleaned {deleted} noise records")
+
+            # Step 2: Upsert opportunities
             for opp in opportunities:
                 if "discovered" not in opp:
                     opp["discovered"] = date_str
