@@ -59,7 +59,7 @@ def get_rising_keywords(roots=None):
                         errors.append(error_msg)
                         related = {}
                         break
-                    wait = 60 * retries  # 60s, 120s, 180s
+                    wait = 30 * retries  # 30s, 60s, 90s
                     print(f"  Rate limited, retry {retries}/{max_retries} in {wait}s...")
                     time.sleep(wait)
 
@@ -102,8 +102,11 @@ def get_rising_keywords(roots=None):
                 print(f"  WARNING: {error_msg}")
                 errors.append(error_msg)
 
-            # Rate limiting: longer sleep to avoid 429
-            sleep_time = random.uniform(20, 35)
+            # Rate limiting: shorter sleep for small batches, longer for full runs
+            if len(roots) <= 15:
+                sleep_time = random.uniform(5, 10)
+            else:
+                sleep_time = random.uniform(20, 35)
             print(f"  Sleeping {sleep_time:.1f}s...")
             time.sleep(sleep_time)
 
