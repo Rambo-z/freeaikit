@@ -1,9 +1,9 @@
 {
   "date": "2026-03-19",
-  "batch": 11,
-  "total_rising_found": 104,
-  "new_opportunities": 100,
-  "existing_matches": 4,
+  "batch": 0,
+  "total_rising_found": 147,
+  "new_opportunities": 142,
+  "existing_matches": 5,
   "errors": 4,
   "opportunities": [
     {
@@ -327,6 +327,16 @@
       "suggested_slug": "create-survey-free"
     },
     {
+      "keyword": "convert image to ghibli style",
+      "root": "convert",
+      "prefix": "ai",
+      "trend_score": 12850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "convert-image-to-ghibli-style"
+    },
+    {
       "keyword": "alysa liu free skate song",
       "root": "song",
       "prefix": "free",
@@ -347,6 +357,26 @@
       "suggested_slug": "best-cloud-storage"
     },
     {
+      "keyword": "freeconvert video compressor",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 12050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "freeconvert-video-compressor"
+    },
+    {
+      "keyword": "video compressor online free without losing quality",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 11500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-compressor-without-losing-quality"
+    },
+    {
       "keyword": "mp4 to gif",
       "root": "compressor",
       "prefix": "ai",
@@ -365,6 +395,16 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "tinypng"
+    },
+    {
+      "keyword": "trim video",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 10100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "trim-video"
     },
     {
       "keyword": "mov to mp4",
@@ -467,6 +507,26 @@
       "suggested_slug": "coding-practice-sites"
     },
     {
+      "keyword": "how to compress a video on iphone",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 8450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "how-to-compress-a-video-on-iphone"
+    },
+    {
+      "keyword": "ai image editor",
+      "root": "compressor",
+      "prefix": "ai",
+      "trend_score": 8200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-editor"
+    },
+    {
       "keyword": "walter writes ai",
       "root": "converter",
       "prefix": "ai",
@@ -475,6 +535,16 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "walter-writes-ai"
+    },
+    {
+      "keyword": "ai ebook to audio converter",
+      "root": "converter",
+      "prefix": "ai",
+      "trend_score": 7550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "ebook-to-audio-converter"
     },
     {
       "keyword": "youtube to mps converter online",
@@ -567,6 +637,26 @@
       "suggested_slug": "song-kpop-demon-hunters"
     },
     {
+      "keyword": "jawai safari booking",
+      "root": "convert",
+      "prefix": "online",
+      "trend_score": 4400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "jawsafari-booking"
+    },
+    {
+      "keyword": "topaz video enhance ai",
+      "root": "convert",
+      "prefix": "ai",
+      "trend_score": 3250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "topaz-video-enhance-ai"
+    },
+    {
       "keyword": "hedra ai",
       "root": "converter",
       "prefix": "ai",
@@ -595,6 +685,16 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "what-is-a-catalytic-converter"
+    },
+    {
+      "keyword": "ai mode",
+      "root": "converter",
+      "prefix": "ai",
+      "trend_score": 700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "mode"
     },
     {
       "keyword": "grok",
@@ -637,16 +737,6 @@
       "suggested_slug": "perplexity-ai"
     },
     {
-      "keyword": "ai mode",
-      "root": "converter",
-      "prefix": "ai",
-      "trend_score": 550,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "mode"
-    },
-    {
       "keyword": "pdf to jpg converter free",
       "root": "converter",
       "prefix": "ai",
@@ -667,14 +757,14 @@
       "suggested_slug": "check-for-ai"
     },
     {
-      "keyword": "ai ebook to audio converter",
+      "keyword": "image to stl converter",
       "root": "converter",
       "prefix": "ai",
       "trend_score": 350,
       "source": "google_trends_rising",
       "discovered": "2026-03-19",
       "already_have": false,
-      "suggested_slug": "ebook-to-audio-converter"
+      "suggested_slug": "image-to-stl-converter"
     },
     {
       "keyword": "air compressor for car",
@@ -717,6 +807,16 @@
       "suggested_slug": "unifab-video-upscaler-ai"
     },
     {
+      "keyword": "image to video ai free",
+      "root": "converter",
+      "prefix": "ai",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-to-video-free"
+    },
+    {
       "keyword": "time converter",
       "root": "converter",
       "prefix": "ai",
@@ -740,21 +840,51 @@
       "keyword": "best pdf to word converter online",
       "root": "converter",
       "prefix": "online",
-      "trend_score": 200,
+      "trend_score": 250,
       "source": "google_trends_rising",
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "best-pdf-to-word-converter-online"
     },
     {
+      "keyword": "cloud convert",
+      "root": "convert",
+      "prefix": "ai",
+      "trend_score": 200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cloud-convert"
+    },
+    {
       "keyword": "spotify to mp3 converter online free",
       "root": "converter",
       "prefix": "free",
-      "trend_score": 180,
+      "trend_score": 190,
       "source": "google_trends_rising",
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "spotify-to-mp3-converter-free"
+    },
+    {
+      "keyword": "case converter online",
+      "root": "converter",
+      "prefix": "online",
+      "trend_score": 180,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "case-converter-online"
+    },
+    {
+      "keyword": "convert case online",
+      "root": "convert",
+      "prefix": "online",
+      "trend_score": 180,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "convert-case-online"
     },
     {
       "keyword": "izotope",
@@ -787,14 +917,14 @@
       "suggested_slug": "topaz-photo-ai"
     },
     {
-      "keyword": "case converter online",
+      "keyword": "jpg to pdf converter",
       "root": "converter",
-      "prefix": "online",
-      "trend_score": 160,
+      "prefix": "free",
+      "trend_score": 170,
       "source": "google_trends_rising",
       "discovered": "2026-03-19",
       "already_have": false,
-      "suggested_slug": "case-converter-online"
+      "suggested_slug": "jpg-to-pdf-converter"
     },
     {
       "keyword": "2026 winter olympics women single skating free skating",
@@ -807,14 +937,14 @@
       "suggested_slug": "2026-winter-olympics-women-single-skating-skating"
     },
     {
-      "keyword": "jpg to pdf converter",
+      "keyword": "ai code converter",
       "root": "converter",
-      "prefix": "free",
+      "prefix": "ai",
       "trend_score": 150,
       "source": "google_trends_rising",
       "discovered": "2026-03-19",
       "already_have": false,
-      "suggested_slug": "jpg-to-pdf-converter"
+      "suggested_slug": "code-converter"
     },
     {
       "keyword": "free pdf to jpg converter",
@@ -837,6 +967,26 @@
       "suggested_slug": "jpg-to-pdf"
     },
     {
+      "keyword": "free jpg to pdf converter",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "jpg-to-pdf-converter"
+    },
+    {
+      "keyword": "free convert pdf to jpg",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-jpg"
+    },
+    {
       "keyword": "online unit converter",
       "root": "converter",
       "prefix": "online",
@@ -847,164 +997,14 @@
       "suggested_slug": "unit-converter"
     },
     {
-      "keyword": "open ai",
-      "root": "compressor",
-      "prefix": "ai",
-      "trend_score": 120,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "open-ai"
-    },
-    {
-      "keyword": "free pdf converter app",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 120,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "pdf-converter-app"
-    },
-    {
       "keyword": "free pdf to powerpoint converter",
       "root": "converter",
       "prefix": "free",
-      "trend_score": 120,
+      "trend_score": 130,
       "source": "google_trends_rising",
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "pdf-to-powerpoint-converter"
-    },
-    {
-      "keyword": "heic to pdf",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 120,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "heic-to-pdf"
-    },
-    {
-      "keyword": "small pdf",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "small-pdf"
-    },
-    {
-      "keyword": "heic to pdf converter",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "heic-to-pdf-converter"
-    },
-    {
-      "keyword": "heic to pdf converter free",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "heic-to-pdf-converter-free"
-    },
-    {
-      "keyword": "lyrics to song ai",
-      "root": "song",
-      "prefix": "ai",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "lyrics-to-song-ai"
-    },
-    {
-      "keyword": "png to svg",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "png-to-svg"
-    },
-    {
-      "keyword": "png to svg converter",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "png-to-svg-converter"
-    },
-    {
-      "keyword": "png to pdf converter",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "png-to-pdf-converter"
-    },
-    {
-      "keyword": "png to svg converter free",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "png-to-svg-converter-free"
-    },
-    {
-      "keyword": "free pdf to png converter",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "pdf-to-png-converter"
-    },
-    {
-      "keyword": "pdf to png converter free",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "pdf-to-png-converter-free"
-    },
-    {
-      "keyword": "time converter online",
-      "root": "converter",
-      "prefix": "online",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "time-converter-online"
-    },
-    {
-      "keyword": "aiarty image enhancer",
-      "root": "enhancer",
-      "prefix": "ai",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "aiarty-image-enhancer"
     }
   ],
   "existing": [
@@ -1042,11 +1042,21 @@
       "keyword": "pdf compressor for free",
       "root": "compressor",
       "prefix": "free",
-      "trend_score": 100,
+      "trend_score": 90,
       "source": "google_trends_rising",
       "discovered": "2026-03-19",
       "already_have": true,
       "suggested_slug": "pdf-compressor-for-free"
+    },
+    {
+      "keyword": "free pdf merger",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 60,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "pdf-merger"
     }
   ],
   "error_log": [

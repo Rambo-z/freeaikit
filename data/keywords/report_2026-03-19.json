@@ -1,26 +1,11 @@
 {
   "date": "2026-03-19",
   "stats": {
-    "trends_total": 104,
-    "suggest_total": 1245
+    "trends_total": 147,
+    "suggest_total": 1276
   },
-  "total_opportunities": 1317,
+  "total_opportunities": 1350,
   "top_50": [
-    {
-      "keyword": "google ai news",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 202300,
-      "suggested_slug": "google-news",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
     {
       "keyword": "ai face swap",
       "sources": [
@@ -31,57 +16,26 @@
       "suggested_slug": "face-swap",
       "root": "upscaler",
       "already_have": false,
-      "combined_score": 540,
+      "combined_score": 1040,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 135000,
+      "cpc": 1.88,
+      "competition": 0.2
     },
     {
-      "keyword": "free song kpop demon hunters",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 4600,
-      "suggested_slug": "song-kpop-demon-hunters",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 530,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "remaker ai photo enhancer",
+      "keyword": "ai image editor",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 18300,
-      "suggested_slug": "remaker-photo-enhancer",
-      "root": "enhancer",
+      "trend_score": 8200,
+      "suggested_slug": "image-editor",
+      "root": "compressor",
       "already_have": false,
-      "combined_score": 420,
+      "combined_score": 890,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "aiarty video enhancer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 30700,
-      "suggested_slug": "aiarty-video-enhancer",
-      "root": "enhancer",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 90500,
+      "cpc": 1.64,
+      "competition": 0.2
     },
     {
       "keyword": "epoch time converter",
@@ -92,146 +46,11 @@
       "suggested_slug": "epoch-time-converter",
       "root": "converter",
       "already_have": false,
-      "combined_score": 390,
+      "combined_score": 890,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "create online survey free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 12900,
-      "suggested_slug": "create-survey-free",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 380,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "youtube to mps converter online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 7200,
-      "suggested_slug": "youtube-to-mps-converter-online",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 380,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free online drawing courses",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 5500,
-      "suggested_slug": "drawing-courses",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 380,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "photogrid ai image enhancer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 23450,
-      "suggested_slug": "photogrid-image-enhancer",
-      "root": "enhancer",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "photoapp ai photo enhancer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 20600,
-      "suggested_slug": "photoapp-photo-enhancer",
-      "root": "enhancer",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "meditation timer online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 13750,
-      "suggested_slug": "meditation-timer-online",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "audiobooks free trial",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9300,
-      "suggested_slug": "audiobooks-trial",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free mindfulness apps",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9050,
-      "suggested_slug": "mindfulness-apps",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "file compare online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 8950,
-      "suggested_slug": "file-compare-online",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 22200,
+      "cpc": 11.65,
+      "competition": 0.2
     },
     {
       "keyword": "air compressor for car",
@@ -243,11 +62,11 @@
       "suggested_slug": "air-compressor-for-car",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 370,
+      "combined_score": 870,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 27100,
+      "cpc": 0.83,
+      "competition": 0.8
     },
     {
       "keyword": "free kpop demon hunters",
@@ -258,116 +77,11 @@
       "suggested_slug": "kpop-demon-hunters",
       "root": "song",
       "already_have": false,
-      "combined_score": 350,
+      "combined_score": 850,
       "difficulty": "",
-      "search_volume": 0,
+      "search_volume": 12100,
       "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "enhance photo 4k free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 14950,
-      "suggested_slug": "enhance-photo-4k-free",
-      "root": "enhancer",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best online learning platforms",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 14550,
-      "suggested_slug": "best-learning-platforms",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free cloud storage",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 12200,
-      "suggested_slug": "best-cloud-storage",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free drawing software",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 8800,
-      "suggested_slug": "best-drawing-software",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free email clients",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 8700,
-      "suggested_slug": "best-email-clients",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free coding practice sites",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 8550,
-      "suggested_slug": "coding-practice-sites",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "what is a catalytic converter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 1000,
-      "suggested_slug": "what-is-a-catalytic-converter",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "competition": 0.2
     },
     {
       "keyword": "grok ai",
@@ -378,11 +92,11 @@
       "suggested_slug": "grok-ai",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 673000,
+      "cpc": 2.05,
+      "competition": 0.2
     },
     {
       "keyword": "google ai studio",
@@ -393,11 +107,11 @@
       "suggested_slug": "google-studio",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 673000,
+      "cpc": 0.6,
+      "competition": 0.2
     },
     {
       "keyword": "ai news today",
@@ -408,26 +122,11 @@
       "suggested_slug": "news-today",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "lupa upscaler",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 40750,
-      "suggested_slug": "lupa-upscaler",
-      "root": "upscaler",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 49500,
+      "cpc": 3.82,
+      "competition": 0.2
     },
     {
       "keyword": "new york times",
@@ -438,26 +137,11 @@
       "suggested_slug": "new-york-times",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "zoviz image upscaler",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 33450,
-      "suggested_slug": "zoviz-image-upscaler",
-      "root": "upscaler",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 2240000,
+      "cpc": 3.31,
+      "competition": 0.2
     },
     {
       "keyword": "ilovepdf",
@@ -468,56 +152,11 @@
       "suggested_slug": "ilovepdf",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "imgupscaler",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 25500,
-      "suggested_slug": "imgupscaler",
-      "root": "upscaler",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "photogrid",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 21500,
-      "suggested_slug": "photogrid",
-      "root": "enhancer",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "vmake ai",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 19950,
-      "suggested_slug": "vmake-ai",
-      "root": "upscaler",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 246000,
+      "cpc": 2.72,
+      "competition": 0.2
     },
     {
       "keyword": "pdf combiner",
@@ -528,11 +167,11 @@
       "suggested_slug": "pdf-combiner",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 165000,
+      "cpc": 0.89,
+      "competition": 0.2
     },
     {
       "keyword": "pdf24",
@@ -543,11 +182,11 @@
       "suggested_slug": "pdf24",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 14800,
+      "cpc": 2.6,
+      "competition": 0.2
     },
     {
       "keyword": "smallpdf",
@@ -558,11 +197,11 @@
       "suggested_slug": "smallpdf",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 74000,
+      "cpc": 1.56,
+      "competition": 0.5
     },
     {
       "keyword": "meshy ai",
@@ -573,11 +212,11 @@
       "suggested_slug": "meshy-ai",
       "root": "converter",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 33100,
+      "cpc": 2.18,
+      "competition": 0.5
     },
     {
       "keyword": "pdfgear",
@@ -588,11 +227,11 @@
       "suggested_slug": "pdfgear",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 33100,
+      "cpc": 3.03,
+      "competition": 0.5
     },
     {
       "keyword": "mp4 to gif",
@@ -603,11 +242,11 @@
       "suggested_slug": "mp4-to-gif",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 110000,
+      "cpc": 0.22,
+      "competition": 0.2
     },
     {
       "keyword": "tinypng",
@@ -618,11 +257,11 @@
       "suggested_slug": "tinypng",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 27100,
+      "cpc": 1.74,
+      "competition": 0.2
     },
     {
       "keyword": "mov to mp4",
@@ -633,11 +272,11 @@
       "suggested_slug": "mov-to-mp4",
       "root": "upscaler",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 60500,
+      "cpc": 0.2,
+      "competition": 0.2
     },
     {
       "keyword": "walter writes ai",
@@ -648,11 +287,11 @@
       "suggested_slug": "walter-writes-ai",
       "root": "converter",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 60500,
+      "cpc": 2.95,
+      "competition": 0.5
     },
     {
       "keyword": "avif to jpg",
@@ -663,11 +302,11 @@
       "suggested_slug": "avif-to-jpg",
       "root": "upscaler",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 33100,
+      "cpc": 0.51,
+      "competition": 0.2
     },
     {
       "keyword": "wetransfer",
@@ -678,26 +317,11 @@
       "suggested_slug": "wetransfer",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "vomo ai",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 4800,
-      "suggested_slug": "vomo-ai",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 450000,
+      "cpc": 5.43,
+      "competition": 0.2
     },
     {
       "keyword": "tinkercad",
@@ -708,11 +332,11 @@
       "suggested_slug": "tinkercad",
       "root": "converter",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 1000000,
+      "cpc": 6.01,
+      "competition": 0.2
     },
     {
       "keyword": "hedra ai",
@@ -723,11 +347,11 @@
       "suggested_slug": "hedra-ai",
       "root": "converter",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 18100,
+      "cpc": 0.58,
+      "competition": 0.5
     },
     {
       "keyword": "ai news",
@@ -738,11 +362,11 @@
       "suggested_slug": "news",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 340,
+      "combined_score": 840,
       "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
+      "search_volume": 74000,
+      "cpc": 4.94,
+      "competition": 0.2
     },
     {
       "keyword": "free lyrics kpop demon hunters",
@@ -753,11 +377,388 @@
       "suggested_slug": "lyrics-kpop-demon-hunters",
       "root": "song",
       "already_have": false,
-      "combined_score": 330,
+      "combined_score": 830,
       "difficulty": "",
-      "search_volume": 0,
+      "search_volume": 22200,
       "cpc": 0,
-      "competition": 0
+      "competition": 0.2
+    },
+    {
+      "keyword": "catalytic converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 600,
+      "suggested_slug": "catalytic-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 790,
+      "difficulty": "",
+      "search_volume": 246000,
+      "cpc": 1.32,
+      "competition": 0.2
+    },
+    {
+      "keyword": "google ai news",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 202300,
+      "suggested_slug": "google-news",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "需API",
+      "search_volume": 8100,
+      "cpc": 7.81,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ai mode",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 700,
+      "suggested_slug": "mode",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "需API",
+      "search_volume": 1830000,
+      "cpc": 1.32,
+      "competition": 0.2
+    },
+    {
+      "keyword": "grok",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 650,
+      "suggested_slug": "grok",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "",
+      "search_volume": 2240000,
+      "cpc": 2.42,
+      "competition": 0.2
+    },
+    {
+      "keyword": "sora ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 600,
+      "suggested_slug": "sora-ai",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "",
+      "search_volume": 368000,
+      "cpc": 2.67,
+      "competition": 0.2
+    },
+    {
+      "keyword": "perplexity ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 550,
+      "suggested_slug": "perplexity-ai",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "",
+      "search_volume": 450000,
+      "cpc": 2.1,
+      "competition": 0.2
+    },
+    {
+      "keyword": "time converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "time-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "remaker ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "remaker-ai",
+      "root": "enhancer",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 2.57,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf to jpg converter free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 450,
+      "suggested_slug": "pdf-to-jpg-converter-free",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 680,
+      "difficulty": "需WASM",
+      "search_volume": 18100,
+      "cpc": 0.75,
+      "competition": 0.5
+    },
+    {
+      "keyword": "jpg to pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 170,
+      "suggested_slug": "jpg-to-pdf-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 670,
+      "difficulty": "需WASM",
+      "search_volume": 14800,
+      "cpc": 0.69,
+      "competition": 0.2
+    },
+    {
+      "keyword": "freeconvert video compressor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 12050,
+      "suggested_slug": "freeconvert-video-compressor",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 620,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 0.84,
+      "competition": 0.2
+    },
+    {
+      "keyword": "aiarty video enhancer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 30700,
+      "suggested_slug": "aiarty-video-enhancer",
+      "root": "enhancer",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "需WASM",
+      "search_volume": 1300,
+      "cpc": 3.5,
+      "competition": 0.5
+    },
+    {
+      "keyword": "free song kpop demon hunters",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 4600,
+      "suggested_slug": "song-kpop-demon-hunters",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 580,
+      "difficulty": "",
+      "search_volume": 880,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free online drawing courses",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 5500,
+      "suggested_slug": "drawing-courses",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 580,
+      "difficulty": "",
+      "search_volume": 2900,
+      "cpc": 3.09,
+      "competition": 0.2
+    },
+    {
+      "keyword": "audiobooks free trial",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 9300,
+      "suggested_slug": "audiobooks-trial",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 570,
+      "difficulty": "需WASM",
+      "search_volume": 2400,
+      "cpc": 10.59,
+      "competition": 0.8
+    },
+    {
+      "keyword": "file compare online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 8950,
+      "suggested_slug": "file-compare-online",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 570,
+      "difficulty": "",
+      "search_volume": 2900,
+      "cpc": 2.24,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best free cloud storage",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 12200,
+      "suggested_slug": "best-cloud-storage",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 550,
+      "difficulty": "",
+      "search_volume": 1600,
+      "cpc": 5.63,
+      "competition": 0.2
+    },
+    {
+      "keyword": "what is a catalytic converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1000,
+      "suggested_slug": "what-is-a-catalytic-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 550,
+      "difficulty": "",
+      "search_volume": 9900,
+      "cpc": 0.18,
+      "competition": 0.2
+    },
+    {
+      "keyword": "imgupscaler",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 25500,
+      "suggested_slug": "imgupscaler",
+      "root": "upscaler",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "",
+      "search_volume": 4400,
+      "cpc": 1.96,
+      "competition": 0.2
+    },
+    {
+      "keyword": "photogrid",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 21500,
+      "suggested_slug": "photogrid",
+      "root": "enhancer",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
+      "search_volume": 8100,
+      "cpc": 1.59,
+      "competition": 0.2
+    },
+    {
+      "keyword": "vmake ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 19950,
+      "suggested_slug": "vmake-ai",
+      "root": "upscaler",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "",
+      "search_volume": 2900,
+      "cpc": 1.18,
+      "competition": 0.2
+    },
+    {
+      "keyword": "trim video",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 10100,
+      "suggested_slug": "trim-video",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
+      "search_volume": 6600,
+      "cpc": 1.45,
+      "competition": 0.2
+    },
+    {
+      "keyword": "vomo ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 4800,
+      "suggested_slug": "vomo-ai",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "",
+      "search_volume": 2900,
+      "cpc": 5.31,
+      "competition": 0.5
+    },
+    {
+      "keyword": "gluten free pizza crust recipe",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 9000,
+      "suggested_slug": "gluten-pizza-crust-recipe",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 530,
+      "difficulty": "",
+      "search_volume": 3600,
+      "cpc": 0.4,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free convert pdf to jpg",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 140,
+      "suggested_slug": "convert-pdf-to-jpg",
+      "root": "convert",
+      "already_have": false,
+      "combined_score": 530,
+      "difficulty": "需WASM",
+      "search_volume": 1600,
+      "cpc": 1.15,
+      "competition": 0.5
     }
   ]
 }
