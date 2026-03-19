@@ -1,0 +1,16 @@
+{
+  "date": "2026-03-19",
+  "batch": 0,
+  "total_rising_found": 0,
+  "new_opportunities": 0,
+  "existing_matches": 0,
+  "errors": 4,
+  "opportunities": [],
+  "existing": [],
+  "error_log": [
+    "Error for 'free action' after 3 retries: The request failed: Google returned a response with code 429",
+    "Error for 'online action' after 3 retries: The request failed: Google returned a response with code 429",
+    "Error for 'ai advisor' after 3 retries: The request failed: Google returned a response with code 429",
+    "Error for 'free advisor' after 3 retries: The request failed: Google returned a response with code 429"
+  ]
+}

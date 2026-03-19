@@ -1,0 +1,595 @@
+{
+  "date": "2026-03-19",
+  "batch": 0,
+  "total_suggestions": 65,
+  "new_opportunities": 65,
+  "existing_matches": 0,
+  "opportunities": [
+    {
+      "keyword": "free palestine direct action toolkit",
+      "root": "action",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "palestine-direct-actionkit"
+    },
+    {
+      "keyword": "ai action figure online free",
+      "root": "action",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-free"
+    },
+    {
+      "keyword": "ai action figure online",
+      "root": "action",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-online"
+    },
+    {
+      "keyword": "ai action summit online",
+      "root": "action",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-summit-online"
+    },
+    {
+      "keyword": "ai action figure generator online free",
+      "root": "action",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-generator-free"
+    },
+    {
+      "keyword": "ai action figure generator online",
+      "root": "action",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-generator-online"
+    },
+    {
+      "keyword": "create ai action figure online free",
+      "root": "action",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "create-action-figure-free"
+    },
+    {
+      "keyword": "make ai action figure online",
+      "root": "action",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "make-action-figure-online"
+    },
+    {
+      "keyword": "what is action in ai",
+      "root": "action",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "what-is-action-in-ai"
+    },
+    {
+      "keyword": "ai use cases in payments",
+      "root": "action",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "use-cases-in-payments"
+    },
+    {
+      "keyword": "jarvis ai review",
+      "root": "action",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "jarvis-review"
+    },
+    {
+      "keyword": "action to pdf converter free",
+      "root": "action",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-to-pdf-converter-free"
+    },
+    {
+      "keyword": "best action figure generator",
+      "root": "action",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-generator"
+    },
+    {
+      "keyword": "best action figure generator app",
+      "root": "action",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-generator-app"
+    },
+    {
+      "keyword": "best action figure generator free",
+      "root": "action",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-generator-free"
+    },
+    {
+      "keyword": "best action figure ai generator",
+      "root": "action",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-generator"
+    },
+    {
+      "keyword": "best ai action figure generator free",
+      "root": "action",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-generator-free"
+    },
+    {
+      "keyword": "requirements for generator action",
+      "root": "action",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "requirements-for-generator-action"
+    },
+    {
+      "keyword": "free financial advisor tools",
+      "root": "advisor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "financial-advisors"
+    },
+    {
+      "keyword": "free financial advisor ai tool",
+      "root": "advisor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "financial-advisor"
+    },
+    {
+      "keyword": "how can i get free tools",
+      "root": "advisor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "how-can-i-gets"
+    },
+    {
+      "keyword": "ai advice online",
+      "root": "advisor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advice-online"
+    },
+    {
+      "keyword": "ai consultant online course",
+      "root": "advisor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "consultant-course"
+    },
+    {
+      "keyword": "ai consultant online",
+      "root": "advisor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "consultant-online"
+    },
+    {
+      "keyword": "online counsellor ai",
+      "root": "advisor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counsellor-ai"
+    },
+    {
+      "keyword": "ai advisor",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisor"
+    },
+    {
+      "keyword": "ai advisory",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisory"
+    },
+    {
+      "keyword": "ai advisory board",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisory-board"
+    },
+    {
+      "keyword": "ai advisory council",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisory-council"
+    },
+    {
+      "keyword": "ai advisor jobs",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisor-jobs"
+    },
+    {
+      "keyword": "ai advisor to trump",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisor-to-trump"
+    },
+    {
+      "keyword": "ai advisor jnj",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisor-jnj"
+    },
+    {
+      "keyword": "ai advisory services",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisory-services"
+    },
+    {
+      "keyword": "ai advisory committee",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisory-committee"
+    },
+    {
+      "keyword": "ai advisor white house",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisor-white-house"
+    },
+    {
+      "keyword": "free advisory services",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisory-services"
+    },
+    {
+      "keyword": "free advisors",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "advisors"
+    },
+    {
+      "keyword": "free financial advisor chicago",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "financial-advisor-chicago"
+    },
+    {
+      "keyword": "free financial advisor",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "financial-advisor"
+    },
+    {
+      "keyword": "free mortgage advisor",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "mortgage-advisor"
+    },
+    {
+      "keyword": "free financial advisor near me",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "financial-advisor-near-me"
+    },
+    {
+      "keyword": "free mortgage advisor near me",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "mortgage-advisor-near-me"
+    },
+    {
+      "keyword": "free financial advisor for low income",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "financial-advisor-for-low-income"
+    },
+    {
+      "keyword": "free tax advisor",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tax-advisor"
+    },
+    {
+      "keyword": "free financial advisor for seniors near me",
+      "root": "advisor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "financial-advisor-for-seniors-near-me"
+    },
+    {
+      "keyword": "ai action figure",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure"
+    },
+    {
+      "keyword": "ai action lab",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-lab"
+    },
+    {
+      "keyword": "ai action plan",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-plan"
+    },
+    {
+      "keyword": "ai action figure generator",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-generator"
+    },
+    {
+      "keyword": "ai action",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action"
+    },
+    {
+      "keyword": "ai action movie",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-movie"
+    },
+    {
+      "keyword": "ai action summit",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-summit"
+    },
+    {
+      "keyword": "ai action plan white house",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-plan-white-house"
+    },
+    {
+      "keyword": "ai action figure trend",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-trend"
+    },
+    {
+      "keyword": "ai action figure generator free",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figure-generator-free"
+    },
+    {
+      "keyword": "free action movies",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-movies"
+    },
+    {
+      "keyword": "free action movies on youtube",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-movies-on-youtube"
+    },
+    {
+      "keyword": "free action potion",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-potion"
+    },
+    {
+      "keyword": "free action potion wow classic",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-potion-wow-classic"
+    },
+    {
+      "keyword": "free action movies on prime",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-movies-on-prime"
+    },
+    {
+      "keyword": "free action 5e",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-5e"
+    },
+    {
+      "keyword": "free action",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action"
+    },
+    {
+      "keyword": "free action dnd",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-dnd"
+    },
+    {
+      "keyword": "free action figures",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-figures"
+    },
+    {
+      "keyword": "free action pf2e",
+      "root": "action",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "action-pf2e"
+    }
+  ],
+  "existing": []
+}
