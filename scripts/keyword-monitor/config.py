@@ -110,11 +110,16 @@ NOISE_WORDS = [
     "catalytic", "air compressor",
     # AI brands & competitor tools (not actionable for us)
     "chatgpt", "grok", "perplexity", "claude ai", "openai", "sora",
-    "google ai studio", "copilot", "gemini",
+    "google ai studio", "google ai mode", "ai mode", "copilot", "gemini",
     "tinkercad", "ilovepdf", "pdf24", "smallpdf", "pdfgear",
     "tinypng", "wetransfer", "izotope", "meshy", "hedra", "vomo",
     "walter writes", "canva", "figma", "midjourney", "runway",
     "pika", "kling", "luma", "ideogram", "leonardo ai",
+    "convertio", "cloud convert", "freeconvert", "remaker ai", "aiarty",
+    "fotor", "pixlr", "remove.bg", "unscreen", "kapwing", "veed",
+    # Entertainment / non-tool
+    "kpop", "demon hunter", "audiobook", "podcast", "lyrics",
+    "free trial", "free song", "free music",
 ]
 
 # Tool-like signal words (keyword containing these gets higher score)
