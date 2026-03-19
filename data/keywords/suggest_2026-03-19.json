@@ -1,9 +1,9 @@
 {
   "date": "2026-03-19",
-  "batch": 8,
-  "total_suggestions": 560,
-  "new_opportunities": 553,
-  "existing_matches": 7,
+  "batch": 9,
+  "total_suggestions": 899,
+  "new_opportunities": 887,
+  "existing_matches": 12,
   "opportunities": [
     {
       "keyword": "free palestine direct action toolkit",
@@ -187,7 +187,7 @@
     },
     {
       "keyword": "how can i get free tools",
-      "root": "advisor",
+      "root": "counter",
       "pattern": "free {root} tool",
       "source": "google_suggest",
       "discovered": "2026-03-19",
@@ -1681,7 +1681,7 @@
     },
     {
       "keyword": "audio converter free download",
-      "root": "audio",
+      "root": "song",
       "pattern": "{root} converter free",
       "source": "google_suggest",
       "discovered": "2026-03-19",
@@ -1690,7 +1690,7 @@
     },
     {
       "keyword": "audio converter free online",
-      "root": "audio",
+      "root": "song",
       "pattern": "{root} converter free",
       "source": "google_suggest",
       "discovered": "2026-03-19",
@@ -1699,7 +1699,7 @@
     },
     {
       "keyword": "audio converter free download for pc",
-      "root": "audio",
+      "root": "song",
       "pattern": "{root} converter free",
       "source": "google_suggest",
       "discovered": "2026-03-19",
@@ -1717,7 +1717,7 @@
     },
     {
       "keyword": "audio converter free software",
-      "root": "audio",
+      "root": "song",
       "pattern": "{root} converter free",
       "source": "google_suggest",
       "discovered": "2026-03-19",
@@ -1744,7 +1744,7 @@
     },
     {
       "keyword": "audio converter free download for windows 7",
-      "root": "audio",
+      "root": "song",
       "pattern": "{root} converter free",
       "source": "google_suggest",
       "discovered": "2026-03-19",
@@ -4981,6 +4981,3012 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "speech-coalition"
+    },
+    {
+      "keyword": "free music tool",
+      "root": "song",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music"
+    },
+    {
+      "keyword": "free ai song tool",
+      "root": "song",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song"
+    },
+    {
+      "keyword": "free song mastering tool",
+      "root": "song",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-mastering"
+    },
+    {
+      "keyword": "free song editing tool",
+      "root": "song",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-editing"
+    },
+    {
+      "keyword": "free song making tool",
+      "root": "song",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-making"
+    },
+    {
+      "keyword": "free songwriting tools",
+      "root": "song",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "songwritings"
+    },
+    {
+      "keyword": "free song mixing tool",
+      "root": "song",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-mixing"
+    },
+    {
+      "keyword": "free song making ai tool",
+      "root": "song",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-making"
+    },
+    {
+      "keyword": "free song generator ai tool",
+      "root": "song",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator"
+    },
+    {
+      "keyword": "ai song online free",
+      "root": "song",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-free"
+    },
+    {
+      "keyword": "ai song online generator",
+      "root": "song",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator"
+    },
+    {
+      "keyword": "ai online song maker",
+      "root": "song",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-maker"
+    },
+    {
+      "keyword": "ai online song generator free",
+      "root": "song",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator-free"
+    },
+    {
+      "keyword": "ai online song mastering",
+      "root": "song",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-mastering"
+    },
+    {
+      "keyword": "ai online song maker free",
+      "root": "song",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-maker-free"
+    },
+    {
+      "keyword": "ai online song writer",
+      "root": "song",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-writer"
+    },
+    {
+      "keyword": "ai online song finder",
+      "root": "song",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-finder"
+    },
+    {
+      "keyword": "ai music online",
+      "root": "song",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-online"
+    },
+    {
+      "keyword": "song converter free download",
+      "root": "song",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-converter-download"
+    },
+    {
+      "keyword": "audio converter free",
+      "root": "song",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-free"
+    },
+    {
+      "keyword": "audio converter free download for windows 7 32 bit",
+      "root": "song",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-download-for-windows-7-32-bit"
+    },
+    {
+      "keyword": "audio converter free mp3",
+      "root": "song",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-mp3"
+    },
+    {
+      "keyword": "best song generator ai",
+      "root": "song",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator-ai"
+    },
+    {
+      "keyword": "best song generator app",
+      "root": "song",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator-app"
+    },
+    {
+      "keyword": "best song generator ai free",
+      "root": "song",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator-free"
+    },
+    {
+      "keyword": "best song generator free",
+      "root": "song",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator-free"
+    },
+    {
+      "keyword": "best song generator ai app",
+      "root": "song",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator-app"
+    },
+    {
+      "keyword": "best song generator from lyrics",
+      "root": "song",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator-from-lyrics"
+    },
+    {
+      "keyword": "free audio enhancer tool",
+      "root": "enhancer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-enhancer"
+    },
+    {
+      "keyword": "free video enhancer tool",
+      "root": "enhancer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-enhancer"
+    },
+    {
+      "keyword": "free image enhancer tool",
+      "root": "enhancer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-enhancer"
+    },
+    {
+      "keyword": "free voice enhancer tool",
+      "root": "enhancer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-enhancer"
+    },
+    {
+      "keyword": "free ai enhancer tool",
+      "root": "enhancer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer"
+    },
+    {
+      "keyword": "free audio enhancer tool online",
+      "root": "enhancer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-enhancer-online"
+    },
+    {
+      "keyword": "free image enhancer tool online",
+      "root": "enhancer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-enhancer-online"
+    },
+    {
+      "keyword": "free video enhancer tool online",
+      "root": "enhancer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-enhancer-online"
+    },
+    {
+      "keyword": "free photo enhancer tool online",
+      "root": "enhancer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-enhancer-online"
+    },
+    {
+      "keyword": "ai enhancer online free",
+      "root": "enhancer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-free"
+    },
+    {
+      "keyword": "ai enhancer online video",
+      "root": "enhancer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-video"
+    },
+    {
+      "keyword": "ai enhancer online free video",
+      "root": "enhancer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-video"
+    },
+    {
+      "keyword": "ai enhancer online photo",
+      "root": "enhancer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-photo"
+    },
+    {
+      "keyword": "ai audio enhancer online free",
+      "root": "enhancer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-enhancer-free"
+    },
+    {
+      "keyword": "ai face enhancer online free",
+      "root": "enhancer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-enhancer-free"
+    },
+    {
+      "keyword": "ai image enhancer online free",
+      "root": "enhancer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-enhancer-free"
+    },
+    {
+      "keyword": "ai music enhancer online free",
+      "root": "enhancer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-enhancer-free"
+    },
+    {
+      "keyword": "ai song enhancer online free",
+      "root": "enhancer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-enhancer-free"
+    },
+    {
+      "keyword": "video enhancer converter free",
+      "root": "enhancer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-enhancer-converter-free"
+    },
+    {
+      "keyword": "photo enhancer converter free",
+      "root": "enhancer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-enhancer-converter-free"
+    },
+    {
+      "keyword": "ingredient weight converter",
+      "root": "enhancer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "ingredient-weight-converter"
+    },
+    {
+      "keyword": "ingredient amount converter",
+      "root": "enhancer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "ingredient-amount-converter"
+    },
+    {
+      "keyword": "ingredient to calorie converter",
+      "root": "enhancer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "ingredient-to-calorie-converter"
+    },
+    {
+      "keyword": "enhancer powder price",
+      "root": "enhancer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-powder-price"
+    },
+    {
+      "keyword": "best ai image generator enhancer",
+      "root": "enhancer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-generator-enhancer"
+    },
+    {
+      "keyword": "how do i increase the power of my generator",
+      "root": "enhancer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "how-do-i-increase-the-power-of-my-generator"
+    },
+    {
+      "keyword": "how to increase generator speed",
+      "root": "enhancer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "how-to-increase-generator-speed"
+    },
+    {
+      "keyword": "how to make a powerful generator at home",
+      "root": "enhancer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "how-to-make-a-powerful-generator-at-home"
+    },
+    {
+      "keyword": "free upscale tool online",
+      "root": "upscaler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscale-online"
+    },
+    {
+      "keyword": "free upscale tool ai",
+      "root": "upscaler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscale-ai"
+    },
+    {
+      "keyword": "free image upscaler tool",
+      "root": "upscaler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-upscaler"
+    },
+    {
+      "keyword": "free video upscaler tool",
+      "root": "upscaler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-upscaler"
+    },
+    {
+      "keyword": "best free upscaler tool",
+      "root": "upscaler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler"
+    },
+    {
+      "keyword": "free image upscaling tool- iloveimg",
+      "root": "upscaler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-upscaling--iloveimg"
+    },
+    {
+      "keyword": "frp tools for android",
+      "root": "upscaler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "frps-for-android"
+    },
+    {
+      "keyword": "ai upscaler online free",
+      "root": "upscaler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-free"
+    },
+    {
+      "keyword": "ai upscaler online video",
+      "root": "upscaler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-video"
+    },
+    {
+      "keyword": "ai upscale online image",
+      "root": "upscaler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscale-image"
+    },
+    {
+      "keyword": "ai upscale online photo",
+      "root": "upscaler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscale-photo"
+    },
+    {
+      "keyword": "ai image upscaler online free",
+      "root": "upscaler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-upscaler-free"
+    },
+    {
+      "keyword": "remaker ai upscaler online",
+      "root": "upscaler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remaker-upscaler-online"
+    },
+    {
+      "keyword": "best ai upscaler online",
+      "root": "upscaler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-online"
+    },
+    {
+      "keyword": "upscale video converter free",
+      "root": "upscaler",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscale-video-converter-free"
+    },
+    {
+      "keyword": "why is uhq upscaler greyed out",
+      "root": "upscaler",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "why-is-uhq-upscaler-greyed-out"
+    },
+    {
+      "keyword": "free colorize tool",
+      "root": "colorizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize"
+    },
+    {
+      "keyword": "free colorizer software",
+      "root": "colorizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorizer-software"
+    },
+    {
+      "keyword": "free ai colorize tool",
+      "root": "colorizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize"
+    },
+    {
+      "keyword": "ai colorizer online free",
+      "root": "colorizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorizer-free"
+    },
+    {
+      "keyword": "ai color changer online",
+      "root": "colorizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "color-changer-online"
+    },
+    {
+      "keyword": "ai color changer online free",
+      "root": "colorizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "color-changer-free"
+    },
+    {
+      "keyword": "ai video colorizer online free",
+      "root": "colorizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-colorizer-free"
+    },
+    {
+      "keyword": "ai photo colorizer online",
+      "root": "colorizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-colorizer-online"
+    },
+    {
+      "keyword": "ai video colorizer online",
+      "root": "colorizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-colorizer-online"
+    },
+    {
+      "keyword": "ai colorize drawing online",
+      "root": "colorizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize-drawing-online"
+    },
+    {
+      "keyword": "ai colorize picture online",
+      "root": "colorizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize-picture-online"
+    },
+    {
+      "keyword": "best color generator",
+      "root": "colorizer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "color-generator"
+    },
+    {
+      "keyword": "best color generator app",
+      "root": "colorizer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "color-generator-app"
+    },
+    {
+      "keyword": "what color generator",
+      "root": "colorizer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "what-color-generator"
+    },
+    {
+      "keyword": "good color generator",
+      "root": "colorizer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "good-color-generator"
+    },
+    {
+      "keyword": "best hair color generator",
+      "root": "colorizer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "hair-color-generator"
+    },
+    {
+      "keyword": "best color combination generator",
+      "root": "colorizer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "color-combination-generator"
+    },
+    {
+      "keyword": "best color scheme generator",
+      "root": "colorizer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "color-scheme-generator"
+    },
+    {
+      "keyword": "free repair tool",
+      "root": "restorer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "repair"
+    },
+    {
+      "keyword": "free repair tool for windows 10",
+      "root": "restorer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "repair-for-windows-10"
+    },
+    {
+      "keyword": "free repair tool windows 11",
+      "root": "restorer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "repair-windows-11"
+    },
+    {
+      "keyword": "free repair tool for iphone",
+      "root": "restorer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "repair-for-iphone"
+    },
+    {
+      "keyword": "free tool repair excel file",
+      "root": "restorer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-repair-excel-file"
+    },
+    {
+      "keyword": "free tool repair corrupted excel file",
+      "root": "restorer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-repair-corrupted-excel-file"
+    },
+    {
+      "keyword": "free iphone restore tool",
+      "root": "restorer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "iphone-restore"
+    },
+    {
+      "keyword": "free ios restore tool",
+      "root": "restorer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "ios-restore"
+    },
+    {
+      "keyword": "free data restore tool",
+      "root": "restorer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "data-restore"
+    },
+    {
+      "keyword": "free ipsw restore tool",
+      "root": "restorer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "ipsw-restore"
+    },
+    {
+      "keyword": "ai restoration online free",
+      "root": "restorer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "restoration-free"
+    },
+    {
+      "keyword": "restore ai online",
+      "root": "restorer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "restore-online"
+    },
+    {
+      "keyword": "ai photo restorer online free",
+      "root": "restorer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-restorer-free"
+    },
+    {
+      "keyword": "ai photo restorer online",
+      "root": "restorer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-restorer-online"
+    },
+    {
+      "keyword": "ai picture restorer online",
+      "root": "restorer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "picture-restorer-online"
+    },
+    {
+      "keyword": "ai photo restoration online free without watermark",
+      "root": "restorer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-restoration-without-watermark"
+    },
+    {
+      "keyword": "ai audio restoration online free",
+      "root": "restorer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-restoration-free"
+    },
+    {
+      "keyword": "ai face restoration online free",
+      "root": "restorer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-restoration-free"
+    },
+    {
+      "keyword": "ai video restoration online free",
+      "root": "restorer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-restoration-free"
+    },
+    {
+      "keyword": "free counting tool",
+      "root": "counter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counting"
+    },
+    {
+      "keyword": "free character counter tool",
+      "root": "counter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "character-counter"
+    },
+    {
+      "keyword": "free calorie counter tool",
+      "root": "counter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "calorie-counter"
+    },
+    {
+      "keyword": "free online character counter tool",
+      "root": "counter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "character-counter"
+    },
+    {
+      "keyword": "how to get free tools",
+      "root": "counter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "how-to-gets"
+    },
+    {
+      "keyword": "where can i borrow tools for free",
+      "root": "counter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "where-can-i-borrows-for-free"
+    },
+    {
+      "keyword": "ai counter online free",
+      "root": "counter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-free"
+    },
+    {
+      "keyword": "ai calorie counter online",
+      "root": "counter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "calorie-counter-online"
+    },
+    {
+      "keyword": "ai token counter online",
+      "root": "counter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "token-counter-online"
+    },
+    {
+      "keyword": "ai people counter online",
+      "root": "counter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "people-counter-online"
+    },
+    {
+      "keyword": "ai object counter online",
+      "root": "counter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "object-counter-online"
+    },
+    {
+      "keyword": "ai card counter online",
+      "root": "counter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "card-counter-online"
+    },
+    {
+      "keyword": "ai money counter online",
+      "root": "counter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "money-counter-online"
+    },
+    {
+      "keyword": "ai image counter online",
+      "root": "counter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-counter-online"
+    },
+    {
+      "keyword": "ai food calorie counter online",
+      "root": "counter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "food-calorie-counter-online"
+    },
+    {
+      "keyword": "yarn count converter free download",
+      "root": "counter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "yarn-count-converter-download"
+    },
+    {
+      "keyword": "how to counter substitute",
+      "root": "counter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "how-to-counter-substitute"
+    },
+    {
+      "keyword": "best counter generators mtg",
+      "root": "counter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-generators-mtg"
+    },
+    {
+      "keyword": "counter top generator",
+      "root": "counter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-top-generator"
+    },
+    {
+      "keyword": "best 1 /+ 1 counter generators",
+      "root": "counter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "1-/+-1-counter-generators"
+    },
+    {
+      "keyword": "best 1 1 counter generators mtg",
+      "root": "counter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "1-1-counter-generators-mtg"
+    },
+    {
+      "keyword": "easiest generator to use",
+      "root": "counter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "easiest-generator-to-use"
+    },
+    {
+      "keyword": "free download tool",
+      "root": "downloader",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download"
+    },
+    {
+      "keyword": "free download tools sketchup",
+      "root": "downloader",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloads-sketchup"
+    },
+    {
+      "keyword": "free software download",
+      "root": "downloader",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "software-download"
+    },
+    {
+      "keyword": "free download snipping tool",
+      "root": "downloader",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-snipping"
+    },
+    {
+      "keyword": "free download daemon tools",
+      "root": "downloader",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-daemons"
+    },
+    {
+      "keyword": "free download sadp tool",
+      "root": "downloader",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-sadp"
+    },
+    {
+      "keyword": "free download pro tools",
+      "root": "downloader",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-pros"
+    },
+    {
+      "keyword": "free download snipping tool windows 11",
+      "root": "downloader",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-snipping-windows-11"
+    },
+    {
+      "keyword": "free download sadp tool for hikvision",
+      "root": "downloader",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-sadp-for-hikvision"
+    },
+    {
+      "keyword": "free download mini tools partition wizard",
+      "root": "downloader",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-minis-partition-wizard"
+    },
+    {
+      "keyword": "ai video downloader online",
+      "root": "downloader",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-downloader-online"
+    },
+    {
+      "keyword": "ai song downloader online",
+      "root": "downloader",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-downloader-online"
+    },
+    {
+      "keyword": "presentation ai downloader online",
+      "root": "downloader",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "presentation-downloader-online"
+    },
+    {
+      "keyword": "meta ai downloader online",
+      "root": "downloader",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "meta-downloader-online"
+    },
+    {
+      "keyword": "ai video downloader online free",
+      "root": "downloader",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-downloader-free"
+    },
+    {
+      "keyword": "ai music downloader online free",
+      "root": "downloader",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-downloader-free"
+    },
+    {
+      "keyword": "suno ai downloader online",
+      "root": "downloader",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "suno-downloader-online"
+    },
+    {
+      "keyword": "ai voice download online",
+      "root": "downloader",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-download-online"
+    },
+    {
+      "keyword": "download converter free",
+      "root": "downloader",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-converter-free"
+    },
+    {
+      "keyword": "download converter free mp3",
+      "root": "downloader",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-converter-mp3"
+    },
+    {
+      "keyword": "download free converter pdf to word",
+      "root": "downloader",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-converter-pdf-to-word"
+    },
+    {
+      "keyword": "download free converter video",
+      "root": "downloader",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-converter-video"
+    },
+    {
+      "keyword": "download free converter pdf to excel",
+      "root": "downloader",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-converter-pdf-to-excel"
+    },
+    {
+      "keyword": "download free converter jpg to pdf",
+      "root": "downloader",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-converter-jpg-to-pdf"
+    },
+    {
+      "keyword": "download free converter mp4",
+      "root": "downloader",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-converter-mp4"
+    },
+    {
+      "keyword": "download free converter pdf to powerpoint",
+      "root": "downloader",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-converter-pdf-to-powerpoint"
+    },
+    {
+      "keyword": "download free converter mkv to mp4",
+      "root": "downloader",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-converter-mkv-to-mp4"
+    },
+    {
+      "keyword": "music downloader converter free",
+      "root": "downloader",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-downloader-converter-free"
+    },
+    {
+      "keyword": "free search tool",
+      "root": "finder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "search"
+    },
+    {
+      "keyword": "free search tool for llm",
+      "root": "finder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "search-for-llm"
+    },
+    {
+      "keyword": "free search tool for windows 10",
+      "root": "finder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "search-for-windows-10"
+    },
+    {
+      "keyword": "free search tool for windows",
+      "root": "finder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "search-for-windows"
+    },
+    {
+      "keyword": "free search tool langchain",
+      "root": "finder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "search-langchain"
+    },
+    {
+      "keyword": "free search tool for ai",
+      "root": "finder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "search-for-ai"
+    },
+    {
+      "keyword": "free email finder tool",
+      "root": "finder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "email-finder"
+    },
+    {
+      "keyword": "free niche finder tool",
+      "root": "finder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "niche-finder"
+    },
+    {
+      "keyword": "free keyword finder tool",
+      "root": "finder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "keyword-finder"
+    },
+    {
+      "keyword": "ai song finder online",
+      "root": "finder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-finder-online"
+    },
+    {
+      "keyword": "ai photo finder online",
+      "root": "finder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-finder-online"
+    },
+    {
+      "keyword": "ai image finder online",
+      "root": "finder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-finder-online"
+    },
+    {
+      "keyword": "ai chord finder online",
+      "root": "finder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "chord-finder-online"
+    },
+    {
+      "keyword": "ai music finder online",
+      "root": "finder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-finder-online"
+    },
+    {
+      "keyword": "ai video finder online",
+      "root": "finder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-finder-online"
+    },
+    {
+      "keyword": "ai face finder online free",
+      "root": "finder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-finder-free"
+    },
+    {
+      "keyword": "ai face finder online",
+      "root": "finder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-finder-online"
+    },
+    {
+      "keyword": "ai song finder online free",
+      "root": "finder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-finder-free"
+    },
+    {
+      "keyword": "ai finder",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder"
+    },
+    {
+      "keyword": "ai finder image",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-image"
+    },
+    {
+      "keyword": "ai finder free",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-free"
+    },
+    {
+      "keyword": "ai finder essay",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-essay"
+    },
+    {
+      "keyword": "ai finder text",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-text"
+    },
+    {
+      "keyword": "ai finder photo",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-photo"
+    },
+    {
+      "keyword": "ai finder person",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-person"
+    },
+    {
+      "keyword": "ai finder video",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-video"
+    },
+    {
+      "keyword": "ai finder tool",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder"
+    },
+    {
+      "keyword": "ai finder in writing",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-in-writing"
+    },
+    {
+      "keyword": "free finder",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder"
+    },
+    {
+      "keyword": "free finder people",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-people"
+    },
+    {
+      "keyword": "free finder app",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-app"
+    },
+    {
+      "keyword": "free finder alternative mac",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-alternative-mac"
+    },
+    {
+      "keyword": "free finder stuff",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-stuff"
+    },
+    {
+      "keyword": "free find phone number",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "find-phone-number"
+    },
+    {
+      "keyword": "free finder sab",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-sab"
+    },
+    {
+      "keyword": "free finder budget planner",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-budget-planner"
+    },
+    {
+      "keyword": "free finder words",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-words"
+    },
+    {
+      "keyword": "free finder number",
+      "root": "finder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "finder-number"
+    },
+    {
+      "keyword": "ai colorizer",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorizer"
+    },
+    {
+      "keyword": "ai colorizer video",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorizer-video"
+    },
+    {
+      "keyword": "ai colorizer online",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorizer-online"
+    },
+    {
+      "keyword": "ai colorize photo",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize-photo"
+    },
+    {
+      "keyword": "ai colorize image",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize-image"
+    },
+    {
+      "keyword": "ai colorize black and white photo",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize-black-and-white-photo"
+    },
+    {
+      "keyword": "ai colorize video free",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize-video-free"
+    },
+    {
+      "keyword": "ai colorize photo free",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize-photo-free"
+    },
+    {
+      "keyword": "ai colorize old photos",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize-old-photos"
+    },
+    {
+      "keyword": "ai colorize photo online free",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize-photo-free"
+    },
+    {
+      "keyword": "free colorizer",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorizer"
+    },
+    {
+      "keyword": "free colorizer online",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorizer-online"
+    },
+    {
+      "keyword": "free colorizer ai",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorizer-ai"
+    },
+    {
+      "keyword": "free colorize app",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorize-app"
+    },
+    {
+      "keyword": "free colorizer reddit",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorizer-reddit"
+    },
+    {
+      "keyword": "colorizer free download",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "colorizer-download"
+    },
+    {
+      "keyword": "free photo colorizer",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-colorizer"
+    },
+    {
+      "keyword": "free video colorizer",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-colorizer"
+    },
+    {
+      "keyword": "free photo colorizer online",
+      "root": "colorizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-colorizer-online"
+    },
+    {
+      "keyword": "ai enhancer",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer"
+    },
+    {
+      "keyword": "ai enhancer photo",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-photo"
+    },
+    {
+      "keyword": "ai enhancer image free",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-image-free"
+    },
+    {
+      "keyword": "ai enhancer video",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-video"
+    },
+    {
+      "keyword": "ai enhance image",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhance-image"
+    },
+    {
+      "keyword": "ai enhancer video free",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-video-free"
+    },
+    {
+      "keyword": "ai enhancer.ai",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer.ai"
+    },
+    {
+      "keyword": "ai enhancer free online",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-online"
+    },
+    {
+      "keyword": "ai enhancer audio",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-audio"
+    },
+    {
+      "keyword": "ai enhancer app",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-app"
+    },
+    {
+      "keyword": "free enhancer",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer"
+    },
+    {
+      "keyword": "free enhancer photo",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-photo"
+    },
+    {
+      "keyword": "free enhancer video",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-video"
+    },
+    {
+      "keyword": "free enhancer ai",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-ai"
+    },
+    {
+      "keyword": "free enhancer online",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-online"
+    },
+    {
+      "keyword": "free enhancer app",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-app"
+    },
+    {
+      "keyword": "free enhancer photo online",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-photo-online"
+    },
+    {
+      "keyword": "free enhance image",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhance-image"
+    },
+    {
+      "keyword": "free enhancer video quality",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-video-quality"
+    },
+    {
+      "keyword": "free enhancer video online",
+      "root": "enhancer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhancer-video-online"
+    },
+    {
+      "keyword": "ai downloader",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader"
+    },
+    {
+      "keyword": "ai downloader app",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-app"
+    },
+    {
+      "keyword": "ai downloader video",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-video"
+    },
+    {
+      "keyword": "ai downloader free",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-free"
+    },
+    {
+      "keyword": "ai downloader mp3",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-mp3"
+    },
+    {
+      "keyword": "ai downloader online",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-online"
+    },
+    {
+      "keyword": "ai downloader youtube",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-youtube"
+    },
+    {
+      "keyword": "ai download apk",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-apk"
+    },
+    {
+      "keyword": "ai downloader file",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-file"
+    },
+    {
+      "keyword": "ai downloader yt",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-yt"
+    },
+    {
+      "keyword": "free downloader",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader"
+    },
+    {
+      "keyword": "free downloader app",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-app"
+    },
+    {
+      "keyword": "free downloader codes for firestick",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-codes-for-firestick"
+    },
+    {
+      "keyword": "free downloader music mp3",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-music-mp3"
+    },
+    {
+      "keyword": "free downloader apk for android",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-apk-for-android"
+    },
+    {
+      "keyword": "free downloader video",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-video"
+    },
+    {
+      "keyword": "free download manager",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "download-manager"
+    },
+    {
+      "keyword": "free downloader for music",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-for-music"
+    },
+    {
+      "keyword": "free downloader codes for android tv",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-codes-for-android-tv"
+    },
+    {
+      "keyword": "free downloader for firestick",
+      "root": "downloader",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "downloader-for-firestick"
+    },
+    {
+      "keyword": "ai counter",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter"
+    },
+    {
+      "keyword": "ai counter from image",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-from-image"
+    },
+    {
+      "keyword": "ai countertop visualizer",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "countertop-visualizer"
+    },
+    {
+      "keyword": "ai counter app",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-app"
+    },
+    {
+      "keyword": "ai countertops",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "countertops"
+    },
+    {
+      "keyword": "ai counterfeit detection",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counterfeit-detection"
+    },
+    {
+      "keyword": "ai counter argument",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-argument"
+    },
+    {
+      "keyword": "ai counter words",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-words"
+    },
+    {
+      "keyword": "ai counter online",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-online"
+    },
+    {
+      "keyword": "ai counter detector",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-detector"
+    },
+    {
+      "keyword": "free counterspell mtg",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counterspell-mtg"
+    },
+    {
+      "keyword": "free counterspells",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counterspells"
+    },
+    {
+      "keyword": "free counter",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter"
+    },
+    {
+      "keyword": "free countertop calculator",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "countertop-calculator"
+    },
+    {
+      "keyword": "free counter app",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-app"
+    },
+    {
+      "keyword": "free countertops",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "countertops"
+    },
+    {
+      "keyword": "free counterpoint",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counterpoint"
+    },
+    {
+      "keyword": "free countertop samples",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "countertop-samples"
+    },
+    {
+      "keyword": "free countertop remnants near me",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "countertop-remnants-near-me"
+    },
+    {
+      "keyword": "free counter mtg",
+      "root": "counter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "counter-mtg"
+    },
+    {
+      "keyword": "ai song generator",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator"
+    },
+    {
+      "keyword": "ai song maker",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-maker"
+    },
+    {
+      "keyword": "ai song",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song"
+    },
+    {
+      "keyword": "ai song maker free",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-maker-free"
+    },
+    {
+      "keyword": "ai song writer",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-writer"
+    },
+    {
+      "keyword": "ai song lyrics generator",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-lyrics-generator"
+    },
+    {
+      "keyword": "ai song cover",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-cover"
+    },
+    {
+      "keyword": "ai song detector",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-detector"
+    },
+    {
+      "keyword": "ai song checker",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-checker"
+    },
+    {
+      "keyword": "ai song finder",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-finder"
+    },
+    {
+      "keyword": "ai song extender",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-extender"
+    },
+    {
+      "keyword": "free song",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song"
+    },
+    {
+      "keyword": "free song lyrics",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-lyrics"
+    },
+    {
+      "keyword": "free song downloads",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-downloads"
+    },
+    {
+      "keyword": "free song maker",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-maker"
+    },
+    {
+      "keyword": "free song generator",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator"
+    },
+    {
+      "keyword": "free song generator ai",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-generator-ai"
+    },
+    {
+      "keyword": "free song kpop demon hunters",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-kpop-demon-hunters"
+    },
+    {
+      "keyword": "free song mastering",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-mastering"
+    },
+    {
+      "keyword": "free song creator",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-creator"
+    },
+    {
+      "keyword": "free song downloads mp3",
+      "root": "song",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-downloads-mp3"
+    },
+    {
+      "keyword": "ai restorer",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "restorer"
+    },
+    {
+      "keyword": "ai photo restorer",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-restorer"
+    },
+    {
+      "keyword": "ai photo restorer free",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-restorer-free"
+    },
+    {
+      "keyword": "ai picture restorer free",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "picture-restorer-free"
+    },
+    {
+      "keyword": "ai video restorer",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-restorer"
+    },
+    {
+      "keyword": "ai audio restorer",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-restorer"
+    },
+    {
+      "keyword": "face restore ai",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-restore-ai"
+    },
+    {
+      "keyword": "free photo restorer",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-restorer"
+    },
+    {
+      "keyword": "free photo restorer app",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-restorer-app"
+    },
+    {
+      "keyword": "free photo restorer online",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-restorer-online"
+    },
+    {
+      "keyword": "free photo restorer ai",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-restorer-ai"
+    },
+    {
+      "keyword": "free file restorer",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "file-restorer"
+    },
+    {
+      "keyword": "free video restorer",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-restorer"
+    },
+    {
+      "keyword": "free image restorer ai",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-restorer-ai"
+    },
+    {
+      "keyword": "free image restorer online",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "image-restorer-online"
+    },
+    {
+      "keyword": "free old photo restorer",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "old-photo-restorer"
+    },
+    {
+      "keyword": "free ai photo restorer online",
+      "root": "restorer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-restorer-online"
+    },
+    {
+      "keyword": "ai upscaler",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler"
+    },
+    {
+      "keyword": "ai upscaler free",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-free"
+    },
+    {
+      "keyword": "ai upscaler video",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-video"
+    },
+    {
+      "keyword": "ai upscaler image",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-image"
+    },
+    {
+      "keyword": "ai upscaler reddit",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-reddit"
+    },
+    {
+      "keyword": "ai upscaler video free",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-video-free"
+    },
+    {
+      "keyword": "ai upscaler 4k",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-4k"
+    },
+    {
+      "keyword": "ai upscaler photoshop",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-photoshop"
+    },
+    {
+      "keyword": "ai upscaler png",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-png"
+    },
+    {
+      "keyword": "ai upscaler online",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-online"
+    },
+    {
+      "keyword": "free upscaler",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler"
+    },
+    {
+      "keyword": "free upscaler video",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-video"
+    },
+    {
+      "keyword": "free upscaler for images",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-for-images"
+    },
+    {
+      "keyword": "free upscaler ai",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-ai"
+    },
+    {
+      "keyword": "free upscaler online",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-online"
+    },
+    {
+      "keyword": "free upscaler reddit",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-reddit"
+    },
+    {
+      "keyword": "free upscaler no sign up",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-no-sign-up"
+    },
+    {
+      "keyword": "free upscaler video online",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-video-online"
+    },
+    {
+      "keyword": "free upscaler 4k",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-4k"
+    },
+    {
+      "keyword": "free upscaler video ai",
+      "root": "upscaler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "upscaler-video-ai"
     }
   ],
   "existing": [
@@ -5046,6 +8052,51 @@
       "discovered": "2026-03-19",
       "already_have": true,
       "suggested_slug": "image-converter-online"
+    },
+    {
+      "keyword": "upscale image converter free",
+      "root": "upscaler",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "upscale-image-converter-free"
+    },
+    {
+      "keyword": "best color palette generator",
+      "root": "colorizer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "color-palette-generator"
+    },
+    {
+      "keyword": "best color palette generator free",
+      "root": "colorizer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "color-palette-generator-free"
+    },
+    {
+      "keyword": "free word counter tool",
+      "root": "counter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "word-counter"
+    },
+    {
+      "keyword": "free online word counter tool",
+      "root": "counter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": true,
+      "suggested_slug": "word-counter"
     }
   ]
 }

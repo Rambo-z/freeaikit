@@ -1,8 +1,8 @@
 {
   "date": "2026-03-19",
-  "batch": 8,
-  "total_rising_found": 78,
-  "new_opportunities": 74,
+  "batch": 9,
+  "total_rising_found": 140,
+  "new_opportunities": 136,
   "existing_matches": 4,
   "errors": 4,
   "opportunities": [
@@ -37,6 +37,16 @@
       "suggested_slug": "google-studio"
     },
     {
+      "keyword": "free kpop demon hunters",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 64900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "kpop-demon-hunters"
+    },
+    {
       "keyword": "ai news today",
       "root": "compressor",
       "prefix": "online",
@@ -45,6 +55,16 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "news-today"
+    },
+    {
+      "keyword": "lupa upscaler",
+      "root": "upscaler",
+      "prefix": "ai",
+      "trend_score": 40750,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "lupa-upscaler"
     },
     {
       "keyword": "new york times",
@@ -57,6 +77,16 @@
       "suggested_slug": "new-york-times"
     },
     {
+      "keyword": "zoviz image upscaler",
+      "root": "upscaler",
+      "prefix": "free",
+      "trend_score": 33450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "zoviz-image-upscaler"
+    },
+    {
       "keyword": "eu ai act news",
       "root": "compressor",
       "prefix": "ai",
@@ -65,6 +95,26 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "eu-act-news"
+    },
+    {
+      "keyword": "aiarty video enhancer",
+      "root": "enhancer",
+      "prefix": "ai",
+      "trend_score": 30700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "aiarty-video-enhancer"
+    },
+    {
+      "keyword": "free lyrics kpop demon hunters",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 28850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "lyrics-kpop-demon-hunters"
     },
     {
       "keyword": "ilovepdf",
@@ -77,6 +127,86 @@
       "suggested_slug": "ilovepdf"
     },
     {
+      "keyword": "imgupscaler",
+      "root": "upscaler",
+      "prefix": "free",
+      "trend_score": 25500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "imgupscaler"
+    },
+    {
+      "keyword": "fotor ai video upscaler",
+      "root": "upscaler",
+      "prefix": "ai",
+      "trend_score": 25000,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "fotor-video-upscaler"
+    },
+    {
+      "keyword": "photogrid ai image enhancer",
+      "root": "enhancer",
+      "prefix": "ai",
+      "trend_score": 23450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photogrid-image-enhancer"
+    },
+    {
+      "keyword": "photogrid",
+      "root": "enhancer",
+      "prefix": "free",
+      "trend_score": 21500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photogrid"
+    },
+    {
+      "keyword": "photoapp ai photo enhancer",
+      "root": "enhancer",
+      "prefix": "ai",
+      "trend_score": 20600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photoapp-photo-enhancer"
+    },
+    {
+      "keyword": "ai face swap",
+      "root": "upscaler",
+      "prefix": "free",
+      "trend_score": 20550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap"
+    },
+    {
+      "keyword": "vmake ai",
+      "root": "upscaler",
+      "prefix": "ai",
+      "trend_score": 19950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "vmake-ai"
+    },
+    {
+      "keyword": "remaker ai photo enhancer",
+      "root": "enhancer",
+      "prefix": "ai",
+      "trend_score": 18300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remaker-photo-enhancer"
+    },
+    {
       "keyword": "pdf combiner",
       "root": "compressor",
       "prefix": "online",
@@ -85,6 +215,26 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "pdf-combiner"
+    },
+    {
+      "keyword": "ai country song walk my walk",
+      "root": "song",
+      "prefix": "ai",
+      "trend_score": 17600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "country-song-walk-my-walk"
+    },
+    {
+      "keyword": "picwand ai video upscaler",
+      "root": "upscaler",
+      "prefix": "ai",
+      "trend_score": 16700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "picwand-video-upscaler"
     },
     {
       "keyword": "pdf24",
@@ -105,6 +255,26 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "smallpdf"
+    },
+    {
+      "keyword": "enhance photo 4k free",
+      "root": "enhancer",
+      "prefix": "free",
+      "trend_score": 14950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "enhance-photo-4k-free"
+    },
+    {
+      "keyword": "remove background from photo online",
+      "root": "song",
+      "prefix": "online",
+      "trend_score": 14700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remove-background-from-photo-online"
     },
     {
       "keyword": "best online learning platforms",
@@ -137,6 +307,46 @@
       "suggested_slug": "pdfgear"
     },
     {
+      "keyword": "meditation timer online",
+      "root": "song",
+      "prefix": "online",
+      "trend_score": 13750,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "meditation-timer-online"
+    },
+    {
+      "keyword": "create online survey free",
+      "root": "song",
+      "prefix": "online",
+      "trend_score": 12900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "create-survey-free"
+    },
+    {
+      "keyword": "alysa liu free skate song",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 12750,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "alysa-liu-skate-song"
+    },
+    {
+      "keyword": "best free cloud storage",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 12200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "best-cloud-storage"
+    },
+    {
       "keyword": "mp4 to gif",
       "root": "compressor",
       "prefix": "ai",
@@ -157,6 +367,56 @@
       "suggested_slug": "tinypng"
     },
     {
+      "keyword": "mov to mp4",
+      "root": "upscaler",
+      "prefix": "free",
+      "trend_score": 9800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "mov-to-mp4"
+    },
+    {
+      "keyword": "audiobooks free trial",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 9300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audiobooks-trial"
+    },
+    {
+      "keyword": "free stock photos no attribution",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 9150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "stock-photos-no-attribution"
+    },
+    {
+      "keyword": "free mindfulness apps",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 9050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "mindfulness-apps"
+    },
+    {
+      "keyword": "gluten free pizza crust recipe",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 9000,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "gluten-pizza-crust-recipe"
+    },
+    {
       "keyword": "file compare online",
       "root": "compressor",
       "prefix": "online",
@@ -165,6 +425,46 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "file-compare-online"
+    },
+    {
+      "keyword": "best free note taking apps",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 8950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "best-note-taking-apps"
+    },
+    {
+      "keyword": "best free drawing software",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 8800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "best-drawing-software"
+    },
+    {
+      "keyword": "best free email clients",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 8700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "best-email-clients"
+    },
+    {
+      "keyword": "free coding practice sites",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 8550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "coding-practice-sites"
     },
     {
       "keyword": "walter writes ai",
@@ -185,6 +485,26 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "youtube-to-mps-converter-online"
+    },
+    {
+      "keyword": "haven ai song removed",
+      "root": "song",
+      "prefix": "ai",
+      "trend_score": 6350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "haven-song-removed"
+    },
+    {
+      "keyword": "avif to jpg",
+      "root": "upscaler",
+      "prefix": "ai",
+      "trend_score": 6000,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg"
     },
     {
       "keyword": "epoch time converter",
@@ -235,6 +555,16 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "tinkercad"
+    },
+    {
+      "keyword": "free song kpop demon hunters",
+      "root": "song",
+      "prefix": "free",
+      "trend_score": 4600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "song-kpop-demon-hunters"
     },
     {
       "keyword": "hedra ai",
@@ -357,6 +687,36 @@
       "suggested_slug": "air-compressor-for-car"
     },
     {
+      "keyword": "bg remover",
+      "root": "enhancer",
+      "prefix": "ai",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "bg-remover"
+    },
+    {
+      "keyword": "imgupscaler ai",
+      "root": "upscaler",
+      "prefix": "ai",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "imgupscaler-ai"
+    },
+    {
+      "keyword": "unifab video upscaler ai",
+      "root": "upscaler",
+      "prefix": "ai",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "unifab-video-upscaler-ai"
+    },
+    {
       "keyword": "time converter",
       "root": "converter",
       "prefix": "ai",
@@ -365,6 +725,16 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "time-converter"
+    },
+    {
+      "keyword": "remaker ai",
+      "root": "enhancer",
+      "prefix": "ai",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "remaker-ai"
     },
     {
       "keyword": "best pdf to word converter online",
@@ -405,6 +775,16 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "video-converter"
+    },
+    {
+      "keyword": "topaz photo ai",
+      "root": "enhancer",
+      "prefix": "online",
+      "trend_score": 170,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "topaz-photo-ai"
     },
     {
       "keyword": "case converter online",
@@ -537,6 +917,16 @@
       "suggested_slug": "heic-to-pdf-converter-free"
     },
     {
+      "keyword": "lyrics to song ai",
+      "root": "song",
+      "prefix": "ai",
+      "trend_score": 110,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "lyrics-to-song-ai"
+    },
+    {
       "keyword": "png to svg",
       "root": "converter",
       "prefix": "free",
@@ -607,144 +997,14 @@
       "suggested_slug": "time-converter-online"
     },
     {
-      "keyword": "png to pdf",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "png-to-pdf"
-    },
-    {
-      "keyword": "png converter free",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "png-converter-free"
-    },
-    {
-      "keyword": "spotify mp3 converter free",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "spotify-mp3-converter-free"
-    },
-    {
-      "keyword": "money converter",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "money-converter"
-    },
-    {
-      "keyword": "html to pdf converter free",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "html-to-pdf-converter-free"
-    },
-    {
-      "keyword": "xapk to apk converter online",
-      "root": "converter",
-      "prefix": "online",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "xapk-to-apk-converter-online"
-    },
-    {
-      "keyword": "spotify to mp3 converter online",
-      "root": "converter",
-      "prefix": "online",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "spotify-to-mp3-converter-online"
-    },
-    {
-      "keyword": "png to epub",
-      "root": "converter",
-      "prefix": "online",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "png-to-epub"
-    },
-    {
-      "keyword": "air compressor online",
-      "root": "compressor",
-      "prefix": "online",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "air-compressor-online"
-    },
-    {
-      "keyword": "air compressor",
-      "root": "compressor",
-      "prefix": "online",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "air-compressor"
-    },
-    {
-      "keyword": "midi converter online",
-      "root": "converter",
-      "prefix": "online",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "midi-converter-online"
-    },
-    {
-      "keyword": "google ai",
-      "root": "compressor",
+      "keyword": "aiarty image enhancer",
+      "root": "enhancer",
       "prefix": "ai",
-      "trend_score": 60,
+      "trend_score": 100,
       "source": "google_trends_rising",
       "discovered": "2026-03-19",
       "already_have": false,
-      "suggested_slug": "google-ai"
-    },
-    {
-      "keyword": "claude ai",
-      "root": "compressor",
-      "prefix": "ai",
-      "trend_score": 40,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "claude-ai"
-    },
-    {
-      "keyword": "photo compressor",
-      "root": "compressor",
-      "prefix": "free",
-      "trend_score": 40,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-19",
-      "already_have": false,
-      "suggested_slug": "photo-compressor"
+      "suggested_slug": "aiarty-image-enhancer"
     }
   ],
   "existing": [
