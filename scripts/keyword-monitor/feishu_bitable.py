@@ -139,6 +139,11 @@ def create_record(token, opportunity):
         "\u53d1\u73b0\u65e5\u671f": date_ms,
     }
 
+    # Add difficulty if estimated
+    difficulty = opportunity.get("difficulty", "")
+    if difficulty:
+        fields["\u96be\u5ea6"] = difficulty
+
     payload = json.dumps({"fields": fields}).encode("utf-8")
     req = urllib.request.Request(url, data=payload, headers=headers)
 

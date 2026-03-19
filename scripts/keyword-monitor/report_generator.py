@@ -13,7 +13,7 @@ import os
 import sys
 from datetime import datetime, timezone
 
-from config import DATA_DIR, EXISTING_SLUGS
+from config import DATA_DIR, DIFFICULTY_RULES, EXISTING_SLUGS, TOOL_SIGNAL_WORDS
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -70,9 +70,41 @@ def merge_opportunities(trends_data, suggest_data):
             continue
         if data["suggested_slug"] in EXISTING_SLUGS:
             continue
-        # Score: base 100 for suggest, trend_score on top, bonus for multiple sources
-        base = 100 if "suggest" in data["sources"] else 0
-        data["combined_score"] = base + data["trend_score"] + (len(data["sources"]) - 1) * 200
+        # Smart scoring
+        kw_lower = kw.lower()
+        score = data["trend_score"]
+
+        # +50 for each tool-signal word in the keyword
+        tool_hits = sum(1 for w in TOOL_SIGNAL_WORDS if w in kw_lower)
+        score += tool_hits * 50
+
+        # +30 for containing "free" or "online" (high commercial intent)
+        if "free" in kw_lower:
+            score += 30
+        if "online" in kw_lower:
+            score += 30
+
+        # +200 bonus if found in both Trends and Suggest
+        if len(data["sources"]) > 1:
+            score += 200
+
+        # Shorter keywords tend to have higher search volume
+        word_count = len(kw.split())
+        if word_count <= 3:
+            score += 40
+        elif word_count <= 4:
+            score += 20
+
+        data["combined_score"] = score
+
+        # Auto-estimate difficulty
+        difficulty = ""
+        for keywords_list, level in DIFFICULTY_RULES:
+            if any(dk in kw_lower for dk in keywords_list):
+                difficulty = level
+                break
+        data["difficulty"] = difficulty
+
         opportunities.append(data)
 
     # Sort by combined score

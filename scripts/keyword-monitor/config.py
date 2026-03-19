@@ -84,6 +84,36 @@ NOISE_WORDS = [
     "vs ", "versus", "alternative to",
 ]
 
+# Tool-like signal words (keyword containing these gets higher score)
+TOOL_SIGNAL_WORDS = [
+    "tool", "generator", "converter", "maker", "creator", "editor",
+    "checker", "builder", "remover", "compressor", "formatter",
+    "optimizer", "analyzer", "detector", "extractor", "calculator",
+    "encoder", "decoder", "translator", "enhancer", "resizer",
+    "downloader", "tester", "validator", "scanner", "viewer",
+]
+
+# Auto-difficulty estimation rules
+# keyword contains → difficulty level
+DIFFICULTY_RULES = [
+    # 纯前端: text manipulation, generators, formatters
+    (["text", "font", "color", "gradient", "css", "json", "xml", "yaml",
+      "markdown", "html", "csv", "base64", "hash", "uuid", "password",
+      "regex", "url", "timestamp", "calculator", "counter", "formatter",
+      "encoder", "decoder", "converter text", "diff", "lorem", "emoji",
+      "qr code", "slug"], "纯前端"),
+    # 需WASM: image/video/audio/pdf processing
+    (["image", "photo", "picture", "video", "audio", "pdf", "svg",
+      "gif", "png", "jpg", "webp", "compress", "resize", "crop",
+      "watermark", "blur", "filter", "face", "portrait", "background",
+      "remover", "enhancer", "restorer"], "需WASM"),
+    # 需API: AI-powered, external data, content generation
+    (["ai ", "summarize", "paraphrase", "humanize", "translate",
+      "detect", "plagiarism", "seo", "backlink", "keyword",
+      "content generator", "email generator", "speech", "voice",
+      "chatbot", "advisor"], "需API"),
+]
+
 # Output paths
 import os
 import math
