@@ -1,8 +1,8 @@
 {
   "date": "2026-03-19",
-  "batch": 9,
-  "total_rising_found": 140,
-  "new_opportunities": 136,
+  "batch": 10,
+  "total_rising_found": 104,
+  "new_opportunities": 100,
   "existing_matches": 4,
   "errors": 4,
   "opportunities": [
