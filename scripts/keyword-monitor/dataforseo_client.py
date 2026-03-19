@@ -46,7 +46,7 @@ def get_rising_queries(keyword, location_code=2840, language_code="en"):
     """Get Google Trends rising queries for a keyword.
 
     Returns list of {"query": str, "value": int} dicts.
-    Cost: ~$0.001 per call.
+    Cost: ~$0.009 per call.
     """
     result = _post("/keywords_data/google_trends/explore/live", [
         {
@@ -54,7 +54,8 @@ def get_rising_queries(keyword, location_code=2840, language_code="en"):
             "location_code": location_code,
             "language_code": language_code,
             "type": "web",
-            "time_range": "past_7_days",
+            "time_range": "past_12_months",
+            "item_types": ["google_trends_queries_list"],
         }
     ])
 
@@ -67,15 +68,18 @@ def get_rising_queries(keyword, location_code=2840, language_code="en"):
     try:
         tasks = result.get("tasks", [])
         for task in tasks:
-            for item in task.get("result", []):
-                # Navigate to related queries
-                for rq in item.get("related_queries", []):
-                    if rq.get("type") == "rising":
-                        for entry in rq.get("data", []):
-                            rising.append({
-                                "query": entry.get("query", ""),
-                                "value": entry.get("value", 0),
-                            })
+            if task.get("status_code") != 20000:
+                continue
+            for res in task.get("result", []):
+                for item in res.get("items", []):
+                    if item.get("type") != "google_trends_queries_list":
+                        continue
+                    data = item.get("data", {})
+                    for entry in data.get("rising", []):
+                        rising.append({
+                            "query": entry.get("query", ""),
+                            "value": entry.get("value", 0),
+                        })
     except Exception as e:
         print(f"  Error parsing trends response: {e}")
 
@@ -88,7 +92,7 @@ def get_search_volume(keywords, location_code=2840, language_code="en"):
     Accepts up to 1000 keywords per call.
     Cost: ~$0.05 per 1000 keywords.
 
-    Returns dict: {keyword: {"volume": int, "cpc": float, "competition": float}}
+    Returns dict: {keyword: {"volume": int, "cpc": float, "competition": str}}
     """
     if not keywords:
         return {}
@@ -112,10 +116,18 @@ def get_search_volume(keywords, location_code=2840, language_code="en"):
         for task in tasks:
             for item in task.get("result", []):
                 kw = item.get("keyword", "")
+                vol = item.get("search_volume") or 0
+                cpc = item.get("cpc") or 0
+                # competition can be a string like "LOW"/"MEDIUM"/"HIGH" or a number
+                comp_raw = item.get("competition")
+                if isinstance(comp_raw, str):
+                    comp = {"LOW": 0.2, "MEDIUM": 0.5, "HIGH": 0.8}.get(comp_raw.upper(), 0)
+                else:
+                    comp = comp_raw or 0
                 volumes[kw.lower()] = {
-                    "volume": item.get("search_volume", 0) or 0,
-                    "cpc": item.get("cpc", 0) or 0,
-                    "competition": item.get("competition", 0) or 0,
+                    "volume": vol,
+                    "cpc": round(cpc, 2) if isinstance(cpc, float) else cpc,
+                    "competition": comp,
                 }
     except Exception as e:
         print(f"  Error parsing volume response: {e}")

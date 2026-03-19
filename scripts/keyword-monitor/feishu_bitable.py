@@ -144,16 +144,10 @@ def create_record(token, opportunity):
     if difficulty:
         fields["\u96be\u5ea6"] = difficulty
 
-    # Add search volume, CPC, competition as separate number fields
-    vol = opportunity.get("search_volume", 0)
-    if vol:
-        fields["\u6708\u641c\u7d22\u91cf"] = vol
-    cpc = opportunity.get("cpc", 0)
-    if cpc:
-        fields["CPC"] = cpc
-    competition = opportunity.get("competition", 0)
-    if competition:
-        fields["\u7ade\u4e89\u5ea6"] = competition
+    # Always write search volume, CPC, competition (even if 0)
+    fields["\u6708\u641c\u7d22\u91cf"] = opportunity.get("search_volume", 0)
+    fields["CPC"] = opportunity.get("cpc", 0)
+    fields["\u7ade\u4e89\u5ea6"] = opportunity.get("competition", 0)
 
     payload = json.dumps({"fields": fields}).encode("utf-8")
     req = urllib.request.Request(url, data=payload, headers=headers)
