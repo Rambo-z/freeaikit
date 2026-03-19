@@ -52,13 +52,6 @@ jobs:
           FEISHU_BITABLE_TABLE: tbl9yk0J67xFBJ2N
         run: python report_generator.py
 
-      - name: Send Feishu notification
-        if: env.FEISHU_WEBHOOK_URL != ''
-        working-directory: scripts/keyword-monitor
-        env:
-          FEISHU_WEBHOOK_URL: ${{ secrets.FEISHU_WEBHOOK_URL }}
-        run: python feishu_notify.py
-
       - name: Commit reports to repository
         run: |
           git config user.name "keyword-bot"
