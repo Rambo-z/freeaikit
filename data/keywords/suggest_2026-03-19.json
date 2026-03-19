@@ -1,8 +1,8 @@
 {
   "date": "2026-03-19",
   "batch": 0,
-  "total_suggestions": 1276,
-  "new_opportunities": 1255,
+  "total_suggestions": 1277,
+  "new_opportunities": 1256,
   "existing_matches": 21,
   "opportunities": [
     {
@@ -11299,6 +11299,15 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "convert-png-to-pdf"
+    },
+    {
+      "keyword": "free convert heic to pdf",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "convert-heic-to-pdf"
     }
   ],
   "existing": [

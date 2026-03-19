@@ -1,10 +1,10 @@
 {
   "date": "2026-03-19",
   "stats": {
-    "trends_total": 151,
-    "suggest_total": 1276
+    "trends_total": 152,
+    "suggest_total": 1277
   },
-  "total_opportunities": 1222,
+  "total_opportunities": 1144,
   "top_50": [
     {
       "keyword": "ai face swap",
@@ -68,21 +68,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "free kpop demon hunters",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 64900,
-      "suggested_slug": "kpop-demon-hunters",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 850,
-      "difficulty": "",
-      "search_volume": 12100,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
       "keyword": "pdf combiner",
       "sources": [
         "trends_rising"
@@ -143,36 +128,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "convertio",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 1850,
-      "suggested_slug": "convertio",
-      "root": "convert",
-      "already_have": false,
-      "combined_score": 840,
-      "difficulty": "",
-      "search_volume": 27100,
-      "cpc": 2.2,
-      "competition": 0.2
-    },
-    {
-      "keyword": "free lyrics kpop demon hunters",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 28850,
-      "suggested_slug": "lyrics-kpop-demon-hunters",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 830,
-      "difficulty": "",
-      "search_volume": 22200,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
       "keyword": "check for ai",
       "sources": [
         "trends_rising"
@@ -185,36 +140,6 @@
       "difficulty": "",
       "search_volume": 40500,
       "cpc": 2.17,
-      "competition": 0.2
-    },
-    {
-      "keyword": "ai mode",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 700,
-      "suggested_slug": "mode",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 740,
-      "difficulty": "需API",
-      "search_volume": 1830000,
-      "cpc": 1.32,
-      "competition": 0.2
-    },
-    {
-      "keyword": "google ai mode",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 650,
-      "suggested_slug": "google-mode",
-      "root": "convert",
-      "already_have": false,
-      "combined_score": 740,
-      "difficulty": "需API",
-      "search_volume": 90500,
-      "cpc": 0.96,
       "competition": 0.2
     },
     {
@@ -233,18 +158,33 @@
       "competition": 0.2
     },
     {
-      "keyword": "remaker ai",
+      "keyword": "money converter",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 250,
-      "suggested_slug": "remaker-ai",
-      "root": "enhancer",
+      "trend_score": 200,
+      "suggested_slug": "money-converter",
+      "root": "converter",
       "already_have": false,
       "combined_score": 690,
       "difficulty": "",
-      "search_volume": 18100,
-      "cpc": 2.57,
+      "search_volume": 74000,
+      "cpc": 0.35,
+      "competition": 0.2
+    },
+    {
+      "keyword": "case converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 190,
+      "suggested_slug": "case-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 27100,
+      "cpc": 1.36,
       "competition": 0.2
     },
     {
@@ -263,21 +203,6 @@
       "competition": 0.5
     },
     {
-      "keyword": "jpg to pdf converter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 170,
-      "suggested_slug": "jpg-to-pdf-converter",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 670,
-      "difficulty": "需WASM",
-      "search_volume": 14800,
-      "cpc": 0.69,
-      "competition": 0.2
-    },
-    {
       "keyword": "free watermark remover tool",
       "sources": [
         "suggest"
@@ -293,18 +218,18 @@
       "competition": 0.2
     },
     {
-      "keyword": "cloud convert",
+      "keyword": "convert case",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 200,
-      "suggested_slug": "cloud-convert",
+      "trend_score": 350,
+      "suggested_slug": "convert-case",
       "root": "convert",
       "already_have": false,
       "combined_score": 640,
       "difficulty": "",
-      "search_volume": 74000,
-      "cpc": 3,
+      "search_volume": 27100,
+      "cpc": 1.36,
       "competition": 0.2
     },
     {
@@ -323,65 +248,49 @@
       "competition": 0.5
     },
     {
-      "keyword": "freeconvert video compressor",
+      "keyword": "free scheduling tool online",
       "sources": [
-        "trends_rising"
+        "suggest"
       ],
-      "trend_score": 12050,
-      "suggested_slug": "freeconvert-video-compressor",
-      "root": "compressor",
+      "trend_score": 0,
+      "suggested_slug": "scheduling-online",
+      "root": "scheduler",
       "already_have": false,
-      "combined_score": 620,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.84,
-      "competition": 0.2
-    },
-    {
-      "keyword": "aiarty video enhancer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 30700,
-      "suggested_slug": "aiarty-video-enhancer",
-      "root": "enhancer",
-      "already_have": false,
-      "combined_score": 590,
-      "difficulty": "需WASM",
-      "search_volume": 1300,
-      "cpc": 3.5,
+      "combined_score": 630,
+      "difficulty": "",
+      "search_volume": 12100,
+      "cpc": 11.16,
       "competition": 0.5
     },
     {
-      "keyword": "free song kpop demon hunters",
+      "keyword": "free barcode generator online",
       "sources": [
-        "trends_rising",
         "suggest"
       ],
-      "trend_score": 4600,
-      "suggested_slug": "song-kpop-demon-hunters",
-      "root": "song",
+      "trend_score": 0,
+      "suggested_slug": "barcode-generator-online",
+      "root": "barcode",
       "already_have": false,
-      "combined_score": 580,
+      "combined_score": 630,
       "difficulty": "",
-      "search_volume": 880,
-      "cpc": 0,
+      "search_volume": 14800,
+      "cpc": 3.46,
       "competition": 0.2
     },
     {
-      "keyword": "audiobooks free trial",
+      "keyword": "ai image generation tools",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 9300,
-      "suggested_slug": "audiobooks-trial",
-      "root": "song",
+      "trend_score": 15850,
+      "suggested_slug": "image-generations",
+      "root": "convert",
       "already_have": false,
       "combined_score": 570,
       "difficulty": "需WASM",
-      "search_volume": 2400,
-      "cpc": 10.59,
-      "competition": 0.8
+      "search_volume": 4400,
+      "cpc": 3.26,
+      "competition": 0.2
     },
     {
       "keyword": "file compare online",
@@ -396,66 +305,6 @@
       "difficulty": "",
       "search_volume": 2900,
       "cpc": 2.24,
-      "competition": 0.2
-    },
-    {
-      "keyword": "best free cloud storage",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 12200,
-      "suggested_slug": "best-cloud-storage",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 550,
-      "difficulty": "",
-      "search_volume": 1600,
-      "cpc": 5.63,
-      "competition": 0.2
-    },
-    {
-      "keyword": "imgupscaler",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 25500,
-      "suggested_slug": "imgupscaler",
-      "root": "upscaler",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "",
-      "search_volume": 4400,
-      "cpc": 1.96,
-      "competition": 0.2
-    },
-    {
-      "keyword": "photogrid",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 21500,
-      "suggested_slug": "photogrid",
-      "root": "enhancer",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "需WASM",
-      "search_volume": 8100,
-      "cpc": 1.59,
-      "competition": 0.2
-    },
-    {
-      "keyword": "vmake ai",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 19950,
-      "suggested_slug": "vmake-ai",
-      "root": "upscaler",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "",
-      "search_volume": 2900,
-      "cpc": 1.18,
       "competition": 0.2
     },
     {
@@ -474,21 +323,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "gluten free pizza crust recipe",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9000,
-      "suggested_slug": "gluten-pizza-crust-recipe",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 530,
-      "difficulty": "",
-      "search_volume": 3600,
-      "cpc": 0.4,
-      "competition": 0.2
-    },
-    {
       "keyword": "haven ai song removed",
       "sources": [
         "trends_rising"
@@ -501,156 +335,6 @@
       "difficulty": "需API",
       "search_volume": 5400,
       "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "topaz video enhance ai",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 3250,
-      "suggested_slug": "topaz-video-enhance-ai",
-      "root": "convert",
-      "already_have": false,
-      "combined_score": 520,
-      "difficulty": "需WASM",
-      "search_volume": 2400,
-      "cpc": 3.09,
-      "competition": 0.5
-    },
-    {
-      "keyword": "how to compress a video on iphone",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 8450,
-      "suggested_slug": "how-to-compress-a-video-on-iphone",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 500,
-      "difficulty": "需WASM",
-      "search_volume": 5400,
-      "cpc": 1.68,
-      "competition": 0.2
-    },
-    {
-      "keyword": "search atlas ai seo software",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 3850,
-      "suggested_slug": "search-atlas-seo-software",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 500,
-      "difficulty": "需API",
-      "search_volume": 3600,
-      "cpc": 11.94,
-      "competition": 0.5
-    },
-    {
-      "keyword": "remaker ai photo enhancer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 18300,
-      "suggested_slug": "remaker-photo-enhancer",
-      "root": "enhancer",
-      "already_have": false,
-      "combined_score": 470,
-      "difficulty": "需WASM",
-      "search_volume": 210,
-      "cpc": 4.96,
-      "competition": 0.2
-    },
-    {
-      "keyword": "ai cybersecurity",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 700,
-      "suggested_slug": "cybersecurity",
-      "root": "convert",
-      "already_have": false,
-      "combined_score": 440,
-      "difficulty": "需API",
-      "search_volume": 4400,
-      "cpc": 45.23,
-      "competition": 0.5
-    },
-    {
-      "keyword": "create online survey free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 12900,
-      "suggested_slug": "create-survey-free",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 430,
-      "difficulty": "",
-      "search_volume": 210,
-      "cpc": 9.71,
-      "competition": 0.5
-    },
-    {
-      "keyword": "photogrid ai image enhancer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 23450,
-      "suggested_slug": "photogrid-image-enhancer",
-      "root": "enhancer",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 720,
-      "cpc": 2.4,
-      "competition": 0.2
-    },
-    {
-      "keyword": "photoapp ai photo enhancer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 20600,
-      "suggested_slug": "photoapp-photo-enhancer",
-      "root": "enhancer",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 110,
-      "cpc": 2.55,
-      "competition": 0.5
-    },
-    {
-      "keyword": "meditation timer online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 13750,
-      "suggested_slug": "meditation-timer-online",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "",
-      "search_volume": 590,
-      "cpc": 15.97,
-      "competition": 0.2
-    },
-    {
-      "keyword": "free mindfulness apps",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9050,
-      "suggested_slug": "mindfulness-apps",
-      "root": "song",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "",
-      "search_volume": 170,
-      "cpc": 8.84,
       "competition": 0.2
     },
     {
@@ -684,63 +368,18 @@
       "competition": 0.2
     },
     {
-      "keyword": "best free drawing software",
+      "keyword": "zip file compressor free download",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 8800,
-      "suggested_slug": "best-drawing-software",
-      "root": "song",
+      "trend_score": 8350,
+      "suggested_slug": "zip-file-compressor-download",
+      "root": "compressor",
       "already_have": false,
-      "combined_score": 400,
-      "difficulty": "",
-      "search_volume": 720,
-      "cpc": 3.38,
-      "competition": 0.2
-    },
-    {
-      "keyword": "lupa upscaler",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 40750,
-      "suggested_slug": "lupa-upscaler",
-      "root": "upscaler",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "",
-      "search_volume": 590,
-      "cpc": 3.55,
-      "competition": 0.2
-    },
-    {
-      "keyword": "zoviz image upscaler",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 33450,
-      "suggested_slug": "zoviz-image-upscaler",
-      "root": "upscaler",
-      "already_have": false,
-      "combined_score": 390,
+      "combined_score": 380,
       "difficulty": "需WASM",
-      "search_volume": 260,
-      "cpc": 1.64,
-      "competition": 0.2
-    },
-    {
-      "keyword": "jawai safari booking",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 4400,
-      "suggested_slug": "jawsafari-booking",
-      "root": "convert",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需API",
-      "search_volume": 720,
-      "cpc": 0,
+      "search_volume": 70,
+      "cpc": 1.49,
       "competition": 0.2
     },
     {
@@ -757,6 +396,366 @@
       "search_volume": 170,
       "cpc": 1.83,
       "competition": 0.5
+    },
+    {
+      "keyword": "alysa liu free skate song",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 12750,
+      "suggested_slug": "alysa-liu-skate-song",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "",
+      "search_volume": 390,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best free note taking apps",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 8950,
+      "suggested_slug": "best-note-taking-apps",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "",
+      "search_volume": 210,
+      "cpc": 3.04,
+      "competition": 0.2
+    },
+    {
+      "keyword": "picwand ai video upscaler",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 16700,
+      "suggested_slug": "picwand-video-upscaler",
+      "root": "upscaler",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 140,
+      "cpc": 2.45,
+      "competition": 0.2
+    },
+    {
+      "keyword": "image to stl converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 350,
+      "suggested_slug": "image-to-stl-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 1000,
+      "cpc": 2.46,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ai ebook to audio converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 12350,
+      "suggested_slug": "ebook-to-audio-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 350,
+      "difficulty": "需WASM",
+      "search_volume": 70,
+      "cpc": 4.65,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best free email clients",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 8700,
+      "suggested_slug": "best-email-clients",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 350,
+      "difficulty": "",
+      "search_volume": 70,
+      "cpc": 3.98,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free coding practice sites",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 8550,
+      "suggested_slug": "coding-practice-sites",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 350,
+      "difficulty": "",
+      "search_volume": 50,
+      "cpc": 2.01,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ai country song walk my walk",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 17600,
+      "suggested_slug": "country-song-walk-my-walk",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 350,
+      "difficulty": "需API",
+      "search_volume": 390,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "convert image to ghibli style",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 12850,
+      "suggested_slug": "convert-image-to-ghibli-style",
+      "root": "convert",
+      "already_have": false,
+      "combined_score": 350,
+      "difficulty": "需WASM",
+      "search_volume": 480,
+      "cpc": 2.86,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf shrinker",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "pdf-shrinker",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 0.81,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free stock photos no attribution",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 9150,
+      "suggested_slug": "stock-photos-no-attribution",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 330,
+      "difficulty": "需WASM",
+      "search_volume": 40,
+      "cpc": 2.74,
+      "competition": 0.5
+    },
+    {
+      "keyword": "convert pdf to word document online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 7950,
+      "suggested_slug": "convert-pdf-to-word-document-online",
+      "root": "convert",
+      "already_have": false,
+      "combined_score": 330,
+      "difficulty": "需WASM",
+      "search_volume": 70,
+      "cpc": 2.15,
+      "competition": 0.2
+    },
+    {
+      "keyword": "audio converter free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-converter-online",
+      "root": "song",
+      "already_have": false,
+      "combined_score": 330,
+      "difficulty": "需WASM",
+      "search_volume": 1300,
+      "cpc": 1.84,
+      "competition": 0.2
+    },
+    {
+      "keyword": "music converter free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "music-converter-online",
+      "root": "music",
+      "already_have": false,
+      "combined_score": 330,
+      "difficulty": "",
+      "search_volume": 1300,
+      "cpc": 1.84,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free enhancer photo online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "enhancer-photo-online",
+      "root": "enhancer",
+      "already_have": false,
+      "combined_score": 330,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 1.63,
+      "competition": 0.5
+    },
+    {
+      "keyword": "case converter online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 180,
+      "suggested_slug": "case-converter-online",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 270,
+      "difficulty": "",
+      "search_volume": 390,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "spotify to mp3 converter online free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "spotify-to-mp3-converter-free",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 260,
+      "difficulty": "",
+      "search_volume": 390,
+      "cpc": 2.07,
+      "competition": 0.2
+    },
+    {
+      "keyword": "mov to mp4 converter online free over 1gb",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "mov-to-mp4-converter-over-1gb",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 260,
+      "difficulty": "",
+      "search_volume": 170,
+      "cpc": 1.21,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free video compressor tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "video-compressor",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 200,
+      "difficulty": "需WASM",
+      "search_volume": 170,
+      "cpc": 2.3,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free compressor online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "compressor-online",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 200,
+      "difficulty": "需WASM",
+      "search_volume": 110,
+      "cpc": 1.8,
+      "competition": 0.5
+    },
+    {
+      "keyword": "music downloader converter free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "music-downloader-converter-free",
+      "root": "downloader",
+      "already_have": false,
+      "combined_score": 200,
+      "difficulty": "",
+      "search_volume": 140,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ai remover tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "remover",
+      "root": "remover",
+      "already_have": false,
+      "combined_score": 190,
+      "difficulty": "需WASM",
+      "search_volume": 480,
+      "cpc": 1.56,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best pdf to word converter online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "best-pdf-to-word-converter-online",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 180,
+      "difficulty": "需WASM",
+      "search_volume": 50,
+      "cpc": 5.8,
+      "competition": 0.2
+    },
+    {
+      "keyword": "avatar maker free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "avatar-maker-online",
+      "root": "avatar",
+      "already_have": false,
+      "combined_score": 180,
+      "difficulty": "",
+      "search_volume": 320,
+      "cpc": 3.85,
+      "competition": 0.2
     }
   ]
 }
