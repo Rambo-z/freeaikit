@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# keyword monitor
+/data/keywords/test_*.json
+/scripts/keyword-monitor/test_*.py
+/scripts/keyword-monitor/__pycache__/
+
+# chrome extension dev
+/extension/node_modules/
+/extension/build/
+/extension/.plasmo/
