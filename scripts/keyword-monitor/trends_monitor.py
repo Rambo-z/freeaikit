@@ -15,14 +15,17 @@ import sys
 import time
 from datetime import datetime, timezone
 
-from config import DATA_DIR, EXISTING_KEYWORDS, KEYWORD_ROOTS, TREND_PREFIXES
+from config import DATA_DIR, EXISTING_KEYWORDS, KEYWORD_ROOTS, TREND_PREFIXES, get_batch_roots
 
 # Ensure data dir exists
 os.makedirs(DATA_DIR, exist_ok=True)
 
 
-def get_rising_keywords():
+def get_rising_keywords(roots=None):
     """Fetch rising keywords from Google Trends for all root+prefix combos."""
+    if roots is None:
+        roots = KEYWORD_ROOTS
+
     try:
         from pytrends.request import TrendReq
     except ImportError:
@@ -32,10 +35,10 @@ def get_rising_keywords():
     pytrends = TrendReq(hl="en-US", tz=360, timeout=(10, 30))
     results = []
     errors = []
-    total = len(KEYWORD_ROOTS) * len(TREND_PREFIXES)
+    total = len(roots) * len(TREND_PREFIXES)
     count = 0
 
-    for root in KEYWORD_ROOTS:
+    for root in roots:
         for prefix in TREND_PREFIXES:
             kw = f"{prefix} {root}"
             count += 1
@@ -120,37 +123,74 @@ def deduplicate(results):
 def main():
     dry_run = "--dry-run" in sys.argv
 
+    # Batch mode: --batch N (0-11)
+    batch_index = None
+    for i, arg in enumerate(sys.argv):
+        if arg == "--batch" and i + 1 < len(sys.argv):
+            batch_index = int(sys.argv[i + 1])
+
+    if batch_index is not None:
+        roots = get_batch_roots(batch_index)
+        print(f"=== BATCH MODE: batch {batch_index}, {len(roots)} roots ===")
+    else:
+        roots = KEYWORD_ROOTS
+        print(f"=== FULL MODE: {len(roots)} roots ===")
+
     if dry_run:
         print("=== DRY RUN MODE ===")
-        print(f"Would query {len(KEYWORD_ROOTS)} roots × {len(TREND_PREFIXES)} prefixes = {len(KEYWORD_ROOTS) * len(TREND_PREFIXES)} combos")
+        print(f"Would query {len(roots)} roots × {len(TREND_PREFIXES)} prefixes = {len(roots) * len(TREND_PREFIXES)} combos")
         print(f"Output to: {DATA_DIR}")
         return
 
     print(f"Starting Google Trends monitor at {datetime.now(timezone.utc).isoformat()}")
-    print(f"Roots: {len(KEYWORD_ROOTS)}, Prefixes: {len(TREND_PREFIXES)}")
-    print(f"Total queries: {len(KEYWORD_ROOTS) * len(TREND_PREFIXES)}")
+    print(f"Roots: {len(roots)}, Prefixes: {len(TREND_PREFIXES)}")
+    print(f"Total queries: {len(roots) * len(TREND_PREFIXES)}")
     print()
 
-    results, errors = get_rising_keywords()
+    results, errors = get_rising_keywords(roots)
     deduped = deduplicate(results)
 
     # Separate new opportunities from existing
     new_opportunities = [r for r in deduped if not r["already_have"]]
     existing_matches = [r for r in deduped if r["already_have"]]
 
-    # Save full results
+    # Save results — in batch mode, merge with existing day's data
     date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     output_path = os.path.join(DATA_DIR, f"trends_{date_str}.json")
 
+    # Load existing data if batch mode (accumulate throughout the day)
+    prev_opps = []
+    prev_existing = []
+    prev_errors = []
+    if batch_index is not None and os.path.exists(output_path):
+        with open(output_path, "r", encoding="utf-8") as f:
+            prev = json.load(f)
+            prev_opps = prev.get("opportunities", [])
+            prev_existing = prev.get("existing", [])
+            prev_errors = prev.get("error_log", [])
+
+    merged_opps = prev_opps + new_opportunities
+    merged_existing = prev_existing + existing_matches
+    merged_errors = prev_errors + errors
+
+    # Deduplicate merged results by keyword
+    seen = {}
+    for opp in merged_opps:
+        kw = opp["keyword"]
+        if kw not in seen or opp.get("trend_score", 0) > seen[kw].get("trend_score", 0):
+            seen[kw] = opp
+    merged_opps = sorted(seen.values(), key=lambda x: x.get("trend_score", 0), reverse=True)
+
     report = {
         "date": date_str,
-        "total_rising_found": len(deduped),
-        "new_opportunities": len(new_opportunities),
-        "existing_matches": len(existing_matches),
-        "errors": len(errors),
-        "opportunities": new_opportunities[:50],  # Top 50
-        "existing": existing_matches[:20],
-        "error_log": errors[:20],
+        "batch": batch_index,
+        "total_rising_found": len(merged_opps) + len(merged_existing),
+        "new_opportunities": len(merged_opps),
+        "existing_matches": len(merged_existing),
+        "errors": len(merged_errors),
+        "opportunities": merged_opps[:100],
+        "existing": merged_existing[:20],
+        "error_log": merged_errors[:20],
     }
 
     with open(output_path, "w", encoding="utf-8") as f:

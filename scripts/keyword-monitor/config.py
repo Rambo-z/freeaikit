@@ -70,8 +70,22 @@ EXISTING_KEYWORDS = [
 # Feishu webhook URL — set via environment variable
 # FEISHU_WEBHOOK_URL = os.environ.get("FEISHU_WEBHOOK_URL", "")
 
+# Batch settings: 122 roots ÷ 12 batches ≈ 10-11 roots per run
+BATCH_COUNT = 12
+
 # Output paths
 import os
+import math
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "data", "keywords")
 REPORTS_DIR = os.path.join(os.path.dirname(__file__), "..", "..", "data", "keywords")
+
+
+def get_batch_roots(batch_index):
+    """Get keyword roots for a specific batch (0-11).
+    122 roots split into 12 batches of ~10 each.
+    """
+    batch_size = math.ceil(len(KEYWORD_ROOTS) / BATCH_COUNT)
+    start = batch_index * batch_size
+    end = start + batch_size
+    return KEYWORD_ROOTS[start:end]

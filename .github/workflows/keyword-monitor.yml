@@ -2,10 +2,14 @@ name: Keyword Monitor
 
 on:
   schedule:
-    # Run daily at 02:00 UTC (10:00 Beijing time)
-    - cron: '0 2 * * *'
+    # Run every 2 hours, 12 times a day — each run handles ~10 roots
+    - cron: '0 */2 * * *'
   workflow_dispatch:
     inputs:
+      batch:
+        description: 'Batch index (0-11), leave empty for auto'
+        type: string
+        default: ''
       run_trends:
         description: 'Run Google Trends monitor'
         type: boolean
@@ -18,7 +22,7 @@ on:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 120  # pytrends needs time for 366 queries
+    timeout-minutes: 15  # Each batch only needs ~5 min
 
     steps:
       - name: Checkout repository
@@ -32,16 +36,29 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/keyword-monitor/requirements.txt
 
-      - name: Run Google Trends monitor
+      - name: Calculate batch index
+        id: batch
+        run: |
+          if [ -n "${{ github.event.inputs.batch }}" ]; then
+            echo "index=${{ github.event.inputs.batch }}" >> $GITHUB_OUTPUT
+          else
+            # Auto-calculate: hour/2 gives batch 0-11
+            HOUR=$(date -u +%H)
+            BATCH=$((HOUR / 2))
+            echo "index=$BATCH" >> $GITHUB_OUTPUT
+          fi
+          echo "Batch index: $(cat $GITHUB_OUTPUT)"
+
+      - name: Run Google Trends monitor (batch)
         if: ${{ github.event_name == 'schedule' || github.event.inputs.run_trends == 'true' }}
         working-directory: scripts/keyword-monitor
-        run: python trends_monitor.py
-        continue-on-error: true  # Don't fail the whole job if Trends gets rate-limited
+        run: python trends_monitor.py --batch ${{ steps.batch.outputs.index }}
+        continue-on-error: true
 
-      - name: Run Google Suggest monitor
+      - name: Run Google Suggest monitor (batch)
         if: ${{ github.event_name == 'schedule' || github.event.inputs.run_suggest == 'true' }}
         working-directory: scripts/keyword-monitor
-        run: python suggest_monitor.py
+        run: python suggest_monitor.py --batch ${{ steps.batch.outputs.index }}
 
       - name: Generate merged report & sync to Bitable
         working-directory: scripts/keyword-monitor
@@ -60,6 +77,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No new data to commit"
           else
-            git commit -m "chore: daily keyword report $(date -u +%Y-%m-%d)"
+            git commit -m "chore: keyword batch ${{ steps.batch.outputs.index }} $(date -u +%Y-%m-%d-%H%M)"
             git push
           fi

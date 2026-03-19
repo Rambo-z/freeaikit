@@ -24,6 +24,7 @@ from config import (
     EXISTING_KEYWORDS,
     KEYWORD_ROOTS,
     SUGGEST_PATTERNS,
+    get_batch_roots,
 )
 
 os.makedirs(DATA_DIR, exist_ok=True)
@@ -51,13 +52,16 @@ def fetch_suggestions(query):
     return []
 
 
-def get_suggest_keywords():
+def get_suggest_keywords(roots=None):
     """Fetch suggestions for all root × pattern combinations."""
+    if roots is None:
+        roots = KEYWORD_ROOTS
+
     results = []
-    total = len(KEYWORD_ROOTS) * len(SUGGEST_PATTERNS)
+    total = len(roots) * len(SUGGEST_PATTERNS)
     count = 0
 
-    for root in KEYWORD_ROOTS:
+    for root in roots:
         for pattern in SUGGEST_PATTERNS:
             query = pattern.format(root=root)
             count += 1
@@ -105,7 +109,7 @@ def get_suggest_keywords():
 
     # Also try space tricks from the handbook
     print("\n=== Space tricks (词后空格/词前空格) ===")
-    space_roots = random.sample(KEYWORD_ROOTS, min(30, len(KEYWORD_ROOTS)))
+    space_roots = random.sample(list(roots), min(len(roots), 10))
     for root in space_roots:
         for query in [f"ai {root} ", f" ai {root}", f"free {root} "]:
             count += 1
@@ -150,18 +154,31 @@ def deduplicate(results):
 def main():
     dry_run = "--dry-run" in sys.argv
 
+    # Batch mode: --batch N (0-11)
+    batch_index = None
+    for i, arg in enumerate(sys.argv):
+        if arg == "--batch" and i + 1 < len(sys.argv):
+            batch_index = int(sys.argv[i + 1])
+
+    if batch_index is not None:
+        roots = get_batch_roots(batch_index)
+        print(f"=== BATCH MODE: batch {batch_index}, {len(roots)} roots ===")
+    else:
+        roots = KEYWORD_ROOTS
+        print(f"=== FULL MODE: {len(roots)} roots ===")
+
     if dry_run:
-        queries = len(KEYWORD_ROOTS) * len(SUGGEST_PATTERNS)
+        queries = len(roots) * len(SUGGEST_PATTERNS)
         print("=== DRY RUN MODE ===")
-        print(f"Would query {len(KEYWORD_ROOTS)} roots × {len(SUGGEST_PATTERNS)} patterns = {queries} combos")
+        print(f"Would query {len(roots)} roots × {len(SUGGEST_PATTERNS)} patterns = {queries} combos")
         print(f"Estimated time: ~{queries} seconds ({queries // 60} minutes)")
         return
 
     print(f"Starting Google Suggest monitor at {datetime.now(timezone.utc).isoformat()}")
-    print(f"Roots: {len(KEYWORD_ROOTS)}, Patterns: {len(SUGGEST_PATTERNS)}")
+    print(f"Roots: {len(roots)}, Patterns: {len(SUGGEST_PATTERNS)}")
     print()
 
-    results = get_suggest_keywords()
+    results = get_suggest_keywords(roots)
     deduped = deduplicate(results)
 
     new_opportunities = [r for r in deduped if not r["already_have"]]
@@ -170,9 +187,26 @@ def main():
     date_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     output_path = os.path.join(DATA_DIR, f"suggest_{date_str}.json")
 
+    # In batch mode, merge with existing day's data
+    if batch_index is not None and os.path.exists(output_path):
+        with open(output_path, "r", encoding="utf-8") as f:
+            prev = json.load(f)
+        prev_opps = prev.get("opportunities", [])
+        prev_existing = prev.get("existing", [])
+        # Merge and deduplicate
+        all_opps = {o["keyword"]: o for o in prev_opps}
+        for o in new_opportunities:
+            all_opps[o["keyword"]] = o
+        new_opportunities = list(all_opps.values())
+        all_existing = {o["keyword"]: o for o in prev_existing}
+        for o in existing_matches:
+            all_existing[o["keyword"]] = o
+        existing_matches = list(all_existing.values())
+
     report = {
         "date": date_str,
-        "total_suggestions": len(deduped),
+        "batch": batch_index,
+        "total_suggestions": len(new_opportunities) + len(existing_matches),
         "new_opportunities": len(new_opportunities),
         "existing_matches": len(existing_matches),
         "opportunities": new_opportunities,
