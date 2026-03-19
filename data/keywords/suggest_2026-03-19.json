@@ -1,8 +1,8 @@
 {
   "date": "2026-03-19",
-  "batch": 0,
-  "total_suggestions": 174,
-  "new_opportunities": 167,
+  "batch": 8,
+  "total_suggestions": 560,
+  "new_opportunities": 553,
   "existing_matches": 7,
   "opportunities": [
     {
@@ -1507,6 +1507,3480 @@
       "discovered": "2026-03-19",
       "already_have": false,
       "suggested_slug": "air-compressor-near-me"
+    },
+    {
+      "keyword": "free audio tools",
+      "root": "audio",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audios"
+    },
+    {
+      "keyword": "free audio tools online",
+      "root": "audio",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audios-online"
+    },
+    {
+      "keyword": "free audio tool windows",
+      "root": "audio",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-windows"
+    },
+    {
+      "keyword": "free tool audio to text",
+      "root": "audio",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-audio-to-text"
+    },
+    {
+      "keyword": "free audio software",
+      "root": "audio",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-software"
+    },
+    {
+      "keyword": "free audio software for pc",
+      "root": "audio",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-software-for-pc"
+    },
+    {
+      "keyword": "free audio software for windows",
+      "root": "audio",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-software-for-windows"
+    },
+    {
+      "keyword": "free audio software for mac",
+      "root": "audio",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-software-for-mac"
+    },
+    {
+      "keyword": "free audio software for windows 11",
+      "root": "audio",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-software-for-windows-11"
+    },
+    {
+      "keyword": "free audio software for windows 10",
+      "root": "audio",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-software-for-windows-10"
+    },
+    {
+      "keyword": "ai audio online free",
+      "root": "audio",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-free"
+    },
+    {
+      "keyword": "ai online audio editor",
+      "root": "audio",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-editor"
+    },
+    {
+      "keyword": "ai online audio enhancer",
+      "root": "audio",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-enhancer"
+    },
+    {
+      "keyword": "ai online audio mastering",
+      "root": "audio",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-mastering"
+    },
+    {
+      "keyword": "ai online audio to text",
+      "root": "audio",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-to-text"
+    },
+    {
+      "keyword": "ai online audio remover",
+      "root": "audio",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-remover"
+    },
+    {
+      "keyword": "ai online audio translator",
+      "root": "audio",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-translator"
+    },
+    {
+      "keyword": "ai online audio cleaner",
+      "root": "audio",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-cleaner"
+    },
+    {
+      "keyword": "ai online audio editor free",
+      "root": "audio",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-editor-free"
+    },
+    {
+      "keyword": "audio converter free download",
+      "root": "audio",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-download"
+    },
+    {
+      "keyword": "audio converter free online",
+      "root": "audio",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-online"
+    },
+    {
+      "keyword": "audio converter free download for pc",
+      "root": "audio",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-download-for-pc"
+    },
+    {
+      "keyword": "audio converter freeware",
+      "root": "audio",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-freeware"
+    },
+    {
+      "keyword": "audio converter free software",
+      "root": "audio",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-software"
+    },
+    {
+      "keyword": "audio converter free download for windows 7 32-bit",
+      "root": "audio",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-download-for-windows-7-32-bit"
+    },
+    {
+      "keyword": "audio converter free mac",
+      "root": "audio",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-mac"
+    },
+    {
+      "keyword": "audio converter free download for windows 7",
+      "root": "audio",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-download-for-windows-7"
+    },
+    {
+      "keyword": "audio converter free download for windows 10",
+      "root": "audio",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-converter-download-for-windows-10"
+    },
+    {
+      "keyword": "best audio generator ai",
+      "root": "audio",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-generator-ai"
+    },
+    {
+      "keyword": "best audio generator ai free",
+      "root": "audio",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-generator-free"
+    },
+    {
+      "keyword": "best audio generator free",
+      "root": "audio",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-generator-free"
+    },
+    {
+      "keyword": "best tone generator",
+      "root": "audio",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tone-generator"
+    },
+    {
+      "keyword": "best tone generator app",
+      "root": "audio",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tone-generator-app"
+    },
+    {
+      "keyword": "best tone generator and probe kit",
+      "root": "audio",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tone-generator-and-probe-kit"
+    },
+    {
+      "keyword": "best tone generator app iphone",
+      "root": "audio",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tone-generator-app-iphone"
+    },
+    {
+      "keyword": "best tone generator and probe",
+      "root": "audio",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tone-generator-and-probe"
+    },
+    {
+      "keyword": "free ai avatar tools",
+      "root": "avatar",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatars"
+    },
+    {
+      "keyword": "free avatar creator tool",
+      "root": "avatar",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-creator"
+    },
+    {
+      "keyword": "free avatar creation tools",
+      "root": "avatar",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-creations"
+    },
+    {
+      "keyword": "free ai generated talking avatar tools",
+      "root": "avatar",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "generated-talking-avatars"
+    },
+    {
+      "keyword": "free ai avatar generator tool",
+      "root": "avatar",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-generator"
+    },
+    {
+      "keyword": "free ai avatar video tool",
+      "root": "avatar",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-video"
+    },
+    {
+      "keyword": "ai avatar online free",
+      "root": "avatar",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-free"
+    },
+    {
+      "keyword": "ai online avatar generator free",
+      "root": "avatar",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-generator-free"
+    },
+    {
+      "keyword": "ai avatar generator online",
+      "root": "avatar",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-generator-online"
+    },
+    {
+      "keyword": "ai talking avatar online free",
+      "root": "avatar",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "talking-avatar-free"
+    },
+    {
+      "keyword": "ai avatar maker online free",
+      "root": "avatar",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-maker-free"
+    },
+    {
+      "keyword": "ai avatar jigsaw online",
+      "root": "avatar",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-jigsaw-online"
+    },
+    {
+      "keyword": "ai avatar maker online",
+      "root": "avatar",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-maker-online"
+    },
+    {
+      "keyword": "ai photo avatar online free",
+      "root": "avatar",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "photo-avatar-free"
+    },
+    {
+      "keyword": "ai avatar editor online free",
+      "root": "avatar",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-editor-free"
+    },
+    {
+      "keyword": "avatar maker free",
+      "root": "avatar",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-maker-free"
+    },
+    {
+      "keyword": "avatar maker free online",
+      "root": "avatar",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-maker-online"
+    },
+    {
+      "keyword": "avatar maker free from photo",
+      "root": "avatar",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-maker-from-photo"
+    },
+    {
+      "keyword": "avatar maker free full body",
+      "root": "avatar",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-maker-full-body"
+    },
+    {
+      "keyword": "avatar maker free roblox",
+      "root": "avatar",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-maker-roblox"
+    },
+    {
+      "keyword": "avatar maker free online full body",
+      "root": "avatar",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-maker-full-body"
+    },
+    {
+      "keyword": "avatar maker free download",
+      "root": "avatar",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-maker-download"
+    },
+    {
+      "keyword": "best avatar generator ai",
+      "root": "avatar",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-generator-ai"
+    },
+    {
+      "keyword": "best avatar generator free",
+      "root": "avatar",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-generator-free"
+    },
+    {
+      "keyword": "best avatar generator app",
+      "root": "avatar",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-generator-app"
+    },
+    {
+      "keyword": "best character generator",
+      "root": "avatar",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "character-generator"
+    },
+    {
+      "keyword": "best character generator ai",
+      "root": "avatar",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "character-generator-ai"
+    },
+    {
+      "keyword": "good avatar generator",
+      "root": "avatar",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "good-avatar-generator"
+    },
+    {
+      "keyword": "best character generator blender",
+      "root": "avatar",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "character-generator-blender"
+    },
+    {
+      "keyword": "free tool face download",
+      "root": "face",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-face-download"
+    },
+    {
+      "keyword": "free face software",
+      "root": "face",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-software"
+    },
+    {
+      "keyword": "free face search tool",
+      "root": "face",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-search"
+    },
+    {
+      "keyword": "free face blur tool",
+      "root": "face",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-blur"
+    },
+    {
+      "keyword": "free face swap tool online",
+      "root": "face",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-online"
+    },
+    {
+      "keyword": "free face editing tool",
+      "root": "face",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-editing"
+    },
+    {
+      "keyword": "free face recognition tool",
+      "root": "face",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-recognition"
+    },
+    {
+      "keyword": "free face swap tool video",
+      "root": "face",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-video"
+    },
+    {
+      "keyword": "free face cropping tool",
+      "root": "face",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-cropping"
+    },
+    {
+      "keyword": "ai face online free",
+      "root": "face",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-free"
+    },
+    {
+      "keyword": "ai face online swap",
+      "root": "face",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap"
+    },
+    {
+      "keyword": "ai face online search",
+      "root": "face",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-search"
+    },
+    {
+      "keyword": "ai online face swap free",
+      "root": "face",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-free"
+    },
+    {
+      "keyword": "ai online face swap video",
+      "root": "face",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-video"
+    },
+    {
+      "keyword": "ai online face editor",
+      "root": "face",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-editor"
+    },
+    {
+      "keyword": "ai online face changer",
+      "root": "face",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-changer"
+    },
+    {
+      "keyword": "ai face swap online",
+      "root": "face",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-online"
+    },
+    {
+      "keyword": "ai online face swap video free",
+      "root": "face",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-video-free"
+    },
+    {
+      "keyword": "face generator free",
+      "root": "face",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-generator-free"
+    },
+    {
+      "keyword": "face generator free ai",
+      "root": "face",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-generator-ai"
+    },
+    {
+      "keyword": "face generator free download",
+      "root": "face",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-generator-download"
+    },
+    {
+      "keyword": "face generator free baby",
+      "root": "face",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-generator-baby"
+    },
+    {
+      "keyword": "face converter ai free",
+      "root": "face",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-converter-free"
+    },
+    {
+      "keyword": "face converter online free",
+      "root": "face",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-converter-free"
+    },
+    {
+      "keyword": "face swap converter free",
+      "root": "face",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-converter-free"
+    },
+    {
+      "keyword": "cartoon face converter free",
+      "root": "face",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-face-converter-free"
+    },
+    {
+      "keyword": "best face generator ai",
+      "root": "face",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-generator-ai"
+    },
+    {
+      "keyword": "best face maker",
+      "root": "face",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-maker"
+    },
+    {
+      "keyword": "best face maker app",
+      "root": "face",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-maker-app"
+    },
+    {
+      "keyword": "best face maker online free",
+      "root": "face",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-maker-free"
+    },
+    {
+      "keyword": "best face maker ai",
+      "root": "face",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-maker-ai"
+    },
+    {
+      "keyword": "best baby face generator online free",
+      "root": "face",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "baby-face-generator-free"
+    },
+    {
+      "keyword": "best baby face generator",
+      "root": "face",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "baby-face-generator"
+    },
+    {
+      "keyword": "best ai face generator free",
+      "root": "face",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-generator-free"
+    },
+    {
+      "keyword": "free cartoon tools",
+      "root": "cartoon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoons"
+    },
+    {
+      "keyword": "free cartoon tools images",
+      "root": "cartoon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoons-images"
+    },
+    {
+      "keyword": "free animation tool",
+      "root": "cartoon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "animation"
+    },
+    {
+      "keyword": "free animation tool online",
+      "root": "cartoon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "animation-online"
+    },
+    {
+      "keyword": "free animation tool for pc",
+      "root": "cartoon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "animation-for-pc"
+    },
+    {
+      "keyword": "free animation tool ai",
+      "root": "cartoon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "animation-ai"
+    },
+    {
+      "keyword": "free animation tool for kids",
+      "root": "cartoon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "animation-for-kids"
+    },
+    {
+      "keyword": "free animation tool ipad",
+      "root": "cartoon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "animation-ipad"
+    },
+    {
+      "keyword": "ai cartoon online free",
+      "root": "cartoon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-free"
+    },
+    {
+      "keyword": "ai online cartoon generator",
+      "root": "cartoon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-generator"
+    },
+    {
+      "keyword": "ai online cartoon maker",
+      "root": "cartoon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-maker"
+    },
+    {
+      "keyword": "ai animation online",
+      "root": "cartoon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "animation-online"
+    },
+    {
+      "keyword": "ai animation online free",
+      "root": "cartoon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "animation-free"
+    },
+    {
+      "keyword": "ai caricature online",
+      "root": "cartoon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "caricature-online"
+    },
+    {
+      "keyword": "ai caricature online free",
+      "root": "cartoon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "caricature-free"
+    },
+    {
+      "keyword": "ai cartoon generator online free",
+      "root": "cartoon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-generator-free"
+    },
+    {
+      "keyword": "cartoon converter free online",
+      "root": "cartoon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-converter-online"
+    },
+    {
+      "keyword": "cartoon converter free ai",
+      "root": "cartoon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-converter-ai"
+    },
+    {
+      "keyword": "cartoon maker free",
+      "root": "cartoon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-maker-free"
+    },
+    {
+      "keyword": "cartoon maker free online",
+      "root": "cartoon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-maker-online"
+    },
+    {
+      "keyword": "caricature converter free",
+      "root": "cartoon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "caricature-converter-free"
+    },
+    {
+      "keyword": "cartoon maker free ai",
+      "root": "cartoon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-maker-ai"
+    },
+    {
+      "keyword": "cartoon maker free app",
+      "root": "cartoon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-maker-app"
+    },
+    {
+      "keyword": "cartoon maker free download",
+      "root": "cartoon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-maker-download"
+    },
+    {
+      "keyword": "cartoon maker free from photo",
+      "root": "cartoon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-maker-from-photo"
+    },
+    {
+      "keyword": "best cartoon generator ai",
+      "root": "cartoon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-generator-ai"
+    },
+    {
+      "keyword": "best cartoon generator app",
+      "root": "cartoon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-generator-app"
+    },
+    {
+      "keyword": "best cartoon generator from photo",
+      "root": "cartoon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-generator-from-photo"
+    },
+    {
+      "keyword": "best cartoon generator ai free",
+      "root": "cartoon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-generator-free"
+    },
+    {
+      "keyword": "best cartoon generator free",
+      "root": "cartoon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-generator-free"
+    },
+    {
+      "keyword": "best animation generator ai",
+      "root": "cartoon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "animation-generator-ai"
+    },
+    {
+      "keyword": "best comic generator ai",
+      "root": "cartoon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "comic-generator-ai"
+    },
+    {
+      "keyword": "best animation generator",
+      "root": "cartoon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "animation-generator"
+    },
+    {
+      "keyword": "best comic generator",
+      "root": "cartoon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "comic-generator"
+    },
+    {
+      "keyword": "free music tools",
+      "root": "music",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "musics"
+    },
+    {
+      "keyword": "free music tools online",
+      "root": "music",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "musics-online"
+    },
+    {
+      "keyword": "free music software",
+      "root": "music",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-software"
+    },
+    {
+      "keyword": "free music software for windows",
+      "root": "music",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-software-for-windows"
+    },
+    {
+      "keyword": "free music software like fl studio",
+      "root": "music",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-software-like-fl-studio"
+    },
+    {
+      "keyword": "free music software for pc",
+      "root": "music",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-software-for-pc"
+    },
+    {
+      "keyword": "free music software for mac",
+      "root": "music",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-software-for-mac"
+    },
+    {
+      "keyword": "free music software online",
+      "root": "music",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-software-online"
+    },
+    {
+      "keyword": "free music software for beginners",
+      "root": "music",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-software-for-beginners"
+    },
+    {
+      "keyword": "ai music online free",
+      "root": "music",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-free"
+    },
+    {
+      "keyword": "ai music online generator",
+      "root": "music",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator"
+    },
+    {
+      "keyword": "ai music online maker",
+      "root": "music",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-maker"
+    },
+    {
+      "keyword": "ai music online downloader",
+      "root": "music",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-downloader"
+    },
+    {
+      "keyword": "ai online music generator free",
+      "root": "music",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator-free"
+    },
+    {
+      "keyword": "ai online music mastering",
+      "root": "music",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-mastering"
+    },
+    {
+      "keyword": "ai online music mixer",
+      "root": "music",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-mixer"
+    },
+    {
+      "keyword": "ai online music editor",
+      "root": "music",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-editor"
+    },
+    {
+      "keyword": "ai online music mastering free",
+      "root": "music",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-mastering-free"
+    },
+    {
+      "keyword": "music converter free online",
+      "root": "music",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-converter-online"
+    },
+    {
+      "keyword": "music converter free download",
+      "root": "music",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-converter-download"
+    },
+    {
+      "keyword": "music converter free mp3",
+      "root": "music",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-converter-mp3"
+    },
+    {
+      "keyword": "music converter free download for pc",
+      "root": "music",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-converter-download-for-pc"
+    },
+    {
+      "keyword": "music converter free download mp3",
+      "root": "music",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-converter-download-mp3"
+    },
+    {
+      "keyword": "music converter free download for android",
+      "root": "music",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-converter-download-for-android"
+    },
+    {
+      "keyword": "music converter free online mp3",
+      "root": "music",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-converter-mp3"
+    },
+    {
+      "keyword": "best music generator ai",
+      "root": "music",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator-ai"
+    },
+    {
+      "keyword": "best music generator ai free",
+      "root": "music",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator-free"
+    },
+    {
+      "keyword": "best music generator app",
+      "root": "music",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator-app"
+    },
+    {
+      "keyword": "best music generator free",
+      "root": "music",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator-free"
+    },
+    {
+      "keyword": "best music generator ai app",
+      "root": "music",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator-app"
+    },
+    {
+      "keyword": "best music generator ai 2025",
+      "root": "music",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator-2025"
+    },
+    {
+      "keyword": "best music generator model",
+      "root": "music",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator-model"
+    },
+    {
+      "keyword": "free capture tool",
+      "root": "recorder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "capture"
+    },
+    {
+      "keyword": "free tool record screen",
+      "root": "recorder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-record-screen"
+    },
+    {
+      "keyword": "ai to record online meeting",
+      "root": "recorder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "to-record-meeting"
+    },
+    {
+      "keyword": "webex recording converter free download",
+      "root": "recorder",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "webex-recording-converter-download"
+    },
+    {
+      "keyword": "is audiotool free",
+      "root": "sound",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "is-audiotool-free"
+    },
+    {
+      "keyword": "free audio tool mac",
+      "root": "sound",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-mac"
+    },
+    {
+      "keyword": "free audio tool online",
+      "root": "sound",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-online"
+    },
+    {
+      "keyword": "free sound software",
+      "root": "sound",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-software"
+    },
+    {
+      "keyword": "free sound software for pc",
+      "root": "sound",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-software-for-pc"
+    },
+    {
+      "keyword": "free sound software for pc windows 10",
+      "root": "sound",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-software-for-pc-windows-10"
+    },
+    {
+      "keyword": "free sound software for windows 11",
+      "root": "sound",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-software-for-windows-11"
+    },
+    {
+      "keyword": "free sound software for mac",
+      "root": "sound",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-software-for-mac"
+    },
+    {
+      "keyword": "ai sound online free",
+      "root": "sound",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-free"
+    },
+    {
+      "keyword": "ai voice online",
+      "root": "sound",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-online"
+    },
+    {
+      "keyword": "ai voice online free",
+      "root": "sound",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-free"
+    },
+    {
+      "keyword": "ai voice online generator",
+      "root": "sound",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-generator"
+    },
+    {
+      "keyword": "ai voice online text to speech",
+      "root": "sound",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-text-to-speech"
+    },
+    {
+      "keyword": "ai voice online generator free",
+      "root": "sound",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-generator-free"
+    },
+    {
+      "keyword": "mp3 sound converter free download",
+      "root": "sound",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "mp3-sound-converter-download"
+    },
+    {
+      "keyword": "sound file converter free",
+      "root": "sound",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-file-converter-free"
+    },
+    {
+      "keyword": "switch sound converter free",
+      "root": "sound",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "switch-sound-converter-free"
+    },
+    {
+      "keyword": "ai sound converter free",
+      "root": "sound",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-converter-free"
+    },
+    {
+      "keyword": "switch sound converter free download",
+      "root": "sound",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "switch-sound-converter-download"
+    },
+    {
+      "keyword": "audio sound converter free download",
+      "root": "sound",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-sound-converter-download"
+    },
+    {
+      "keyword": "mp3 sound converter free",
+      "root": "sound",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "mp3-sound-converter-free"
+    },
+    {
+      "keyword": "sound file converter free download",
+      "root": "sound",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-file-converter-download"
+    },
+    {
+      "keyword": "sound converter online free",
+      "root": "sound",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-converter-free"
+    },
+    {
+      "keyword": "best sound generator ai",
+      "root": "sound",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-generator-ai"
+    },
+    {
+      "keyword": "best sound generator for tinnitus",
+      "root": "sound",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-generator-for-tinnitus"
+    },
+    {
+      "keyword": "best sound generator app",
+      "root": "sound",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-generator-app"
+    },
+    {
+      "keyword": "best sound generator for sleeping",
+      "root": "sound",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-generator-for-sleeping"
+    },
+    {
+      "keyword": "best generator sound box",
+      "root": "sound",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "generator-sound-box"
+    },
+    {
+      "keyword": "free tool speech to text",
+      "root": "speech",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "tool-speech-to-text"
+    },
+    {
+      "keyword": "free speaking tool",
+      "root": "speech",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speaking"
+    },
+    {
+      "keyword": "free speech software",
+      "root": "speech",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-software"
+    },
+    {
+      "keyword": "free speech software for pc",
+      "root": "speech",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-software-for-pc"
+    },
+    {
+      "keyword": "free ai speech tool",
+      "root": "speech",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech"
+    },
+    {
+      "keyword": "free speech enhancement tool",
+      "root": "speech",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-enhancement"
+    },
+    {
+      "keyword": "free speech therapy tools",
+      "root": "speech",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-therapys"
+    },
+    {
+      "keyword": "free speech analysis tools",
+      "root": "speech",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-analysiss"
+    },
+    {
+      "keyword": "free software speech to text",
+      "root": "speech",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "software-speech-to-text"
+    },
+    {
+      "keyword": "ai speech online free",
+      "root": "speech",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-free"
+    },
+    {
+      "keyword": "ai online speech to text",
+      "root": "speech",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-to-text"
+    },
+    {
+      "keyword": "ai talk online",
+      "root": "speech",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "talk-online"
+    },
+    {
+      "keyword": "ai talk online free",
+      "root": "speech",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "talk-free"
+    },
+    {
+      "keyword": "voice converter free",
+      "root": "speech",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-converter-free"
+    },
+    {
+      "keyword": "voice converter free online",
+      "root": "speech",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-converter-online"
+    },
+    {
+      "keyword": "voice converter free ai",
+      "root": "speech",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-converter-ai"
+    },
+    {
+      "keyword": "voice converter free download",
+      "root": "speech",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-converter-download"
+    },
+    {
+      "keyword": "text speech converter free",
+      "root": "speech",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "text-speech-converter-free"
+    },
+    {
+      "keyword": "reported speech converter free",
+      "root": "speech",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "reported-speech-converter-free"
+    },
+    {
+      "keyword": "text speech converter free download",
+      "root": "speech",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "text-speech-converter-download"
+    },
+    {
+      "keyword": "speech converter online free",
+      "root": "speech",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-converter-free"
+    },
+    {
+      "keyword": "video to speech converter free",
+      "root": "speech",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "video-to-speech-converter-free"
+    },
+    {
+      "keyword": "best speech generator ai",
+      "root": "speech",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-generator-ai"
+    },
+    {
+      "keyword": "best speech generator free",
+      "root": "speech",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-generator-free"
+    },
+    {
+      "keyword": "best voice generator",
+      "root": "speech",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-generator"
+    },
+    {
+      "keyword": "best voice generator ai",
+      "root": "speech",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-generator-ai"
+    },
+    {
+      "keyword": "best voice generator ai free",
+      "root": "speech",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-generator-free"
+    },
+    {
+      "keyword": "best voice generator app",
+      "root": "speech",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-generator-app"
+    },
+    {
+      "keyword": "best voice generator free",
+      "root": "speech",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "voice-generator-free"
+    },
+    {
+      "keyword": "ai face swap",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap"
+    },
+    {
+      "keyword": "ai face swap free",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-free"
+    },
+    {
+      "keyword": "ai face search",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-search"
+    },
+    {
+      "keyword": "ai face swap video",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-video"
+    },
+    {
+      "keyword": "ai face",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face"
+    },
+    {
+      "keyword": "ai face rater",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-rater"
+    },
+    {
+      "keyword": "ai facebook",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "facebook"
+    },
+    {
+      "keyword": "ai face generator",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-generator"
+    },
+    {
+      "keyword": "ai face rating",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-rating"
+    },
+    {
+      "keyword": "ai face swapper",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swapper"
+    },
+    {
+      "keyword": "free face swap",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap"
+    },
+    {
+      "keyword": "free face swap video",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-video"
+    },
+    {
+      "keyword": "free facebook lite",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "facebook-lite"
+    },
+    {
+      "keyword": "free face swap app",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-app"
+    },
+    {
+      "keyword": "free facebook",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "facebook"
+    },
+    {
+      "keyword": "free face swap ai",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-swap-ai"
+    },
+    {
+      "keyword": "free face editing app",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-editing-app"
+    },
+    {
+      "keyword": "free face search",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "face-search"
+    },
+    {
+      "keyword": "free facetune apps",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "facetune-apps"
+    },
+    {
+      "keyword": "free facetune",
+      "root": "face",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "facetune"
+    },
+    {
+      "keyword": "ai avatar",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar"
+    },
+    {
+      "keyword": "ai avatar generator",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-generator"
+    },
+    {
+      "keyword": "ai avatar generator free",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-generator-free"
+    },
+    {
+      "keyword": "ai avatar video generator",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-video-generator"
+    },
+    {
+      "keyword": "ai avatar creator",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-creator"
+    },
+    {
+      "keyword": "ai avatar video",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-video"
+    },
+    {
+      "keyword": "ai avatar video generator free",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-video-generator-free"
+    },
+    {
+      "keyword": "ai avatar arbitrage",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-arbitrage"
+    },
+    {
+      "keyword": "ai avatar app",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-app"
+    },
+    {
+      "keyword": "ai avatar free",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-free"
+    },
+    {
+      "keyword": "free avatar maker",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-maker"
+    },
+    {
+      "keyword": "free avatars",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatars"
+    },
+    {
+      "keyword": "free avatar roblox boy",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-roblox-boy"
+    },
+    {
+      "keyword": "free avatar roblox girl",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-roblox-girl"
+    },
+    {
+      "keyword": "free avatars roblox",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatars-roblox"
+    },
+    {
+      "keyword": "free avatars for vrchat",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatars-for-vrchat"
+    },
+    {
+      "keyword": "free avatar world",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-world"
+    },
+    {
+      "keyword": "free avatar game",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-game"
+    },
+    {
+      "keyword": "free avatar generator",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-generator"
+    },
+    {
+      "keyword": "free avatar images",
+      "root": "avatar",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "avatar-images"
+    },
+    {
+      "keyword": "ai sound generator",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-generator"
+    },
+    {
+      "keyword": "ai sound effect generator",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-effect-generator"
+    },
+    {
+      "keyword": "ai sound",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound"
+    },
+    {
+      "keyword": "ai sound effects",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-effects"
+    },
+    {
+      "keyword": "ai sound maker",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-maker"
+    },
+    {
+      "keyword": "ai sound effect generator free",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-effect-generator-free"
+    },
+    {
+      "keyword": "ai sound generator free",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-generator-free"
+    },
+    {
+      "keyword": "ai sound pro lg tv",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-pro-lg-tv"
+    },
+    {
+      "keyword": "ai sound pro lg",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-pro-lg"
+    },
+    {
+      "keyword": "ai sound words",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-words"
+    },
+    {
+      "keyword": "free sound effects",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-effects"
+    },
+    {
+      "keyword": "free sounds",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sounds"
+    },
+    {
+      "keyword": "free soundboard",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "soundboard"
+    },
+    {
+      "keyword": "free sound effects download",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-effects-download"
+    },
+    {
+      "keyword": "free sound library",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-library"
+    },
+    {
+      "keyword": "free sounds download",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sounds-download"
+    },
+    {
+      "keyword": "free sound effects library",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-effects-library"
+    },
+    {
+      "keyword": "free sound machine app",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-machine-app"
+    },
+    {
+      "keyword": "free soundboard for discord",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "soundboard-for-discord"
+    },
+    {
+      "keyword": "free sound fx",
+      "root": "sound",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "sound-fx"
+    },
+    {
+      "keyword": "ai audio generator",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-generator"
+    },
+    {
+      "keyword": "ai audio enhancer",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-enhancer"
+    },
+    {
+      "keyword": "ai audio",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio"
+    },
+    {
+      "keyword": "ai audio editor",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-editor"
+    },
+    {
+      "keyword": "ai audio transcription",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-transcription"
+    },
+    {
+      "keyword": "ai audio splitter",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-splitter"
+    },
+    {
+      "keyword": "ai audiobook",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audiobook"
+    },
+    {
+      "keyword": "ai audio cleanup",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-cleanup"
+    },
+    {
+      "keyword": "ai audio detector",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-detector"
+    },
+    {
+      "keyword": "ai audiobook generator",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audiobook-generator"
+    },
+    {
+      "keyword": "free audio books",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-books"
+    },
+    {
+      "keyword": "free audiobook apps",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audiobook-apps"
+    },
+    {
+      "keyword": "free audio books online",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-books-online"
+    },
+    {
+      "keyword": "free audiobooks on spotify",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audiobooks-on-spotify"
+    },
+    {
+      "keyword": "free audio transcription",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-transcription"
+    },
+    {
+      "keyword": "free audio editing software",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-editing-software"
+    },
+    {
+      "keyword": "free audio",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio"
+    },
+    {
+      "keyword": "free audio mystery books",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-mystery-books"
+    },
+    {
+      "keyword": "free audio editor",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audio-editor"
+    },
+    {
+      "keyword": "free audiobooks reddit",
+      "root": "audio",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "audiobooks-reddit"
+    },
+    {
+      "keyword": "ai music generator",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator"
+    },
+    {
+      "keyword": "ai music",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music"
+    },
+    {
+      "keyword": "ai music generator free",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-generator-free"
+    },
+    {
+      "keyword": "ai music maker",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-maker"
+    },
+    {
+      "keyword": "ai music video generator",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-video-generator"
+    },
+    {
+      "keyword": "ai music artist",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-artist"
+    },
+    {
+      "keyword": "ai music video",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-video"
+    },
+    {
+      "keyword": "ai music creator",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-creator"
+    },
+    {
+      "keyword": "ai music detector",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-detector"
+    },
+    {
+      "keyword": "ai music app",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-app"
+    },
+    {
+      "keyword": "free music",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music"
+    },
+    {
+      "keyword": "free music downloads",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-downloads"
+    },
+    {
+      "keyword": "free music apps",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-apps"
+    },
+    {
+      "keyword": "free music archive",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-archive"
+    },
+    {
+      "keyword": "free music online",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-online"
+    },
+    {
+      "keyword": "free music for videos",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-for-videos"
+    },
+    {
+      "keyword": "free music streaming",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-streaming"
+    },
+    {
+      "keyword": "free music making software",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-making-software"
+    },
+    {
+      "keyword": "free music distribution",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-distribution"
+    },
+    {
+      "keyword": "free music production software",
+      "root": "music",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "music-production-software"
+    },
+    {
+      "keyword": "ai recorder",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder"
+    },
+    {
+      "keyword": "ai recorder device",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-device"
+    },
+    {
+      "keyword": "ai recorder note taker",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-note-taker"
+    },
+    {
+      "keyword": "ai recorder transcriber",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-transcriber"
+    },
+    {
+      "keyword": "ai recorder for meetings",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-for-meetings"
+    },
+    {
+      "keyword": "ai recorder app",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-app"
+    },
+    {
+      "keyword": "ai recorder pen",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-pen"
+    },
+    {
+      "keyword": "ai recorder note taker free",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-note-taker-free"
+    },
+    {
+      "keyword": "ai recorder for iphone",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-for-iphone"
+    },
+    {
+      "keyword": "ai recorder 2 cam 12",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-2-cam-12"
+    },
+    {
+      "keyword": "free recorder",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder"
+    },
+    {
+      "keyword": "free recorder app",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-app"
+    },
+    {
+      "keyword": "free recorder sheet music",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-sheet-music"
+    },
+    {
+      "keyword": "free recorder sheet music pdf",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-sheet-music-pdf"
+    },
+    {
+      "keyword": "free recorder app for android",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-app-for-android"
+    },
+    {
+      "keyword": "free recorder music",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-music"
+    },
+    {
+      "keyword": "free recorder online",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-online"
+    },
+    {
+      "keyword": "free recorder app for iphone",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-app-for-iphone"
+    },
+    {
+      "keyword": "free recorder music for beginners",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-music-for-beginners"
+    },
+    {
+      "keyword": "free recorder lessons",
+      "root": "recorder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "recorder-lessons"
+    },
+    {
+      "keyword": "ai cartoon generator",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-generator"
+    },
+    {
+      "keyword": "ai cartoon",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon"
+    },
+    {
+      "keyword": "ai cartoon generator free",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-generator-free"
+    },
+    {
+      "keyword": "ai cartoon trend",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-trend"
+    },
+    {
+      "keyword": "ai cartoon image generator",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-image-generator"
+    },
+    {
+      "keyword": "ai cartoon maker",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-maker"
+    },
+    {
+      "keyword": "ai cartoon video generator",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-video-generator"
+    },
+    {
+      "keyword": "ai cartoon picture generator",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-picture-generator"
+    },
+    {
+      "keyword": "ai cartoon video generator free",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-video-generator-free"
+    },
+    {
+      "keyword": "ai cartoon characters",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-characters"
+    },
+    {
+      "keyword": "free cartoons",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoons"
+    },
+    {
+      "keyword": "free cartoons online",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoons-online"
+    },
+    {
+      "keyword": "free cartoons for kids",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoons-for-kids"
+    },
+    {
+      "keyword": "free cartoons on youtube",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoons-on-youtube"
+    },
+    {
+      "keyword": "free cartoon images of trump",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-images-of-trump"
+    },
+    {
+      "keyword": "free cartoon photo editor",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-photo-editor"
+    },
+    {
+      "keyword": "free cartoon apps",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-apps"
+    },
+    {
+      "keyword": "free cartoon maker",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-maker"
+    },
+    {
+      "keyword": "free cartoon images",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoon-images"
+    },
+    {
+      "keyword": "free cartoons to watch",
+      "root": "cartoon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "cartoons-to-watch"
+    },
+    {
+      "keyword": "ai speech generator",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-generator"
+    },
+    {
+      "keyword": "ai speech",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech"
+    },
+    {
+      "keyword": "ai speech to text",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-to-text"
+    },
+    {
+      "keyword": "ai speech writer",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-writer"
+    },
+    {
+      "keyword": "ai speech generator free",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-generator-free"
+    },
+    {
+      "keyword": "ai speech therapy",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-therapy"
+    },
+    {
+      "keyword": "ai speech to text free",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-free"
+    },
+    {
+      "keyword": "ai speech reader",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-reader"
+    },
+    {
+      "keyword": "ai speech coach",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-coach"
+    },
+    {
+      "keyword": "ai speech detector",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-detector"
+    },
+    {
+      "keyword": "free speech",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech"
+    },
+    {
+      "keyword": "free speech tv",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-tv"
+    },
+    {
+      "keyword": "free speech amendment",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-amendment"
+    },
+    {
+      "keyword": "free speech zone",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-zone"
+    },
+    {
+      "keyword": "free speech lawn iowa state",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-lawn-iowa-state"
+    },
+    {
+      "keyword": "free speech to text",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-to-text"
+    },
+    {
+      "keyword": "free speech coalition v. paxton",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-coalition-v.-paxton"
+    },
+    {
+      "keyword": "free speech definition",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-definition"
+    },
+    {
+      "keyword": "free speech in uk",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-in-uk"
+    },
+    {
+      "keyword": "free speech coalition",
+      "root": "speech",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-19",
+      "already_have": false,
+      "suggested_slug": "speech-coalition"
     }
   ],
   "existing": [
