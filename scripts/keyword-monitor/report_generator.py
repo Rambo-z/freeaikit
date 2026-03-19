@@ -70,8 +70,9 @@ def merge_opportunities(trends_data, suggest_data):
             continue
         if data["suggested_slug"] in EXISTING_SLUGS:
             continue
-        # Score: trend_score + bonus for appearing in multiple sources
-        data["combined_score"] = data["trend_score"] + len(data["sources"]) * 100
+        # Score: base 100 for suggest, trend_score on top, bonus for multiple sources
+        base = 100 if "suggest" in data["sources"] else 0
+        data["combined_score"] = base + data["trend_score"] + (len(data["sources"]) - 1) * 200
         opportunities.append(data)
 
     # Sort by combined score

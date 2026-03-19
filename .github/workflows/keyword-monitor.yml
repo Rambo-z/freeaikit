@@ -14,14 +14,6 @@ on:
         description: 'Max roots per run (for testing, e.g. 2)'
         type: string
         default: ''
-      run_trends:
-        description: 'Run Google Trends monitor'
-        type: boolean
-        default: true
-      run_suggest:
-        description: 'Run Google Suggest monitor'
-        type: boolean
-        default: true
 
 permissions:
   contents: write
@@ -29,7 +21,7 @@ permissions:
 jobs:
   monitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
@@ -63,14 +55,7 @@ jobs:
             echo "flag=" >> $GITHUB_OUTPUT
           fi
 
-      - name: Run Google Trends monitor (batch)
-        if: ${{ github.event_name == 'schedule' || github.event.inputs.run_trends == 'true' }}
-        working-directory: scripts/keyword-monitor
-        run: python trends_monitor.py --batch ${{ steps.batch.outputs.index }} ${{ steps.limit.outputs.flag }}
-        continue-on-error: true
-
       - name: Run Google Suggest monitor (batch)
-        if: ${{ github.event_name == 'schedule' || github.event.inputs.run_suggest == 'true' }}
         working-directory: scripts/keyword-monitor
         run: python suggest_monitor.py --batch ${{ steps.batch.outputs.index }} ${{ steps.limit.outputs.flag }}
 

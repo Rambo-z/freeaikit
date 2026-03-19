@@ -73,6 +73,17 @@ EXISTING_KEYWORDS = [
 # Batch settings: 122 roots ÷ 12 batches ≈ 10-11 roots per run
 BATCH_COUNT = 12
 
+# Noise filter: skip suggestions containing these (not tool-related)
+NOISE_WORDS = [
+    "what is", "how to use", "meaning of", "definition",
+    "reddit", "quora", "youtube", "tiktok", "instagram",
+    "download apk", "mod apk", "crack", "torrent",
+    "palestine", "ukraine", "politics", "news",
+    "login", "sign up", "pricing", "review",
+    "jobs", "salary", "career", "course", "tutorial",
+    "vs ", "versus", "alternative to",
+]
+
 # Output paths
 import os
 import math

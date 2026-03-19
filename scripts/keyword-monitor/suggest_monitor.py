@@ -23,6 +23,7 @@ from config import (
     DATA_DIR,
     EXISTING_KEYWORDS,
     KEYWORD_ROOTS,
+    NOISE_WORDS,
     SUGGEST_PATTERNS,
     get_batch_roots,
 )
@@ -74,6 +75,10 @@ def get_suggest_keywords(roots=None):
 
                 # Skip if it's just the query itself
                 if suggestion_lower == query.lower():
+                    continue
+
+                # Skip noise (non-tool queries)
+                if any(noise in suggestion_lower for noise in NOISE_WORDS):
                     continue
 
                 # Check if this relates to existing tools
