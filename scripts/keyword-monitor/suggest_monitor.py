@@ -160,12 +160,21 @@ def main():
         if arg == "--batch" and i + 1 < len(sys.argv):
             batch_index = int(sys.argv[i + 1])
 
+    # Optional limit: --limit N
+    limit = None
+    for i, arg in enumerate(sys.argv):
+        if arg == "--limit" and i + 1 < len(sys.argv):
+            limit = int(sys.argv[i + 1])
+
     if batch_index is not None:
         roots = get_batch_roots(batch_index)
-        print(f"=== BATCH MODE: batch {batch_index}, {len(roots)} roots ===")
     else:
         roots = KEYWORD_ROOTS
-        print(f"=== FULL MODE: {len(roots)} roots ===")
+
+    if limit:
+        roots = roots[:limit]
+
+    print(f"=== {'BATCH ' + str(batch_index) if batch_index is not None else 'FULL'} MODE: {len(roots)} roots ===")
 
     if dry_run:
         queries = len(roots) * len(SUGGEST_PATTERNS)

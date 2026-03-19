@@ -10,6 +10,10 @@ on:
         description: 'Batch index (0-11), leave empty for auto'
         type: string
         default: ''
+      limit:
+        description: 'Max roots per run (for testing, e.g. 2)'
+        type: string
+        default: ''
       run_trends:
         description: 'Run Google Trends monitor'
         type: boolean
@@ -42,23 +46,30 @@ jobs:
           if [ -n "${{ github.event.inputs.batch }}" ]; then
             echo "index=${{ github.event.inputs.batch }}" >> $GITHUB_OUTPUT
           else
-            # Auto-calculate: hour/2 gives batch 0-11
             HOUR=$(date -u +%H)
             BATCH=$((HOUR / 2))
             echo "index=$BATCH" >> $GITHUB_OUTPUT
           fi
-          echo "Batch index: $(cat $GITHUB_OUTPUT)"
+
+      - name: Build limit flag
+        id: limit
+        run: |
+          if [ -n "${{ github.event.inputs.limit }}" ]; then
+            echo "flag=--limit ${{ github.event.inputs.limit }}" >> $GITHUB_OUTPUT
+          else
+            echo "flag=" >> $GITHUB_OUTPUT
+          fi
 
       - name: Run Google Trends monitor (batch)
         if: ${{ github.event_name == 'schedule' || github.event.inputs.run_trends == 'true' }}
         working-directory: scripts/keyword-monitor
-        run: python trends_monitor.py --batch ${{ steps.batch.outputs.index }}
+        run: python trends_monitor.py --batch ${{ steps.batch.outputs.index }} ${{ steps.limit.outputs.flag }}
         continue-on-error: true
 
       - name: Run Google Suggest monitor (batch)
         if: ${{ github.event_name == 'schedule' || github.event.inputs.run_suggest == 'true' }}
         working-directory: scripts/keyword-monitor
-        run: python suggest_monitor.py --batch ${{ steps.batch.outputs.index }}
+        run: python suggest_monitor.py --batch ${{ steps.batch.outputs.index }} ${{ steps.limit.outputs.flag }}
 
       - name: Generate merged report & sync to Bitable
         working-directory: scripts/keyword-monitor
