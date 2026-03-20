@@ -118,7 +118,10 @@ NOISE_WORDS = [
     "convertio", "cloud convert", "freeconvert", "remaker ai", "aiarty",
     "fotor", "pixlr", "remove.bg", "unscreen", "kapwing", "veed",
     "imgupscaler", "photogrid", "vmake ai", "lupa upscaler", "zoviz",
-    "topaz", "photoapp", "search atlas",
+    "topaz", "photoapp", "search atlas", "picwand",
+    "small pdf", "i love pdf", "love pdf", "zamzar", "online-convert",
+    # Non-tool brands / services
+    "lkq", "first call", "money converter",
     # Entertainment / non-tool
     "kpop", "demon hunter", "audiobook", "podcast", "lyrics",
     "free trial", "free song", "free music",
