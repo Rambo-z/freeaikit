@@ -84,8 +84,13 @@ def search_existing_keywords(token):
                 if data.get("code") == 0:
                     items = data.get("data", {}).get("items", [])
                     for item in items:
-                        kw = item.get("fields", {}).get("\u5173\u952e\u8bcd", "")
+                        raw_kw = item.get("fields", {}).get("\u5173\u952e\u8bcd", "")
                         record_id = item.get("record_id", "")
+                        # Handle both string and rich text array format
+                        if isinstance(raw_kw, list):
+                            kw = "".join(seg.get("text", "") for seg in raw_kw if isinstance(seg, dict))
+                        else:
+                            kw = str(raw_kw) if raw_kw else ""
                         if kw and record_id:
                             existing[kw.lower()] = record_id
 
