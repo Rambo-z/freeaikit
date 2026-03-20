@@ -1,9 +1,9 @@
 {
   "date": "2026-03-20",
-  "batch": 6,
-  "total_suggestions": 1673,
-  "new_opportunities": 1651,
-  "existing_matches": 22,
+  "batch": 7,
+  "total_suggestions": 1986,
+  "new_opportunities": 1940,
+  "existing_matches": 46,
   "opportunities": [
     {
       "keyword": "free compression tool online",
@@ -4597,7 +4597,7 @@
     },
     {
       "keyword": "ai generator online",
-      "root": "creator",
+      "root": "picker",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -4606,7 +4606,7 @@
     },
     {
       "keyword": "ai generator online free",
-      "root": "creator",
+      "root": "picker",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -4624,7 +4624,7 @@
     },
     {
       "keyword": "ai generator online free from photo",
-      "root": "creator",
+      "root": "picker",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -4633,7 +4633,7 @@
     },
     {
       "keyword": "ai generator online image",
-      "root": "creator",
+      "root": "picker",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -4642,7 +4642,7 @@
     },
     {
       "keyword": "ai generator online video",
-      "root": "creator",
+      "root": "picker",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -4651,7 +4651,7 @@
     },
     {
       "keyword": "ai generator online from photo",
-      "root": "creator",
+      "root": "picker",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -4786,7 +4786,7 @@
     },
     {
       "keyword": "ai generator online free from text",
-      "root": "generator",
+      "root": "picker",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -4795,7 +4795,7 @@
     },
     {
       "keyword": "ai generator online free image",
-      "root": "generator",
+      "root": "picker",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -8989,7 +8989,7 @@
     },
     {
       "keyword": "free format tool",
-      "root": "beautifier",
+      "root": "template",
       "pattern": "free {root} tool",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -8998,7 +8998,7 @@
     },
     {
       "keyword": "free format tool fat32",
-      "root": "beautifier",
+      "root": "template",
       "pattern": "free {root} tool",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -12625,7 +12625,7 @@
     },
     {
       "keyword": "best font generator free",
-      "root": "font",
+      "root": "style",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -12634,7 +12634,7 @@
     },
     {
       "keyword": "best font generator copy and paste",
-      "root": "font",
+      "root": "style",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -12643,7 +12643,7 @@
     },
     {
       "keyword": "best font generator app",
-      "root": "font",
+      "root": "style",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -12652,7 +12652,7 @@
     },
     {
       "keyword": "best font generator for tattoos",
-      "root": "font",
+      "root": "style",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -12661,7 +12661,7 @@
     },
     {
       "keyword": "best font generator ai",
-      "root": "font",
+      "root": "style",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -12670,7 +12670,7 @@
     },
     {
       "keyword": "best font generator for free fire",
-      "root": "font",
+      "root": "style",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -14863,6 +14863,2607 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "font-websites"
+    },
+    {
+      "keyword": "ai meme maker",
+      "root": "meme",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-maker"
+    },
+    {
+      "keyword": "ai meme maker free",
+      "root": "meme",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-maker-free"
+    },
+    {
+      "keyword": "ai meme maker with photo",
+      "root": "meme",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-maker-with-photo"
+    },
+    {
+      "keyword": "ai meme maker video",
+      "root": "meme",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-maker-video"
+    },
+    {
+      "keyword": "ai meme maker from image",
+      "root": "meme",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-maker-from-image"
+    },
+    {
+      "keyword": "ai meme maker app",
+      "root": "meme",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-maker-app"
+    },
+    {
+      "keyword": "ai meme maker gif",
+      "root": "meme",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-maker-gif"
+    },
+    {
+      "keyword": "ai meme maker perchance",
+      "root": "meme",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-maker-perchance"
+    },
+    {
+      "keyword": "free tooling pattern",
+      "root": "pattern",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tooling-pattern"
+    },
+    {
+      "keyword": "free template tool",
+      "root": "pattern",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template"
+    },
+    {
+      "keyword": "free tooling patterns for leather",
+      "root": "pattern",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tooling-patterns-for-leather"
+    },
+    {
+      "keyword": "free tooling patterns pdf",
+      "root": "pattern",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tooling-patterns-pdf"
+    },
+    {
+      "keyword": "free pattern remover tool",
+      "root": "pattern",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-remover"
+    },
+    {
+      "keyword": "free pattern unlock tool",
+      "root": "pattern",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-unlock"
+    },
+    {
+      "keyword": "free pattern making tool",
+      "root": "pattern",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-making"
+    },
+    {
+      "keyword": "free pattern hair tool bag",
+      "root": "pattern",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-hair-bag"
+    },
+    {
+      "keyword": "free sewing pattern tool",
+      "root": "pattern",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sewing-pattern"
+    },
+    {
+      "keyword": "free crochet tools pattern",
+      "root": "pattern",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "crochets-pattern"
+    },
+    {
+      "keyword": "pattern ai online",
+      "root": "pattern",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-online"
+    },
+    {
+      "keyword": "ai pattern generator online",
+      "root": "pattern",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-online"
+    },
+    {
+      "keyword": "ai pattern generator online free",
+      "root": "pattern",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-free"
+    },
+    {
+      "keyword": "ai pattern recognition online",
+      "root": "pattern",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-recognition-online"
+    },
+    {
+      "keyword": "ai crochet pattern generator online free",
+      "root": "pattern",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "crochet-pattern-generator-free"
+    },
+    {
+      "keyword": "ai chart pattern scanner online",
+      "root": "pattern",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-pattern-scanner-online"
+    },
+    {
+      "keyword": "ai chart pattern scanner online free",
+      "root": "pattern",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-pattern-scanner-free"
+    },
+    {
+      "keyword": "ai pattern generator from image online free",
+      "root": "pattern",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-from-image-free"
+    },
+    {
+      "keyword": "ai sewing pattern generator online free",
+      "root": "pattern",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sewing-pattern-generator-free"
+    },
+    {
+      "keyword": "pattern generator free",
+      "root": "pattern",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-free"
+    },
+    {
+      "keyword": "pattern generator free online",
+      "root": "pattern",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-online"
+    },
+    {
+      "keyword": "cross stitch pattern converter free",
+      "root": "pattern",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "cross-stitch-pattern-converter-free"
+    },
+    {
+      "keyword": "top pattern generator",
+      "root": "pattern",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "top-pattern-generator"
+    },
+    {
+      "keyword": "best pattern maker",
+      "root": "pattern",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-maker"
+    },
+    {
+      "keyword": "best pattern maker app",
+      "root": "pattern",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-maker-app"
+    },
+    {
+      "keyword": "best pattern creator",
+      "root": "pattern",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-creator"
+    },
+    {
+      "keyword": "best pattern maker software",
+      "root": "pattern",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-maker-software"
+    },
+    {
+      "keyword": "best pattern maker for cross stitch",
+      "root": "pattern",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-maker-for-cross-stitch"
+    },
+    {
+      "keyword": "best ai pattern generator",
+      "root": "pattern",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-generator"
+    },
+    {
+      "keyword": "best seamless pattern generator",
+      "root": "pattern",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "seamless-pattern-generator"
+    },
+    {
+      "keyword": "best drum pattern generator",
+      "root": "pattern",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "drum-pattern-generator"
+    },
+    {
+      "keyword": "free styling tool",
+      "root": "style",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "styling"
+    },
+    {
+      "keyword": "free hair style tool",
+      "root": "style",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hair-style"
+    },
+    {
+      "keyword": "free style crop tool",
+      "root": "style",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-crop"
+    },
+    {
+      "keyword": "free style snipping tool",
+      "root": "style",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-snipping"
+    },
+    {
+      "keyword": "heat free styling tool",
+      "root": "style",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "heat-styling"
+    },
+    {
+      "keyword": "ghibli style free tool",
+      "root": "style",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ghibli-style"
+    },
+    {
+      "keyword": "free ai hair style tool",
+      "root": "style",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hair-style"
+    },
+    {
+      "keyword": "free harvard referencing style tools",
+      "root": "style",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "harvard-referencing-styles"
+    },
+    {
+      "keyword": "free leadership style assessment tools",
+      "root": "style",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "leadership-style-assessments"
+    },
+    {
+      "keyword": "free work style assessment tools",
+      "root": "style",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "work-style-assessments"
+    },
+    {
+      "keyword": "ai style online free",
+      "root": "style",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-free"
+    },
+    {
+      "keyword": "ai fashion online free",
+      "root": "style",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "fashion-free"
+    },
+    {
+      "keyword": "ai fashion online",
+      "root": "style",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "fashion-online"
+    },
+    {
+      "keyword": "ai hair style online free",
+      "root": "style",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hair-style-free"
+    },
+    {
+      "keyword": "ai beard style online free",
+      "root": "style",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beard-style-free"
+    },
+    {
+      "keyword": "ai style transfer online free",
+      "root": "style",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-transfer-free"
+    },
+    {
+      "keyword": "ai hair style online",
+      "root": "style",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hair-style-online"
+    },
+    {
+      "keyword": "ai haircut style online free",
+      "root": "style",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "haircut-style-free"
+    },
+    {
+      "keyword": "ai style transfer online",
+      "root": "style",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-transfer-online"
+    },
+    {
+      "keyword": "style generator free",
+      "root": "style",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-generator-free"
+    },
+    {
+      "keyword": "ghibli style converter free",
+      "root": "style",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ghibli-style-converter-free"
+    },
+    {
+      "keyword": "ghibli style converter free online",
+      "root": "style",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ghibli-style-converter-online"
+    },
+    {
+      "keyword": "apa style converter free online",
+      "root": "style",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "apa-style-converter-online"
+    },
+    {
+      "keyword": "apa style converter free",
+      "root": "style",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "apa-style-converter-free"
+    },
+    {
+      "keyword": "style format converter free download",
+      "root": "style",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-format-converter-download"
+    },
+    {
+      "keyword": "font style converter free",
+      "root": "style",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-style-converter-free"
+    },
+    {
+      "keyword": "video style converter free",
+      "root": "style",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "video-style-converter-free"
+    },
+    {
+      "keyword": "image style converter free",
+      "root": "style",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-style-converter-free"
+    },
+    {
+      "keyword": "best font generator",
+      "root": "style",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator"
+    },
+    {
+      "keyword": "free tattoo tools",
+      "root": "tattoo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoos"
+    },
+    {
+      "keyword": "free tattoo design tool",
+      "root": "tattoo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-design"
+    },
+    {
+      "keyword": "free tattoo ai tool",
+      "root": "tattoo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo"
+    },
+    {
+      "keyword": "ai tattoo online free",
+      "root": "tattoo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-free"
+    },
+    {
+      "keyword": "ai tattoo online generator",
+      "root": "tattoo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator"
+    },
+    {
+      "keyword": "ai tattoo designer online free",
+      "root": "tattoo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-designer-free"
+    },
+    {
+      "keyword": "ai tattoo remover online free",
+      "root": "tattoo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-remover-free"
+    },
+    {
+      "keyword": "ai tattoo removal online",
+      "root": "tattoo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-removal-online"
+    },
+    {
+      "keyword": "ai tattoo designer online",
+      "root": "tattoo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-designer-online"
+    },
+    {
+      "keyword": "ai tattoo creator online",
+      "root": "tattoo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-creator-online"
+    },
+    {
+      "keyword": "ai create a tattoo online free",
+      "root": "tattoo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "create-a-tattoo-free"
+    },
+    {
+      "keyword": "ai photo to tattoo online free",
+      "root": "tattoo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-to-tattoo-free"
+    },
+    {
+      "keyword": "tattoo generator free online",
+      "root": "tattoo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-online"
+    },
+    {
+      "keyword": "tattoo generator free font",
+      "root": "tattoo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-font"
+    },
+    {
+      "keyword": "tattoo generator free app",
+      "root": "tattoo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-app"
+    },
+    {
+      "keyword": "tattoo generator free text",
+      "root": "tattoo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-text"
+    },
+    {
+      "keyword": "tattoo generator free from image",
+      "root": "tattoo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-from-image"
+    },
+    {
+      "keyword": "tattoo generator free with pictures",
+      "root": "tattoo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-with-pictures"
+    },
+    {
+      "keyword": "tattoo generator free name",
+      "root": "tattoo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-name"
+    },
+    {
+      "keyword": "image to tattoo converter free",
+      "root": "tattoo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-to-tattoo-converter-free"
+    },
+    {
+      "keyword": "best tattoo generator app",
+      "root": "tattoo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-app"
+    },
+    {
+      "keyword": "best tattoo generator app free",
+      "root": "tattoo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-app-free"
+    },
+    {
+      "keyword": "best tattoo generator free",
+      "root": "tattoo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-free"
+    },
+    {
+      "keyword": "best tattoo generator ai",
+      "root": "tattoo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-ai"
+    },
+    {
+      "keyword": "best tattoo generator free online",
+      "root": "tattoo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-online"
+    },
+    {
+      "keyword": "best tattoo generator ai free",
+      "root": "tattoo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-free"
+    },
+    {
+      "keyword": "good tattoo generator",
+      "root": "tattoo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "good-tattoo-generator"
+    },
+    {
+      "keyword": "best ambigram tattoo generator online free",
+      "root": "tattoo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ambigram-tattoo-generator-free"
+    },
+    {
+      "keyword": "free toolbox template",
+      "root": "template",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "toolbox-template"
+    },
+    {
+      "keyword": "free toolkit template",
+      "root": "template",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "toolkit-template"
+    },
+    {
+      "keyword": "free form tool",
+      "root": "template",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "form"
+    },
+    {
+      "keyword": "free printable tool box talks",
+      "root": "template",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "printable-box-talks"
+    },
+    {
+      "keyword": "free form tool illustrator",
+      "root": "template",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "form-illustrator"
+    },
+    {
+      "keyword": "free form tool in paint",
+      "root": "template",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "form-in-paint"
+    },
+    {
+      "keyword": "freeform tool photoshop",
+      "root": "template",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "freeform-photoshop"
+    },
+    {
+      "keyword": "ai format online",
+      "root": "template",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "format-online"
+    },
+    {
+      "keyword": "ai format online editor",
+      "root": "template",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "format-editor"
+    },
+    {
+      "keyword": "ai form online",
+      "root": "template",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "form-online"
+    },
+    {
+      "keyword": "ai format online viewer",
+      "root": "template",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "format-viewer"
+    },
+    {
+      "keyword": "ai template maker online free",
+      "root": "template",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-maker-free"
+    },
+    {
+      "keyword": "ai template maker online",
+      "root": "template",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-maker-online"
+    },
+    {
+      "keyword": "ai template generator online",
+      "root": "template",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-generator-online"
+    },
+    {
+      "keyword": "adobe illustrator online templates",
+      "root": "template",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "adobe-illustrator-templates"
+    },
+    {
+      "keyword": "ai online form creator",
+      "root": "template",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "form-creator"
+    },
+    {
+      "keyword": "format converter free",
+      "root": "template",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "format-converter-free"
+    },
+    {
+      "keyword": "format converter free download",
+      "root": "template",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "format-converter-download"
+    },
+    {
+      "keyword": "resume template converter free",
+      "root": "template",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "resume-template-converter-free"
+    },
+    {
+      "keyword": "cv template converter free",
+      "root": "template",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "cv-template-converter-free"
+    },
+    {
+      "keyword": "ppt template converter free",
+      "root": "template",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ppt-template-converter-free"
+    },
+    {
+      "keyword": "pdf to template converter free",
+      "root": "template",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pdf-to-template-converter-free"
+    },
+    {
+      "keyword": "video to template converter free download",
+      "root": "template",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "video-to-template-converter-download"
+    },
+    {
+      "keyword": "image to template converter free",
+      "root": "template",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-to-template-converter-free"
+    },
+    {
+      "keyword": "word to template converter free",
+      "root": "template",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "word-to-template-converter-free"
+    },
+    {
+      "keyword": "image to template converter free download",
+      "root": "template",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-to-template-converter-download"
+    },
+    {
+      "keyword": "best template generator ai",
+      "root": "template",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-generator-ai"
+    },
+    {
+      "keyword": "best form generator",
+      "root": "template",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "form-generator"
+    },
+    {
+      "keyword": "best layout generator",
+      "root": "template",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "layout-generator"
+    },
+    {
+      "keyword": "best theme generator",
+      "root": "template",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "theme-generator"
+    },
+    {
+      "keyword": "best layout generator ai",
+      "root": "template",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "layout-generator-ai"
+    },
+    {
+      "keyword": "best template maker app",
+      "root": "template",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-maker-app"
+    },
+    {
+      "keyword": "best template maker",
+      "root": "template",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-maker"
+    },
+    {
+      "keyword": "best template maker ai",
+      "root": "template",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-maker-ai"
+    },
+    {
+      "keyword": "best template builder",
+      "root": "template",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-builder"
+    },
+    {
+      "keyword": "free gradient map tool",
+      "root": "gradient",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-map"
+    },
+    {
+      "keyword": "where is the gradient tool in gimp",
+      "root": "gradient",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "where-is-the-gradient-in-gimp"
+    },
+    {
+      "keyword": "ai gradient generator",
+      "root": "gradient",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-generator"
+    },
+    {
+      "keyword": "ai gradient maker",
+      "root": "gradient",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-maker"
+    },
+    {
+      "keyword": "ai gradient generator from image",
+      "root": "gradient",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-generator-from-image"
+    },
+    {
+      "keyword": "gradient ai online",
+      "root": "gradient",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-online"
+    },
+    {
+      "keyword": "cool gradient generator",
+      "root": "gradient",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "cool-gradient-generator"
+    },
+    {
+      "keyword": "nice gradient generator",
+      "root": "gradient",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "nice-gradient-generator"
+    },
+    {
+      "keyword": "good gradient generator",
+      "root": "gradient",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "good-gradient-generator"
+    },
+    {
+      "keyword": "awesome gradient generator",
+      "root": "gradient",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "awesome-gradient-generator"
+    },
+    {
+      "keyword": "best gradient maker",
+      "root": "gradient",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-maker"
+    },
+    {
+      "keyword": "best gradient color generator",
+      "root": "gradient",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-color-generator"
+    },
+    {
+      "keyword": "best css gradient generator",
+      "root": "gradient",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "css-gradient-generator"
+    },
+    {
+      "keyword": "best online gradient generator",
+      "root": "gradient",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-generator"
+    },
+    {
+      "keyword": "best color gradient combination generator",
+      "root": "gradient",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "color-gradient-combination-generator"
+    },
+    {
+      "keyword": "palette ai online",
+      "root": "palette",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-online"
+    },
+    {
+      "keyword": "best palette generator app",
+      "root": "palette",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-generator-app"
+    },
+    {
+      "keyword": "best color scheme generator",
+      "root": "palette",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "color-scheme-generator"
+    },
+    {
+      "keyword": "best palette maker",
+      "root": "palette",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-maker"
+    },
+    {
+      "keyword": "free generator tool",
+      "root": "picker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "generator"
+    },
+    {
+      "keyword": "free selector tool",
+      "root": "picker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "selector"
+    },
+    {
+      "keyword": "free color picker tool",
+      "root": "picker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "color-picker"
+    },
+    {
+      "keyword": "free comment picker tool",
+      "root": "picker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "comment-picker"
+    },
+    {
+      "keyword": "free giveaway picker tool",
+      "root": "picker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "giveaway-picker"
+    },
+    {
+      "keyword": "free color picker tool for windows",
+      "root": "picker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "color-picker-for-windows"
+    },
+    {
+      "keyword": "free color picker tool online",
+      "root": "picker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "color-picker-online"
+    },
+    {
+      "keyword": "free name picker tool",
+      "root": "picker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "name-picker"
+    },
+    {
+      "keyword": "ai picker",
+      "root": "picker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "picker"
+    },
+    {
+      "keyword": "ai picker wheel",
+      "root": "picker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "picker-wheel"
+    },
+    {
+      "keyword": "ai stock picker",
+      "root": "picker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "stock-picker"
+    },
+    {
+      "keyword": "free picker wheel",
+      "root": "picker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "picker-wheel"
+    },
+    {
+      "keyword": "free picker",
+      "root": "picker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "picker"
+    },
+    {
+      "keyword": "free picker wheel generator",
+      "root": "picker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "picker-wheel-generator"
+    },
+    {
+      "keyword": "free picker giveaway",
+      "root": "picker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "picker-giveaway"
+    },
+    {
+      "keyword": "free picker comment",
+      "root": "picker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "picker-comment"
+    },
+    {
+      "keyword": "free color picker",
+      "root": "picker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "color-picker"
+    },
+    {
+      "keyword": "free comment picker facebook",
+      "root": "picker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "comment-picker-facebook"
+    },
+    {
+      "keyword": "ai tattoo generator",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator"
+    },
+    {
+      "keyword": "ai tattoo",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo"
+    },
+    {
+      "keyword": "ai tattoo design",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-design"
+    },
+    {
+      "keyword": "ai tattoo creator",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-creator"
+    },
+    {
+      "keyword": "ai tattoo cover up generator",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-cover-up-generator"
+    },
+    {
+      "keyword": "ai tattoo generator from photo",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator-from-photo"
+    },
+    {
+      "keyword": "ai tattoo design generator",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-design-generator"
+    },
+    {
+      "keyword": "ai tattoo stencil generator",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-stencil-generator"
+    },
+    {
+      "keyword": "ai tattoo machine",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-machine"
+    },
+    {
+      "keyword": "ai tattoo ideas",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-ideas"
+    },
+    {
+      "keyword": "free tattoo removal",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-removal"
+    },
+    {
+      "keyword": "free tattoo generator",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator"
+    },
+    {
+      "keyword": "free tattoo removal san jose",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-removal-san-jose"
+    },
+    {
+      "keyword": "free tattoo ai generator",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-generator"
+    },
+    {
+      "keyword": "free tattoo design app",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-design-app"
+    },
+    {
+      "keyword": "free tattoos",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoos"
+    },
+    {
+      "keyword": "free tattoo removal san francisco",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-removal-san-francisco"
+    },
+    {
+      "keyword": "free tattoo designer",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-designer"
+    },
+    {
+      "keyword": "free tattoo removal bay area",
+      "root": "tattoo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-removal-bay-area"
+    },
+    {
+      "keyword": "ai style magazine",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-magazine"
+    },
+    {
+      "keyword": "ai styles",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "styles"
+    },
+    {
+      "keyword": "ai style by dna",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-by-dna"
+    },
+    {
+      "keyword": "ai style app",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-app"
+    },
+    {
+      "keyword": "ai style magazine 308",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-magazine-308"
+    },
+    {
+      "keyword": "ai style generator",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-generator"
+    },
+    {
+      "keyword": "ai style transfer",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-transfer"
+    },
+    {
+      "keyword": "ai styler",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "styler"
+    },
+    {
+      "keyword": "ai style by dna sl",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-by-dna-sl"
+    },
+    {
+      "keyword": "ai style secrets",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-secrets"
+    },
+    {
+      "keyword": "free style",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style"
+    },
+    {
+      "keyword": "freestyle libre",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "freestyle-libre"
+    },
+    {
+      "keyword": "freestyle libre 3",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "freestyle-libre-3"
+    },
+    {
+      "keyword": "freestyle skiing",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "freestyle-skiing"
+    },
+    {
+      "keyword": "free style quiz",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "style-quiz"
+    },
+    {
+      "keyword": "freestyle libre 3 plus",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "freestyle-libre-3-plus"
+    },
+    {
+      "keyword": "freestyle watches",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "freestyle-watches"
+    },
+    {
+      "keyword": "freestyle beat",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "freestyle-beat"
+    },
+    {
+      "keyword": "freestyle lite",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "freestyle-lite"
+    },
+    {
+      "keyword": "freestyle libre 2",
+      "root": "style",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "freestyle-libre-2"
+    },
+    {
+      "keyword": "ai gradient",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient"
+    },
+    {
+      "keyword": "ai gradient descent",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-descent"
+    },
+    {
+      "keyword": "ai gradient color",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-color"
+    },
+    {
+      "keyword": "ai gradient background",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-background"
+    },
+    {
+      "keyword": "ai gradient background generator",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-background-generator"
+    },
+    {
+      "keyword": "ai gradient bg",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-bg"
+    },
+    {
+      "keyword": "free gradient map",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-map"
+    },
+    {
+      "keyword": "free gradients",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradients"
+    },
+    {
+      "keyword": "free gradient background",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-background"
+    },
+    {
+      "keyword": "free gradient maker",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-maker"
+    },
+    {
+      "keyword": "free gradient maps photoshop",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-maps-photoshop"
+    },
+    {
+      "keyword": "free gradients for photoshop",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradients-for-photoshop"
+    },
+    {
+      "keyword": "free gradient map maker",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-map-maker"
+    },
+    {
+      "keyword": "free gradient images",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-images"
+    },
+    {
+      "keyword": "free gradient background generator",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-background-generator"
+    },
+    {
+      "keyword": "free gradient textures",
+      "root": "gradient",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gradient-textures"
+    },
+    {
+      "keyword": "ai memes",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "memes"
+    },
+    {
+      "keyword": "ai memes funny",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "memes-funny"
+    },
+    {
+      "keyword": "ai meme pictures",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-pictures"
+    },
+    {
+      "keyword": "ai meme video generator",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-video-generator"
+    },
+    {
+      "keyword": "ai meme coins",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-coins"
+    },
+    {
+      "keyword": "free meme",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme"
+    },
+    {
+      "keyword": "free meme soundboard",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-soundboard"
+    },
+    {
+      "keyword": "free memes download",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "memes-download"
+    },
+    {
+      "keyword": "free meme creator",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-creator"
+    },
+    {
+      "keyword": "free meme image",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-image"
+    },
+    {
+      "keyword": "free meme sounds",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-sounds"
+    },
+    {
+      "keyword": "free meme maker app",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-maker-app"
+    },
+    {
+      "keyword": "free meme sound effects",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meme-sound-effects"
+    },
+    {
+      "keyword": "free memes funny",
+      "root": "meme",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "memes-funny"
+    },
+    {
+      "keyword": "ai patterns",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "patterns"
+    },
+    {
+      "keyword": "ai pattern scan",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-scan"
+    },
+    {
+      "keyword": "ai pattern generator",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-generator"
+    },
+    {
+      "keyword": "ai pattern recognition",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-recognition"
+    },
+    {
+      "keyword": "ai pattern maker",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-maker"
+    },
+    {
+      "keyword": "ai patterns in writing",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "patterns-in-writing"
+    },
+    {
+      "keyword": "ai pattern generator free",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-free"
+    },
+    {
+      "keyword": "ai pattern magazines",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-magazines"
+    },
+    {
+      "keyword": "ai pattern detector",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-detector"
+    },
+    {
+      "keyword": "free patterns",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "patterns"
+    },
+    {
+      "keyword": "free patterns for sewing",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "patterns-for-sewing"
+    },
+    {
+      "keyword": "free patterns crochet",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "patterns-crochet"
+    },
+    {
+      "keyword": "free patterns of quilting",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "patterns-of-quilting"
+    },
+    {
+      "keyword": "free patterns for crochet hats",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "patterns-for-crochet-hats"
+    },
+    {
+      "keyword": "free pattern maker",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-maker"
+    },
+    {
+      "keyword": "free pattern for bowl cozy",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-for-bowl-cozy"
+    },
+    {
+      "keyword": "free patterns for chemo hats",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "patterns-for-chemo-hats"
+    },
+    {
+      "keyword": "free patterns for knitting",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "patterns-for-knitting"
+    },
+    {
+      "keyword": "free pattern for tissue holder",
+      "root": "pattern",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pattern-for-tissue-holder"
+    },
+    {
+      "keyword": "ai template generator",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-generator"
+    },
+    {
+      "keyword": "ai template",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template"
+    },
+    {
+      "keyword": "ai template maker",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-maker"
+    },
+    {
+      "keyword": "ai templates free",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "templates-free"
+    },
+    {
+      "keyword": "ai template generator free",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-generator-free"
+    },
+    {
+      "keyword": "ai template creator",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-creator"
+    },
+    {
+      "keyword": "ai template for resume",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-for-resume"
+    },
+    {
+      "keyword": "ai template capcut",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-capcut"
+    },
+    {
+      "keyword": "ai template builder",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-builder"
+    },
+    {
+      "keyword": "ai template maker free",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-maker-free"
+    },
+    {
+      "keyword": "free templates",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "templates"
+    },
+    {
+      "keyword": "free templates for google slides",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "templates-for-google-slides"
+    },
+    {
+      "keyword": "free templates for resumes",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "templates-for-resumes"
+    },
+    {
+      "keyword": "free templates for invitations",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "templates-for-invitations"
+    },
+    {
+      "keyword": "free templates download",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "templates-download"
+    },
+    {
+      "keyword": "free templates for flyers",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "templates-for-flyers"
+    },
+    {
+      "keyword": "free template for gift certificate",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-for-gift-certificate"
+    },
+    {
+      "keyword": "free template maker",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "template-maker"
+    },
+    {
+      "keyword": "free templates for powerpoint",
+      "root": "template",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "templates-for-powerpoint"
+    },
+    {
+      "keyword": "ai palette",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette"
+    },
+    {
+      "keyword": "ai palette generator",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-generator"
+    },
+    {
+      "keyword": "ai palette maker",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-maker"
+    },
+    {
+      "keyword": "ai palette acquisition",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-acquisition"
+    },
+    {
+      "keyword": "ai palette funding",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-funding"
+    },
+    {
+      "keyword": "ai palette valuation",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-valuation"
+    },
+    {
+      "keyword": "ai palette founder",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-founder"
+    },
+    {
+      "keyword": "ai palette company",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-company"
+    },
+    {
+      "keyword": "ai palette revenue",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-revenue"
+    },
+    {
+      "keyword": "free palette generator",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette-generator"
+    },
+    {
+      "keyword": "free palette",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "palette"
+    },
+    {
+      "keyword": "free pallets",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pallets"
+    },
+    {
+      "keyword": "free pallet pick up",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pallet-pick-up"
+    },
+    {
+      "keyword": "free pallet chicken coop plans",
+      "root": "palette",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pallet-chicken-coop-plans"
     }
   ],
   "existing": [

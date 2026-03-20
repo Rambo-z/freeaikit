@@ -1,9 +1,9 @@
 {
   "date": "2026-03-20",
-  "batch": 6,
-  "total_rising_found": 234,
-  "new_opportunities": 219,
-  "existing_matches": 15,
+  "batch": 7,
+  "total_rising_found": 206,
+  "new_opportunities": 189,
+  "existing_matches": 17,
   "errors": 0,
   "opportunities": [
     {
@@ -107,6 +107,16 @@
       "suggested_slug": "amd-ryzen™-7-350"
     },
     {
+      "keyword": "67 meme",
+      "root": "meme",
+      "prefix": "ai",
+      "trend_score": 144100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "67-meme"
+    },
+    {
       "keyword": "paramount skydance merger",
       "root": "merger",
       "prefix": "ai",
@@ -187,6 +197,16 @@
       "suggested_slug": "c-diff-symptoms"
     },
     {
+      "keyword": "charlie kirk ai meme",
+      "root": "meme",
+      "prefix": "ai",
+      "trend_score": 89150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charlie-kirk-meme"
+    },
+    {
       "keyword": "colorify ai",
       "root": "coloring page",
       "prefix": "ai",
@@ -257,6 +277,16 @@
       "suggested_slug": "amd-ryzen-300-series"
     },
     {
+      "keyword": "free burrito chipotle tattoo",
+      "root": "tattoo",
+      "prefix": "free",
+      "trend_score": 69050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "burrito-chipotle-tattoo"
+    },
+    {
       "keyword": "quickbooks online",
       "root": "portrait",
       "prefix": "online",
@@ -285,6 +315,26 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "hex-decoder"
+    },
+    {
+      "keyword": "free bag of chips meme",
+      "root": "meme",
+      "prefix": "free",
+      "trend_score": 57300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "bag-of-chips-meme"
+    },
+    {
+      "keyword": "best online banks",
+      "root": "gradient",
+      "prefix": "online",
+      "trend_score": 56050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "best-banks"
     },
     {
       "keyword": "gta online mission creator",
@@ -347,16 +397,6 @@
       "suggested_slug": "humanizer"
     },
     {
-      "keyword": "best online banks",
-      "root": "icon",
-      "prefix": "online",
-      "trend_score": 41400,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "best-banks"
-    },
-    {
       "keyword": "trading ai analyzer",
       "root": "analyzer",
       "prefix": "free",
@@ -377,6 +417,16 @@
       "suggested_slug": "image-generations"
     },
     {
+      "keyword": "charlie kirk meme",
+      "root": "meme",
+      "prefix": "online",
+      "trend_score": 39500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charlie-kirk-meme"
+    },
+    {
       "keyword": "is there a seahorse emoji",
       "root": "emoji",
       "prefix": "online",
@@ -387,6 +437,16 @@
       "suggested_slug": "is-there-a-seahorse-emoji"
     },
     {
+      "keyword": "ai baby holding laugh",
+      "root": "meme",
+      "prefix": "ai",
+      "trend_score": 38200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "baby-holding-laugh"
+    },
+    {
       "keyword": "clever ai humanizer",
       "root": "detector",
       "prefix": "free",
@@ -395,6 +455,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "clever-humanizer"
+    },
+    {
+      "keyword": "ai baby holding laugh meme",
+      "root": "meme",
+      "prefix": "ai",
+      "trend_score": 38100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "baby-holding-laugh-meme"
     },
     {
       "keyword": "hertz ai scanner locations",
@@ -477,6 +547,16 @@
       "suggested_slug": "ram-price-chart"
     },
     {
+      "keyword": "son ai baby meme",
+      "root": "meme",
+      "prefix": "ai",
+      "trend_score": 30050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "son-baby-meme"
+    },
+    {
       "keyword": "free casino promo codes for existing customers casino analyzer",
       "root": "analyzer",
       "prefix": "free",
@@ -537,6 +617,16 @@
       "suggested_slug": "myfonts"
     },
     {
+      "keyword": "67 meme meaning",
+      "root": "meme",
+      "prefix": "online",
+      "trend_score": 25950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "67-meme-meaning"
+    },
+    {
       "keyword": "hyundai ai translator glasses",
       "root": "translator",
       "prefix": "ai",
@@ -545,6 +635,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "hyundtranslator-glasses"
+    },
+    {
+      "keyword": "chipotle tattoo bogo",
+      "root": "tattoo",
+      "prefix": "free",
+      "trend_score": 24550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chipotle-tattoo-bogo"
     },
     {
       "keyword": "ada compliance checker accessibe",
@@ -585,6 +685,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "pdf-gear"
+    },
+    {
+      "keyword": "6-7 meme",
+      "root": "meme",
+      "prefix": "online",
+      "trend_score": 22750,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "6-7-meme"
     },
     {
       "keyword": "unwatermark ai",
@@ -687,6 +797,16 @@
       "suggested_slug": "winston-ai"
     },
     {
+      "keyword": "online dice roller 1-6",
+      "root": "picker",
+      "prefix": "online",
+      "trend_score": 20200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "dice-roller-1-6"
+    },
+    {
       "keyword": "opencode",
       "root": "code",
       "prefix": "ai",
@@ -695,6 +815,26 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "opencode"
+    },
+    {
+      "keyword": "font finder",
+      "root": "picker",
+      "prefix": "free",
+      "trend_score": 19300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-finder"
+    },
+    {
+      "keyword": "hotels with free breakfast",
+      "root": "gradient",
+      "prefix": "free",
+      "trend_score": 19050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hotels-with-breakfast"
     },
     {
       "keyword": "tired emoji",
@@ -747,6 +887,26 @@
       "suggested_slug": "sha256-decoder"
     },
     {
+      "keyword": "job application meme",
+      "root": "meme",
+      "prefix": "online",
+      "trend_score": 18000,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "job-application-meme"
+    },
+    {
+      "keyword": "online presence management",
+      "root": "pattern",
+      "prefix": "online",
+      "trend_score": 17850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "presence-management"
+    },
+    {
       "keyword": "tnm watermark",
       "root": "watermark",
       "prefix": "ai",
@@ -755,6 +915,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "tnm-watermark"
+    },
+    {
+      "keyword": "67 kid meme",
+      "root": "meme",
+      "prefix": "ai",
+      "trend_score": 16850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "67-kid-meme"
     },
     {
       "keyword": "builder ai collapse",
@@ -807,6 +977,16 @@
       "suggested_slug": "zen-creator-ai"
     },
     {
+      "keyword": "sybau meme",
+      "root": "meme",
+      "prefix": "ai",
+      "trend_score": 14800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sybau-meme"
+    },
+    {
       "keyword": "ai image editor",
       "root": "compressor",
       "prefix": "ai",
@@ -825,186 +1005,6 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "download-facebook-videos-online"
-    },
-    {
-      "keyword": "convert image to ghibli style",
-      "root": "convert",
-      "prefix": "ai",
-      "trend_score": 14350,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "convert-image-to-ghibli-style"
-    },
-    {
-      "keyword": "zen creator",
-      "root": "creator",
-      "prefix": "ai",
-      "trend_score": 14200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "zen-creator"
-    },
-    {
-      "keyword": "grammar checker free online",
-      "root": "detector",
-      "prefix": "online",
-      "trend_score": 14150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "grammar-checker-online"
-    },
-    {
-      "keyword": "soundcloud downloader",
-      "root": "splitter",
-      "prefix": "ai",
-      "trend_score": 14100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "soundcloud-downloader"
-    },
-    {
-      "keyword": "dead rose emoji",
-      "root": "emoji",
-      "prefix": "ai",
-      "trend_score": 13900,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "dead-rose-emoji"
-    },
-    {
-      "keyword": "ai translator ez",
-      "root": "translator",
-      "prefix": "free",
-      "trend_score": 13750,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "translator-ez"
-    },
-    {
-      "keyword": "f1 25 ai calculator",
-      "root": "calculator",
-      "prefix": "ai",
-      "trend_score": 13550,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "f1-25-calculator"
-    },
-    {
-      "keyword": "tax calculator 2026",
-      "root": "calculator",
-      "prefix": "free",
-      "trend_score": 13550,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "tax-calculator-2026"
-    },
-    {
-      "keyword": "hotels with free breakfast",
-      "root": "designer",
-      "prefix": "free",
-      "trend_score": 13150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "hotels-with-breakfast"
-    },
-    {
-      "keyword": "best free genealogy sites",
-      "root": "portrait",
-      "prefix": "free",
-      "trend_score": 12900,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "best-genealogy-sites"
-    },
-    {
-      "keyword": "face shape detector",
-      "root": "analyzer",
-      "prefix": "free",
-      "trend_score": 12850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "face-shape-detector"
-    },
-    {
-      "keyword": "internet speed detector",
-      "root": "detector",
-      "prefix": "online",
-      "trend_score": 12450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "internet-speed-detector"
-    },
-    {
-      "keyword": "audio trimmer",
-      "root": "merger",
-      "prefix": "online",
-      "trend_score": 12000,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "audio-trimmer"
-    },
-    {
-      "keyword": "fps tester",
-      "root": "tester",
-      "prefix": "ai",
-      "trend_score": 12000,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "fps-tester"
-    },
-    {
-      "keyword": "gibberlink translator",
-      "root": "translator",
-      "prefix": "ai",
-      "trend_score": 11750,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "gibberlink-translator"
-    },
-    {
-      "keyword": "mermaid diagram online",
-      "root": "diagram",
-      "prefix": "ai",
-      "trend_score": 11700,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "mermaid-diagram-online"
-    },
-    {
-      "keyword": "online presence management",
-      "root": "graph",
-      "prefix": "online",
-      "trend_score": 11500,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "presence-management"
-    },
-    {
-      "keyword": "vw parts online",
-      "root": "diagram",
-      "prefix": "online",
-      "trend_score": 11400,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "vw-parts-online"
     }
   ],
   "existing": [
@@ -1157,6 +1157,26 @@
       "discovered": "2026-03-20",
       "already_have": true,
       "suggested_slug": "encoder"
+    },
+    {
+      "keyword": "find my color palette",
+      "root": "palette",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "find-my-color-palette"
+    },
+    {
+      "keyword": "color palette test",
+      "root": "palette",
+      "prefix": "free",
+      "trend_score": 50,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "color-palette-test"
     }
   ],
   "error_log": []
