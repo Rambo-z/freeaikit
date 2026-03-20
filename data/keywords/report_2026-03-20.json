@@ -1,10 +1,10 @@
 {
   "date": "2026-03-20",
   "stats": {
-    "trends_total": 57,
+    "trends_total": 86,
     "suggest_total": 123
   },
-  "total_opportunities": 168,
+  "total_opportunities": 196,
   "top_50": [
     {
       "keyword": "ai image editor",
@@ -22,6 +22,81 @@
       "competition": 0.2
     },
     {
+      "keyword": "lkq online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 21450,
+      "suggested_slug": "lkq-online",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "",
+      "search_volume": 33100,
+      "cpc": 0.24,
+      "competition": 0.2
+    },
+    {
+      "keyword": "first call online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 18450,
+      "suggested_slug": "first-call-online",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "",
+      "search_volume": 22200,
+      "cpc": 3.43,
+      "competition": 0.2
+    },
+    {
+      "keyword": "compress pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 29300,
+      "suggested_slug": "compress-pdf",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 135000,
+      "cpc": 0.83,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf combiner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 15350,
+      "suggested_slug": "pdf-combiner",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 165000,
+      "cpc": 0.89,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "pdf-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 720,
+      "difficulty": "需WASM",
+      "search_volume": 22200,
+      "cpc": 2.42,
+      "competition": 0.5
+    },
+    {
       "keyword": "time converter",
       "sources": [
         "trends_rising"
@@ -35,6 +110,51 @@
       "search_volume": 49500,
       "cpc": 0,
       "competition": 0.2
+    },
+    {
+      "keyword": "jpg converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 70,
+      "suggested_slug": "jpg-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 33100,
+      "cpc": 0.45,
+      "competition": 0.2
+    },
+    {
+      "keyword": "money converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 70,
+      "suggested_slug": "money-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 74000,
+      "cpc": 0.35,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "pdf-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 135000,
+      "cpc": 1.52,
+      "competition": 0.5
     },
     {
       "keyword": "jpg to pdf converter",
@@ -64,6 +184,51 @@
       "difficulty": "需WASM",
       "search_volume": 12100,
       "cpc": 0.53,
+      "competition": 0.2
+    },
+    {
+      "keyword": "png to pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 100,
+      "suggested_slug": "png-to-pdf-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 670,
+      "difficulty": "需WASM",
+      "search_volume": 14800,
+      "cpc": 0.93,
+      "competition": 0.2
+    },
+    {
+      "keyword": "word to pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 40,
+      "suggested_slug": "word-to-pdf-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 670,
+      "difficulty": "需WASM",
+      "search_volume": 33100,
+      "cpc": 0.63,
+      "competition": 0.2
+    },
+    {
+      "keyword": "check for ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 450,
+      "suggested_slug": "check-for-ai",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "",
+      "search_volume": 40500,
+      "cpc": 2.17,
       "competition": 0.2
     },
     {
@@ -127,6 +292,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "pdf to jpg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 120,
+      "suggested_slug": "pdf-to-jpg",
+      "root": "convert",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 165000,
+      "cpc": 0.3,
+      "competition": 0.2
+    },
+    {
       "keyword": "convert kit",
       "sources": [
         "trends_rising"
@@ -172,6 +352,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "pdf to word",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "pdf-to-word",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 201000,
+      "cpc": 0.9,
+      "competition": 0.2
+    },
+    {
       "keyword": "convert jpg to pdf",
       "sources": [
         "trends_rising"
@@ -191,7 +386,7 @@
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 100,
+      "trend_score": 120,
       "suggested_slug": "convert-pdf-to-jpg",
       "root": "convert",
       "already_have": false,
@@ -200,21 +395,6 @@
       "search_volume": 12100,
       "cpc": 0.53,
       "competition": 0.2
-    },
-    {
-      "keyword": "free compressor pdf",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "compressor-pdf",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 620,
-      "difficulty": "需WASM",
-      "search_volume": 14800,
-      "cpc": 1.69,
-      "competition": 0.5
     },
     {
       "keyword": "ai image generation tools",
@@ -244,6 +424,21 @@
       "difficulty": "需WASM",
       "search_volume": 1900,
       "cpc": 0.87,
+      "competition": 0.2
+    },
+    {
+      "keyword": "trim video",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 10150,
+      "suggested_slug": "trim-video",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
+      "search_volume": 6600,
+      "cpc": 1.45,
       "competition": 0.2
     },
     {
@@ -277,11 +472,56 @@
       "competition": 0.2
     },
     {
+      "keyword": "png converter free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 80,
+      "suggested_slug": "png-converter-free",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "需WASM",
+      "search_volume": 1900,
+      "cpc": 2.34,
+      "competition": 0.5
+    },
+    {
+      "keyword": "jpg converter free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 70,
+      "suggested_slug": "jpg-converter-free",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "需WASM",
+      "search_volume": 1300,
+      "cpc": 1.22,
+      "competition": 0.2
+    },
+    {
+      "keyword": "file converter free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 40,
+      "suggested_slug": "file-converter-free",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "",
+      "search_volume": 3600,
+      "cpc": 1.74,
+      "competition": 0.2
+    },
+    {
       "keyword": "convert house plans to 3d online free",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 3850,
+      "trend_score": 4300,
       "suggested_slug": "convert-house-plans-to-3d-free",
       "root": "convert",
       "already_have": false,
@@ -382,6 +622,36 @@
       "competition": 0.2
     },
     {
+      "keyword": "free pdf to word converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 70,
+      "suggested_slug": "pdf-to-word-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "需WASM",
+      "search_volume": 9900,
+      "cpc": 2.13,
+      "competition": 0.8
+    },
+    {
+      "keyword": "m4a to mp3 converter free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "m4a-to-mp3-converter-free",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "",
+      "search_volume": 1000,
+      "cpc": 1.43,
+      "competition": 0.2
+    },
+    {
       "keyword": "png to svg converter",
       "sources": [
         "trends_rising"
@@ -427,6 +697,21 @@
       "competition": 0.5
     },
     {
+      "keyword": "convert photo to video ai free online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "convert-photo-to-video-online",
+      "root": "convert",
+      "already_have": false,
+      "combined_score": 360,
+      "difficulty": "需WASM",
+      "search_volume": 1000,
+      "cpc": 1.06,
+      "competition": 0.2
+    },
+    {
       "keyword": "convert image to video online free",
       "sources": [
         "trends_rising"
@@ -442,319 +727,34 @@
       "competition": 0.2
     },
     {
-      "keyword": "convert photo to video ai free online",
+      "keyword": "ai ebook to audio converter",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 120,
-      "suggested_slug": "convert-photo-to-video-online",
-      "root": "convert",
-      "already_have": false,
-      "combined_score": 360,
-      "difficulty": "需WASM",
-      "search_volume": 1000,
-      "cpc": 1.06,
-      "competition": 0.2
-    },
-    {
-      "keyword": "convert image to ghibli style",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 14350,
-      "suggested_slug": "convert-image-to-ghibli-style",
-      "root": "convert",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "需WASM",
-      "search_volume": 480,
-      "cpc": 2.86,
-      "competition": 0.2
-    },
-    {
-      "keyword": "convert mixed number to improper fraction",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 8750,
-      "suggested_slug": "convert-mixed-number-to-improper-fraction",
-      "root": "convert",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 390,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "pdf to jpg free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 140,
-      "suggested_slug": "pdf-to-jpg-free",
+      "trend_score": 8400,
+      "suggested_slug": "ebook-to-audio-converter",
       "root": "converter",
       "already_have": false,
       "combined_score": 350,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.99,
-      "competition": 0.5
-    },
-    {
-      "keyword": "tinyjpg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 200,
-      "suggested_slug": "tinyjpg",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 2.32,
-      "competition": 0.2
-    },
-    {
-      "keyword": "convert word document to pdf online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 8450,
-      "suggested_slug": "convert-word-document-to-pdf-online",
-      "root": "convert",
-      "already_have": false,
-      "combined_score": 330,
       "difficulty": "需WASM",
       "search_volume": 70,
-      "cpc": 1.51,
+      "cpc": 4.65,
       "competition": 0.2
     },
     {
-      "keyword": "free convert jpg to pdf",
+      "keyword": "best free email clients",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 130,
-      "suggested_slug": "convert-jpg-to-pdf",
-      "root": "convert",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "需WASM",
-      "search_volume": 2900,
-      "cpc": 1.83,
-      "competition": 0.5
-    },
-    {
-      "keyword": "free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 320,
-      "difficulty": "",
-      "search_volume": 8100,
-      "cpc": 0.26,
-      "competition": 0.2
-    },
-    {
-      "keyword": "free compressor video",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "compressor-video",
+      "trend_score": 1850,
+      "suggested_slug": "best-email-clients",
       "root": "compressor",
       "already_have": false,
-      "combined_score": 320,
-      "difficulty": "需WASM",
-      "search_volume": 5400,
-      "cpc": 1.05,
-      "competition": 0.2
-    },
-    {
-      "keyword": "online video converter tool",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 160,
-      "suggested_slug": "video-converter",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 300,
-      "difficulty": "需WASM",
-      "search_volume": 320,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "your ai slop bores me",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 300,
-      "suggested_slug": "your-slop-bores-me",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 300,
-      "difficulty": "需API",
-      "search_volume": 3600,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "free converter to pdf",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-to-pdf",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 300,
-      "difficulty": "需WASM",
-      "search_volume": 1000,
-      "cpc": 1.99,
-      "competition": 0.5
-    },
-    {
-      "keyword": "free converter to mp4",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "converter-to-mp4",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 300,
+      "combined_score": 350,
       "difficulty": "",
-      "search_volume": 4400,
-      "cpc": 1.44,
+      "search_volume": 70,
+      "cpc": 3.98,
       "competition": 0.2
-    },
-    {
-      "keyword": "best inverter generator",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "inverter-generator",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 290,
-      "difficulty": "",
-      "search_volume": 2900,
-      "cpc": 0.95,
-      "competition": 0.8
-    },
-    {
-      "keyword": "case converter online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 180,
-      "suggested_slug": "case-converter-online",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 270,
-      "difficulty": "",
-      "search_volume": 390,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "spotify to mp3 converter online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 180,
-      "suggested_slug": "spotify-to-mp3-converter-free",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 260,
-      "difficulty": "",
-      "search_volume": 390,
-      "cpc": 2.07,
-      "competition": 0.2
-    },
-    {
-      "keyword": "free pdf to powerpoint converter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 110,
-      "suggested_slug": "pdf-to-powerpoint-converter",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 230,
-      "difficulty": "需WASM",
-      "search_volume": 880,
-      "cpc": 1.87,
-      "competition": 0.8
-    },
-    {
-      "keyword": "heic to pdf converter free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "heic-to-pdf-converter-free",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 230,
-      "difficulty": "需WASM",
-      "search_volume": 720,
-      "cpc": 1.09,
-      "competition": 0.2
-    },
-    {
-      "keyword": "html to pdf converter free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "html-to-pdf-converter-free",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 230,
-      "difficulty": "纯前端",
-      "search_volume": 880,
-      "cpc": 1.88,
-      "competition": 0.2
-    },
-    {
-      "keyword": "photo to pdf converter free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "photo-to-pdf-converter-free",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 230,
-      "difficulty": "需WASM",
-      "search_volume": 390,
-      "cpc": 2.18,
-      "competition": 0.8
-    },
-    {
-      "keyword": "pdf to csv converter free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "pdf-to-csv-converter-free",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 230,
-      "difficulty": "纯前端",
-      "search_volume": 320,
-      "cpc": 1.97,
-      "competition": 0.8
     }
   ]
 }
