@@ -1,9 +1,9 @@
 {
   "date": "2026-03-20",
-  "batch": 1,
-  "total_rising_found": 184,
-  "new_opportunities": 175,
-  "existing_matches": 9,
+  "batch": 2,
+  "total_rising_found": 325,
+  "new_opportunities": 311,
+  "existing_matches": 14,
   "errors": 0,
   "opportunities": [
     {
@@ -217,6 +217,16 @@
       "suggested_slug": "amd-ryzen-z2-extreme-processor"
     },
     {
+      "keyword": "gta online mission creator",
+      "root": "creator",
+      "prefix": "online",
+      "trend_score": 54900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gta-mission-creator"
+    },
+    {
       "keyword": "acer chromebook plus 514 14” touchscreen laptop with google ai – intel core 3 processor n355 – 1920 x 1200 chrome os 8gb ram – 512gb ssd",
       "root": "processor",
       "prefix": "ai",
@@ -225,6 +235,36 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "acer-chromebook-plus-514-14”-touchscreen-laptop-with-google-–-intel-core-3-processor-n355-–-1920-x-1200-chrome-os-8gb-ram-–-512gb-ssd"
+    },
+    {
+      "keyword": "website traffic analyzer free",
+      "root": "analyzer",
+      "prefix": "free",
+      "trend_score": 47450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "website-traffic-analyzer-free"
+    },
+    {
+      "keyword": "ai humanizer",
+      "root": "watermark",
+      "prefix": "ai",
+      "trend_score": 41650,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "humanizer"
+    },
+    {
+      "keyword": "trading ai analyzer",
+      "root": "analyzer",
+      "prefix": "free",
+      "trend_score": 40300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "trading-analyzer"
     },
     {
       "keyword": "ai image generation tools",
@@ -237,6 +277,26 @@
       "suggested_slug": "image-generations"
     },
     {
+      "keyword": "sucka free tyler the creator",
+      "root": "creator",
+      "prefix": "free",
+      "trend_score": 35050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sucka-tyler-the-creator"
+    },
+    {
+      "keyword": "bpm analyzer",
+      "root": "analyzer",
+      "prefix": "ai",
+      "trend_score": 33250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "bpm-analyzer"
+    },
+    {
       "keyword": "split pdf online free",
       "root": "splitter",
       "prefix": "free",
@@ -247,6 +307,16 @@
       "suggested_slug": "split-pdf-free"
     },
     {
+      "keyword": "free casino promo codes for existing customers casino analyzer",
+      "root": "analyzer",
+      "prefix": "free",
+      "trend_score": 29900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "casino-promo-codes-for-existing-customers-casino-analyzer"
+    },
+    {
       "keyword": "compress pdf",
       "root": "compressor",
       "prefix": "ai",
@@ -255,6 +325,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "compress-pdf"
+    },
+    {
+      "keyword": "mixing ai analyzer",
+      "root": "analyzer",
+      "prefix": "ai",
+      "trend_score": 28600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "mixing-analyzer"
     },
     {
       "keyword": "framework laptop",
@@ -277,6 +357,16 @@
       "suggested_slug": "best-photo-collage-apps"
     },
     {
+      "keyword": "png to jpg converter",
+      "root": "resizer",
+      "prefix": "free",
+      "trend_score": 23250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "png-to-jpg-converter"
+    },
+    {
       "keyword": "pdf gear",
       "root": "merger",
       "prefix": "free",
@@ -285,6 +375,26 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "pdf-gear"
+    },
+    {
+      "keyword": "unwatermark ai",
+      "root": "watermark",
+      "prefix": "ai",
+      "trend_score": 22700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "unwatermark-ai"
+    },
+    {
+      "keyword": "ai trading bot",
+      "root": "analyzer",
+      "prefix": "ai",
+      "trend_score": 22450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "trading-bot"
     },
     {
       "keyword": "lkq online",
@@ -307,6 +417,16 @@
       "suggested_slug": "convert-jpg-to-pdf-free"
     },
     {
+      "keyword": "gdtj45 builder",
+      "root": "builder",
+      "prefix": "online",
+      "trend_score": 20800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gdtj45-builder"
+    },
+    {
       "keyword": "first call online",
       "root": "compressor",
       "prefix": "online",
@@ -315,6 +435,26 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "first-call-online"
+    },
+    {
+      "keyword": "tnm watermark",
+      "root": "watermark",
+      "prefix": "ai",
+      "trend_score": 17050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tnm-watermark"
+    },
+    {
+      "keyword": "builder ai collapse",
+      "root": "builder",
+      "prefix": "ai",
+      "trend_score": 16150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "builder-collapse"
     },
     {
       "keyword": "portrait of a lady on fire where to watch",
@@ -347,6 +487,16 @@
       "suggested_slug": "pdf-combiner"
     },
     {
+      "keyword": "zen creator ai",
+      "root": "creator",
+      "prefix": "ai",
+      "trend_score": 14850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "zen-creator-ai"
+    },
+    {
       "keyword": "ai image editor",
       "root": "compressor",
       "prefix": "ai",
@@ -355,6 +505,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "image-editor"
+    },
+    {
+      "keyword": "download facebook videos online",
+      "root": "watermark",
+      "prefix": "online",
+      "trend_score": 14500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "download-facebook-videos-online"
     },
     {
       "keyword": "convert image to ghibli style",
@@ -367,6 +527,16 @@
       "suggested_slug": "convert-image-to-ghibli-style"
     },
     {
+      "keyword": "zen creator",
+      "root": "creator",
+      "prefix": "ai",
+      "trend_score": 14200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "zen-creator"
+    },
+    {
       "keyword": "soundcloud downloader",
       "root": "splitter",
       "prefix": "ai",
@@ -377,6 +547,26 @@
       "suggested_slug": "soundcloud-downloader"
     },
     {
+      "keyword": "f1 25 ai calculator",
+      "root": "calculator",
+      "prefix": "ai",
+      "trend_score": 13550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "f1-25-calculator"
+    },
+    {
+      "keyword": "tax calculator 2026",
+      "root": "calculator",
+      "prefix": "free",
+      "trend_score": 13550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tax-calculator-2026"
+    },
+    {
       "keyword": "best free genealogy sites",
       "root": "portrait",
       "prefix": "free",
@@ -385,6 +575,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "best-genealogy-sites"
+    },
+    {
+      "keyword": "face shape detector",
+      "root": "analyzer",
+      "prefix": "free",
+      "trend_score": 12850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "face-shape-detector"
     },
     {
       "keyword": "audio trimmer",
@@ -417,6 +617,16 @@
       "suggested_slug": "scream-picture-trend"
     },
     {
+      "keyword": "ring ring ring tyler the creator",
+      "root": "creator",
+      "prefix": "free",
+      "trend_score": 9800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ring-ring-ring-tyler-the-creator"
+    },
+    {
       "keyword": "best free video editors",
       "root": "portrait",
       "prefix": "free",
@@ -427,6 +637,16 @@
       "suggested_slug": "best-video-editors"
     },
     {
+      "keyword": "merge images online",
+      "root": "watermark",
+      "prefix": "online",
+      "trend_score": 8900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "merge-images-online"
+    },
+    {
       "keyword": "convert mixed number to improper fraction",
       "root": "convert",
       "prefix": "ai",
@@ -435,6 +655,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "convert-mixed-number-to-improper-fraction"
+    },
+    {
+      "keyword": "tyler, the creator sucka free",
+      "root": "creator",
+      "prefix": "free",
+      "trend_score": 8550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tyler,-the-creator-sucka-free"
     },
     {
       "keyword": "convert word document to pdf online",
@@ -467,6 +697,46 @@
       "suggested_slug": "candy-cane-picture"
     },
     {
+      "keyword": "free tax calculator 2026",
+      "root": "calculator",
+      "prefix": "free",
+      "trend_score": 7450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tax-calculator-2026"
+    },
+    {
+      "keyword": "unwatermark",
+      "root": "watermark",
+      "prefix": "free",
+      "trend_score": 6950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "unwatermark"
+    },
+    {
+      "keyword": "aiseesoft free watermark remover online",
+      "root": "watermark",
+      "prefix": "free",
+      "trend_score": 5400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "aiseesoft-watermark-remover-online"
+    },
+    {
+      "keyword": "description of an online image nyt",
+      "root": "builder",
+      "prefix": "online",
+      "trend_score": 5350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "description-of-an-image-nyt"
+    },
+    {
       "keyword": "hotels with free breakfast",
       "root": "photo",
       "prefix": "free",
@@ -475,6 +745,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "hotels-with-breakfast"
+    },
+    {
+      "keyword": "google color picker",
+      "root": "calculator",
+      "prefix": "ai",
+      "trend_score": 4400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "google-color-picker"
     },
     {
       "keyword": "convert house plans to 3d online free",
@@ -517,6 +797,26 @@
       "suggested_slug": "best-antivirus-software"
     },
     {
+      "keyword": "atlas ai store builder",
+      "root": "builder",
+      "prefix": "ai",
+      "trend_score": 3700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "atlas-store-builder"
+    },
+    {
+      "keyword": "lovable ai app builder",
+      "root": "builder",
+      "prefix": "ai",
+      "trend_score": 3400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "lovable-app-builder"
+    },
+    {
       "keyword": "pptx to pdf converter",
       "root": "converter",
       "prefix": "ai",
@@ -525,6 +825,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "pptx-to-pdf-converter"
+    },
+    {
+      "keyword": "ghibli ai image generator",
+      "root": "generator",
+      "prefix": "ai",
+      "trend_score": 3000,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ghibli-image-generator"
     },
     {
       "keyword": "great photo lovely life watch online free",
@@ -545,6 +855,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "ghost-face-picture"
+    },
+    {
+      "keyword": "2k26 image upload",
+      "root": "resizer",
+      "prefix": "free",
+      "trend_score": 2100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "2k26-image-upload"
     },
     {
       "keyword": "trump ai pope picture",
@@ -577,6 +897,26 @@
       "suggested_slug": "christmas-photo-trend"
     },
     {
+      "keyword": "ghibli ai generator free",
+      "root": "generator",
+      "prefix": "free",
+      "trend_score": 1550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ghibli-generator-free"
+    },
+    {
+      "keyword": "ai twerk generator",
+      "root": "generator",
+      "prefix": "ai",
+      "trend_score": 1500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "twerk-generator"
+    },
+    {
       "keyword": "ai picture trend",
       "root": "picture",
       "prefix": "ai",
@@ -585,6 +925,26 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "picture-trend"
+    },
+    {
+      "keyword": "ai app builder",
+      "root": "builder",
+      "prefix": "online",
+      "trend_score": 1200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "app-builder"
+    },
+    {
+      "keyword": "apple creator studio",
+      "root": "creator",
+      "prefix": "free",
+      "trend_score": 1150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "apple-creator-studio"
     },
     {
       "keyword": "online presence management",
@@ -607,6 +967,26 @@
       "suggested_slug": "generate-picture"
     },
     {
+      "keyword": "free ai agent builder",
+      "root": "builder",
+      "prefix": "free",
+      "trend_score": 950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "agent-builder"
+    },
+    {
+      "keyword": "studio ghibli ai generator",
+      "root": "generator",
+      "prefix": "ai",
+      "trend_score": 900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "studio-ghibli-generator"
+    },
+    {
       "keyword": "best online banks",
       "root": "photo",
       "prefix": "online",
@@ -617,394 +997,14 @@
       "suggested_slug": "best-banks"
     },
     {
-      "keyword": "hdmi splitter",
-      "root": "splitter",
+      "keyword": "ai creator marketplace",
+      "root": "creator",
       "prefix": "ai",
-      "trend_score": 750,
+      "trend_score": 850,
       "source": "google_trends_rising",
       "discovered": "2026-03-20",
       "already_have": false,
-      "suggested_slug": "hdmi-splitter"
-    },
-    {
-      "keyword": "ai photo editing tools",
-      "root": "photo",
-      "prefix": "ai",
-      "trend_score": 700,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "photo-editings"
-    },
-    {
-      "keyword": "passport photo requirements",
-      "root": "photo",
-      "prefix": "ai",
-      "trend_score": 700,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "passport-photo-requirements"
-    },
-    {
-      "keyword": "m4a to mp3",
-      "root": "splitter",
-      "prefix": "free",
-      "trend_score": 600,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "m4a-to-mp3"
-    },
-    {
-      "keyword": "ai photo prompt",
-      "root": "photo",
-      "prefix": "ai",
-      "trend_score": 500,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "photo-prompt"
-    },
-    {
-      "keyword": "check for ai",
-      "root": "converter",
-      "prefix": "ai",
-      "trend_score": 450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "check-for-ai"
-    },
-    {
-      "keyword": "remove background",
-      "root": "photo",
-      "prefix": "online",
-      "trend_score": 450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "remove-background"
-    },
-    {
-      "keyword": "free press",
-      "root": "splitter",
-      "prefix": "free",
-      "trend_score": 450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "press"
-    },
-    {
-      "keyword": "online photo storage",
-      "root": "photo",
-      "prefix": "online",
-      "trend_score": 400,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "photo-storage"
-    },
-    {
-      "keyword": "best photo printers",
-      "root": "photo",
-      "prefix": "free",
-      "trend_score": 350,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "best-photo-printers"
-    },
-    {
-      "keyword": "compress jpeg",
-      "root": "compressor",
-      "prefix": "free",
-      "trend_score": 300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "compress-jpeg"
-    },
-    {
-      "keyword": "your ai slop bores me",
-      "root": "converter",
-      "prefix": "ai",
-      "trend_score": 300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "your-slop-bores-me"
-    },
-    {
-      "keyword": "ai for photo editing",
-      "root": "photo",
-      "prefix": "ai",
-      "trend_score": 300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "for-photo-editing"
-    },
-    {
-      "keyword": "photo to video ai free",
-      "root": "photo",
-      "prefix": "free",
-      "trend_score": 300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "photo-to-video-free"
-    },
-    {
-      "keyword": "time converter",
-      "root": "converter",
-      "prefix": "ai",
-      "trend_score": 250,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "time-converter"
-    },
-    {
-      "keyword": "video merger",
-      "root": "merger",
-      "prefix": "ai",
-      "trend_score": 250,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "video-merger"
-    },
-    {
-      "keyword": "open ai merger",
-      "root": "merger",
-      "prefix": "ai",
-      "trend_score": 250,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "open-merger"
-    },
-    {
-      "keyword": "tinyjpg",
-      "root": "compressor",
-      "prefix": "free",
-      "trend_score": 200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "tinyjpg"
-    },
-    {
-      "keyword": "best pdf to word converter online",
-      "root": "converter",
-      "prefix": "online",
-      "trend_score": 200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "best-pdf-to-word-converter-online"
-    },
-    {
-      "keyword": "ai photo apps",
-      "root": "photo",
-      "prefix": "ai",
-      "trend_score": 200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "photo-apps"
-    },
-    {
-      "keyword": "ai photo to video",
-      "root": "photo",
-      "prefix": "ai",
-      "trend_score": 200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "photo-to-video"
-    },
-    {
-      "keyword": "photo calorie counter app free",
-      "root": "photo",
-      "prefix": "free",
-      "trend_score": 200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "photo-calorie-counter-app-free"
-    },
-    {
-      "keyword": "image splitter",
-      "root": "splitter",
-      "prefix": "ai",
-      "trend_score": 200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "image-splitter"
-    },
-    {
-      "keyword": "small pdf",
-      "root": "compressor",
-      "prefix": "free",
-      "trend_score": 190,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "small-pdf"
-    },
-    {
-      "keyword": "convert case online",
-      "root": "convert",
-      "prefix": "online",
-      "trend_score": 190,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "convert-case-online"
-    },
-    {
-      "keyword": "spotify to mp3 converter online free",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 180,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "spotify-to-mp3-converter-free"
-    },
-    {
-      "keyword": "case converter online",
-      "root": "converter",
-      "prefix": "online",
-      "trend_score": 180,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "case-converter-online"
-    },
-    {
-      "keyword": "ai photo to video generator free",
-      "root": "photo",
-      "prefix": "free",
-      "trend_score": 180,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "photo-to-video-generator-free"
-    },
-    {
-      "keyword": "capital one discover merger",
-      "root": "merger",
-      "prefix": "online",
-      "trend_score": 170,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "capital-one-discover-merger"
-    },
-    {
-      "keyword": "i love pdf",
-      "root": "compressor",
-      "prefix": "free",
-      "trend_score": 160,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "i-love-pdf"
-    },
-    {
-      "keyword": "online video converter tool",
-      "root": "converter",
-      "prefix": "online",
-      "trend_score": 160,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "video-converter"
-    },
-    {
-      "keyword": "jpg to pdf converter",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "jpg-to-pdf-converter"
-    },
-    {
-      "keyword": "free convert jpg to pdf",
-      "root": "convert",
-      "prefix": "free",
-      "trend_score": 150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "convert-jpg-to-pdf"
-    },
-    {
-      "keyword": "convert photo to video ai free online",
-      "root": "convert",
-      "prefix": "free",
-      "trend_score": 150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "convert-photo-to-video-online"
-    },
-    {
-      "keyword": "ai code converter",
-      "root": "converter",
-      "prefix": "ai",
-      "trend_score": 150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "code-converter"
-    },
-    {
-      "keyword": "ai portrait app",
-      "root": "portrait",
-      "prefix": "ai",
-      "trend_score": 150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "portrait-app"
-    },
-    {
-      "keyword": "code converter ai",
-      "root": "converter",
-      "prefix": "ai",
-      "trend_score": 140,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "code-converter-ai"
-    },
-    {
-      "keyword": "pdf to jpg free",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 140,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "pdf-to-jpg-free"
-    },
-    {
-      "keyword": "pdf to jpg converter",
-      "root": "converter",
-      "prefix": "free",
-      "trend_score": 140,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "pdf-to-jpg-converter"
+      "suggested_slug": "creator-marketplace"
     }
   ],
   "existing": [
@@ -1097,6 +1097,56 @@
       "discovered": "2026-03-20",
       "already_have": true,
       "suggested_slug": "image-cropper"
+    },
+    {
+      "keyword": "simple image resizer",
+      "root": "resizer",
+      "prefix": "online",
+      "trend_score": 105700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "simple-image-resizer"
+    },
+    {
+      "keyword": "bulk image resizer online",
+      "root": "resizer",
+      "prefix": "online",
+      "trend_score": 90,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "bulk-image-resizer-online"
+    },
+    {
+      "keyword": "image resizer without losing quality",
+      "root": "resizer",
+      "prefix": "free",
+      "trend_score": 70,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "image-resizer-without-losing-quality"
+    },
+    {
+      "keyword": "background remover",
+      "root": "resizer",
+      "prefix": "free",
+      "trend_score": 50,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "background-remover"
+    },
+    {
+      "keyword": "image compressor",
+      "root": "resizer",
+      "prefix": "online",
+      "trend_score": 40,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "image-compressor"
     }
   ],
   "error_log": []
