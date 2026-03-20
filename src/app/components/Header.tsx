@@ -72,6 +72,7 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/percentage-calculator", label: "Percentage Calculator" },
       { href: "/age-calculator",        label: "Age Calculator" },
       { href: "/random-number",         label: "Random Number" },
+      { href: "/unit-converter",        label: "Unit Converter" },
     ],
   },
   {
@@ -91,6 +92,7 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/color-palette",    label: "Color Palette" },
       { href: "/color-converter",  label: "Color Converter" },
       { href: "/favicon-generator",label: "Favicon Generator" },
+      { href: "/color-picker",    label: "Color Picker" },
     ],
   },
 ];

@@ -62,11 +62,13 @@ export const ALL_TOOLS: ToolInfo[] = [
   { name: "Text to Binary", slug: "text-to-binary", description: "Convert text to binary, hex, octal, decimal and decode back.", category: "dev" },
   { name: "Remove Duplicate Lines", slug: "remove-duplicates", description: "Remove duplicate lines from text. Case-sensitive, trim, empty line options.", category: "dev" },
   { name: "Sort Text Lines", slug: "sort-lines", description: "Sort lines alphabetically, numerically, by length, or shuffle randomly.", category: "dev" },
+  { name: "Unit Converter", slug: "unit-converter", description: "Convert units: length, weight, temperature, volume, area, speed, data.", category: "dev" },
   // Design Tools
   { name: "QR Code Generator", slug: "qr-code", description: "Generate QR codes for URLs, WiFi, email. Customize colors.", category: "design" },
   { name: "Color Palette Extractor", slug: "color-palette", description: "Extract dominant color palettes from any image.", category: "design" },
   { name: "Color Converter", slug: "color-converter", description: "Convert colors between HEX, RGB, HSL, and CMYK.", category: "design" },
   { name: "Favicon Generator", slug: "favicon-generator", description: "Generate favicons for all platforms from any image.", category: "design" },
+  { name: "Color Picker", slug: "color-picker", description: "Pick colors and get HEX, RGB, HSL, CMYK values instantly.", category: "design" },
 ];
 
 export const CATEGORY_LABELS: Record<string, string> = {
