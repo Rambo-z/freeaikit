@@ -1,8 +1,8 @@
 {
   "date": "2026-03-20",
-  "batch": 8,
-  "total_rising_found": 232,
-  "new_opportunities": 215,
+  "batch": 9,
+  "total_rising_found": 223,
+  "new_opportunities": 206,
   "existing_matches": 17,
   "errors": 0,
   "opportunities": [
@@ -55,6 +55,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "hertz-scanner"
+    },
+    {
+      "keyword": "vanceai photo restorer",
+      "root": "restorer",
+      "prefix": "free",
+      "trend_score": 212250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vancephoto-restorer"
     },
     {
       "keyword": "steve cropper",
@@ -347,6 +357,16 @@
       "suggested_slug": "quickbooks-online"
     },
     {
+      "keyword": "tubly downloader",
+      "root": "downloader",
+      "prefix": "free",
+      "trend_score": 64850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tubly-downloader"
+    },
+    {
       "keyword": "avatar 3 release date",
       "root": "avatar",
       "prefix": "ai",
@@ -547,6 +567,16 @@
       "suggested_slug": "is-there-a-seahorse-emoji"
     },
     {
+      "keyword": "tubly downloader extension",
+      "root": "downloader",
+      "prefix": "free",
+      "trend_score": 38800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tubly-downloader-extension"
+    },
+    {
       "keyword": "ai baby holding laugh",
       "root": "meme",
       "prefix": "ai",
@@ -657,6 +687,16 @@
       "suggested_slug": "avatar-fire-and-ash-rent"
     },
     {
+      "keyword": "tubly downloader chrome extension",
+      "root": "downloader",
+      "prefix": "free",
+      "trend_score": 32400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tubly-downloader-chrome-extension"
+    },
+    {
       "keyword": "warning emoji",
       "root": "emoji",
       "prefix": "ai",
@@ -727,6 +767,16 @@
       "suggested_slug": "mixing-analyzer"
     },
     {
+      "keyword": "nero ai image upscaler",
+      "root": "upscaler",
+      "prefix": "free",
+      "trend_score": 28500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "nero-image-upscaler"
+    },
+    {
       "keyword": "framework laptop",
       "root": "processor",
       "prefix": "ai",
@@ -735,6 +785,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "framework-laptop"
+    },
+    {
+      "keyword": "ai image detector",
+      "root": "downloader",
+      "prefix": "ai",
+      "trend_score": 28350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-detector"
     },
     {
       "keyword": "rumi coloring page",
@@ -785,6 +845,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "hyundtranslator-glasses"
+    },
+    {
+      "keyword": "videoproc converter ai",
+      "root": "upscaler",
+      "prefix": "ai",
+      "trend_score": 25050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "videoproc-converter-ai"
     },
     {
       "keyword": "chipotle tattoo bogo",
@@ -935,76 +1005,6 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "trade-ideas-scanner"
-    },
-    {
-      "keyword": "online translator english to amharic",
-      "root": "translator",
-      "prefix": "online",
-      "trend_score": 21200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "translator-english-to-amharic"
-    },
-    {
-      "keyword": "how long is avatar fire and ash",
-      "root": "avatar",
-      "prefix": "online",
-      "trend_score": 21150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "how-long-is-avatar-fire-and-ash"
-    },
-    {
-      "keyword": "labubu coloring pages",
-      "root": "coloring page",
-      "prefix": "free",
-      "trend_score": 20900,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "labubu-coloring-pages"
-    },
-    {
-      "keyword": "gdtj45 builder",
-      "root": "builder",
-      "prefix": "online",
-      "trend_score": 20800,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "gdtj45-builder"
-    },
-    {
-      "keyword": "avatar island free ps5",
-      "root": "avatar",
-      "prefix": "free",
-      "trend_score": 20800,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "avatar-island-ps5"
-    },
-    {
-      "keyword": "winston ai",
-      "root": "detector",
-      "prefix": "online",
-      "trend_score": 20650,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "winston-ai"
-    },
-    {
-      "keyword": "online dice roller 1-6",
-      "root": "picker",
-      "prefix": "online",
-      "trend_score": 20200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "dice-roller-1-6"
     }
   ],
   "existing": [

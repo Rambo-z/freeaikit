@@ -1,10 +1,10 @@
 {
   "date": "2026-03-20",
   "stats": {
-    "trends_total": 232,
-    "suggest_total": 2298
+    "trends_total": 223,
+    "suggest_total": 2603
   },
-  "total_opportunities": 2375,
+  "total_opportunities": 2675,
   "top_50": [
     {
       "keyword": "free photo editing software",
@@ -79,6 +79,21 @@
       "already_have": false,
       "combined_score": 540,
       "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "vanceai photo restorer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 212250,
+      "suggested_slug": "vancephoto-restorer",
+      "root": "restorer",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -339,6 +354,21 @@
       "competition": 0
     },
     {
+      "keyword": "tubly downloader",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 64850,
+      "suggested_slug": "tubly-downloader",
+      "root": "downloader",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "hex decoder",
       "sources": [
         "trends_rising"
@@ -399,6 +429,21 @@
       "competition": 0
     },
     {
+      "keyword": "tubly downloader extension",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 38800,
+      "suggested_slug": "tubly-downloader-extension",
+      "root": "downloader",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "bpm analyzer",
       "sources": [
         "trends_rising"
@@ -429,6 +474,36 @@
       "competition": 0
     },
     {
+      "keyword": "ai image detector",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 28350,
+      "suggested_slug": "image-detector",
+      "root": "downloader",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "videoproc converter ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 25050,
+      "suggested_slug": "videoproc-converter-ai",
+      "root": "upscaler",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "trade ideas scanner",
       "sources": [
         "trends_rising"
@@ -436,21 +511,6 @@
       "trend_score": 21200,
       "suggested_slug": "trade-ideas-scanner",
       "root": "scanner",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "gdtj45 builder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 20800,
-      "suggested_slug": "gdtj45-builder",
-      "root": "builder",
       "already_have": false,
       "combined_score": 390,
       "difficulty": "",
@@ -496,21 +556,6 @@
       "trend_score": 29900,
       "suggested_slug": "casino-promo-codes-for-existing-customers-casino-analyzer",
       "root": "analyzer",
-      "already_have": false,
-      "combined_score": 380,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "online translator english to amharic",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 21200,
-      "suggested_slug": "translator-english-to-amharic",
-      "root": "translator",
       "already_have": false,
       "combined_score": 380,
       "difficulty": "",
@@ -574,6 +619,21 @@
       "already_have": false,
       "combined_score": 370,
       "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tubly downloader chrome extension",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 32400,
+      "suggested_slug": "tubly-downloader-chrome-extension",
+      "root": "downloader",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -654,36 +714,6 @@
       "competition": 0
     },
     {
-      "keyword": "avatar island free ps5",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 20800,
-      "suggested_slug": "avatar-island-ps5",
-      "root": "avatar",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "online dice roller 1-6",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 20200,
-      "suggested_slug": "dice-roller-1-6",
-      "root": "picker",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "c diff symptoms",
       "sources": [
         "trends_rising"
@@ -721,36 +751,6 @@
       "trend_score": 53350,
       "suggested_slug": "avatar-iv-ai",
       "root": "avatar",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai humanizer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 41650,
-      "suggested_slug": "humanizer",
-      "root": "watermark",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "charlie kirk meme",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 39500,
-      "suggested_slug": "charlie-kirk-meme",
-      "root": "meme",
       "already_have": false,
       "combined_score": 340,
       "difficulty": "",
