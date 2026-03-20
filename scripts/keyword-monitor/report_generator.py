@@ -13,7 +13,10 @@ import os
 import sys
 from datetime import datetime, timezone
 
-from config import DATA_DIR, DIFFICULTY_RULES, EXISTING_SLUGS, NOISE_WORDS, TOOL_SIGNAL_WORDS
+from config import DATA_DIR, DIFFICULTY_RULES, EXISTING_SLUGS, NOISE_WORDS as _NOISE_WORDS, TOOL_SIGNAL_WORDS
+
+# Pre-compute for noise filter in merge stage
+NOISE_WORDS_LOWER = [w.lower() for w in _NOISE_WORDS]
 
 os.makedirs(DATA_DIR, exist_ok=True)
 
@@ -64,7 +67,6 @@ def merge_opportunities(trends_data, suggest_data):
             all_keywords[kw]["sources"].append("suggest")
 
     # Filter out already-have, existing slugs, and noise
-    noise_lower = [w.lower() for w in NOISE_WORDS]
     opportunities = []
     for kw, data in all_keywords.items():
         if data["already_have"]:
@@ -73,7 +75,7 @@ def merge_opportunities(trends_data, suggest_data):
             continue
         # Safety net: skip noise that slipped through earlier stages
         kw_check = kw.lower()
-        if any(nw in kw_check for nw in noise_lower):
+        if any(nw in kw_check for nw in NOISE_WORDS_LOWER):
             continue
         # Scoring — search volume is king, everything else is bonus
         kw_lower = kw.lower()
@@ -268,26 +270,8 @@ def main():
     # Sync to Feishu Bitable (if credentials are configured)
     if os.environ.get("FEISHU_APP_ID") and os.environ.get("FEISHU_APP_SECRET"):
         try:
-            from feishu_bitable import (
-                delete_record, get_tenant_access_token,
-                search_existing_keywords, sync_opportunities,
-            )
-
-            # Step 1: Clean noise records from table
-            print("\n=== Cleaning noise records from Bitable ===")
-            token = get_tenant_access_token()
-            if token:
-                existing = search_existing_keywords(token)  # {kw: record_id}
-                noise_check = [w.lower() for w in NOISE_WORDS]
-                deleted = 0
-                for kw, rid in list(existing.items()):
-                    if any(nw in kw for nw in noise_check):
-                        if delete_record(token, rid):
-                            deleted += 1
-                            print(f"  Deleted noise: {kw}")
-                print(f"Cleaned {deleted} noise records")
-
-            # Step 2: Upsert opportunities
+            from feishu_bitable import sync_opportunities
+            # Add discovered date to each opportunity for Bitable
             for opp in opportunities:
                 if "discovered" not in opp:
                     opp["discovered"] = date_str
