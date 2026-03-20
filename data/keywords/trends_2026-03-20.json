@@ -1,8 +1,8 @@
 {
   "date": "2026-03-20",
-  "batch": 5,
-  "total_rising_found": 194,
-  "new_opportunities": 179,
+  "batch": 6,
+  "total_rising_found": 234,
+  "new_opportunities": 219,
   "existing_matches": 15,
   "errors": 0,
   "opportunities": [
@@ -187,6 +187,16 @@
       "suggested_slug": "c-diff-symptoms"
     },
     {
+      "keyword": "colorify ai",
+      "root": "coloring page",
+      "prefix": "ai",
+      "trend_score": 87800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "colorify-ai"
+    },
+    {
       "keyword": "amd ryzen™ ai 7 pro 350 processor",
       "root": "processor",
       "prefix": "ai",
@@ -337,6 +347,16 @@
       "suggested_slug": "humanizer"
     },
     {
+      "keyword": "best online banks",
+      "root": "icon",
+      "prefix": "online",
+      "trend_score": 41400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "best-banks"
+    },
+    {
       "keyword": "trading ai analyzer",
       "root": "analyzer",
       "prefix": "free",
@@ -355,6 +375,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "image-generations"
+    },
+    {
+      "keyword": "is there a seahorse emoji",
+      "root": "emoji",
+      "prefix": "online",
+      "trend_score": 39100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "is-there-a-seahorse-emoji"
     },
     {
       "keyword": "clever ai humanizer",
@@ -387,6 +417,26 @@
       "suggested_slug": "sucka-tyler-the-creator"
     },
     {
+      "keyword": "67 coloring page",
+      "root": "coloring page",
+      "prefix": "free",
+      "trend_score": 34900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "67-coloring-page"
+    },
+    {
+      "keyword": "ai slop",
+      "root": "emoji",
+      "prefix": "ai",
+      "trend_score": 33650,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "slop"
+    },
+    {
       "keyword": "bpm analyzer",
       "root": "analyzer",
       "prefix": "ai",
@@ -395,6 +445,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "bpm-analyzer"
+    },
+    {
+      "keyword": "warning emoji",
+      "root": "emoji",
+      "prefix": "ai",
+      "trend_score": 32300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "warning-emoji"
     },
     {
       "keyword": "split pdf online free",
@@ -455,6 +515,26 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "framework-laptop"
+    },
+    {
+      "keyword": "rumi coloring page",
+      "root": "coloring page",
+      "prefix": "free",
+      "trend_score": 27100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "rumi-coloring-page"
+    },
+    {
+      "keyword": "myfonts",
+      "root": "font",
+      "prefix": "online",
+      "trend_score": 25950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "myfonts"
     },
     {
       "keyword": "hyundai ai translator glasses",
@@ -537,6 +617,16 @@
       "suggested_slug": "chess-online"
     },
     {
+      "keyword": "convert jpg to pdf free",
+      "root": "illustration",
+      "prefix": "free",
+      "trend_score": 21850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-jpg-to-pdf-free"
+    },
+    {
       "keyword": "lkq online",
       "root": "compressor",
       "prefix": "online",
@@ -545,16 +635,6 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "lkq-online"
-    },
-    {
-      "keyword": "convert jpg to pdf free",
-      "root": "processor",
-      "prefix": "free",
-      "trend_score": 21250,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "convert-jpg-to-pdf-free"
     },
     {
       "keyword": "trade ideas scanner",
@@ -575,6 +655,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "translator-english-to-amharic"
+    },
+    {
+      "keyword": "labubu coloring pages",
+      "root": "coloring page",
+      "prefix": "free",
+      "trend_score": 20900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "labubu-coloring-pages"
     },
     {
       "keyword": "gdtj45 builder",
@@ -605,6 +695,26 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "opencode"
+    },
+    {
+      "keyword": "tired emoji",
+      "root": "emoji",
+      "prefix": "ai",
+      "trend_score": 18950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tired-emoji"
+    },
+    {
+      "keyword": "2026 rawlings icon",
+      "root": "icon",
+      "prefix": "ai",
+      "trend_score": 18800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "2026-rawlings-icon"
     },
     {
       "keyword": "first call online",
@@ -757,6 +867,16 @@
       "suggested_slug": "soundcloud-downloader"
     },
     {
+      "keyword": "dead rose emoji",
+      "root": "emoji",
+      "prefix": "ai",
+      "trend_score": 13900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "dead-rose-emoji"
+    },
+    {
       "keyword": "ai translator ez",
       "root": "translator",
       "prefix": "free",
@@ -785,6 +905,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "tax-calculator-2026"
+    },
+    {
+      "keyword": "hotels with free breakfast",
+      "root": "designer",
+      "prefix": "free",
+      "trend_score": 13150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hotels-with-breakfast"
     },
     {
       "keyword": "best free genealogy sites",
@@ -857,6 +987,16 @@
       "suggested_slug": "mermaid-diagram-online"
     },
     {
+      "keyword": "online presence management",
+      "root": "graph",
+      "prefix": "online",
+      "trend_score": 11500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "presence-management"
+    },
+    {
       "keyword": "vw parts online",
       "root": "diagram",
       "prefix": "online",
@@ -865,146 +1005,6 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "vw-parts-online"
-    },
-    {
-      "keyword": "which diagram can be used to prove abc dec using similarity transformations",
-      "root": "diagram",
-      "prefix": "online",
-      "trend_score": 10700,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "which-diagram-can-be-used-to-prove-abc-dec-using-similarity-transformations"
-    },
-    {
-      "keyword": "trim video",
-      "root": "compressor",
-      "prefix": "free",
-      "trend_score": 10150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "trim-video"
-    },
-    {
-      "keyword": "ai scream picture trend",
-      "root": "picture",
-      "prefix": "ai",
-      "trend_score": 10150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "scream-picture-trend"
-    },
-    {
-      "keyword": "ring ring ring tyler the creator",
-      "root": "creator",
-      "prefix": "free",
-      "trend_score": 9800,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "ring-ring-ring-tyler-the-creator"
-    },
-    {
-      "keyword": "best free video editors",
-      "root": "portrait",
-      "prefix": "free",
-      "trend_score": 9400,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "best-video-editors"
-    },
-    {
-      "keyword": "merge images online",
-      "root": "watermark",
-      "prefix": "online",
-      "trend_score": 8900,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "merge-images-online"
-    },
-    {
-      "keyword": "convert mixed number to improper fraction",
-      "root": "convert",
-      "prefix": "ai",
-      "trend_score": 8750,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "convert-mixed-number-to-improper-fraction"
-    },
-    {
-      "keyword": "tyler, the creator sucka free",
-      "root": "creator",
-      "prefix": "free",
-      "trend_score": 8550,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "tyler,-the-creator-sucka-free"
-    },
-    {
-      "keyword": "convert word document to pdf online",
-      "root": "convert",
-      "prefix": "ai",
-      "trend_score": 8450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "convert-word-document-to-pdf-online"
-    },
-    {
-      "keyword": "ai ebook to audio converter",
-      "root": "converter",
-      "prefix": "ai",
-      "trend_score": 8400,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "ebook-to-audio-converter"
-    },
-    {
-      "keyword": "consort diagram",
-      "root": "diagram",
-      "prefix": "online",
-      "trend_score": 8250,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "consort-diagram"
-    },
-    {
-      "keyword": "ram prices chart",
-      "root": "chart",
-      "prefix": "ai",
-      "trend_score": 8200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "ram-prices-chart"
-    },
-    {
-      "keyword": "candy cane ai picture",
-      "root": "picture",
-      "prefix": "ai",
-      "trend_score": 8100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "candy-cane-picture"
-    },
-    {
-      "keyword": "free tax calculator 2026",
-      "root": "calculator",
-      "prefix": "free",
-      "trend_score": 7450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "tax-calculator-2026"
     }
   ],
   "existing": [

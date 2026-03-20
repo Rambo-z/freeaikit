@@ -1,10 +1,10 @@
 {
   "date": "2026-03-20",
   "stats": {
-    "trends_total": 194,
-    "suggest_total": 1305
+    "trends_total": 234,
+    "suggest_total": 1673
   },
-  "total_opportunities": 1377,
+  "total_opportunities": 1747,
   "top_50": [
     {
       "keyword": "free photo editing software",
@@ -289,36 +289,6 @@
       "already_have": false,
       "combined_score": 400,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free video editors",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9400,
-      "suggested_slug": "best-video-editors",
-      "root": "portrait",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free tax calculator 2026",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 7450,
-      "suggested_slug": "tax-calculator-2026",
-      "root": "calculator",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -699,21 +669,6 @@
       "competition": 0
     },
     {
-      "keyword": "tyler, the creator sucka free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 8550,
-      "suggested_slug": "tyler,-the-creator-sucka-free",
-      "root": "creator",
-      "already_have": false,
-      "combined_score": 380,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "quickbooks online",
       "sources": [
         "trends_rising"
@@ -721,6 +676,21 @@
       "trend_score": 66250,
       "suggested_slug": "quickbooks-online",
       "root": "portrait",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best online banks",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 41400,
+      "suggested_slug": "best-banks",
+      "root": "icon",
       "already_have": false,
       "combined_score": 370,
       "difficulty": "",
@@ -754,6 +724,36 @@
       "already_have": false,
       "combined_score": 370,
       "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "hyundai ai translator glasses",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 25550,
+      "suggested_slug": "hyundtranslator-glasses",
+      "root": "translator",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "ada compliance checker accessibe",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 24350,
+      "suggested_slug": "ada-compliance-checker-accessibe",
+      "root": "checker",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0

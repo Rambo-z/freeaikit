@@ -1,9 +1,9 @@
 {
   "date": "2026-03-20",
-  "batch": 5,
-  "total_suggestions": 1305,
-  "new_opportunities": 1281,
-  "existing_matches": 24,
+  "batch": 6,
+  "total_suggestions": 1673,
+  "new_opportunities": 1651,
+  "existing_matches": 22,
   "opportunities": [
     {
       "keyword": "free compression tool online",
@@ -1393,7 +1393,7 @@
     },
     {
       "keyword": "best picture generator ai",
-      "root": "picture",
+      "root": "illustration",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -1402,7 +1402,7 @@
     },
     {
       "keyword": "best picture generator ai free",
-      "root": "picture",
+      "root": "illustration",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -1501,7 +1501,7 @@
     },
     {
       "keyword": "sketch converter free",
-      "root": "portrait",
+      "root": "illustration",
       "pattern": "{root} converter free",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9745,7 +9745,7 @@
     },
     {
       "keyword": "free diagram tool",
-      "root": "chart",
+      "root": "graph",
       "pattern": "free {root} tool",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9772,7 +9772,7 @@
     },
     {
       "keyword": "free diagram tool online",
-      "root": "chart",
+      "root": "graph",
       "pattern": "free {root} tool",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9781,7 +9781,7 @@
     },
     {
       "keyword": "free diagram tool for mobile",
-      "root": "chart",
+      "root": "graph",
       "pattern": "free {root} tool",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9799,7 +9799,7 @@
     },
     {
       "keyword": "ai chart online pdf",
-      "root": "chart",
+      "root": "graph",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9808,7 +9808,7 @@
     },
     {
       "keyword": "ai chart online generator",
-      "root": "chart",
+      "root": "graph",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9817,7 +9817,7 @@
     },
     {
       "keyword": "ai chat online free download",
-      "root": "chart",
+      "root": "graph",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9826,7 +9826,7 @@
     },
     {
       "keyword": "ai chart online google",
-      "root": "chart",
+      "root": "graph",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9916,7 +9916,7 @@
     },
     {
       "keyword": "best chart generator ai",
-      "root": "chart",
+      "root": "graph",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9925,7 +9925,7 @@
     },
     {
       "keyword": "best diagram generator ai",
-      "root": "chart",
+      "root": "graph",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9943,7 +9943,7 @@
     },
     {
       "keyword": "best graph generator ai",
-      "root": "chart",
+      "root": "graph",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9961,7 +9961,7 @@
     },
     {
       "keyword": "best diagram generator",
-      "root": "chart",
+      "root": "graph",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9979,7 +9979,7 @@
     },
     {
       "keyword": "best diagram generator ai free",
-      "root": "chart",
+      "root": "graph",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -9988,7 +9988,7 @@
     },
     {
       "keyword": "free diagram tool like visio",
-      "root": "diagram",
+      "root": "graph",
       "pattern": "free {root} tool",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -10033,7 +10033,7 @@
     },
     {
       "keyword": "free drawing tool",
-      "root": "diagram",
+      "root": "illustration",
       "pattern": "free {root} tool",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -10195,7 +10195,7 @@
     },
     {
       "keyword": "best chart generator",
-      "root": "diagram",
+      "root": "graph",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -11533,6 +11533,3336 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "translator-app-for-earbuds"
+    },
+    {
+      "keyword": "free graph tool online",
+      "root": "graph",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph-online"
+    },
+    {
+      "keyword": "free graphic tools",
+      "root": "graph",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphics"
+    },
+    {
+      "keyword": "free graphic tools online",
+      "root": "graph",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphics-online"
+    },
+    {
+      "keyword": "free graphing tools for students",
+      "root": "graph",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphings-for-students"
+    },
+    {
+      "keyword": "free chart tool",
+      "root": "graph",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart"
+    },
+    {
+      "keyword": "ai graphics online",
+      "root": "graph",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphics-online"
+    },
+    {
+      "keyword": "ai graphics online free",
+      "root": "graph",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphics-free"
+    },
+    {
+      "keyword": "graph ai online free",
+      "root": "graph",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph-free"
+    },
+    {
+      "keyword": "ai chart online",
+      "root": "graph",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-online"
+    },
+    {
+      "keyword": "ai graph maker",
+      "root": "graph",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph-maker"
+    },
+    {
+      "keyword": "graphic converter free",
+      "root": "graph",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-converter-free"
+    },
+    {
+      "keyword": "graphic converter free download",
+      "root": "graph",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-converter-download"
+    },
+    {
+      "keyword": "graphic converter mac free download",
+      "root": "graph",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-converter-mac-download"
+    },
+    {
+      "keyword": "vector graphics converter free",
+      "root": "graph",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vector-graphics-converter-free"
+    },
+    {
+      "keyword": "data to graph converter free",
+      "root": "graph",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "data-to-graph-converter-free"
+    },
+    {
+      "keyword": "image to graph converter free",
+      "root": "graph",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-to-graph-converter-free"
+    },
+    {
+      "keyword": "table to graph converter free",
+      "root": "graph",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "table-to-graph-converter-free"
+    },
+    {
+      "keyword": "excel to graph converter free",
+      "root": "graph",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "excel-to-graph-converter-free"
+    },
+    {
+      "keyword": "text to graph converter free",
+      "root": "graph",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-to-graph-converter-free"
+    },
+    {
+      "keyword": "graphic converter free mac",
+      "root": "graph",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-converter-mac"
+    },
+    {
+      "keyword": "best graph generator software",
+      "root": "graph",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph-generator-software"
+    },
+    {
+      "keyword": "best graphics generator ai",
+      "root": "graph",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphics-generator-ai"
+    },
+    {
+      "keyword": "best graphics generator",
+      "root": "graph",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphics-generator"
+    },
+    {
+      "keyword": "free coloring page tools",
+      "root": "coloring page",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages"
+    },
+    {
+      "keyword": "free printable coloring pages tools",
+      "root": "coloring page",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "printable-coloring-pagess"
+    },
+    {
+      "keyword": "free printable toolbox coloring page",
+      "root": "coloring page",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "printablebox-coloring-page"
+    },
+    {
+      "keyword": "toolbox coloring page free",
+      "root": "coloring page",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "toolbox-coloring-page-free"
+    },
+    {
+      "keyword": "ai coloring picture online",
+      "root": "coloring page",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-picture-online"
+    },
+    {
+      "keyword": "ai coloring book online free",
+      "root": "coloring page",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-book-free"
+    },
+    {
+      "keyword": "ai coloring page generator online",
+      "root": "coloring page",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-generator-online"
+    },
+    {
+      "keyword": "ai coloring book generator online free",
+      "root": "coloring page",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-book-generator-free"
+    },
+    {
+      "keyword": "ai coloring book generator online",
+      "root": "coloring page",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-book-generator-online"
+    },
+    {
+      "keyword": "image to coloring page converter free",
+      "root": "coloring page",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-to-coloring-page-converter-free"
+    },
+    {
+      "keyword": "photo to coloring page converter free",
+      "root": "coloring page",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-to-coloring-page-converter-free"
+    },
+    {
+      "keyword": "photo to coloring page converter online free",
+      "root": "coloring page",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-to-coloring-page-converter-free"
+    },
+    {
+      "keyword": "best coloring page generator ai",
+      "root": "coloring page",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-generator-ai"
+    },
+    {
+      "keyword": "best colouring page generator",
+      "root": "coloring page",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "colouring-page-generator"
+    },
+    {
+      "keyword": "best coloring page creator",
+      "root": "coloring page",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-creator"
+    },
+    {
+      "keyword": "best ai coloring page generator free",
+      "root": "coloring page",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-generator-free"
+    },
+    {
+      "keyword": "best free coloring page generator",
+      "root": "coloring page",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-generator"
+    },
+    {
+      "keyword": "best coloring book page generator",
+      "root": "coloring page",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-book-page-generator"
+    },
+    {
+      "keyword": "can you make your own coloring pages",
+      "root": "coloring page",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "can-you-make-your-own-coloring-pages"
+    },
+    {
+      "keyword": "easy to color coloring pages",
+      "root": "coloring page",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "easy-to-color-coloring-pages"
+    },
+    {
+      "keyword": "free designer tools",
+      "root": "designer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designers"
+    },
+    {
+      "keyword": "free design tool online",
+      "root": "designer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-online"
+    },
+    {
+      "keyword": "free design tool baby track",
+      "root": "designer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-baby-track"
+    },
+    {
+      "keyword": "free design tool online baby track",
+      "root": "designer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-baby-track"
+    },
+    {
+      "keyword": "free design tool for house interior",
+      "root": "designer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-for-house-interior"
+    },
+    {
+      "keyword": "free design tool for house",
+      "root": "designer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-for-house"
+    },
+    {
+      "keyword": "ai designer online free",
+      "root": "designer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-free"
+    },
+    {
+      "keyword": "ai online design interior",
+      "root": "designer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-interior"
+    },
+    {
+      "keyword": "ai online design tool",
+      "root": "designer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design"
+    },
+    {
+      "keyword": "ai online design maker",
+      "root": "designer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-maker"
+    },
+    {
+      "keyword": "ai online design logo",
+      "root": "designer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-logo"
+    },
+    {
+      "keyword": "ai online design interior free",
+      "root": "designer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-interior-free"
+    },
+    {
+      "keyword": "ai poster designer online",
+      "root": "designer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "poster-designer-online"
+    },
+    {
+      "keyword": "ai car designer online free",
+      "root": "designer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "car-designer-free"
+    },
+    {
+      "keyword": "best design generator ai",
+      "root": "designer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-generator-ai"
+    },
+    {
+      "keyword": "best design generator",
+      "root": "designer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-generator"
+    },
+    {
+      "keyword": "best design generator ai free",
+      "root": "designer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design-generator-free"
+    },
+    {
+      "keyword": "best logo design generator",
+      "root": "designer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-design-generator"
+    },
+    {
+      "keyword": "best tattoo design generator",
+      "root": "designer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tattoo-design-generator"
+    },
+    {
+      "keyword": "best text design generator",
+      "root": "designer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-design-generator"
+    },
+    {
+      "keyword": "best font design generator",
+      "root": "designer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-design-generator"
+    },
+    {
+      "keyword": "best ui design generator ai",
+      "root": "designer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ui-design-generator-ai"
+    },
+    {
+      "keyword": "best website design generator",
+      "root": "designer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "website-design-generator"
+    },
+    {
+      "keyword": "ai emoji translator",
+      "root": "emoji",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-translator"
+    },
+    {
+      "keyword": "ai emoji converter",
+      "root": "emoji",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-converter"
+    },
+    {
+      "keyword": "ai emoji web",
+      "root": "emoji",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-web"
+    },
+    {
+      "keyword": "ai emoji remover online free",
+      "root": "emoji",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-remover-free"
+    },
+    {
+      "keyword": "ai emoji remover online",
+      "root": "emoji",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-remover-online"
+    },
+    {
+      "keyword": "ai emoji generator online",
+      "root": "emoji",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-generator-online"
+    },
+    {
+      "keyword": "ai emoji maker online",
+      "root": "emoji",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-maker-online"
+    },
+    {
+      "keyword": "ai emoji apple online",
+      "root": "emoji",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-apple-online"
+    },
+    {
+      "keyword": "ai emoji generator online free",
+      "root": "emoji",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-generator-free"
+    },
+    {
+      "keyword": "emoji pc free fire",
+      "root": "emoji",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-pc-fire"
+    },
+    {
+      "keyword": "emoji translator free",
+      "root": "emoji",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-translator-free"
+    },
+    {
+      "keyword": "pc emoji free fire name",
+      "root": "emoji",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pc-emoji-fire-name"
+    },
+    {
+      "keyword": "emoji free pc",
+      "root": "emoji",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-pc"
+    },
+    {
+      "keyword": "image to emoji converter free",
+      "root": "emoji",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-to-emoji-converter-free"
+    },
+    {
+      "keyword": "image to emoji converter free online",
+      "root": "emoji",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-to-emoji-converter-online"
+    },
+    {
+      "keyword": "png to emoji converter free",
+      "root": "emoji",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "png-to-emoji-converter-free"
+    },
+    {
+      "keyword": "jpg to emoji converter free",
+      "root": "emoji",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "jpg-to-emoji-converter-free"
+    },
+    {
+      "keyword": "emoji to text converter free",
+      "root": "emoji",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-to-text-converter-free"
+    },
+    {
+      "keyword": "free emoji converter",
+      "root": "emoji",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-converter"
+    },
+    {
+      "keyword": "best emoji generator app",
+      "root": "emoji",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-generator-app"
+    },
+    {
+      "keyword": "cool emoji generator",
+      "root": "emoji",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "cool-emoji-generator"
+    },
+    {
+      "keyword": "cool emoji generator copy and paste",
+      "root": "emoji",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "cool-emoji-generator-copy-and-paste"
+    },
+    {
+      "keyword": "best emoji maker app",
+      "root": "emoji",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-maker-app"
+    },
+    {
+      "keyword": "best emoji maker",
+      "root": "emoji",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-maker"
+    },
+    {
+      "keyword": "best emoji maker app for android",
+      "root": "emoji",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-maker-app-for-android"
+    },
+    {
+      "keyword": "best emoji maker app for iphone",
+      "root": "emoji",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-maker-app-for-iphone"
+    },
+    {
+      "keyword": "best emoji maker free",
+      "root": "emoji",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-maker-free"
+    },
+    {
+      "keyword": "best emoji maker app free",
+      "root": "emoji",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-maker-app-free"
+    },
+    {
+      "keyword": "text free tool",
+      "root": "font",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text"
+    },
+    {
+      "keyword": "free text tool kofax",
+      "root": "font",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-kofax"
+    },
+    {
+      "keyword": "free type tool",
+      "root": "font",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "type"
+    },
+    {
+      "keyword": "free text tool online",
+      "root": "font",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-online"
+    },
+    {
+      "keyword": "free font software",
+      "root": "font",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-software"
+    },
+    {
+      "keyword": "free font software for mac",
+      "root": "font",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-software-for-mac"
+    },
+    {
+      "keyword": "free font software download",
+      "root": "font",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-software-download"
+    },
+    {
+      "keyword": "free font software for pc",
+      "root": "font",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-software-for-pc"
+    },
+    {
+      "keyword": "free font identification tool",
+      "root": "font",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-identification"
+    },
+    {
+      "keyword": "ai text online",
+      "root": "font",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-online"
+    },
+    {
+      "keyword": "ai text online free",
+      "root": "font",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-free"
+    },
+    {
+      "keyword": "ai font generator",
+      "root": "font",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator"
+    },
+    {
+      "keyword": "ai font generator from image",
+      "root": "font",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-from-image"
+    },
+    {
+      "keyword": "ai font generator free",
+      "root": "font",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-free"
+    },
+    {
+      "keyword": "ai font generator copy and paste",
+      "root": "font",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-copy-and-paste"
+    },
+    {
+      "keyword": "ai font generator from image free",
+      "root": "font",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-from-image-free"
+    },
+    {
+      "keyword": "ai font generator from handwriting",
+      "root": "font",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-from-handwriting"
+    },
+    {
+      "keyword": "ai font generator malayalam",
+      "root": "font",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-malayalam"
+    },
+    {
+      "keyword": "font converter free download",
+      "root": "font",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-converter-download"
+    },
+    {
+      "keyword": "font converter free online",
+      "root": "font",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-converter-online"
+    },
+    {
+      "keyword": "font generator free",
+      "root": "font",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-free"
+    },
+    {
+      "keyword": "font generator free copy and paste",
+      "root": "font",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-copy-and-paste"
+    },
+    {
+      "keyword": "font generator free fire",
+      "root": "font",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-fire"
+    },
+    {
+      "keyword": "font generator free download",
+      "root": "font",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-download"
+    },
+    {
+      "keyword": "font generator free online",
+      "root": "font",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-online"
+    },
+    {
+      "keyword": "font generator free tattoo",
+      "root": "font",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-tattoo"
+    },
+    {
+      "keyword": "font generator free cursive",
+      "root": "font",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-cursive"
+    },
+    {
+      "keyword": "best font generator free",
+      "root": "font",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-free"
+    },
+    {
+      "keyword": "best font generator copy and paste",
+      "root": "font",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-copy-and-paste"
+    },
+    {
+      "keyword": "best font generator app",
+      "root": "font",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-app"
+    },
+    {
+      "keyword": "best font generator for tattoos",
+      "root": "font",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-for-tattoos"
+    },
+    {
+      "keyword": "best font generator ai",
+      "root": "font",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-ai"
+    },
+    {
+      "keyword": "best font generator for free fire",
+      "root": "font",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-for-fire"
+    },
+    {
+      "keyword": "best font generator website",
+      "root": "font",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator-website"
+    },
+    {
+      "keyword": "free icon tool set",
+      "root": "icon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-set"
+    },
+    {
+      "keyword": "free icon tools",
+      "root": "icon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icons"
+    },
+    {
+      "keyword": "free icon tool set from harbor freight",
+      "root": "icon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-set-from-harbor-freight"
+    },
+    {
+      "keyword": "free icon tools harbor freight",
+      "root": "icon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icons-harbor-freight"
+    },
+    {
+      "keyword": "free icon toolkit",
+      "root": "icon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "iconkit"
+    },
+    {
+      "keyword": "free icon tool download",
+      "root": "icon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-download"
+    },
+    {
+      "keyword": "free icon toolbox",
+      "root": "icon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "iconbox"
+    },
+    {
+      "keyword": "free tooltip icon",
+      "root": "icon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tooltip-icon"
+    },
+    {
+      "keyword": "free toolbar icons",
+      "root": "icon",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "toolbar-icons"
+    },
+    {
+      "keyword": "ai online icon generator",
+      "root": "icon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-generator"
+    },
+    {
+      "keyword": "ai icon generator online free",
+      "root": "icon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-generator-free"
+    },
+    {
+      "keyword": "ai icon creator online",
+      "root": "icon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-creator-online"
+    },
+    {
+      "keyword": "ai icon free online",
+      "root": "icon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-online"
+    },
+    {
+      "keyword": "create icon ai online",
+      "root": "icon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "create-icon-online"
+    },
+    {
+      "keyword": "ai app icon generator online",
+      "root": "icon",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "app-icon-generator-online"
+    },
+    {
+      "keyword": "icon converter free online",
+      "root": "icon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-converter-online"
+    },
+    {
+      "keyword": "icon converter free download",
+      "root": "icon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-converter-download"
+    },
+    {
+      "keyword": "icon converter free download for windows 10",
+      "root": "icon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-converter-download-for-windows-10"
+    },
+    {
+      "keyword": "ico converter free",
+      "root": "icon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ico-converter-free"
+    },
+    {
+      "keyword": "ico converter free download",
+      "root": "icon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ico-converter-download"
+    },
+    {
+      "keyword": "ico converter free online",
+      "root": "icon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ico-converter-online"
+    },
+    {
+      "keyword": "icon converter software free download",
+      "root": "icon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-converter-software-download"
+    },
+    {
+      "keyword": "image icon converter free download",
+      "root": "icon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-icon-converter-download"
+    },
+    {
+      "keyword": "png icon converter free",
+      "root": "icon",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "png-icon-converter-free"
+    },
+    {
+      "keyword": "best icon generator ai",
+      "root": "icon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-generator-ai"
+    },
+    {
+      "keyword": "best icon generator ai free",
+      "root": "icon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-generator-free"
+    },
+    {
+      "keyword": "best icon generator free",
+      "root": "icon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-generator-free"
+    },
+    {
+      "keyword": "best symbol generator",
+      "root": "icon",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "symbol-generator"
+    },
+    {
+      "keyword": "free illustration tools",
+      "root": "illustration",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustrations"
+    },
+    {
+      "keyword": "free illustration tool online",
+      "root": "illustration",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-online"
+    },
+    {
+      "keyword": "free vector tool",
+      "root": "illustration",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vector"
+    },
+    {
+      "keyword": "free drawing tool online",
+      "root": "illustration",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "drawing-online"
+    },
+    {
+      "keyword": "free drawing tool with measurements",
+      "root": "illustration",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "drawing-with-measurements"
+    },
+    {
+      "keyword": "free drawing tool for mac",
+      "root": "illustration",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "drawing-for-mac"
+    },
+    {
+      "keyword": "free vector tool online",
+      "root": "illustration",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vector-online"
+    },
+    {
+      "keyword": "ai illustration online free",
+      "root": "illustration",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-free"
+    },
+    {
+      "keyword": "ai drawing online",
+      "root": "illustration",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "drawing-online"
+    },
+    {
+      "keyword": "ai pictures online",
+      "root": "illustration",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pictures-online"
+    },
+    {
+      "keyword": "ai drawing online free",
+      "root": "illustration",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "drawing-free"
+    },
+    {
+      "keyword": "ai pictures online free",
+      "root": "illustration",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pictures-free"
+    },
+    {
+      "keyword": "online ai artwork",
+      "root": "illustration",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "artwork"
+    },
+    {
+      "keyword": "ai artwork online free",
+      "root": "illustration",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "artwork-free"
+    },
+    {
+      "keyword": "ai drawing online from picture",
+      "root": "illustration",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "drawing-from-picture"
+    },
+    {
+      "keyword": "vector converter free",
+      "root": "illustration",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vector-converter-free"
+    },
+    {
+      "keyword": "vector converter free online",
+      "root": "illustration",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vector-converter-online"
+    },
+    {
+      "keyword": "drawing converter free",
+      "root": "illustration",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "drawing-converter-free"
+    },
+    {
+      "keyword": "vector converter free download",
+      "root": "illustration",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vector-converter-download"
+    },
+    {
+      "keyword": "vector converter free ai",
+      "root": "illustration",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vector-converter-ai"
+    },
+    {
+      "keyword": "vector converter free pdf",
+      "root": "illustration",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vector-converter-pdf"
+    },
+    {
+      "keyword": "image to illustration converter free",
+      "root": "illustration",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-to-illustration-converter-free"
+    },
+    {
+      "keyword": "best illustration generator ai",
+      "root": "illustration",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-generator-ai"
+    },
+    {
+      "keyword": "best illustration generator ai free",
+      "root": "illustration",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-generator-free"
+    },
+    {
+      "keyword": "best art generator ai",
+      "root": "illustration",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "art-generator-ai"
+    },
+    {
+      "keyword": "best picture generator",
+      "root": "illustration",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "picture-generator"
+    },
+    {
+      "keyword": "best art generator",
+      "root": "illustration",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "art-generator"
+    },
+    {
+      "keyword": "best art generator ai free",
+      "root": "illustration",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "art-generator-free"
+    },
+    {
+      "keyword": "best drawing generator ai",
+      "root": "illustration",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "drawing-generator-ai"
+    },
+    {
+      "keyword": "free logo tool maker",
+      "root": "logo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker"
+    },
+    {
+      "keyword": "free logo tool ai",
+      "root": "logo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-ai"
+    },
+    {
+      "keyword": "free tool logo design",
+      "root": "logo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tool-logo-design"
+    },
+    {
+      "keyword": "free logo software",
+      "root": "logo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-software"
+    },
+    {
+      "keyword": "free logo software download",
+      "root": "logo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-software-download"
+    },
+    {
+      "keyword": "free logo software for windows 10",
+      "root": "logo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-software-for-windows-10"
+    },
+    {
+      "keyword": "free logo software online",
+      "root": "logo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-software-online"
+    },
+    {
+      "keyword": "free logo software for pc",
+      "root": "logo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-software-for-pc"
+    },
+    {
+      "keyword": "free logo making tools",
+      "root": "logo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-makings"
+    },
+    {
+      "keyword": "ai logo online free",
+      "root": "logo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-free"
+    },
+    {
+      "keyword": "ai logo online generator",
+      "root": "logo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator"
+    },
+    {
+      "keyword": "ai logo online design",
+      "root": "logo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-design"
+    },
+    {
+      "keyword": "ai logo online creator",
+      "root": "logo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-creator"
+    },
+    {
+      "keyword": "ai logo online generator free",
+      "root": "logo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator-free"
+    },
+    {
+      "keyword": "ai logo online create",
+      "root": "logo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-create"
+    },
+    {
+      "keyword": "ai online logo design free",
+      "root": "logo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-design-free"
+    },
+    {
+      "keyword": "ai online logo creator free",
+      "root": "logo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-creator-free"
+    },
+    {
+      "keyword": "ai online logo animation",
+      "root": "logo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-animation"
+    },
+    {
+      "keyword": "logo maker free",
+      "root": "logo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker-free"
+    },
+    {
+      "keyword": "logo creator free",
+      "root": "logo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-creator-free"
+    },
+    {
+      "keyword": "logo maker free ai",
+      "root": "logo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker-ai"
+    },
+    {
+      "keyword": "logo maker free online",
+      "root": "logo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker-online"
+    },
+    {
+      "keyword": "logo maker free download",
+      "root": "logo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker-download"
+    },
+    {
+      "keyword": "logo maker free fire",
+      "root": "logo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker-fire"
+    },
+    {
+      "keyword": "logo creator free ai",
+      "root": "logo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-creator-ai"
+    },
+    {
+      "keyword": "logo maker free online without watermark",
+      "root": "logo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker-without-watermark"
+    },
+    {
+      "keyword": "logo maker free app",
+      "root": "logo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker-app"
+    },
+    {
+      "keyword": "best logo generator ai",
+      "root": "logo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator-ai"
+    },
+    {
+      "keyword": "best logo generator ai free",
+      "root": "logo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator-free"
+    },
+    {
+      "keyword": "best logo generator free",
+      "root": "logo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator-free"
+    },
+    {
+      "keyword": "best logo generator for business",
+      "root": "logo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator-for-business"
+    },
+    {
+      "keyword": "best logo generator app",
+      "root": "logo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator-app"
+    },
+    {
+      "keyword": "best logo generator ai tool",
+      "root": "logo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator"
+    },
+    {
+      "keyword": "best logo generator website",
+      "root": "logo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator-website"
+    },
+    {
+      "keyword": "ai illustration generator",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-generator"
+    },
+    {
+      "keyword": "ai illustration",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration"
+    },
+    {
+      "keyword": "ai illustration generator free",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-generator-free"
+    },
+    {
+      "keyword": "ai illustration styles",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-styles"
+    },
+    {
+      "keyword": "ai illustrations for children's books",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustrations-for-children's-books"
+    },
+    {
+      "keyword": "ai illustration generator for children's books",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-generator-for-children's-books"
+    },
+    {
+      "keyword": "ai illustrations free",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustrations-free"
+    },
+    {
+      "keyword": "ai illustration tools",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustrations"
+    },
+    {
+      "keyword": "ai illustration generator for books",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-generator-for-books"
+    },
+    {
+      "keyword": "ai illustration app",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-app"
+    },
+    {
+      "keyword": "free illustrations",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustrations"
+    },
+    {
+      "keyword": "free illustration software",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-software"
+    },
+    {
+      "keyword": "free illustration images",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-images"
+    },
+    {
+      "keyword": "free illustration websites",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-websites"
+    },
+    {
+      "keyword": "free illustrations download",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustrations-download"
+    },
+    {
+      "keyword": "free illustration apps",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-apps"
+    },
+    {
+      "keyword": "free illustration generator",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-generator"
+    },
+    {
+      "keyword": "free illustrations online",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustrations-online"
+    },
+    {
+      "keyword": "free illustration ai",
+      "root": "illustration",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "illustration-ai"
+    },
+    {
+      "keyword": "ai coloring page generator",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-generator"
+    },
+    {
+      "keyword": "ai coloring pages",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages"
+    },
+    {
+      "keyword": "ai coloring page generator free",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-generator-free"
+    },
+    {
+      "keyword": "ai coloring page maker",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-maker"
+    },
+    {
+      "keyword": "ai coloring page generator from photo",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-generator-from-photo"
+    },
+    {
+      "keyword": "ai coloring page from photo",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-from-photo"
+    },
+    {
+      "keyword": "ai coloring pages free",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages-free"
+    },
+    {
+      "keyword": "ai coloring page generator from photo free",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-generator-from-photo-free"
+    },
+    {
+      "keyword": "ai coloring page prompt",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-prompt"
+    },
+    {
+      "keyword": "ai coloring page generator free no sign-up",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-page-generator-no-sign-up"
+    },
+    {
+      "keyword": "free coloring pages",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages"
+    },
+    {
+      "keyword": "free coloring pages for kids",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages-for-kids"
+    },
+    {
+      "keyword": "free coloring pages for adults",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages-for-adults"
+    },
+    {
+      "keyword": "free coloring pages printable",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages-printable"
+    },
+    {
+      "keyword": "free coloring pages christmas",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages-christmas"
+    },
+    {
+      "keyword": "free coloring pages for girls",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages-for-girls"
+    },
+    {
+      "keyword": "free coloring pages for kids printable",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages-for-kids-printable"
+    },
+    {
+      "keyword": "free coloring pages valentines day",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages-valentines-day"
+    },
+    {
+      "keyword": "free coloring pages for adults printable",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages-for-adults-printable"
+    },
+    {
+      "keyword": "free coloring pages for toddlers",
+      "root": "coloring page",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coloring-pages-for-toddlers"
+    },
+    {
+      "keyword": "ai logo generator",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator"
+    },
+    {
+      "keyword": "ai logo maker",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker"
+    },
+    {
+      "keyword": "ai logo",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo"
+    },
+    {
+      "keyword": "ai logo generator free",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator-free"
+    },
+    {
+      "keyword": "ai logo design",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-design"
+    },
+    {
+      "keyword": "ai logo maker free",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker-free"
+    },
+    {
+      "keyword": "ai logo design free",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-design-free"
+    },
+    {
+      "keyword": "ai logo creator free",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-creator-free"
+    },
+    {
+      "keyword": "ai logo animation",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-animation"
+    },
+    {
+      "keyword": "ai logos free",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logos-free"
+    },
+    {
+      "keyword": "free logo maker",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker"
+    },
+    {
+      "keyword": "free logo generator",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator"
+    },
+    {
+      "keyword": "free logo design",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-design"
+    },
+    {
+      "keyword": "free logo",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo"
+    },
+    {
+      "keyword": "free logo creator",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-creator"
+    },
+    {
+      "keyword": "free logo maker ai",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker-ai"
+    },
+    {
+      "keyword": "free logo generator ai",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-generator-ai"
+    },
+    {
+      "keyword": "free logo maker online",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-maker-online"
+    },
+    {
+      "keyword": "free logo design app",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logo-design-app"
+    },
+    {
+      "keyword": "free logos for business",
+      "root": "logo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "logos-for-business"
+    },
+    {
+      "keyword": "ai emoji",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji"
+    },
+    {
+      "keyword": "ai emoji generator",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-generator"
+    },
+    {
+      "keyword": "ai emoji apple",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-apple"
+    },
+    {
+      "keyword": "ai emoji maker",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-maker"
+    },
+    {
+      "keyword": "ai emojis iphone",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emojis-iphone"
+    },
+    {
+      "keyword": "ai emoji pointing",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-pointing"
+    },
+    {
+      "keyword": "ai emoji meme",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-meme"
+    },
+    {
+      "keyword": "ai emoji generator apple",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-generator-apple"
+    },
+    {
+      "keyword": "ai emoji generator free",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-generator-free"
+    },
+    {
+      "keyword": "ai emoji remover",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-remover"
+    },
+    {
+      "keyword": "free emojis",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emojis"
+    },
+    {
+      "keyword": "free emojis copy and paste",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emojis-copy-and-paste"
+    },
+    {
+      "keyword": "free emoji app",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-app"
+    },
+    {
+      "keyword": "free emojis download",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emojis-download"
+    },
+    {
+      "keyword": "free emoji maker",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-maker"
+    },
+    {
+      "keyword": "free emojis for android",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emojis-for-android"
+    },
+    {
+      "keyword": "free emojis for texting",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emojis-for-texting"
+    },
+    {
+      "keyword": "free emojis for iphone",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emojis-for-iphone"
+    },
+    {
+      "keyword": "free emoji cat oc",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emoji-cat-oc"
+    },
+    {
+      "keyword": "free emojis for texting android",
+      "root": "emoji",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "emojis-for-texting-android"
+    },
+    {
+      "keyword": "ai graphic generator",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-generator"
+    },
+    {
+      "keyword": "ai graphic design",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-design"
+    },
+    {
+      "keyword": "ai graphics",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphics"
+    },
+    {
+      "keyword": "ai graphic design generator",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-design-generator"
+    },
+    {
+      "keyword": "ai graphics card",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphics-card"
+    },
+    {
+      "keyword": "ai graph generator",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph-generator"
+    },
+    {
+      "keyword": "ai graphic creator",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-creator"
+    },
+    {
+      "keyword": "ai graph",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph"
+    },
+    {
+      "keyword": "ai graphic generator free",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-generator-free"
+    },
+    {
+      "keyword": "free graphic design software",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-design-software"
+    },
+    {
+      "keyword": "free graphics",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphics"
+    },
+    {
+      "keyword": "free graph paper",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph-paper"
+    },
+    {
+      "keyword": "free graph maker",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph-maker"
+    },
+    {
+      "keyword": "free graph paper printable",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph-paper-printable"
+    },
+    {
+      "keyword": "free graphing calculator",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphing-calculator"
+    },
+    {
+      "keyword": "free graphic design",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-design"
+    },
+    {
+      "keyword": "free graphics images",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphics-images"
+    },
+    {
+      "keyword": "free graphic design app",
+      "root": "graph",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-design-app"
+    },
+    {
+      "keyword": "ai designer",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer"
+    },
+    {
+      "keyword": "ai designer free",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-free"
+    },
+    {
+      "keyword": "ai designer app",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-app"
+    },
+    {
+      "keyword": "ai designer for home",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-for-home"
+    },
+    {
+      "keyword": "ai designer tools",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designers"
+    },
+    {
+      "keyword": "ai designer room",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-room"
+    },
+    {
+      "keyword": "ai designer app free",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-app-free"
+    },
+    {
+      "keyword": "free designer fonts",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-fonts"
+    },
+    {
+      "keyword": "free designer apps",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-apps"
+    },
+    {
+      "keyword": "free designer clothes",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-clothes"
+    },
+    {
+      "keyword": "free design",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "design"
+    },
+    {
+      "keyword": "free designer perfume samples",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-perfume-samples"
+    },
+    {
+      "keyword": "free designer cologne samples",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-cologne-samples"
+    },
+    {
+      "keyword": "free designer shoes",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-shoes"
+    },
+    {
+      "keyword": "free designer authentication",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-authentication"
+    },
+    {
+      "keyword": "free designer sewing patterns",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-sewing-patterns"
+    },
+    {
+      "keyword": "free designer bags",
+      "root": "designer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "designer-bags"
+    },
+    {
+      "keyword": "ai icon",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon"
+    },
+    {
+      "keyword": "ai icon generator",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-generator"
+    },
+    {
+      "keyword": "ai icon maker",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-maker"
+    },
+    {
+      "keyword": "ai icon png",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-png"
+    },
+    {
+      "keyword": "ai icon generator free",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-generator-free"
+    },
+    {
+      "keyword": "ai icon svg",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-svg"
+    },
+    {
+      "keyword": "ai icon free",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-free"
+    },
+    {
+      "keyword": "ai icon stars",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-stars"
+    },
+    {
+      "keyword": "ai icon for powerpoint",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-for-powerpoint"
+    },
+    {
+      "keyword": "ai icon designer",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-designer"
+    },
+    {
+      "keyword": "free icons",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icons"
+    },
+    {
+      "keyword": "free icons download",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icons-download"
+    },
+    {
+      "keyword": "free icon library",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-library"
+    },
+    {
+      "keyword": "free icon packs",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-packs"
+    },
+    {
+      "keyword": "free icons for powerpoint",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icons-for-powerpoint"
+    },
+    {
+      "keyword": "free icons for websites",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icons-for-websites"
+    },
+    {
+      "keyword": "free icons png",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icons-png"
+    },
+    {
+      "keyword": "free icon maker",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-maker"
+    },
+    {
+      "keyword": "free icons svg",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icons-svg"
+    },
+    {
+      "keyword": "free icon generator",
+      "root": "icon",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "icon-generator"
+    },
+    {
+      "keyword": "ai font",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font"
+    },
+    {
+      "keyword": "ai font finder",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-finder"
+    },
+    {
+      "keyword": "ai font identifier",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-identifier"
+    },
+    {
+      "keyword": "ai font maker",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-maker"
+    },
+    {
+      "keyword": "ai font detector",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-detector"
+    },
+    {
+      "keyword": "ai font identifier from image",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-identifier-from-image"
+    },
+    {
+      "keyword": "ai font matcher",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-matcher"
+    },
+    {
+      "keyword": "free fonts",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "fonts"
+    },
+    {
+      "keyword": "free fonts download",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "fonts-download"
+    },
+    {
+      "keyword": "free font generator",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-generator"
+    },
+    {
+      "keyword": "free fonts copy and paste",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "fonts-copy-and-paste"
+    },
+    {
+      "keyword": "free fonts for cricut",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "fonts-for-cricut"
+    },
+    {
+      "keyword": "free fonts for commercial use",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "fonts-for-commercial-use"
+    },
+    {
+      "keyword": "free fonts arabic",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "fonts-arabic"
+    },
+    {
+      "keyword": "free font finder",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-finder"
+    },
+    {
+      "keyword": "free font maker",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-maker"
+    },
+    {
+      "keyword": "free font websites",
+      "root": "font",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "font-websites"
     }
   ],
   "existing": [
