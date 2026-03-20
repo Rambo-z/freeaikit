@@ -1,0 +1,583 @@
+{
+  "date": "2026-03-20",
+  "batch": 0,
+  "total_rising_found": 57,
+  "new_opportunities": 53,
+  "existing_matches": 4,
+  "errors": 0,
+  "opportunities": [
+    {
+      "keyword": "ai image generation tools",
+      "root": "convert",
+      "prefix": "ai",
+      "trend_score": 15100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-generations"
+    },
+    {
+      "keyword": "ai image editor",
+      "root": "compressor",
+      "prefix": "ai",
+      "trend_score": 14550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-editor"
+    },
+    {
+      "keyword": "convert image to ghibli style",
+      "root": "convert",
+      "prefix": "ai",
+      "trend_score": 14350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-image-to-ghibli-style"
+    },
+    {
+      "keyword": "convert mixed number to improper fraction",
+      "root": "convert",
+      "prefix": "ai",
+      "trend_score": 8750,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-mixed-number-to-improper-fraction"
+    },
+    {
+      "keyword": "convert word document to pdf online",
+      "root": "convert",
+      "prefix": "ai",
+      "trend_score": 8450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-word-document-to-pdf-online"
+    },
+    {
+      "keyword": "convert house plans to 3d online free",
+      "root": "convert",
+      "prefix": "online",
+      "trend_score": 3850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-house-plans-to-3d-free"
+    },
+    {
+      "keyword": "pptx to pdf converter",
+      "root": "converter",
+      "prefix": "ai",
+      "trend_score": 3350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pptx-to-pdf-converter"
+    },
+    {
+      "keyword": "compress jpeg",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "compress-jpeg"
+    },
+    {
+      "keyword": "your ai slop bores me",
+      "root": "converter",
+      "prefix": "ai",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "your-slop-bores-me"
+    },
+    {
+      "keyword": "time converter",
+      "root": "converter",
+      "prefix": "ai",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "time-converter"
+    },
+    {
+      "keyword": "tinyjpg",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tinyjpg"
+    },
+    {
+      "keyword": "best pdf to word converter online",
+      "root": "converter",
+      "prefix": "online",
+      "trend_score": 200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "best-pdf-to-word-converter-online"
+    },
+    {
+      "keyword": "small pdf",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 190,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "small-pdf"
+    },
+    {
+      "keyword": "convert case online",
+      "root": "convert",
+      "prefix": "online",
+      "trend_score": 190,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-case-online"
+    },
+    {
+      "keyword": "spotify to mp3 converter online free",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 180,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "spotify-to-mp3-converter-free"
+    },
+    {
+      "keyword": "case converter online",
+      "root": "converter",
+      "prefix": "online",
+      "trend_score": 180,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "case-converter-online"
+    },
+    {
+      "keyword": "i love pdf",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 160,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "i-love-pdf"
+    },
+    {
+      "keyword": "online video converter tool",
+      "root": "converter",
+      "prefix": "online",
+      "trend_score": 160,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "video-converter"
+    },
+    {
+      "keyword": "jpg to pdf converter",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "jpg-to-pdf-converter"
+    },
+    {
+      "keyword": "code converter ai",
+      "root": "converter",
+      "prefix": "ai",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "code-converter-ai"
+    },
+    {
+      "keyword": "pdf to jpg free",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pdf-to-jpg-free"
+    },
+    {
+      "keyword": "pdf to jpg converter",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pdf-to-jpg-converter"
+    },
+    {
+      "keyword": "free jpg to pdf converter",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "jpg-to-pdf-converter"
+    },
+    {
+      "keyword": "jpg to pdf",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 130,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "jpg-to-pdf"
+    },
+    {
+      "keyword": "online unit converter",
+      "root": "converter",
+      "prefix": "online",
+      "trend_score": 130,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "unit-converter"
+    },
+    {
+      "keyword": "free convert jpg to pdf",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 130,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-jpg-to-pdf"
+    },
+    {
+      "keyword": "convert image to video online free",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 120,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-image-to-video-free"
+    },
+    {
+      "keyword": "convert jpg to pdf",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 120,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-jpg-to-pdf"
+    },
+    {
+      "keyword": "convert photo to video ai free online",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 120,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-photo-to-video-online"
+    },
+    {
+      "keyword": "la2a compressor",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 110,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "la2a-compressor"
+    },
+    {
+      "keyword": "clideo video compressor",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 110,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "clideo-video-compressor"
+    },
+    {
+      "keyword": "free pdf to powerpoint converter",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 110,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pdf-to-powerpoint-converter"
+    },
+    {
+      "keyword": "time converter online",
+      "root": "converter",
+      "prefix": "online",
+      "trend_score": 110,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "time-converter-online"
+    },
+    {
+      "keyword": "convert kit",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 110,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-kit"
+    },
+    {
+      "keyword": "heic to pdf converter free",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "heic-to-pdf-converter-free"
+    },
+    {
+      "keyword": "png to svg",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "png-to-svg"
+    },
+    {
+      "keyword": "png to svg converter free",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "png-to-svg-converter-free"
+    },
+    {
+      "keyword": "png to svg converter",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "png-to-svg-converter"
+    },
+    {
+      "keyword": "pdf to png converter free",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pdf-to-png-converter-free"
+    },
+    {
+      "keyword": "png to pdf",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "png-to-pdf"
+    },
+    {
+      "keyword": "pdf to png converter",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pdf-to-png-converter"
+    },
+    {
+      "keyword": "html to pdf converter free",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "html-to-pdf-converter-free"
+    },
+    {
+      "keyword": "spotify to mp3 converter online",
+      "root": "converter",
+      "prefix": "online",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "spotify-to-mp3-converter-online"
+    },
+    {
+      "keyword": "convert pdf to jpg",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-jpg"
+    },
+    {
+      "keyword": "convert pdf to text online",
+      "root": "convert",
+      "prefix": "online",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-text-online"
+    },
+    {
+      "keyword": "photo to pdf converter free",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 80,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-to-pdf-converter-free"
+    },
+    {
+      "keyword": "pdf to csv converter free",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 80,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pdf-to-csv-converter-free"
+    },
+    {
+      "keyword": "photo to pdf converter",
+      "root": "converter",
+      "prefix": "free",
+      "trend_score": 80,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-to-pdf-converter"
+    },
+    {
+      "keyword": "convert pdf to jpg for free",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 80,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-jpg-for-free"
+    },
+    {
+      "keyword": "convert photo to video ai free",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 80,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-photo-to-video-free"
+    },
+    {
+      "keyword": "convert video online",
+      "root": "convert",
+      "prefix": "online",
+      "trend_score": 60,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-video-online"
+    },
+    {
+      "keyword": "convert pdf to word free no account",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 50,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-word-no-account"
+    },
+    {
+      "keyword": "convert docx to pdf online free",
+      "root": "convert",
+      "prefix": "free",
+      "trend_score": 50,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "convert-docx-to-pdf-free"
+    }
+  ],
+  "existing": [
+    {
+      "keyword": "free pdf compressor software",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "pdf-compressor-software"
+    },
+    {
+      "keyword": "free pdf merger",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 180,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "pdf-merger"
+    },
+    {
+      "keyword": "pdf compressor free",
+      "root": "compressor",
+      "prefix": "ai",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "pdf-compressor-free"
+    },
+    {
+      "keyword": "pdf compressor for free",
+      "root": "compressor",
+      "prefix": "free",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "pdf-compressor-for-free"
+    }
+  ],
+  "error_log": []
+}
