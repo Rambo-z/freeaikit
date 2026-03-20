@@ -1,8 +1,8 @@
 {
   "date": "2026-03-20",
-  "batch": 2,
-  "total_rising_found": 325,
-  "new_opportunities": 311,
+  "batch": 3,
+  "total_rising_found": 234,
+  "new_opportunities": 220,
   "existing_matches": 14,
   "errors": 0,
   "opportunities": [
@@ -25,6 +25,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "ryzen-7-350"
+    },
+    {
+      "keyword": "hertz ai scanner",
+      "root": "scanner",
+      "prefix": "ai",
+      "trend_score": 212800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hertz-scanner"
     },
     {
       "keyword": "steve cropper",
@@ -107,6 +117,16 @@
       "suggested_slug": "paramount-skydance-merger"
     },
     {
+      "keyword": "phone number generator for validator",
+      "root": "validator",
+      "prefix": "free",
+      "trend_score": 125600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "phone-number-generator-for-validator"
+    },
+    {
       "keyword": "photo editing software",
       "root": "product photo",
       "prefix": "ai",
@@ -147,6 +167,16 @@
       "suggested_slug": "amd-ryzen-5-340"
     },
     {
+      "keyword": "c diff symptoms",
+      "root": "diff",
+      "prefix": "ai",
+      "trend_score": 93050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "c-diff-symptoms"
+    },
+    {
       "keyword": "amd ryzen™ ai 7 pro 350 processor",
       "root": "processor",
       "prefix": "ai",
@@ -165,6 +195,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "union-pacific-norfolk-southern-merger"
+    },
+    {
+      "keyword": "schema.org validator",
+      "root": "validator",
+      "prefix": "ai",
+      "trend_score": 75050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schema.org-validator"
     },
     {
       "keyword": "amd ryzen™ ai 5 340 processor",
@@ -237,6 +277,16 @@
       "suggested_slug": "acer-chromebook-plus-514-14”-touchscreen-laptop-with-google-–-intel-core-3-processor-n355-–-1920-x-1200-chrome-os-8gb-ram-–-512gb-ssd"
     },
     {
+      "keyword": "cheater scanner",
+      "root": "scanner",
+      "prefix": "free",
+      "trend_score": 48250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "cheater-scanner"
+    },
+    {
       "keyword": "website traffic analyzer free",
       "root": "analyzer",
       "prefix": "free",
@@ -275,6 +325,26 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "image-generations"
+    },
+    {
+      "keyword": "clever ai humanizer",
+      "root": "detector",
+      "prefix": "free",
+      "trend_score": 38100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "clever-humanizer"
+    },
+    {
+      "keyword": "hertz ai scanner locations",
+      "root": "scanner",
+      "prefix": "ai",
+      "trend_score": 36600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hertz-scanner-locations"
     },
     {
       "keyword": "sucka free tyler the creator",
@@ -347,6 +417,16 @@
       "suggested_slug": "framework-laptop"
     },
     {
+      "keyword": "ada compliance checker accessibe",
+      "root": "checker",
+      "prefix": "online",
+      "trend_score": 24350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ada-compliance-checker-accessibe"
+    },
+    {
       "keyword": "best photo collage apps",
       "root": "product photo",
       "prefix": "free",
@@ -397,6 +477,16 @@
       "suggested_slug": "trading-bot"
     },
     {
+      "keyword": "chess online",
+      "root": "detector",
+      "prefix": "online",
+      "trend_score": 22300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chess-online"
+    },
+    {
       "keyword": "lkq online",
       "root": "compressor",
       "prefix": "online",
@@ -417,6 +507,16 @@
       "suggested_slug": "convert-jpg-to-pdf-free"
     },
     {
+      "keyword": "trade ideas scanner",
+      "root": "scanner",
+      "prefix": "ai",
+      "trend_score": 21200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "trade-ideas-scanner"
+    },
+    {
       "keyword": "gdtj45 builder",
       "root": "builder",
       "prefix": "online",
@@ -425,6 +525,26 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "gdtj45-builder"
+    },
+    {
+      "keyword": "winston ai",
+      "root": "detector",
+      "prefix": "online",
+      "trend_score": 20650,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "winston-ai"
+    },
+    {
+      "keyword": "opencode",
+      "root": "code",
+      "prefix": "ai",
+      "trend_score": 19550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "opencode"
     },
     {
       "keyword": "first call online",
@@ -537,6 +657,16 @@
       "suggested_slug": "zen-creator"
     },
     {
+      "keyword": "grammar checker free online",
+      "root": "detector",
+      "prefix": "online",
+      "trend_score": 14150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "grammar-checker-online"
+    },
+    {
       "keyword": "soundcloud downloader",
       "root": "splitter",
       "prefix": "ai",
@@ -587,6 +717,16 @@
       "suggested_slug": "face-shape-detector"
     },
     {
+      "keyword": "internet speed detector",
+      "root": "detector",
+      "prefix": "online",
+      "trend_score": 12450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "internet-speed-detector"
+    },
+    {
       "keyword": "audio trimmer",
       "root": "merger",
       "prefix": "online",
@@ -595,6 +735,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "audio-trimmer"
+    },
+    {
+      "keyword": "fps tester",
+      "root": "tester",
+      "prefix": "ai",
+      "trend_score": 12000,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "fps-tester"
     },
     {
       "keyword": "trim video",
@@ -707,6 +857,16 @@
       "suggested_slug": "tax-calculator-2026"
     },
     {
+      "keyword": "proofademic ai detector",
+      "root": "detector",
+      "prefix": "ai",
+      "trend_score": 7200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "proofademic-detector"
+    },
+    {
       "keyword": "unwatermark",
       "root": "watermark",
       "prefix": "free",
@@ -715,6 +875,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "unwatermark"
+    },
+    {
+      "keyword": "digital magic wand's detector",
+      "root": "detector",
+      "prefix": "free",
+      "trend_score": 5800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "digital-magic-wand's-detector"
     },
     {
       "keyword": "aiseesoft free watermark remover online",
@@ -737,6 +907,26 @@
       "suggested_slug": "description-of-an-image-nyt"
     },
     {
+      "keyword": "unaimytext",
+      "root": "detector",
+      "prefix": "free",
+      "trend_score": 5050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "unaimytext"
+    },
+    {
+      "keyword": "brainrot link scanner",
+      "root": "scanner",
+      "prefix": "free",
+      "trend_score": 5050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "brainrot-link-scanner"
+    },
+    {
       "keyword": "hotels with free breakfast",
       "root": "photo",
       "prefix": "free",
@@ -745,6 +935,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "hotels-with-breakfast"
+    },
+    {
+      "keyword": "scan id card online free",
+      "root": "scanner",
+      "prefix": "online",
+      "trend_score": 4500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scan-id-card-free"
     },
     {
       "keyword": "google color picker",
@@ -787,6 +987,16 @@
       "suggested_slug": "curveball-and-splitter"
     },
     {
+      "keyword": "claude code free",
+      "root": "code",
+      "prefix": "free",
+      "trend_score": 4250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "claude-code-free"
+    },
+    {
       "keyword": "best free antivirus software",
       "root": "photo",
       "prefix": "free",
@@ -795,216 +1005,6 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "best-antivirus-software"
-    },
-    {
-      "keyword": "atlas ai store builder",
-      "root": "builder",
-      "prefix": "ai",
-      "trend_score": 3700,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "atlas-store-builder"
-    },
-    {
-      "keyword": "lovable ai app builder",
-      "root": "builder",
-      "prefix": "ai",
-      "trend_score": 3400,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "lovable-app-builder"
-    },
-    {
-      "keyword": "pptx to pdf converter",
-      "root": "converter",
-      "prefix": "ai",
-      "trend_score": 3350,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "pptx-to-pdf-converter"
-    },
-    {
-      "keyword": "ghibli ai image generator",
-      "root": "generator",
-      "prefix": "ai",
-      "trend_score": 3000,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "ghibli-image-generator"
-    },
-    {
-      "keyword": "great photo lovely life watch online free",
-      "root": "photo",
-      "prefix": "online",
-      "trend_score": 2500,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "great-photo-lovely-life-watch-free"
-    },
-    {
-      "keyword": "ghost face ai picture",
-      "root": "picture",
-      "prefix": "ai",
-      "trend_score": 2250,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "ghost-face-picture"
-    },
-    {
-      "keyword": "2k26 image upload",
-      "root": "resizer",
-      "prefix": "free",
-      "trend_score": 2100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "2k26-image-upload"
-    },
-    {
-      "keyword": "trump ai pope picture",
-      "root": "picture",
-      "prefix": "ai",
-      "trend_score": 2000,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "trump-pope-picture"
-    },
-    {
-      "keyword": "scream ai picture",
-      "root": "picture",
-      "prefix": "ai",
-      "trend_score": 1950,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "scream-picture"
-    },
-    {
-      "keyword": "ai christmas photo trend",
-      "root": "photo",
-      "prefix": "ai",
-      "trend_score": 1900,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "christmas-photo-trend"
-    },
-    {
-      "keyword": "ghibli ai generator free",
-      "root": "generator",
-      "prefix": "free",
-      "trend_score": 1550,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "ghibli-generator-free"
-    },
-    {
-      "keyword": "ai twerk generator",
-      "root": "generator",
-      "prefix": "ai",
-      "trend_score": 1500,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "twerk-generator"
-    },
-    {
-      "keyword": "ai picture trend",
-      "root": "picture",
-      "prefix": "ai",
-      "trend_score": 1200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "picture-trend"
-    },
-    {
-      "keyword": "ai app builder",
-      "root": "builder",
-      "prefix": "online",
-      "trend_score": 1200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "app-builder"
-    },
-    {
-      "keyword": "apple creator studio",
-      "root": "creator",
-      "prefix": "free",
-      "trend_score": 1150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "apple-creator-studio"
-    },
-    {
-      "keyword": "online presence management",
-      "root": "photo",
-      "prefix": "online",
-      "trend_score": 1100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "presence-management"
-    },
-    {
-      "keyword": "ai generate picture",
-      "root": "picture",
-      "prefix": "ai",
-      "trend_score": 950,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "generate-picture"
-    },
-    {
-      "keyword": "free ai agent builder",
-      "root": "builder",
-      "prefix": "free",
-      "trend_score": 950,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "agent-builder"
-    },
-    {
-      "keyword": "studio ghibli ai generator",
-      "root": "generator",
-      "prefix": "ai",
-      "trend_score": 900,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "studio-ghibli-generator"
-    },
-    {
-      "keyword": "best online banks",
-      "root": "photo",
-      "prefix": "online",
-      "trend_score": 850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "best-banks"
-    },
-    {
-      "keyword": "ai creator marketplace",
-      "root": "creator",
-      "prefix": "ai",
-      "trend_score": 850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "creator-marketplace"
     }
   ],
   "existing": [
