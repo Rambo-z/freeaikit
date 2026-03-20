@@ -53,6 +53,15 @@ export const ALL_TOOLS: ToolInfo[] = [
   { name: "Robots.txt Generator", slug: "robots-generator", description: "Generate robots.txt to control search engine crawling.", category: "seo" },
   { name: "Keyword Density Checker", slug: "keyword-density", description: "Analyze keyword density and word frequency for SEO.", category: "seo" },
   { name: "Open Graph Preview", slug: "og-preview", description: "Preview how your page looks on Facebook, Twitter, LinkedIn, Discord.", category: "seo" },
+  // Utility Tools
+  { name: "Lorem Ipsum Generator", slug: "lorem-ipsum", description: "Generate lorem ipsum placeholder text. Choose paragraphs, sentences, or words.", category: "dev" },
+  { name: "Percentage Calculator", slug: "percentage-calculator", description: "Calculate percentages instantly. X% of Y, percentage change, increase/decrease.", category: "dev" },
+  { name: "Age Calculator", slug: "age-calculator", description: "Calculate exact age in years, months, days, hours. Days until next birthday.", category: "dev" },
+  { name: "Random Number Generator", slug: "random-number", description: "Generate random numbers in any range. Unique or with duplicates.", category: "dev" },
+  { name: "Text Diff Checker", slug: "text-diff", description: "Compare two texts and find differences with line-by-line color highlighting.", category: "dev" },
+  { name: "Text to Binary", slug: "text-to-binary", description: "Convert text to binary, hex, octal, decimal and decode back.", category: "dev" },
+  { name: "Remove Duplicate Lines", slug: "remove-duplicates", description: "Remove duplicate lines from text. Case-sensitive, trim, empty line options.", category: "dev" },
+  { name: "Sort Text Lines", slug: "sort-lines", description: "Sort lines alphabetically, numerically, by length, or shuffle randomly.", category: "dev" },
   // Design Tools
   { name: "QR Code Generator", slug: "qr-code", description: "Generate QR codes for URLs, WiFi, email. Customize colors.", category: "design" },
   { name: "Color Palette Extractor", slug: "color-palette", description: "Extract dominant color palettes from any image.", category: "design" },

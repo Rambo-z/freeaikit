@@ -59,6 +59,19 @@ const NAV_GROUPS: NavGroup[] = [
       { href: "/jwt-decoder",        label: "JWT Decoder" },
       { href: "/base-converter",     label: "Base Converter" },
       { href: "/xml-formatter",      label: "XML Formatter" },
+      { href: "/lorem-ipsum",        label: "Lorem Ipsum Generator" },
+      { href: "/text-diff",          label: "Text Diff Checker" },
+      { href: "/text-to-binary",     label: "Text to Binary" },
+      { href: "/sort-lines",         label: "Sort Lines" },
+      { href: "/remove-duplicates",  label: "Remove Duplicates" },
+    ],
+  },
+  {
+    label: "Calculators",
+    items: [
+      { href: "/percentage-calculator", label: "Percentage Calculator" },
+      { href: "/age-calculator",        label: "Age Calculator" },
+      { href: "/random-number",         label: "Random Number" },
     ],
   },
   {
