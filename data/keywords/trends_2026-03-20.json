@@ -1,9 +1,9 @@
 {
   "date": "2026-03-20",
-  "batch": 9,
-  "total_rising_found": 223,
-  "new_opportunities": 206,
-  "existing_matches": 17,
+  "batch": 10,
+  "total_rising_found": 232,
+  "new_opportunities": 201,
+  "existing_matches": 31,
   "errors": 0,
   "opportunities": [
     {
@@ -25,6 +25,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "updates"
+    },
+    {
+      "keyword": "muon optimizer",
+      "root": "optimizer",
+      "prefix": "ai",
+      "trend_score": 262300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "muon-optimizer"
     },
     {
       "keyword": "avatar fire and ash",
@@ -187,6 +197,16 @@
       "suggested_slug": "ryzen-5-340"
     },
     {
+      "keyword": "2026 digital planner",
+      "root": "planner",
+      "prefix": "free",
+      "trend_score": 100800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "2026-digital-planner"
+    },
+    {
       "keyword": "ai photo editor",
       "root": "cropper",
       "prefix": "ai",
@@ -215,6 +235,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "sstv-encoder-online"
+    },
+    {
+      "keyword": "certified financial planner",
+      "root": "planner",
+      "prefix": "ai",
+      "trend_score": 93400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "certified-financial-planner"
     },
     {
       "keyword": "amd ryzen ai 5 340",
@@ -325,6 +355,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "amd-ryzen-300-series"
+    },
+    {
+      "keyword": "tiger scheduler",
+      "root": "scheduler",
+      "prefix": "ai",
+      "trend_score": 70250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tiger-scheduler"
     },
     {
       "keyword": "free burrito chipotle tattoo",
@@ -467,6 +507,16 @@
       "suggested_slug": "why-is-james-dooley-the-best-heygen-avatar"
     },
     {
+      "keyword": "adhd cleaning planner",
+      "root": "planner",
+      "prefix": "free",
+      "trend_score": 48350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "adhd-cleaning-planner"
+    },
+    {
       "keyword": "cheater scanner",
       "root": "scanner",
       "prefix": "free",
@@ -497,6 +547,16 @@
       "suggested_slug": "website-traffic-analyzer-free"
     },
     {
+      "keyword": "waterpark simulator",
+      "root": "simulator",
+      "prefix": "free",
+      "trend_score": 47450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "waterpark-simulator"
+    },
+    {
       "keyword": "avatar 3 box office",
       "root": "avatar",
       "prefix": "online",
@@ -515,6 +575,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "volkswagen-vin-decoder"
+    },
+    {
+      "keyword": "paper trading simulator",
+      "root": "simulator",
+      "prefix": "ai",
+      "trend_score": 42800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "paper-trading-simulator"
     },
     {
       "keyword": "ai humanizer",
@@ -727,6 +797,16 @@
       "suggested_slug": "ram-price-chart"
     },
     {
+      "keyword": "waterpark simulator ai",
+      "root": "simulator",
+      "prefix": "ai",
+      "trend_score": 30200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "waterpark-simulator-ai"
+    },
+    {
       "keyword": "son ai baby meme",
       "root": "meme",
       "prefix": "ai",
@@ -827,6 +907,16 @@
       "suggested_slug": "67-meme-meaning"
     },
     {
+      "keyword": "todoist",
+      "root": "planner",
+      "prefix": "ai",
+      "trend_score": 25700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "todoist"
+    },
+    {
       "keyword": "where can i watch avatar fire and ash",
       "root": "avatar",
       "prefix": "free",
@@ -855,6 +945,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "videoproc-converter-ai"
+    },
+    {
+      "keyword": "tesla trip planner",
+      "root": "planner",
+      "prefix": "online",
+      "trend_score": 24950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tesla-trip-planner"
     },
     {
       "keyword": "chipotle tattoo bogo",
@@ -905,106 +1005,6 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "trend-cartoon-photo"
-    },
-    {
-      "keyword": "png to jpg converter",
-      "root": "resizer",
-      "prefix": "free",
-      "trend_score": 23250,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "png-to-jpg-converter"
-    },
-    {
-      "keyword": "pdf gear",
-      "root": "merger",
-      "prefix": "free",
-      "trend_score": 22950,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "pdf-gear"
-    },
-    {
-      "keyword": "6-7 meme",
-      "root": "meme",
-      "prefix": "online",
-      "trend_score": 22750,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "6-7-meme"
-    },
-    {
-      "keyword": "unwatermark ai",
-      "root": "watermark",
-      "prefix": "ai",
-      "trend_score": 22700,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "unwatermark-ai"
-    },
-    {
-      "keyword": "ai trading bot",
-      "root": "analyzer",
-      "prefix": "ai",
-      "trend_score": 22450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "trading-bot"
-    },
-    {
-      "keyword": "chess online",
-      "root": "detector",
-      "prefix": "online",
-      "trend_score": 22300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "chess-online"
-    },
-    {
-      "keyword": "convert jpg to pdf free",
-      "root": "illustration",
-      "prefix": "free",
-      "trend_score": 21850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "convert-jpg-to-pdf-free"
-    },
-    {
-      "keyword": "lkq online",
-      "root": "compressor",
-      "prefix": "online",
-      "trend_score": 21450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "lkq-online"
-    },
-    {
-      "keyword": "magic the gathering avatar the last airbender",
-      "root": "avatar",
-      "prefix": "online",
-      "trend_score": 21300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "magic-the-gathering-avatar-the-last-airbender"
-    },
-    {
-      "keyword": "trade ideas scanner",
-      "root": "scanner",
-      "prefix": "ai",
-      "trend_score": 21200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "trade-ideas-scanner"
     }
   ],
   "existing": [
@@ -1177,6 +1177,36 @@
       "discovered": "2026-03-20",
       "already_have": true,
       "suggested_slug": "color-palette-test"
+    },
+    {
+      "keyword": "generate qr code online",
+      "root": "qr",
+      "prefix": "ai",
+      "trend_score": 66300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "generate-qr-code-online"
+    },
+    {
+      "keyword": "oysiyl qr code",
+      "root": "qr",
+      "prefix": "ai",
+      "trend_score": 13800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "oysiyl-qr-code"
+    },
+    {
+      "keyword": "free sushi brawl stars qr code",
+      "root": "qr",
+      "prefix": "free",
+      "trend_score": 11050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "sushi-brawl-stars-qr-code"
     }
   ],
   "error_log": []

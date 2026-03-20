@@ -1,10 +1,10 @@
 {
   "date": "2026-03-20",
   "stats": {
-    "trends_total": 223,
-    "suggest_total": 2603
+    "trends_total": 232,
+    "suggest_total": 2900
   },
-  "total_opportunities": 2675,
+  "total_opportunities": 2954,
   "top_50": [
     {
       "keyword": "free photo editing software",
@@ -32,6 +32,21 @@
       "root": "validator",
       "already_have": false,
       "combined_score": 600,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "muon optimizer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 262300,
+      "suggested_slug": "muon-optimizer",
+      "root": "optimizer",
+      "already_have": false,
+      "combined_score": 590,
       "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
@@ -154,6 +169,21 @@
       "already_have": false,
       "combined_score": 540,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "2026 digital planner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 100800,
+      "suggested_slug": "2026-digital-planner",
+      "root": "planner",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -504,21 +534,6 @@
       "competition": 0
     },
     {
-      "keyword": "trade ideas scanner",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 21200,
-      "suggested_slug": "trade-ideas-scanner",
-      "root": "scanner",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "sucka free tyler the creator",
       "sources": [
         "trends_rising"
@@ -669,36 +684,6 @@
       "competition": 0
     },
     {
-      "keyword": "png to jpg converter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 23250,
-      "suggested_slug": "png-to-jpg-converter",
-      "root": "resizer",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "chess online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 22300,
-      "suggested_slug": "chess-online",
-      "root": "detector",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "free burrito chipotle tattoo",
       "sources": [
         "trends_rising"
@@ -708,6 +693,21 @@
       "root": "tattoo",
       "already_have": false,
       "combined_score": 350,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "certified financial planner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 93400,
+      "suggested_slug": "certified-financial-planner",
+      "root": "planner",
+      "already_have": false,
+      "combined_score": 340,
       "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
@@ -744,13 +744,13 @@
       "competition": 0
     },
     {
-      "keyword": "avatar iv ai",
+      "keyword": "tiger scheduler",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 53350,
-      "suggested_slug": "avatar-iv-ai",
-      "root": "avatar",
+      "trend_score": 70250,
+      "suggested_slug": "tiger-scheduler",
+      "root": "scheduler",
       "already_have": false,
       "combined_score": 340,
       "difficulty": "",

@@ -1,9 +1,9 @@
 {
   "date": "2026-03-20",
-  "batch": 9,
-  "total_suggestions": 2603,
-  "new_opportunities": 2578,
-  "existing_matches": 25,
+  "batch": 10,
+  "total_suggestions": 2900,
+  "new_opportunities": 2856,
+  "existing_matches": 44,
   "opportunities": [
     {
       "keyword": "free compression tool online",
@@ -2248,7 +2248,7 @@
     },
     {
       "keyword": "ai editor online",
-      "root": "cropper",
+      "root": "modifier",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -2257,7 +2257,7 @@
     },
     {
       "keyword": "ai editor online free",
-      "root": "cropper",
+      "root": "modifier",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -2266,7 +2266,7 @@
     },
     {
       "keyword": "ai editor online video",
-      "root": "cropper",
+      "root": "modifier",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -2275,7 +2275,7 @@
     },
     {
       "keyword": "ai editor online free photo",
-      "root": "cropper",
+      "root": "modifier",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -2284,7 +2284,7 @@
     },
     {
       "keyword": "ai editor online free video",
-      "root": "cropper",
+      "root": "modifier",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -2293,7 +2293,7 @@
     },
     {
       "keyword": "ai editor online photo",
-      "root": "cropper",
+      "root": "modifier",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -2311,7 +2311,7 @@
     },
     {
       "keyword": "ai editor online text",
-      "root": "cropper",
+      "root": "modifier",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -23206,6 +23206,2508 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "downloader-for-firestick"
+    },
+    {
+      "keyword": "ai editor online image",
+      "root": "modifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "editor-image"
+    },
+    {
+      "keyword": "ai editor online writing",
+      "root": "modifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "editor-writing"
+    },
+    {
+      "keyword": "ai editor online pdf",
+      "root": "modifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "editor-pdf"
+    },
+    {
+      "keyword": "best ai image generator modifier",
+      "root": "modifier",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-generator-modifier"
+    },
+    {
+      "keyword": "most common modifiers",
+      "root": "modifier",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "most-common-modifiers"
+    },
+    {
+      "keyword": "list of billing modifiers",
+      "root": "modifier",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "list-of-billing-modifiers"
+    },
+    {
+      "keyword": "free optimisation tool",
+      "root": "optimizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimisation"
+    },
+    {
+      "keyword": "free seo optimizer tool",
+      "root": "optimizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "seo-optimizer"
+    },
+    {
+      "keyword": "free query optimizer tool",
+      "root": "optimizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "query-optimizer"
+    },
+    {
+      "keyword": "free pc optimizer tool",
+      "root": "optimizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pc-optimizer"
+    },
+    {
+      "keyword": "free linkedin optimization tool",
+      "root": "optimizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "linkedin-optimization"
+    },
+    {
+      "keyword": "free codon optimization tool",
+      "root": "optimizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "codon-optimization"
+    },
+    {
+      "keyword": "free route optimization tool",
+      "root": "optimizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "route-optimization"
+    },
+    {
+      "keyword": "free content optimization tool",
+      "root": "optimizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "content-optimization"
+    },
+    {
+      "keyword": "free website optimization tools",
+      "root": "optimizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "website-optimizations"
+    },
+    {
+      "keyword": "ai image optimizer online free",
+      "root": "optimizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-optimizer-free"
+    },
+    {
+      "keyword": "ai photo optimizer online",
+      "root": "optimizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-optimizer-online"
+    },
+    {
+      "keyword": "ai photo optimizer online free",
+      "root": "optimizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-optimizer-free"
+    },
+    {
+      "keyword": "ai video optimizer online",
+      "root": "optimizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "video-optimizer-online"
+    },
+    {
+      "keyword": "ai image optimizer online",
+      "root": "optimizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-optimizer-online"
+    },
+    {
+      "keyword": "ai prompt optimizer online",
+      "root": "optimizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "prompt-optimizer-online"
+    },
+    {
+      "keyword": "ai code optimizer online",
+      "root": "optimizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "code-optimizer-online"
+    },
+    {
+      "keyword": "ai prompt optimizer free online",
+      "root": "optimizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "prompt-optimizer-online"
+    },
+    {
+      "keyword": "free planner tools",
+      "root": "planner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planners"
+    },
+    {
+      "keyword": "free plan tool",
+      "root": "planner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "plan"
+    },
+    {
+      "keyword": "free scheduler tool",
+      "root": "planner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler"
+    },
+    {
+      "keyword": "free agenda tool",
+      "root": "planner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "agenda"
+    },
+    {
+      "keyword": "free planner software",
+      "root": "planner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-software"
+    },
+    {
+      "keyword": "free planner software for pc",
+      "root": "planner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-software-for-pc"
+    },
+    {
+      "keyword": "free keyword planner tool",
+      "root": "planner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "keyword-planner"
+    },
+    {
+      "keyword": "free room planner tool",
+      "root": "planner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "room-planner"
+    },
+    {
+      "keyword": "free kitchen planner tool uk",
+      "root": "planner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "kitchen-planner-uk"
+    },
+    {
+      "keyword": "free kitchen planner tool",
+      "root": "planner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "kitchen-planner"
+    },
+    {
+      "keyword": "ai planner online free",
+      "root": "planner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-free"
+    },
+    {
+      "keyword": "ai plan online",
+      "root": "planner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "plan-online"
+    },
+    {
+      "keyword": "ai scheduler online",
+      "root": "planner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler-online"
+    },
+    {
+      "keyword": "ai room planner online",
+      "root": "planner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "room-planner-online"
+    },
+    {
+      "keyword": "ai room planner online free",
+      "root": "planner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "room-planner-free"
+    },
+    {
+      "keyword": "ai garden planner online free",
+      "root": "planner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "garden-planner-free"
+    },
+    {
+      "keyword": "ai trip planner online",
+      "root": "planner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "trip-planner-online"
+    },
+    {
+      "keyword": "ai floor planner online",
+      "root": "planner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "floor-planner-online"
+    },
+    {
+      "keyword": "ai garden planner online",
+      "root": "planner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "garden-planner-online"
+    },
+    {
+      "keyword": "best plan generator ai",
+      "root": "planner",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "plan-generator-ai"
+    },
+    {
+      "keyword": "best plan generator",
+      "root": "planner",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "plan-generator"
+    },
+    {
+      "keyword": "best schedule generator",
+      "root": "planner",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-generator"
+    },
+    {
+      "keyword": "best calendar generator",
+      "root": "planner",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "calendar-generator"
+    },
+    {
+      "keyword": "best planner maker",
+      "root": "planner",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-maker"
+    },
+    {
+      "keyword": "best business plan generator",
+      "root": "planner",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "business-plan-generator"
+    },
+    {
+      "keyword": "best meal plan generator",
+      "root": "planner",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "meal-plan-generator"
+    },
+    {
+      "keyword": "best lesson plan generator",
+      "root": "planner",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "lesson-plan-generator"
+    },
+    {
+      "keyword": "best floor plan generator ai",
+      "root": "planner",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "floor-plan-generator-ai"
+    },
+    {
+      "keyword": "best floor plan generator",
+      "root": "planner",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "floor-plan-generator"
+    },
+    {
+      "keyword": "free scheduling tools for social media",
+      "root": "scheduler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedulings-for-social-media"
+    },
+    {
+      "keyword": "free scheduling tool like doodle",
+      "root": "scheduler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduling-like-doodle"
+    },
+    {
+      "keyword": "free scheduling tool for meetings",
+      "root": "scheduler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduling-for-meetings"
+    },
+    {
+      "keyword": "free scheduling tools like calendly",
+      "root": "scheduler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedulings-like-calendly"
+    },
+    {
+      "keyword": "free scheduling tool online",
+      "root": "scheduler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduling-online"
+    },
+    {
+      "keyword": "free scheduling tool for teams",
+      "root": "scheduler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduling-for-teams"
+    },
+    {
+      "keyword": "free scheduling tool for squarespace",
+      "root": "scheduler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduling-for-squarespace"
+    },
+    {
+      "keyword": "free scheduling tool for facebook",
+      "root": "scheduler",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduling-for-facebook"
+    },
+    {
+      "keyword": "ai planner online",
+      "root": "scheduler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-online"
+    },
+    {
+      "keyword": "ai schedule maker online",
+      "root": "scheduler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-maker-online"
+    },
+    {
+      "keyword": "ai schedule maker online free",
+      "root": "scheduler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-maker-free"
+    },
+    {
+      "keyword": "ai for scheduling",
+      "root": "scheduler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "for-scheduling"
+    },
+    {
+      "keyword": "online scheduling programs",
+      "root": "scheduler",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduling-programs"
+    },
+    {
+      "keyword": "best ai schedule generator free",
+      "root": "scheduler",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-generator-free"
+    },
+    {
+      "keyword": "best ai schedule generator",
+      "root": "scheduler",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-generator"
+    },
+    {
+      "keyword": "best automatic schedule generator excel",
+      "root": "scheduler",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "automatic-schedule-generator-excel"
+    },
+    {
+      "keyword": "best study schedule generator",
+      "root": "scheduler",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "study-schedule-generator"
+    },
+    {
+      "keyword": "what makes a good scheduler",
+      "root": "scheduler",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "what-makes-a-good-scheduler"
+    },
+    {
+      "keyword": "popular scheduling software",
+      "root": "scheduler",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "popular-scheduling-software"
+    },
+    {
+      "keyword": "free simulation tools",
+      "root": "simulator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulations"
+    },
+    {
+      "keyword": "free simulator software",
+      "root": "simulator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator-software"
+    },
+    {
+      "keyword": "free credit simulator tool",
+      "root": "simulator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "credit-simulator"
+    },
+    {
+      "keyword": "free network simulator tools",
+      "root": "simulator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "network-simulators"
+    },
+    {
+      "keyword": "free ransomware simulator tool",
+      "root": "simulator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ransomware-simulator"
+    },
+    {
+      "keyword": "free phishing simulation tool",
+      "root": "simulator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "phishing-simulation"
+    },
+    {
+      "keyword": "free online simulation tools",
+      "root": "simulator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulations"
+    },
+    {
+      "keyword": "free circuit simulation tools",
+      "root": "simulator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "circuit-simulations"
+    },
+    {
+      "keyword": "free attack simulation tools",
+      "root": "simulator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "attack-simulations"
+    },
+    {
+      "keyword": "free thermal simulation tool",
+      "root": "simulator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "thermal-simulation"
+    },
+    {
+      "keyword": "ai simulator online free",
+      "root": "simulator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator-free"
+    },
+    {
+      "keyword": "artificial intelligence simulation online",
+      "root": "simulator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "artificial-intelligence-simulation-online"
+    },
+    {
+      "keyword": "ai filler simulator online free",
+      "root": "simulator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "filler-simulator-free"
+    },
+    {
+      "keyword": "ai battle simulator online",
+      "root": "simulator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "battle-simulator-online"
+    },
+    {
+      "keyword": "ai patient simulator online free",
+      "root": "simulator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "patient-simulator-free"
+    },
+    {
+      "keyword": "ai life simulator online",
+      "root": "simulator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "life-simulator-online"
+    },
+    {
+      "keyword": "ai haircut simulator online free",
+      "root": "simulator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "haircut-simulator-free"
+    },
+    {
+      "keyword": "ai dating simulator online",
+      "root": "simulator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "dating-simulator-online"
+    },
+    {
+      "keyword": "yandere ai simulator online",
+      "root": "simulator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "yandere-simulator-online"
+    },
+    {
+      "keyword": "free sitemap generator",
+      "root": "sitemap",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator"
+    },
+    {
+      "keyword": "free sitemap generator unlimited pages",
+      "root": "sitemap",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-unlimited-pages"
+    },
+    {
+      "keyword": "free sitemap builder",
+      "root": "sitemap",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-builder"
+    },
+    {
+      "keyword": "free sitemap generator from url",
+      "root": "sitemap",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-from-url"
+    },
+    {
+      "keyword": "free sitemap generator online",
+      "root": "sitemap",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-online"
+    },
+    {
+      "keyword": "free sitemap generator ai",
+      "root": "sitemap",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-ai"
+    },
+    {
+      "keyword": "free sitemap generator xml",
+      "root": "sitemap",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-xml"
+    },
+    {
+      "keyword": "free sitemap generator html",
+      "root": "sitemap",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-html"
+    },
+    {
+      "keyword": "sitemap generator free",
+      "root": "sitemap",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-free"
+    },
+    {
+      "keyword": "sitemap generator free unlimited",
+      "root": "sitemap",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-unlimited"
+    },
+    {
+      "keyword": "sitemap generator free online",
+      "root": "sitemap",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-online"
+    },
+    {
+      "keyword": "best sitemap generator free",
+      "root": "sitemap",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-free"
+    },
+    {
+      "keyword": "best sitemap builder",
+      "root": "sitemap",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-builder"
+    },
+    {
+      "keyword": "best xml sitemap generator",
+      "root": "sitemap",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "xml-sitemap-generator"
+    },
+    {
+      "keyword": "best visual sitemap generator",
+      "root": "sitemap",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "visual-sitemap-generator"
+    },
+    {
+      "keyword": "best ai sitemap generator",
+      "root": "sitemap",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator"
+    },
+    {
+      "keyword": "best free xml sitemap generator",
+      "root": "sitemap",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "xml-sitemap-generator"
+    },
+    {
+      "keyword": "free qr generator tool",
+      "root": "qr",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-generator"
+    },
+    {
+      "keyword": "free qr payment tool",
+      "root": "qr",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-payment"
+    },
+    {
+      "keyword": "is there a free qr scanner",
+      "root": "qr",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "is-there-a-qr-scanner"
+    },
+    {
+      "keyword": "ai qr scanner online",
+      "root": "qr",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-scanner-online"
+    },
+    {
+      "keyword": "ai qr generator online",
+      "root": "qr",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-generator-online"
+    },
+    {
+      "keyword": "vector qr online",
+      "root": "qr",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vector-qr-online"
+    },
+    {
+      "keyword": "qr maker free",
+      "root": "qr",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-maker-free"
+    },
+    {
+      "keyword": "qr maker free online",
+      "root": "qr",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-maker-online"
+    },
+    {
+      "keyword": "qr maker free forever",
+      "root": "qr",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-maker-forever"
+    },
+    {
+      "keyword": "qr maker free no ads",
+      "root": "qr",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-maker-no-ads"
+    },
+    {
+      "keyword": "qr maker free download",
+      "root": "qr",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-maker-download"
+    },
+    {
+      "keyword": "qr maker free text",
+      "root": "qr",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-maker-text"
+    },
+    {
+      "keyword": "qr maker free with logo",
+      "root": "qr",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-maker-with-logo"
+    },
+    {
+      "keyword": "best qr generator free",
+      "root": "qr",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-generator-free"
+    },
+    {
+      "keyword": "best qr generator app",
+      "root": "qr",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-generator-app"
+    },
+    {
+      "keyword": "best qr generator for business",
+      "root": "qr",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-generator-for-business"
+    },
+    {
+      "keyword": "best qr generator website",
+      "root": "qr",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-generator-website"
+    },
+    {
+      "keyword": "best qr generator online",
+      "root": "qr",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-generator-online"
+    },
+    {
+      "keyword": "best qr generator for mac",
+      "root": "qr",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-generator-for-mac"
+    },
+    {
+      "keyword": "free barcode generator",
+      "root": "barcode",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator"
+    },
+    {
+      "keyword": "free barcode generator online",
+      "root": "barcode",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-online"
+    },
+    {
+      "keyword": "free barcode generator 128",
+      "root": "barcode",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-128"
+    },
+    {
+      "keyword": "free barcode generator mobiledemand",
+      "root": "barcode",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-mobiledemand"
+    },
+    {
+      "keyword": "free barcode generator software",
+      "root": "barcode",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-software"
+    },
+    {
+      "keyword": "free barcode generator ean 13",
+      "root": "barcode",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-ean-13"
+    },
+    {
+      "keyword": "free barcode generator uk",
+      "root": "barcode",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-uk"
+    },
+    {
+      "keyword": "free barcode generator cognex",
+      "root": "barcode",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-cognex"
+    },
+    {
+      "keyword": "ai barcode generator",
+      "root": "barcode",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator"
+    },
+    {
+      "keyword": "ai barcode generator free",
+      "root": "barcode",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-free"
+    },
+    {
+      "keyword": "ai barcode scanner online",
+      "root": "barcode",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-scanner-online"
+    },
+    {
+      "keyword": "ai barcode generator online free",
+      "root": "barcode",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-free"
+    },
+    {
+      "keyword": "can barcode be fake",
+      "root": "barcode",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "can-barcode-be-fake"
+    },
+    {
+      "keyword": "barcode generator free",
+      "root": "barcode",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-free"
+    },
+    {
+      "keyword": "barcode generator free online",
+      "root": "barcode",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-online"
+    },
+    {
+      "keyword": "barcode generator free download",
+      "root": "barcode",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-download"
+    },
+    {
+      "keyword": "barcode creator free",
+      "root": "barcode",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-creator-free"
+    },
+    {
+      "keyword": "barcode generator free download for pc",
+      "root": "barcode",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-download-for-pc"
+    },
+    {
+      "keyword": "barcode generator free svg",
+      "root": "barcode",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-svg"
+    },
+    {
+      "keyword": "barcode generator free 128",
+      "root": "barcode",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-128"
+    },
+    {
+      "keyword": "barcode generator free ean 13",
+      "root": "barcode",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-ean-13"
+    },
+    {
+      "keyword": "best barcode generator free",
+      "root": "barcode",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-free"
+    },
+    {
+      "keyword": "best barcode generator app",
+      "root": "barcode",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-app"
+    },
+    {
+      "keyword": "best barcode generator software",
+      "root": "barcode",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-software"
+    },
+    {
+      "keyword": "best barcode generator for small business",
+      "root": "barcode",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-for-small-business"
+    },
+    {
+      "keyword": "best barcode generator for shopify",
+      "root": "barcode",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-for-shopify"
+    },
+    {
+      "keyword": "best barcode generator software free download",
+      "root": "barcode",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-software-download"
+    },
+    {
+      "keyword": "best barcode generator for mac",
+      "root": "barcode",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-for-mac"
+    },
+    {
+      "keyword": "best barcode generator app for iphone",
+      "root": "barcode",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-generator-app-for-iphone"
+    },
+    {
+      "keyword": "ai simulator",
+      "root": "simulator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator"
+    },
+    {
+      "keyword": "ai simulator free",
+      "root": "simulator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator-free"
+    },
+    {
+      "keyword": "ai simulator for botox and filler",
+      "root": "simulator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator-for-botox-and-filler"
+    },
+    {
+      "keyword": "ai simulator girlfriend",
+      "root": "simulator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator-girlfriend"
+    },
+    {
+      "keyword": "ai simulator for sports betting",
+      "root": "simulator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator-for-sports-betting"
+    },
+    {
+      "keyword": "ai simulator plastic surgery",
+      "root": "simulator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator-plastic-surgery"
+    },
+    {
+      "keyword": "ai simulator app",
+      "root": "simulator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator-app"
+    },
+    {
+      "keyword": "ai simulator online",
+      "root": "simulator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator-online"
+    },
+    {
+      "keyword": "free simulator",
+      "root": "simulator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulator"
+    },
+    {
+      "keyword": "free simulators on steam",
+      "root": "simulator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "simulators-on-steam"
+    },
+    {
+      "keyword": "ai modifier",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier"
+    },
+    {
+      "keyword": "ai modifier description",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-description"
+    },
+    {
+      "keyword": "ai modifier in medical billing",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-in-medical-billing"
+    },
+    {
+      "keyword": "ai modifier in medical coding",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-in-medical-coding"
+    },
+    {
+      "keyword": "ai modifier cpt",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-cpt"
+    },
+    {
+      "keyword": "ai modifier examples",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-examples"
+    },
+    {
+      "keyword": "ai modifier image",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-image"
+    },
+    {
+      "keyword": "ai modifier meaning",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-meaning"
+    },
+    {
+      "keyword": "ai modifier medicare",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-medicare"
+    },
+    {
+      "keyword": "ai modifier guidelines",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-guidelines"
+    },
+    {
+      "keyword": "free modifiers",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifiers"
+    },
+    {
+      "keyword": "free modifier starbucks",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-starbucks"
+    },
+    {
+      "keyword": "free modifier coupon",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-coupon"
+    },
+    {
+      "keyword": "free modifier coupon starbucks",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-coupon-starbucks"
+    },
+    {
+      "keyword": "free modifier examples",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-examples"
+    },
+    {
+      "keyword": "free modifier grammar",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-grammar"
+    },
+    {
+      "keyword": "free modifier mot de passe wifi",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-mot-de-passe-wifi"
+    },
+    {
+      "keyword": "free modifier date de prelevement",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-date-de-prelevement"
+    },
+    {
+      "keyword": "free modifier pdf",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-pdf"
+    },
+    {
+      "keyword": "free modifier abonnement",
+      "root": "modifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "modifier-abonnement"
+    },
+    {
+      "keyword": "ai barcode scanner",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-scanner"
+    },
+    {
+      "keyword": "ai barcode reader",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-reader"
+    },
+    {
+      "keyword": "ai barcode",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode"
+    },
+    {
+      "keyword": "ai barcode scanner flutter",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-scanner-flutter"
+    },
+    {
+      "keyword": "ai barcode maker",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-maker"
+    },
+    {
+      "keyword": "ai barcode enhancer",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-enhancer"
+    },
+    {
+      "keyword": "ai barcode decoder",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-decoder"
+    },
+    {
+      "keyword": "free barcode",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode"
+    },
+    {
+      "keyword": "free barcode scanner",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-scanner"
+    },
+    {
+      "keyword": "free barcode scanner app",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-scanner-app"
+    },
+    {
+      "keyword": "free barcode maker",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-maker"
+    },
+    {
+      "keyword": "free barcode gen",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-gen"
+    },
+    {
+      "keyword": "free barcode reader",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-reader"
+    },
+    {
+      "keyword": "free barcode font",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-font"
+    },
+    {
+      "keyword": "free barcode scanner app for android",
+      "root": "barcode",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "barcode-scanner-app-for-android"
+    },
+    {
+      "keyword": "ai sitemap generator",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator"
+    },
+    {
+      "keyword": "ai sitemap",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap"
+    },
+    {
+      "keyword": "ai sitemap builder",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-builder"
+    },
+    {
+      "keyword": "ai sitemap maker",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-maker"
+    },
+    {
+      "keyword": "ai sitemap generator free",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-free"
+    },
+    {
+      "keyword": "ai sitemap and wireframe generator",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-and-wireframe-generator"
+    },
+    {
+      "keyword": "ai sitemap xml",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-xml"
+    },
+    {
+      "keyword": "ai sitemap tool",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap"
+    },
+    {
+      "keyword": "ai sitemap generator from url",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-generator-from-url"
+    },
+    {
+      "keyword": "ai sitemap and wireframe",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-and-wireframe"
+    },
+    {
+      "keyword": "free sitemap creator",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-creator"
+    },
+    {
+      "keyword": "free sitemap tool",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap"
+    },
+    {
+      "keyword": "free sitemap",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap"
+    },
+    {
+      "keyword": "free sitemap checker",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-checker"
+    },
+    {
+      "keyword": "free sitemap finder",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-finder"
+    },
+    {
+      "keyword": "free sitemap template",
+      "root": "sitemap",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sitemap-template"
+    },
+    {
+      "keyword": "ai scheduler",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler"
+    },
+    {
+      "keyword": "ai scheduler (gsa.gov)",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler-(gsa.gov)"
+    },
+    {
+      "keyword": "ai scheduler app",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler-app"
+    },
+    {
+      "keyword": "ai scheduler free",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler-free"
+    },
+    {
+      "keyword": "ai scheduler gsa",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler-gsa"
+    },
+    {
+      "keyword": "ai schedule maker",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-maker"
+    },
+    {
+      "keyword": "ai scheduler for students",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler-for-students"
+    },
+    {
+      "keyword": "ai scheduler google calendar",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler-google-calendar"
+    },
+    {
+      "keyword": "ai scheduling assistant",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduling-assistant"
+    },
+    {
+      "keyword": "free scheduler",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler"
+    },
+    {
+      "keyword": "free scheduler app",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler-app"
+    },
+    {
+      "keyword": "free scheduler online",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "scheduler-online"
+    },
+    {
+      "keyword": "free schedule maker",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-maker"
+    },
+    {
+      "keyword": "free schedule template",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-template"
+    },
+    {
+      "keyword": "free schedule maker for employees",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-maker-for-employees"
+    },
+    {
+      "keyword": "free schedule builder",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-builder"
+    },
+    {
+      "keyword": "free schedule poll",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-poll"
+    },
+    {
+      "keyword": "free schedule 1",
+      "root": "scheduler",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "schedule-1"
+    },
+    {
+      "keyword": "ai writer",
+      "root": "qr",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "writer"
+    },
+    {
+      "keyword": "ai qr",
+      "root": "qr",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr"
+    },
+    {
+      "keyword": "free qr generator",
+      "root": "qr",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr-generator"
+    },
+    {
+      "keyword": "free qr",
+      "root": "qr",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "qr"
+    },
+    {
+      "keyword": "ai optimizer",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer"
+    },
+    {
+      "keyword": "ai optimizer for z",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-for-z"
+    },
+    {
+      "keyword": "ai optimizer and toolkit",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-andkit"
+    },
+    {
+      "keyword": "ai optimizer plugin",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-plugin"
+    },
+    {
+      "keyword": "ai optimizer apk",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-apk"
+    },
+    {
+      "keyword": "ai optimizer image",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-image"
+    },
+    {
+      "keyword": "ai optimizer oracle",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-oracle"
+    },
+    {
+      "keyword": "ai optimizer adam",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-adam"
+    },
+    {
+      "keyword": "ai optimizer free",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-free"
+    },
+    {
+      "keyword": "ai optimizer prompt",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-prompt"
+    },
+    {
+      "keyword": "free optimizer",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer"
+    },
+    {
+      "keyword": "free optimizer for pc",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-for-pc"
+    },
+    {
+      "keyword": "free optimizer dfs",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-dfs"
+    },
+    {
+      "keyword": "free optimizer nfl",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-nfl"
+    },
+    {
+      "keyword": "free optimizer app",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-app"
+    },
+    {
+      "keyword": "free optimizer for windows 10",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-for-windows-10"
+    },
+    {
+      "keyword": "free optimizer download",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-download"
+    },
+    {
+      "keyword": "free optimizer nba",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-nba"
+    },
+    {
+      "keyword": "free optimizer for fortnite",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-for-fortnite"
+    },
+    {
+      "keyword": "free optimizer sports betting",
+      "root": "optimizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "optimizer-sports-betting"
+    },
+    {
+      "keyword": "ai planner",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner"
+    },
+    {
+      "keyword": "ai planner app",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-app"
+    },
+    {
+      "keyword": "ai planner generator",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-generator"
+    },
+    {
+      "keyword": "ai planner free",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-free"
+    },
+    {
+      "keyword": "ai planner for adhd",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-for-adhd"
+    },
+    {
+      "keyword": "ai planner maker",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-maker"
+    },
+    {
+      "keyword": "ai planner for students",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-for-students"
+    },
+    {
+      "keyword": "ai planner agent",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-agent"
+    },
+    {
+      "keyword": "ai planner generator free",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-generator-free"
+    },
+    {
+      "keyword": "ai planner trip",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-trip"
+    },
+    {
+      "keyword": "free planner app",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-app"
+    },
+    {
+      "keyword": "free planner templates",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-templates"
+    },
+    {
+      "keyword": "free planner",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner"
+    },
+    {
+      "keyword": "free planner printables",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-printables"
+    },
+    {
+      "keyword": "free planner app for ipad",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-app-for-ipad"
+    },
+    {
+      "keyword": "free planner for goodnotes",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-for-goodnotes"
+    },
+    {
+      "keyword": "free planners for ipad",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planners-for-ipad"
+    },
+    {
+      "keyword": "free planner templates for goodnotes",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-templates-for-goodnotes"
+    },
+    {
+      "keyword": "free planner pdf",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-pdf"
+    },
+    {
+      "keyword": "free planner apps for iphone",
+      "root": "planner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "planner-apps-for-iphone"
     }
   ],
   "existing": [
