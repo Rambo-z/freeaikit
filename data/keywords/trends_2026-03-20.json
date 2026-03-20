@@ -1,9 +1,9 @@
 {
   "date": "2026-03-20",
-  "batch": 10,
-  "total_rising_found": 232,
-  "new_opportunities": 201,
-  "existing_matches": 31,
+  "batch": 11,
+  "total_rising_found": 142,
+  "new_opportunities": 121,
+  "existing_matches": 21,
   "errors": 0,
   "opportunities": [
     {
@@ -957,6 +957,16 @@
       "suggested_slug": "tesla-trip-planner"
     },
     {
+      "keyword": "uvr online",
+      "root": "remover",
+      "prefix": "online",
+      "trend_score": 24950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "uvr-online"
+    },
+    {
       "keyword": "chipotle tattoo bogo",
       "root": "tattoo",
       "prefix": "free",
@@ -995,16 +1005,6 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "best-photo-collage-apps"
-    },
-    {
-      "keyword": "ai trend cartoon photo",
-      "root": "cartoon",
-      "prefix": "ai",
-      "trend_score": 23300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "trend-cartoon-photo"
     }
   ],
   "existing": [

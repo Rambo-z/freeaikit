@@ -1,10 +1,10 @@
 {
   "date": "2026-03-20",
   "stats": {
-    "trends_total": 232,
-    "suggest_total": 2900
+    "trends_total": 142,
+    "suggest_total": 2916
   },
-  "total_opportunities": 2954,
+  "total_opportunities": 2990,
   "top_50": [
     {
       "keyword": "free photo editing software",
@@ -669,6 +669,21 @@
       "competition": 0
     },
     {
+      "keyword": "uvr online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 24950,
+      "suggested_slug": "uvr-online",
+      "root": "remover",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "ada compliance checker accessibe",
       "sources": [
         "trends_rising"
@@ -739,21 +754,6 @@
       "already_have": false,
       "combined_score": 340,
       "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "tiger scheduler",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70250,
-      "suggested_slug": "tiger-scheduler",
-      "root": "scheduler",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
