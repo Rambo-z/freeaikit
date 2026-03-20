@@ -1,10 +1,10 @@
 {
   "date": "2026-03-20",
   "stats": {
-    "trends_total": 206,
-    "suggest_total": 1986
+    "trends_total": 232,
+    "suggest_total": 2298
   },
-  "total_opportunities": 2036,
+  "total_opportunities": 2375,
   "top_50": [
     {
       "keyword": "free photo editing software",
@@ -159,6 +159,21 @@
       "competition": 0
     },
     {
+      "keyword": "avatar fire and ash",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 249050,
+      "suggested_slug": "avatar-fire-and-ash",
+      "root": "avatar",
+      "already_have": false,
+      "combined_score": 520,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "ryzen ai 7 350",
       "sources": [
         "trends_rising"
@@ -184,6 +199,21 @@
       "already_have": false,
       "combined_score": 520,
       "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "watch avatar fire and ash",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 561250,
+      "suggested_slug": "watch-avatar-fire-and-ash",
+      "root": "avatar",
+      "already_have": false,
+      "combined_score": 500,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -429,66 +459,6 @@
       "competition": 0
     },
     {
-      "keyword": "sha256 decoder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 18100,
-      "suggested_slug": "sha256-decoder",
-      "root": "decoder",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "builder ai collapse",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 16150,
-      "suggested_slug": "builder-collapse",
-      "root": "builder",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "zen creator ai",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 14850,
-      "suggested_slug": "zen-creator-ai",
-      "root": "creator",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai image editor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 14550,
-      "suggested_slug": "image-editor",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "sucka free tyler the creator",
       "sources": [
         "trends_rising"
@@ -669,36 +639,6 @@
       "competition": 0
     },
     {
-      "keyword": "online notepad",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 18200,
-      "suggested_slug": "notepad",
-      "root": "translator",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "online presence management",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 17850,
-      "suggested_slug": "presence-management",
-      "root": "pattern",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "free burrito chipotle tattoo",
       "sources": [
         "trends_rising"
@@ -706,6 +646,21 @@
       "trend_score": 69050,
       "suggested_slug": "burrito-chipotle-tattoo",
       "root": "tattoo",
+      "already_have": false,
+      "combined_score": 350,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "avatar island free ps5",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 20800,
+      "suggested_slug": "avatar-island-ps5",
+      "root": "avatar",
       "already_have": false,
       "combined_score": 350,
       "difficulty": "",
@@ -729,31 +684,76 @@
       "competition": 0
     },
     {
-      "keyword": "hotels with free breakfast",
+      "keyword": "c diff symptoms",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 19050,
-      "suggested_slug": "hotels-with-breakfast",
-      "root": "gradient",
+      "trend_score": 93050,
+      "suggested_slug": "c-diff-symptoms",
+      "root": "diff",
       "already_have": false,
-      "combined_score": 350,
+      "combined_score": 340,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "colorify ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 87800,
+      "suggested_slug": "colorify-ai",
+      "root": "coloring page",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "avatar iv ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 53350,
+      "suggested_slug": "avatar-iv-ai",
+      "root": "avatar",
+      "already_have": false,
+      "combined_score": 340,
       "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "download facebook videos online",
+      "keyword": "ai humanizer",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 14500,
-      "suggested_slug": "download-facebook-videos-online",
+      "trend_score": 41650,
+      "suggested_slug": "humanizer",
       "root": "watermark",
       "already_have": false,
-      "combined_score": 350,
-      "difficulty": "需WASM",
+      "combined_score": 340,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "charlie kirk meme",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 39500,
+      "suggested_slug": "charlie-kirk-meme",
+      "root": "meme",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0

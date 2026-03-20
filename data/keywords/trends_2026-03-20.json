@@ -1,11 +1,21 @@
 {
   "date": "2026-03-20",
-  "batch": 7,
-  "total_rising_found": 206,
-  "new_opportunities": 189,
+  "batch": 8,
+  "total_rising_found": 232,
+  "new_opportunities": 215,
   "existing_matches": 17,
   "errors": 0,
   "opportunities": [
+    {
+      "keyword": "watch avatar fire and ash",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 561250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "watch-avatar-fire-and-ash"
+    },
     {
       "keyword": "ai updates",
       "root": "product photo",
@@ -15,6 +25,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "updates"
+    },
+    {
+      "keyword": "avatar fire and ash",
+      "root": "avatar",
+      "prefix": "ai",
+      "trend_score": 249050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-fire-and-ash"
     },
     {
       "keyword": "ryzen ai 7 350",
@@ -167,6 +187,16 @@
       "suggested_slug": "photo-editor"
     },
     {
+      "keyword": "where to watch avatar fire and ash",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 98500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "where-to-watch-avatar-fire-and-ash"
+    },
+    {
       "keyword": "sstv encoder online",
       "root": "encoder",
       "prefix": "online",
@@ -225,6 +255,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "amd-ryzen™-7-pro-350-processor"
+    },
+    {
+      "keyword": "avatar fire and ash streaming",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 78400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-fire-and-ash-streaming"
     },
     {
       "keyword": "union pacific norfolk southern merger",
@@ -287,6 +327,16 @@
       "suggested_slug": "burrito-chipotle-tattoo"
     },
     {
+      "keyword": "avatar fire and ash where to watch",
+      "root": "avatar",
+      "prefix": "free",
+      "trend_score": 67550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-fire-and-ash-where-to-watch"
+    },
+    {
       "keyword": "quickbooks online",
       "root": "portrait",
       "prefix": "online",
@@ -297,6 +347,16 @@
       "suggested_slug": "quickbooks-online"
     },
     {
+      "keyword": "avatar 3 release date",
+      "root": "avatar",
+      "prefix": "ai",
+      "trend_score": 63650,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-3-release-date"
+    },
+    {
       "keyword": "amd ryzen ai z2 extreme processor",
       "root": "processor",
       "prefix": "ai",
@@ -305,6 +365,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "amd-ryzen-z2-extreme-processor"
+    },
+    {
+      "keyword": "avatar fire and ash release date",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 59700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-fire-and-ash-release-date"
     },
     {
       "keyword": "hex decoder",
@@ -357,6 +427,26 @@
       "suggested_slug": "acer-chromebook-plus-514-14”-touchscreen-laptop-with-google-–-intel-core-3-processor-n355-–-1920-x-1200-chrome-os-8gb-ram-–-512gb-ssd"
     },
     {
+      "keyword": "avatar iv ai",
+      "root": "avatar",
+      "prefix": "ai",
+      "trend_score": 53350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-iv-ai"
+    },
+    {
+      "keyword": "why is ai james dooley the best ai heygen avatar",
+      "root": "avatar",
+      "prefix": "ai",
+      "trend_score": 49200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "why-is-james-dooley-the-best-heygen-avatar"
+    },
+    {
       "keyword": "cheater scanner",
       "root": "scanner",
       "prefix": "free",
@@ -367,6 +457,16 @@
       "suggested_slug": "cheater-scanner"
     },
     {
+      "keyword": "avatar fire and ash showtimes",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 48250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-fire-and-ash-showtimes"
+    },
+    {
       "keyword": "website traffic analyzer free",
       "root": "analyzer",
       "prefix": "free",
@@ -375,6 +475,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "website-traffic-analyzer-free"
+    },
+    {
+      "keyword": "avatar 3 box office",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 44850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-3-box-office"
     },
     {
       "keyword": "volkswagen vin decoder",
@@ -497,6 +607,26 @@
       "suggested_slug": "67-coloring-page"
     },
     {
+      "keyword": "zootopia 2",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 34250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "zootopia-2"
+    },
+    {
+      "keyword": "charlie kirk on free speech",
+      "root": "speech",
+      "prefix": "free",
+      "trend_score": 34100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charlie-kirk-on-speech"
+    },
+    {
       "keyword": "ai slop",
       "root": "emoji",
       "prefix": "ai",
@@ -515,6 +645,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "bpm-analyzer"
+    },
+    {
+      "keyword": "avatar fire and ash rent",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 32550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-fire-and-ash-rent"
     },
     {
       "keyword": "warning emoji",
@@ -627,6 +767,16 @@
       "suggested_slug": "67-meme-meaning"
     },
     {
+      "keyword": "where can i watch avatar fire and ash",
+      "root": "avatar",
+      "prefix": "free",
+      "trend_score": 25600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "where-can-i-watch-avatar-fire-and-ash"
+    },
+    {
       "keyword": "hyundai ai translator glasses",
       "root": "translator",
       "prefix": "ai",
@@ -657,6 +807,16 @@
       "suggested_slug": "ada-compliance-checker-accessibe"
     },
     {
+      "keyword": "avatar fire and ash box office",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 24100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-fire-and-ash-box-office"
+    },
+    {
       "keyword": "best photo collage apps",
       "root": "product photo",
       "prefix": "free",
@@ -665,6 +825,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "best-photo-collage-apps"
+    },
+    {
+      "keyword": "ai trend cartoon photo",
+      "root": "cartoon",
+      "prefix": "ai",
+      "trend_score": 23300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "trend-cartoon-photo"
     },
     {
       "keyword": "png to jpg converter",
@@ -747,6 +917,16 @@
       "suggested_slug": "lkq-online"
     },
     {
+      "keyword": "magic the gathering avatar the last airbender",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 21300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "magic-the-gathering-avatar-the-last-airbender"
+    },
+    {
       "keyword": "trade ideas scanner",
       "root": "scanner",
       "prefix": "ai",
@@ -765,6 +945,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "translator-english-to-amharic"
+    },
+    {
+      "keyword": "how long is avatar fire and ash",
+      "root": "avatar",
+      "prefix": "online",
+      "trend_score": 21150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "how-long-is-avatar-fire-and-ash"
     },
     {
       "keyword": "labubu coloring pages",
@@ -787,6 +977,16 @@
       "suggested_slug": "gdtj45-builder"
     },
     {
+      "keyword": "avatar island free ps5",
+      "root": "avatar",
+      "prefix": "free",
+      "trend_score": 20800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "avatar-island-ps5"
+    },
+    {
       "keyword": "winston ai",
       "root": "detector",
       "prefix": "online",
@@ -805,206 +1005,6 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "dice-roller-1-6"
-    },
-    {
-      "keyword": "opencode",
-      "root": "code",
-      "prefix": "ai",
-      "trend_score": 19550,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "opencode"
-    },
-    {
-      "keyword": "font finder",
-      "root": "picker",
-      "prefix": "free",
-      "trend_score": 19300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "font-finder"
-    },
-    {
-      "keyword": "hotels with free breakfast",
-      "root": "gradient",
-      "prefix": "free",
-      "trend_score": 19050,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "hotels-with-breakfast"
-    },
-    {
-      "keyword": "tired emoji",
-      "root": "emoji",
-      "prefix": "ai",
-      "trend_score": 18950,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "tired-emoji"
-    },
-    {
-      "keyword": "2026 rawlings icon",
-      "root": "icon",
-      "prefix": "ai",
-      "trend_score": 18800,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "2026-rawlings-icon"
-    },
-    {
-      "keyword": "first call online",
-      "root": "compressor",
-      "prefix": "online",
-      "trend_score": 18450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "first-call-online"
-    },
-    {
-      "keyword": "online notepad",
-      "root": "translator",
-      "prefix": "online",
-      "trend_score": 18200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "notepad"
-    },
-    {
-      "keyword": "sha256 decoder",
-      "root": "decoder",
-      "prefix": "online",
-      "trend_score": 18100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "sha256-decoder"
-    },
-    {
-      "keyword": "job application meme",
-      "root": "meme",
-      "prefix": "online",
-      "trend_score": 18000,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "job-application-meme"
-    },
-    {
-      "keyword": "online presence management",
-      "root": "pattern",
-      "prefix": "online",
-      "trend_score": 17850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "presence-management"
-    },
-    {
-      "keyword": "tnm watermark",
-      "root": "watermark",
-      "prefix": "ai",
-      "trend_score": 17050,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "tnm-watermark"
-    },
-    {
-      "keyword": "67 kid meme",
-      "root": "meme",
-      "prefix": "ai",
-      "trend_score": 16850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "67-kid-meme"
-    },
-    {
-      "keyword": "builder ai collapse",
-      "root": "builder",
-      "prefix": "ai",
-      "trend_score": 16150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "builder-collapse"
-    },
-    {
-      "keyword": "portrait of a lady on fire where to watch",
-      "root": "portrait",
-      "prefix": "online",
-      "trend_score": 15650,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "portrait-of-a-lady-on-fire-where-to-watch"
-    },
-    {
-      "keyword": "ai christmas photo prompt",
-      "root": "photo",
-      "prefix": "ai",
-      "trend_score": 15400,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "christmas-photo-prompt"
-    },
-    {
-      "keyword": "pdf combiner",
-      "root": "compressor",
-      "prefix": "online",
-      "trend_score": 15350,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "pdf-combiner"
-    },
-    {
-      "keyword": "zen creator ai",
-      "root": "creator",
-      "prefix": "ai",
-      "trend_score": 14850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "zen-creator-ai"
-    },
-    {
-      "keyword": "sybau meme",
-      "root": "meme",
-      "prefix": "ai",
-      "trend_score": 14800,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "sybau-meme"
-    },
-    {
-      "keyword": "ai image editor",
-      "root": "compressor",
-      "prefix": "ai",
-      "trend_score": 14550,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "image-editor"
-    },
-    {
-      "keyword": "download facebook videos online",
-      "root": "watermark",
-      "prefix": "online",
-      "trend_score": 14500,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "download-facebook-videos-online"
     }
   ],
   "existing": [
