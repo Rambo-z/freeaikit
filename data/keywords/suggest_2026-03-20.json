@@ -1,9 +1,9 @@
 {
   "date": "2026-03-20",
-  "batch": 3,
-  "total_suggestions": 1018,
-  "new_opportunities": 998,
-  "existing_matches": 20,
+  "batch": 5,
+  "total_suggestions": 1305,
+  "new_opportunities": 1281,
+  "existing_matches": 24,
   "opportunities": [
     {
       "keyword": "free compression tool online",
@@ -385,7 +385,7 @@
     },
     {
       "keyword": "best generator converter",
-      "root": "converter",
+      "root": "encoder",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-20",
@@ -8986,6 +8986,2553 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "detective"
+    },
+    {
+      "keyword": "free format tool",
+      "root": "beautifier",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "format"
+    },
+    {
+      "keyword": "free format tool fat32",
+      "root": "beautifier",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "format-fat32"
+    },
+    {
+      "keyword": "free format tool windows",
+      "root": "beautifier",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "format-windows"
+    },
+    {
+      "keyword": "free format tool for usb",
+      "root": "beautifier",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "format-for-usb"
+    },
+    {
+      "keyword": "free formatter tool",
+      "root": "beautifier",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "formatter"
+    },
+    {
+      "keyword": "online ai beautifier",
+      "root": "beautifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautifier"
+    },
+    {
+      "keyword": "beautiful ai free online",
+      "root": "beautifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautiful-online"
+    },
+    {
+      "keyword": "ai formatter online",
+      "root": "beautifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "formatter-online"
+    },
+    {
+      "keyword": "ai face beautifier online free",
+      "root": "beautifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "face-beautifier-free"
+    },
+    {
+      "keyword": "ai photo beautifier online free",
+      "root": "beautifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-beautifier-free"
+    },
+    {
+      "keyword": "ai image beautifier online",
+      "root": "beautifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-beautifier-online"
+    },
+    {
+      "keyword": "ai beautify image online free",
+      "root": "beautifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautify-image-free"
+    },
+    {
+      "keyword": "ai beautify picture online",
+      "root": "beautifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautify-picture-online"
+    },
+    {
+      "keyword": "ai beautify face online",
+      "root": "beautifier",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautify-face-online"
+    },
+    {
+      "keyword": "free obfuscation tools for .net",
+      "root": "obfuscator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscations-for-.net"
+    },
+    {
+      "keyword": "free obfuscation tool",
+      "root": "obfuscator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscation"
+    },
+    {
+      "keyword": "free coding tools obfuscator",
+      "root": "obfuscator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "codings-obfuscator"
+    },
+    {
+      "keyword": "free converter tool",
+      "root": "encoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "converter"
+    },
+    {
+      "keyword": "free online image steganography decoder tool",
+      "root": "encoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-steganography-decoder"
+    },
+    {
+      "keyword": "free media encoder alternative",
+      "root": "encoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "media-encoder-alternative"
+    },
+    {
+      "keyword": "encoder cost",
+      "root": "encoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-cost"
+    },
+    {
+      "keyword": "encoder software is not used to",
+      "root": "encoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-software-is-not-used-to"
+    },
+    {
+      "keyword": "ai coder online",
+      "root": "encoder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coder-online"
+    },
+    {
+      "keyword": "ai decoder online",
+      "root": "encoder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-online"
+    },
+    {
+      "keyword": "ai coder online free",
+      "root": "encoder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "coder-free"
+    },
+    {
+      "keyword": "character encoding converter free",
+      "root": "encoder",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "character-encoding-converter-free"
+    },
+    {
+      "keyword": "encoder rate",
+      "root": "encoder",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-rate"
+    },
+    {
+      "keyword": "encoder not working",
+      "root": "encoder",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-not-working"
+    },
+    {
+      "keyword": "encoder used for",
+      "root": "encoder",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-used-for"
+    },
+    {
+      "keyword": "fastest encoder obs",
+      "root": "encoder",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "fastest-encoder-obs"
+    },
+    {
+      "keyword": "free decryption tool online",
+      "root": "decoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decryption-online"
+    },
+    {
+      "keyword": "free vin decoder tool",
+      "root": "decoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vin-decoder"
+    },
+    {
+      "keyword": "free gender decoder tool",
+      "root": "decoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gender-decoder"
+    },
+    {
+      "keyword": "free online vin decoder tool",
+      "root": "decoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vin-decoder"
+    },
+    {
+      "keyword": "free decryption tool for ransomware victims",
+      "root": "decoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decryption-for-ransomware-victims"
+    },
+    {
+      "keyword": "how can i get free tools",
+      "root": "decoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "how-can-i-gets"
+    },
+    {
+      "keyword": "free to air decoder settings",
+      "root": "decoder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "to-air-decoder-settings"
+    },
+    {
+      "keyword": "aes decryption online",
+      "root": "decoder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "aes-decryption-online"
+    },
+    {
+      "keyword": "ai body language decoder online free",
+      "root": "decoder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "body-language-decoder-free"
+    },
+    {
+      "keyword": "codec converter free",
+      "root": "decoder",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "codec-converter-free"
+    },
+    {
+      "keyword": "decoder adapter price",
+      "root": "decoder",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-adapter-price"
+    },
+    {
+      "keyword": "free hash calculator",
+      "root": "hash",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash-calculator"
+    },
+    {
+      "keyword": "free file hash tool",
+      "root": "hash",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "file-hash"
+    },
+    {
+      "keyword": "free online hash tool",
+      "root": "hash",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash"
+    },
+    {
+      "keyword": "hash tool free download",
+      "root": "hash",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash-download"
+    },
+    {
+      "keyword": "tool to make hash browns",
+      "root": "hash",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "tool-to-make-hash-browns"
+    },
+    {
+      "keyword": "hash value of application",
+      "root": "hash",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash-value-of-application"
+    },
+    {
+      "keyword": "hash calculator free download",
+      "root": "hash",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash-calculator-download"
+    },
+    {
+      "keyword": "hash calculator free",
+      "root": "hash",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash-calculator-free"
+    },
+    {
+      "keyword": "free hash converter",
+      "root": "hash",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash-converter"
+    },
+    {
+      "keyword": "hash value to text converter",
+      "root": "hash",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash-value-to-text-converter"
+    },
+    {
+      "keyword": "hash code to text converter online",
+      "root": "hash",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash-code-to-text-converter-online"
+    },
+    {
+      "keyword": "hash rate conversion",
+      "root": "hash",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash-rate-conversion"
+    },
+    {
+      "keyword": "which country has the best hash",
+      "root": "hash",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "which-country-has-the-hash"
+    },
+    {
+      "keyword": "where does the best hash come from",
+      "root": "hash",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "where-does-the-hash-come-from"
+    },
+    {
+      "keyword": "free translation tools online",
+      "root": "translator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translations-online"
+    },
+    {
+      "keyword": "free translation tool for pdf",
+      "root": "translator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translation-for-pdf"
+    },
+    {
+      "keyword": "free translation tools download",
+      "root": "translator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translations-download"
+    },
+    {
+      "keyword": "free translation tools for documents",
+      "root": "translator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translations-for-documents"
+    },
+    {
+      "keyword": "free ai translator tool",
+      "root": "translator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator"
+    },
+    {
+      "keyword": "free video translator tool",
+      "root": "translator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "video-translator"
+    },
+    {
+      "keyword": "best free translation tool",
+      "root": "translator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translation"
+    },
+    {
+      "keyword": "free xliff translation tool",
+      "root": "translator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "xliff-translation"
+    },
+    {
+      "keyword": "ai translator online free",
+      "root": "translator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-free"
+    },
+    {
+      "keyword": "ai translator online google translate",
+      "root": "translator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-google-translate"
+    },
+    {
+      "keyword": "ai translator online video",
+      "root": "translator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-video"
+    },
+    {
+      "keyword": "ai translator online meeting",
+      "root": "translator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-meeting"
+    },
+    {
+      "keyword": "ai translator online pdf",
+      "root": "translator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-pdf"
+    },
+    {
+      "keyword": "ai translator online free english",
+      "root": "translator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-english"
+    },
+    {
+      "keyword": "ai translator online voice",
+      "root": "translator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-voice"
+    },
+    {
+      "keyword": "ai translator online free pdf",
+      "root": "translator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-pdf"
+    },
+    {
+      "keyword": "translator tool free",
+      "root": "translator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-free"
+    },
+    {
+      "keyword": "translate converter free",
+      "root": "translator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translate-converter-free"
+    },
+    {
+      "keyword": "is deepl translator free",
+      "root": "translator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "is-deepl-translator-free"
+    },
+    {
+      "keyword": "how much does a translator cost",
+      "root": "translator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "how-much-does-a-translator-cost"
+    },
+    {
+      "keyword": "translator contact number",
+      "root": "translator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-contact-number"
+    },
+    {
+      "keyword": "how much does a translator charge per hour",
+      "root": "translator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "how-much-does-a-translator-charge-per-hour"
+    },
+    {
+      "keyword": "best language generator",
+      "root": "translator",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "language-generator"
+    },
+    {
+      "keyword": "best ai subtitle generator translator",
+      "root": "translator",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "subtitle-generator-translator"
+    },
+    {
+      "keyword": "free chart tools",
+      "root": "chart",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charts"
+    },
+    {
+      "keyword": "free chart tool online",
+      "root": "chart",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-online"
+    },
+    {
+      "keyword": "free charting tools for stocks",
+      "root": "chart",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chartings-for-stocks"
+    },
+    {
+      "keyword": "free charting tools for technical analysis",
+      "root": "chart",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chartings-for-technical-analysis"
+    },
+    {
+      "keyword": "free charting tools for crypto",
+      "root": "chart",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chartings-for-crypto"
+    },
+    {
+      "keyword": "free diagram tool",
+      "root": "chart",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram"
+    },
+    {
+      "keyword": "birth chart tool",
+      "root": "chart",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "birth-chart"
+    },
+    {
+      "keyword": "free graph tool",
+      "root": "chart",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph"
+    },
+    {
+      "keyword": "free diagram tool online",
+      "root": "chart",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-online"
+    },
+    {
+      "keyword": "free diagram tool for mobile",
+      "root": "chart",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-for-mobile"
+    },
+    {
+      "keyword": "ai chart online free",
+      "root": "chart",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-free"
+    },
+    {
+      "keyword": "ai chart online pdf",
+      "root": "chart",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-pdf"
+    },
+    {
+      "keyword": "ai chart online generator",
+      "root": "chart",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-generator"
+    },
+    {
+      "keyword": "ai chat online free download",
+      "root": "chart",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chat-download"
+    },
+    {
+      "keyword": "ai chart online google",
+      "root": "chart",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-google"
+    },
+    {
+      "keyword": "chart ai online app",
+      "root": "chart",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-app"
+    },
+    {
+      "keyword": "ai online chart maker",
+      "root": "chart",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-maker"
+    },
+    {
+      "keyword": "ai diagrams online",
+      "root": "chart",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagrams-online"
+    },
+    {
+      "keyword": "ai chart analysis online",
+      "root": "chart",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-analysis-online"
+    },
+    {
+      "keyword": "conversion chart free printable",
+      "root": "chart",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "conversion-chart-printable"
+    },
+    {
+      "keyword": "conversion chart free",
+      "root": "chart",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "conversion-chart-free"
+    },
+    {
+      "keyword": "text to chart converter free",
+      "root": "chart",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-to-chart-converter-free"
+    },
+    {
+      "keyword": "image to chart converter free",
+      "root": "chart",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-to-chart-converter-free"
+    },
+    {
+      "keyword": "table to chart converter free",
+      "root": "chart",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "table-to-chart-converter-free"
+    },
+    {
+      "keyword": "best chart generator ai",
+      "root": "chart",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-generator-ai"
+    },
+    {
+      "keyword": "best diagram generator ai",
+      "root": "chart",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator-ai"
+    },
+    {
+      "keyword": "best graphic generator ai",
+      "root": "chart",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-generator-ai"
+    },
+    {
+      "keyword": "best graph generator ai",
+      "root": "chart",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph-generator-ai"
+    },
+    {
+      "keyword": "best graph generator",
+      "root": "chart",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graph-generator"
+    },
+    {
+      "keyword": "best diagram generator",
+      "root": "chart",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator"
+    },
+    {
+      "keyword": "best graphic generator",
+      "root": "chart",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "graphic-generator"
+    },
+    {
+      "keyword": "best diagram generator ai free",
+      "root": "chart",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator-free"
+    },
+    {
+      "keyword": "free diagram tool like visio",
+      "root": "diagram",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-like-visio"
+    },
+    {
+      "keyword": "free diagram tool download",
+      "root": "diagram",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-download"
+    },
+    {
+      "keyword": "free diagram tool for mac",
+      "root": "diagram",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-for-mac"
+    },
+    {
+      "keyword": "free diagram tool windows",
+      "root": "diagram",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-windows"
+    },
+    {
+      "keyword": "free diagram tool ai",
+      "root": "diagram",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-ai"
+    },
+    {
+      "keyword": "free drawing tool",
+      "root": "diagram",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "drawing"
+    },
+    {
+      "keyword": "free flowchart tool",
+      "root": "diagram",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "flowchart"
+    },
+    {
+      "keyword": "ai diagram online free",
+      "root": "diagram",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-free"
+    },
+    {
+      "keyword": "ai online diagram maker",
+      "root": "diagram",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-maker"
+    },
+    {
+      "keyword": "ai charts online",
+      "root": "diagram",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charts-online"
+    },
+    {
+      "keyword": "ai diagram generator online free",
+      "root": "diagram",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator-free"
+    },
+    {
+      "keyword": "ai flow diagram online",
+      "root": "diagram",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "flow-diagram-online"
+    },
+    {
+      "keyword": "create ai diagram online",
+      "root": "diagram",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "create-diagram-online"
+    },
+    {
+      "keyword": "ai architecture diagram online",
+      "root": "diagram",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "architecture-diagram-online"
+    },
+    {
+      "keyword": "ai sequence diagram online",
+      "root": "diagram",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sequence-diagram-online"
+    },
+    {
+      "keyword": "ai uml diagram online",
+      "root": "diagram",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "uml-diagram-online"
+    },
+    {
+      "keyword": "diagram generator free",
+      "root": "diagram",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator-free"
+    },
+    {
+      "keyword": "diagram generator free ai",
+      "root": "diagram",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator-ai"
+    },
+    {
+      "keyword": "diagram generator free online",
+      "root": "diagram",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator-online"
+    },
+    {
+      "keyword": "image to diagram converter free",
+      "root": "diagram",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-to-diagram-converter-free"
+    },
+    {
+      "keyword": "pdf to diagram converter free",
+      "root": "diagram",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "pdf-to-diagram-converter-free"
+    },
+    {
+      "keyword": "code to diagram converter free",
+      "root": "diagram",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "code-to-diagram-converter-free"
+    },
+    {
+      "keyword": "text to diagram converter free",
+      "root": "diagram",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-to-diagram-converter-free"
+    },
+    {
+      "keyword": "best chart generator",
+      "root": "diagram",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-generator"
+    },
+    {
+      "keyword": "best sketch generator ai",
+      "root": "diagram",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sketch-generator-ai"
+    },
+    {
+      "keyword": "ai obfuscator",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator"
+    },
+    {
+      "keyword": "ai text obfuscator",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-obfuscator"
+    },
+    {
+      "keyword": "ai image obfuscator",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-obfuscator"
+    },
+    {
+      "keyword": "ai code obfuscator",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "code-obfuscator"
+    },
+    {
+      "keyword": "ai prompt obfuscator",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "prompt-obfuscator"
+    },
+    {
+      "keyword": "ai detector obfuscator",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "detector-obfuscator"
+    },
+    {
+      "keyword": "ai js obfuscator",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "js-obfuscator"
+    },
+    {
+      "keyword": "ai lua obfuscator",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "lua-obfuscator"
+    },
+    {
+      "keyword": "free obfuscator",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator"
+    },
+    {
+      "keyword": "free obfuscator c#",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator-c#"
+    },
+    {
+      "keyword": "free obfuscator roblox",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator-roblox"
+    },
+    {
+      "keyword": "free obfuscator javascript",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator-javascript"
+    },
+    {
+      "keyword": "free obfuscator java",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator-java"
+    },
+    {
+      "keyword": "free obfuscator .net",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator-.net"
+    },
+    {
+      "keyword": "free obfuscator online",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator-online"
+    },
+    {
+      "keyword": "free obfuscator python",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator-python"
+    },
+    {
+      "keyword": "obfuscator free unity",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator-unity"
+    },
+    {
+      "keyword": "obfuscator free download",
+      "root": "obfuscator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "obfuscator-download"
+    },
+    {
+      "keyword": "ai decoder",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder"
+    },
+    {
+      "keyword": "ai decoder free",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-free"
+    },
+    {
+      "keyword": "ai decoded bbc",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoded-bbc"
+    },
+    {
+      "keyword": "ai decoded dead sea scrolls",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoded-dead-sea-scrolls"
+    },
+    {
+      "keyword": "ai decodes crow language",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decodes-crow-language"
+    },
+    {
+      "keyword": "ai decoded rosetta stone",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoded-rosetta-stone"
+    },
+    {
+      "keyword": "ai decode crow sounds",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decode-crow-sounds"
+    },
+    {
+      "keyword": "ai decoded crow speech",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoded-crow-speech"
+    },
+    {
+      "keyword": "ai decoded sumerian tablets",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoded-sumerian-tablets"
+    },
+    {
+      "keyword": "ai decodes crows",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decodes-crows"
+    },
+    {
+      "keyword": "free decoder",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder"
+    },
+    {
+      "keyword": "free decoder wheel printable",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-wheel-printable"
+    },
+    {
+      "keyword": "free decoder at post office",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-at-post-office"
+    },
+    {
+      "keyword": "free decoder channels",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-channels"
+    },
+    {
+      "keyword": "free decoder in nigeria",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-in-nigeria"
+    },
+    {
+      "keyword": "free decoder online",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-online"
+    },
+    {
+      "keyword": "free decoder from post office whatsapp numbers",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-from-post-office-whatsapp-numbers"
+    },
+    {
+      "keyword": "free decoder online application",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-application"
+    },
+    {
+      "keyword": "free decoder from post office 2025",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-from-post-office-2025"
+    },
+    {
+      "keyword": "free decoder from post office 2023",
+      "root": "decoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "decoder-from-post-office-2023"
+    },
+    {
+      "keyword": "ai beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautifier"
+    },
+    {
+      "keyword": "ai beautifier free",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautifier-free"
+    },
+    {
+      "keyword": "ai beautifier face",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautifier-face"
+    },
+    {
+      "keyword": "ai photo beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-beautifier"
+    },
+    {
+      "keyword": "ai ppt beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ppt-beautifier"
+    },
+    {
+      "keyword": "ai text beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-beautifier"
+    },
+    {
+      "keyword": "ai image beautifier free",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-beautifier-free"
+    },
+    {
+      "keyword": "ai slide beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "slide-beautifier"
+    },
+    {
+      "keyword": "ai document beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "document-beautifier"
+    },
+    {
+      "keyword": "free beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautifier"
+    },
+    {
+      "keyword": "free beautify app",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautify-app"
+    },
+    {
+      "keyword": "free photo beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-beautifier"
+    },
+    {
+      "keyword": "free sql beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sql-beautifier"
+    },
+    {
+      "keyword": "free ppt beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ppt-beautifier"
+    },
+    {
+      "keyword": "free resume beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "resume-beautifier"
+    },
+    {
+      "keyword": "free photo beautifier online",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "photo-beautifier-online"
+    },
+    {
+      "keyword": "free ai beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "beautifier"
+    },
+    {
+      "keyword": "free html beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "html-beautifier"
+    },
+    {
+      "keyword": "free json beautifier",
+      "root": "beautifier",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "json-beautifier"
+    },
+    {
+      "keyword": "ai chart analyzer",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-analyzer"
+    },
+    {
+      "keyword": "ai chart",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart"
+    },
+    {
+      "keyword": "ai chart analysis",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-analysis"
+    },
+    {
+      "keyword": "ai chart generator",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-generator"
+    },
+    {
+      "keyword": "ai chart maker",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-maker"
+    },
+    {
+      "keyword": "ai chart reader",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-reader"
+    },
+    {
+      "keyword": "ai charting software",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charting-software"
+    },
+    {
+      "keyword": "ai charter",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charter"
+    },
+    {
+      "keyword": "ai charting for nurses",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charting-for-nurses"
+    },
+    {
+      "keyword": "ai chart creator",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-creator"
+    },
+    {
+      "keyword": "free chart maker",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-maker"
+    },
+    {
+      "keyword": "free chart",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart"
+    },
+    {
+      "keyword": "free chart astrology",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-astrology"
+    },
+    {
+      "keyword": "free chart templates",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-templates"
+    },
+    {
+      "keyword": "free charting software",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charting-software"
+    },
+    {
+      "keyword": "free charts for stocks",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charts-for-stocks"
+    },
+    {
+      "keyword": "free chart reading",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "chart-reading"
+    },
+    {
+      "keyword": "free charter school",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charter-school"
+    },
+    {
+      "keyword": "free charting website",
+      "root": "chart",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "charting-website"
+    },
+    {
+      "keyword": "ai hashtags",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hashtags"
+    },
+    {
+      "keyword": "ai hashtag generator",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hashtag-generator"
+    },
+    {
+      "keyword": "ai hashimoto height",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hashimoto-height"
+    },
+    {
+      "keyword": "ai hashimoto age",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hashimoto-age"
+    },
+    {
+      "keyword": "al hashimi",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "al-hashimi"
+    },
+    {
+      "keyword": "ai hoshino death",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hoshino-death"
+    },
+    {
+      "keyword": "ai hoshino eyes",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hoshino-eyes"
+    },
+    {
+      "keyword": "ai hoshino husband",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hoshino-husband"
+    },
+    {
+      "keyword": "free hashimoto diet plan",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hashimoto-diet-plan"
+    },
+    {
+      "keyword": "free hashtag generator",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hashtag-generator"
+    },
+    {
+      "keyword": "free hashimoto diet",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hashimoto-diet"
+    },
+    {
+      "keyword": "free hashimoto detox diet",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hashimoto-detox-diet"
+    },
+    {
+      "keyword": "free hashtag generator for wedding",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hashtag-generator-for-wedding"
+    },
+    {
+      "keyword": "free hashtag checker",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hashtag-checker"
+    },
+    {
+      "keyword": "free hash checker",
+      "root": "hash",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hash-checker"
+    },
+    {
+      "keyword": "ai encoder",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder"
+    },
+    {
+      "keyword": "ai encoder decoder",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-decoder"
+    },
+    {
+      "keyword": "ai encoder decoder model",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-decoder-model"
+    },
+    {
+      "keyword": "ai encoder model",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-model"
+    },
+    {
+      "keyword": "ai video encoder",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "video-encoder"
+    },
+    {
+      "keyword": "ai image encoder",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "image-encoder"
+    },
+    {
+      "keyword": "ai text encoder",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "text-encoder"
+    },
+    {
+      "keyword": "ai media encoder pro",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "media-encoder-pro"
+    },
+    {
+      "keyword": "generative ai encoder decoder",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "generative-encoder-decoder"
+    },
+    {
+      "keyword": "free encoder",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder"
+    },
+    {
+      "keyword": "free encoder pack",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-pack"
+    },
+    {
+      "keyword": "free encoder for medical coding",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-for-medical-coding"
+    },
+    {
+      "keyword": "free encoder software",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-software"
+    },
+    {
+      "keyword": "free encoder for live streaming",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-for-live-streaming"
+    },
+    {
+      "keyword": "free encoder online",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-online"
+    },
+    {
+      "keyword": "free encoder codesys",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-codesys"
+    },
+    {
+      "keyword": "free encoder earn money",
+      "root": "encoder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "encoder-earn-money"
+    },
+    {
+      "keyword": "ai diagram generator",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator"
+    },
+    {
+      "keyword": "ai diagram",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram"
+    },
+    {
+      "keyword": "ai diagram maker",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-maker"
+    },
+    {
+      "keyword": "ai diagramming tool",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagramming"
+    },
+    {
+      "keyword": "ai diagram creator",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-creator"
+    },
+    {
+      "keyword": "ai diagram generator from text",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator-from-text"
+    },
+    {
+      "keyword": "ai diagram generator from image",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator-from-image"
+    },
+    {
+      "keyword": "ai diagram generator free",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator-free"
+    },
+    {
+      "keyword": "ai diagram maker free",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-maker-free"
+    },
+    {
+      "keyword": "ai diagram generator from text free",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-generator-from-text-free"
+    },
+    {
+      "keyword": "free diagram maker",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-maker"
+    },
+    {
+      "keyword": "free diagramming tools",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagrammings"
+    },
+    {
+      "keyword": "free diagram software",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-software"
+    },
+    {
+      "keyword": "free diagram",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram"
+    },
+    {
+      "keyword": "free diagram maker online",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-maker-online"
+    },
+    {
+      "keyword": "free diagram app",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-app"
+    },
+    {
+      "keyword": "free diagram physics",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-physics"
+    },
+    {
+      "keyword": "free diagram builder",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-builder"
+    },
+    {
+      "keyword": "free diagram maker ai",
+      "root": "diagram",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "diagram-maker-ai"
+    },
+    {
+      "keyword": "ai translator",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator"
+    },
+    {
+      "keyword": "ai translator earbuds",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-earbuds"
+    },
+    {
+      "keyword": "ai translator app",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-app"
+    },
+    {
+      "keyword": "ai translator device",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-device"
+    },
+    {
+      "keyword": "ai translator free",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-free"
+    },
+    {
+      "keyword": "ai translator english to spanish",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-english-to-spanish"
+    },
+    {
+      "keyword": "ai translator glasses",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-glasses"
+    },
+    {
+      "keyword": "ai translator voice",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-voice"
+    },
+    {
+      "keyword": "ai translator video",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-video"
+    },
+    {
+      "keyword": "ai translator headphones",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-headphones"
+    },
+    {
+      "keyword": "free translator",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator"
+    },
+    {
+      "keyword": "free translator app",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-app"
+    },
+    {
+      "keyword": "free translator english to spanish",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-english-to-spanish"
+    },
+    {
+      "keyword": "free translator app for iphone",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-app-for-iphone"
+    },
+    {
+      "keyword": "free translator app for android",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-app-for-android"
+    },
+    {
+      "keyword": "free translator bot for discord",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-bot-for-discord"
+    },
+    {
+      "keyword": "free translator online",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-online"
+    },
+    {
+      "keyword": "free translator app english to spanish",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-app-english-to-spanish"
+    },
+    {
+      "keyword": "free translator for discord",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-for-discord"
+    },
+    {
+      "keyword": "free translator app for earbuds",
+      "root": "translator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-app-for-earbuds"
     }
   ],
   "existing": [

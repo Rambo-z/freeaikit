@@ -1,10 +1,10 @@
 {
   "date": "2026-03-20",
   "stats": {
-    "trends_total": 234,
-    "suggest_total": 1018
+    "trends_total": 194,
+    "suggest_total": 1305
   },
-  "total_opportunities": 1094,
+  "total_opportunities": 1377,
   "top_50": [
     {
       "keyword": "free photo editing software",
@@ -249,16 +249,16 @@
       "competition": 0
     },
     {
-      "keyword": "aiseesoft free watermark remover online",
+      "keyword": "sstv encoder online",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 5400,
-      "suggested_slug": "aiseesoft-watermark-remover-online",
-      "root": "watermark",
+      "trend_score": 95450,
+      "suggested_slug": "sstv-encoder-online",
+      "root": "encoder",
       "already_have": false,
-      "combined_score": 410,
-      "difficulty": "需WASM",
+      "combined_score": 420,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -339,6 +339,21 @@
       "competition": 0
     },
     {
+      "keyword": "hex decoder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 58550,
+      "suggested_slug": "hex-decoder",
+      "root": "decoder",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "cheater scanner",
       "sources": [
         "trends_rising"
@@ -349,6 +364,21 @@
       "already_have": false,
       "combined_score": 390,
       "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "volkswagen vin decoder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 43400,
+      "suggested_slug": "volkswagen-vin-decoder",
+      "root": "decoder",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -429,6 +459,21 @@
       "competition": 0
     },
     {
+      "keyword": "sha256 decoder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 18100,
+      "suggested_slug": "sha256-decoder",
+      "root": "decoder",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "builder ai collapse",
       "sources": [
         "trends_rising"
@@ -504,6 +549,21 @@
       "competition": 0
     },
     {
+      "keyword": "ai translator ez",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 13750,
+      "suggested_slug": "translator-ez",
+      "root": "translator",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "tax calculator 2026",
       "sources": [
         "trends_rising"
@@ -564,28 +624,13 @@
       "competition": 0
     },
     {
-      "keyword": "proofademic ai detector",
+      "keyword": "gibberlink translator",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 7200,
-      "suggested_slug": "proofademic-detector",
-      "root": "detector",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "brainrot link scanner",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 5050,
-      "suggested_slug": "brainrot-link-scanner",
-      "root": "scanner",
+      "trend_score": 11750,
+      "suggested_slug": "gibberlink-translator",
+      "root": "translator",
       "already_have": false,
       "combined_score": 390,
       "difficulty": "",
@@ -631,6 +676,21 @@
       "trend_score": 29900,
       "suggested_slug": "casino-promo-codes-for-existing-customers-casino-analyzer",
       "root": "analyzer",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "online translator english to amharic",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 21200,
+      "suggested_slug": "translator-english-to-amharic",
+      "root": "translator",
       "already_have": false,
       "combined_score": 380,
       "difficulty": "",
@@ -694,66 +754,6 @@
       "already_have": false,
       "combined_score": 370,
       "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ada compliance checker accessibe",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 24350,
-      "suggested_slug": "ada-compliance-checker-accessibe",
-      "root": "checker",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "png to jpg converter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 23250,
-      "suggested_slug": "png-to-jpg-converter",
-      "root": "resizer",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "chess online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 22300,
-      "suggested_slug": "chess-online",
-      "root": "detector",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "f1 25 ai calculator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 13550,
-      "suggested_slug": "f1-25-calculator",
-      "root": "calculator",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0

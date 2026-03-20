@@ -1,9 +1,9 @@
 {
   "date": "2026-03-20",
-  "batch": 3,
-  "total_rising_found": 234,
-  "new_opportunities": 220,
-  "existing_matches": 14,
+  "batch": 5,
+  "total_rising_found": 194,
+  "new_opportunities": 179,
+  "existing_matches": 15,
   "errors": 0,
   "opportunities": [
     {
@@ -157,6 +157,16 @@
       "suggested_slug": "photo-editor"
     },
     {
+      "keyword": "sstv encoder online",
+      "root": "encoder",
+      "prefix": "online",
+      "trend_score": 95450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sstv-encoder-online"
+    },
+    {
       "keyword": "amd ryzen ai 5 340",
       "root": "processor",
       "prefix": "ai",
@@ -257,6 +267,16 @@
       "suggested_slug": "amd-ryzen-z2-extreme-processor"
     },
     {
+      "keyword": "hex decoder",
+      "root": "decoder",
+      "prefix": "ai",
+      "trend_score": 58550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hex-decoder"
+    },
+    {
       "keyword": "gta online mission creator",
       "root": "creator",
       "prefix": "online",
@@ -295,6 +315,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "website-traffic-analyzer-free"
+    },
+    {
+      "keyword": "volkswagen vin decoder",
+      "root": "decoder",
+      "prefix": "free",
+      "trend_score": 43400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "volkswagen-vin-decoder"
     },
     {
       "keyword": "ai humanizer",
@@ -377,6 +407,16 @@
       "suggested_slug": "split-pdf-free"
     },
     {
+      "keyword": "ram price chart",
+      "root": "chart",
+      "prefix": "ai",
+      "trend_score": 30550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ram-price-chart"
+    },
+    {
       "keyword": "free casino promo codes for existing customers casino analyzer",
       "root": "analyzer",
       "prefix": "free",
@@ -415,6 +455,16 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "framework-laptop"
+    },
+    {
+      "keyword": "hyundai ai translator glasses",
+      "root": "translator",
+      "prefix": "ai",
+      "trend_score": 25550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "hyundtranslator-glasses"
     },
     {
       "keyword": "ada compliance checker accessibe",
@@ -517,6 +567,16 @@
       "suggested_slug": "trade-ideas-scanner"
     },
     {
+      "keyword": "online translator english to amharic",
+      "root": "translator",
+      "prefix": "online",
+      "trend_score": 21200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-english-to-amharic"
+    },
+    {
       "keyword": "gdtj45 builder",
       "root": "builder",
       "prefix": "online",
@@ -555,6 +615,26 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "first-call-online"
+    },
+    {
+      "keyword": "online notepad",
+      "root": "translator",
+      "prefix": "online",
+      "trend_score": 18200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "notepad"
+    },
+    {
+      "keyword": "sha256 decoder",
+      "root": "decoder",
+      "prefix": "online",
+      "trend_score": 18100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "sha256-decoder"
     },
     {
       "keyword": "tnm watermark",
@@ -677,6 +757,16 @@
       "suggested_slug": "soundcloud-downloader"
     },
     {
+      "keyword": "ai translator ez",
+      "root": "translator",
+      "prefix": "free",
+      "trend_score": 13750,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "translator-ez"
+    },
+    {
       "keyword": "f1 25 ai calculator",
       "root": "calculator",
       "prefix": "ai",
@@ -745,6 +835,46 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "fps-tester"
+    },
+    {
+      "keyword": "gibberlink translator",
+      "root": "translator",
+      "prefix": "ai",
+      "trend_score": 11750,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "gibberlink-translator"
+    },
+    {
+      "keyword": "mermaid diagram online",
+      "root": "diagram",
+      "prefix": "ai",
+      "trend_score": 11700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "mermaid-diagram-online"
+    },
+    {
+      "keyword": "vw parts online",
+      "root": "diagram",
+      "prefix": "online",
+      "trend_score": 11400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "vw-parts-online"
+    },
+    {
+      "keyword": "which diagram can be used to prove abc dec using similarity transformations",
+      "root": "diagram",
+      "prefix": "online",
+      "trend_score": 10700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "which-diagram-can-be-used-to-prove-abc-dec-using-similarity-transformations"
     },
     {
       "keyword": "trim video",
@@ -837,6 +967,26 @@
       "suggested_slug": "ebook-to-audio-converter"
     },
     {
+      "keyword": "consort diagram",
+      "root": "diagram",
+      "prefix": "online",
+      "trend_score": 8250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "consort-diagram"
+    },
+    {
+      "keyword": "ram prices chart",
+      "root": "chart",
+      "prefix": "ai",
+      "trend_score": 8200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": false,
+      "suggested_slug": "ram-prices-chart"
+    },
+    {
       "keyword": "candy cane ai picture",
       "root": "picture",
       "prefix": "ai",
@@ -855,156 +1005,6 @@
       "discovered": "2026-03-20",
       "already_have": false,
       "suggested_slug": "tax-calculator-2026"
-    },
-    {
-      "keyword": "proofademic ai detector",
-      "root": "detector",
-      "prefix": "ai",
-      "trend_score": 7200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "proofademic-detector"
-    },
-    {
-      "keyword": "unwatermark",
-      "root": "watermark",
-      "prefix": "free",
-      "trend_score": 6950,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "unwatermark"
-    },
-    {
-      "keyword": "digital magic wand's detector",
-      "root": "detector",
-      "prefix": "free",
-      "trend_score": 5800,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "digital-magic-wand's-detector"
-    },
-    {
-      "keyword": "aiseesoft free watermark remover online",
-      "root": "watermark",
-      "prefix": "free",
-      "trend_score": 5400,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "aiseesoft-watermark-remover-online"
-    },
-    {
-      "keyword": "description of an online image nyt",
-      "root": "builder",
-      "prefix": "online",
-      "trend_score": 5350,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "description-of-an-image-nyt"
-    },
-    {
-      "keyword": "unaimytext",
-      "root": "detector",
-      "prefix": "free",
-      "trend_score": 5050,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "unaimytext"
-    },
-    {
-      "keyword": "brainrot link scanner",
-      "root": "scanner",
-      "prefix": "free",
-      "trend_score": 5050,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "brainrot-link-scanner"
-    },
-    {
-      "keyword": "hotels with free breakfast",
-      "root": "photo",
-      "prefix": "free",
-      "trend_score": 4550,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "hotels-with-breakfast"
-    },
-    {
-      "keyword": "scan id card online free",
-      "root": "scanner",
-      "prefix": "online",
-      "trend_score": 4500,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "scan-id-card-free"
-    },
-    {
-      "keyword": "google color picker",
-      "root": "calculator",
-      "prefix": "ai",
-      "trend_score": 4400,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "google-color-picker"
-    },
-    {
-      "keyword": "convert house plans to 3d online free",
-      "root": "convert",
-      "prefix": "online",
-      "trend_score": 4300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "convert-house-plans-to-3d-free"
-    },
-    {
-      "keyword": "best free email clients",
-      "root": "merger",
-      "prefix": "free",
-      "trend_score": 4300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "best-email-clients"
-    },
-    {
-      "keyword": "curveball and splitter",
-      "root": "splitter",
-      "prefix": "online",
-      "trend_score": 4300,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "curveball-and-splitter"
-    },
-    {
-      "keyword": "claude code free",
-      "root": "code",
-      "prefix": "free",
-      "trend_score": 4250,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "claude-code-free"
-    },
-    {
-      "keyword": "best free antivirus software",
-      "root": "photo",
-      "prefix": "free",
-      "trend_score": 3850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-20",
-      "already_have": false,
-      "suggested_slug": "best-antivirus-software"
     }
   ],
   "existing": [
@@ -1147,6 +1147,16 @@
       "discovered": "2026-03-20",
       "already_have": true,
       "suggested_slug": "image-compressor"
+    },
+    {
+      "keyword": "encoder",
+      "root": "decoder",
+      "prefix": "online",
+      "trend_score": 40,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-20",
+      "already_have": true,
+      "suggested_slug": "encoder"
     }
   ],
   "error_log": []
