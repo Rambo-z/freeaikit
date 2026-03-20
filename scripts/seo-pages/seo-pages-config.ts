@@ -1,0 +1,378 @@
+/**
+ * SEO Landing Pages Configuration
+ *
+ * Each entry creates a new route that reuses an existing tool's Client component
+ * but targets a different high-volume keyword.
+ */
+
+export interface SeoPageConfig {
+  /** URL slug for the new page (e.g., "compress-pdf") */
+  slug: string;
+  /** The existing tool slug whose Client component to reuse */
+  parentTool: string;
+  /** The Client component name to import */
+  clientComponent: string;
+  /** Primary target keyword */
+  keyword: string;
+  /** Page title for <title> and OG */
+  title: string;
+  /** Meta description */
+  description: string;
+  /** H1 heading on the page */
+  h1: string;
+  /** Subtitle under H1 */
+  subtitle: string;
+  /** SEO keywords array */
+  keywords: string[];
+  /** FAQ items */
+  faq: { q: string; a: string }[];
+  /** Category for tools-data (to enable RelatedTools) */
+  category: "image" | "pdf" | "dev" | "seo" | "design";
+}
+
+export const SEO_PAGES: SeoPageConfig[] = [
+  // ============ PDF Tools ============
+  {
+    slug: "compress-pdf",
+    parentTool: "pdf-compress",
+    clientComponent: "PdfCompressClient",
+    keyword: "compress pdf",
+    title: "Compress PDF Online Free - Reduce PDF File Size | FreeAIKit",
+    description: "Compress PDF files online for free. Reduce PDF file size by up to 80% without losing quality. No upload to server, 100% browser-based. No signup needed.",
+    h1: "Compress PDF Online",
+    subtitle: "Reduce your PDF file size by up to 80% instantly. Free, private, no upload required — everything runs in your browser.",
+    keywords: ["compress pdf", "compress pdf online", "compress pdf free", "reduce pdf file size", "pdf size reducer", "compress pdf without losing quality", "make pdf smaller", "shrink pdf file"],
+    category: "pdf",
+    faq: [
+      { q: "How do I compress a PDF file?", a: "Upload your PDF, choose a quality preset (Screen, eBook, or Printer), and click Compress. Your compressed PDF downloads automatically. No account needed." },
+      { q: "Is it safe to compress PDF online?", a: "Yes. FreeAIKit processes everything in your browser. Your PDF files never leave your device — no server upload, no data collection." },
+      { q: "How much can I compress a PDF?", a: "Image-heavy PDFs (presentations, scans) typically shrink 50-80%. Text-heavy PDFs see 10-30% reduction. Results depend on content type." },
+      { q: "Will compressing a PDF reduce quality?", a: "Screen mode prioritizes small size, eBook balances size and quality, Printer keeps high fidelity. Choose based on your needs." },
+    ],
+  },
+  {
+    slug: "jpg-to-pdf",
+    parentTool: "image-to-pdf",
+    clientComponent: "ImageToPdfClient",
+    keyword: "jpg to pdf",
+    title: "JPG to PDF Converter - Convert JPG to PDF Free Online | FreeAIKit",
+    description: "Convert JPG to PDF online for free. Combine multiple JPG images into one PDF document. Choose page size and orientation. No upload to server, runs in browser.",
+    h1: "JPG to PDF Converter",
+    subtitle: "Convert your JPG images to PDF instantly. Combine multiple JPGs into one document. Free, private, runs entirely in your browser.",
+    keywords: ["jpg to pdf", "convert jpg to pdf", "jpg to pdf converter", "jpeg to pdf", "jpg to pdf free", "convert jpeg to pdf", "jpg to pdf online", "photo to pdf"],
+    category: "pdf",
+    faq: [
+      { q: "How do I convert JPG to PDF?", a: "Upload your JPG images, arrange them in order, choose page size and orientation, then click Convert. Your PDF downloads instantly." },
+      { q: "Can I combine multiple JPGs into one PDF?", a: "Yes. Upload as many JPG images as you need, drag to reorder, and convert them all into a single PDF document." },
+      { q: "Is the JPG quality preserved?", a: "Yes. JPG images are embedded at 95% quality — visually identical to the original. No noticeable quality loss." },
+      { q: "Does this work with JPEG files too?", a: "Yes. JPG and JPEG are the same format. This tool also supports PNG, WebP, GIF, and BMP images." },
+    ],
+  },
+  {
+    slug: "pdf-to-jpg",
+    parentTool: "pdf-to-images",
+    clientComponent: "PdfToImagesClient",
+    keyword: "pdf to jpg",
+    title: "PDF to JPG Converter - Convert PDF to JPG Free Online | FreeAIKit",
+    description: "Convert PDF to JPG images online for free. Extract each PDF page as a high-quality JPG image. Up to 300 DPI. No upload, runs in your browser.",
+    h1: "PDF to JPG Converter",
+    subtitle: "Convert PDF pages to high-quality JPG images. Choose resolution up to 300 DPI. Free, private, no upload needed.",
+    keywords: ["pdf to jpg", "convert pdf to jpg", "pdf to jpg converter", "pdf to jpeg", "pdf to jpg free", "convert pdf to image", "pdf to jpg online", "extract images from pdf"],
+    category: "pdf",
+    faq: [
+      { q: "How do I convert PDF to JPG?", a: "Upload your PDF, select JPG as output format and your preferred DPI (72, 150, or 300), then click Convert. Each page becomes a separate JPG image." },
+      { q: "What resolution can I export?", a: "Choose from 72 DPI (web/email), 150 DPI (general use), or 300 DPI (print quality). Higher DPI means larger file sizes but sharper images." },
+      { q: "Can I convert a multi-page PDF?", a: "Yes. Every page is converted to a separate JPG image. You can download them individually or all at once." },
+      { q: "Is this really free?", a: "Yes, completely free with no limits. No signup, no watermarks, no ads. Your files never leave your browser." },
+    ],
+  },
+  {
+    slug: "merge-pdf",
+    parentTool: "pdf-merge",
+    clientComponent: "PdfMergeClient",
+    keyword: "merge pdf",
+    title: "Merge PDF Files Online Free - Combine PDFs | FreeAIKit",
+    description: "Merge PDF files online for free. Combine multiple PDF documents into one. Drag to reorder pages. No upload to server, runs in your browser.",
+    h1: "Merge PDF Files Online",
+    subtitle: "Combine multiple PDF files into one document. Drag to reorder, then download. Free, private, browser-based.",
+    keywords: ["merge pdf", "combine pdf", "merge pdf files", "pdf merger", "combine pdf files", "merge pdf online", "join pdf", "pdf combiner"],
+    category: "pdf",
+    faq: [
+      { q: "How do I merge PDF files?", a: "Upload your PDF files, drag to arrange them in your preferred order, then click Merge. Your combined PDF downloads automatically." },
+      { q: "How many PDFs can I merge?", a: "There's no limit. Merge as many PDFs as your browser can handle. Very large merges (50+ files) may take a few seconds." },
+      { q: "Can I reorder pages before merging?", a: "Yes. Drag and drop to rearrange the order of your PDF files before combining them into one document." },
+      { q: "Is my data safe?", a: "Absolutely. Everything runs in your browser. Your PDF files are never uploaded to any server." },
+    ],
+  },
+  {
+    slug: "split-pdf",
+    parentTool: "pdf-merge",
+    clientComponent: "PdfMergeClient",
+    keyword: "split pdf",
+    title: "Split PDF Online Free - Extract Pages from PDF | FreeAIKit",
+    description: "Split PDF files online for free. Extract specific pages or split into multiple documents. No upload to server, runs entirely in your browser.",
+    h1: "Split PDF Online",
+    subtitle: "Split PDF files by page range or extract specific pages. Free, private, runs in your browser.",
+    keywords: ["split pdf", "split pdf online", "split pdf free", "pdf splitter", "extract pages from pdf", "separate pdf pages", "divide pdf", "cut pdf"],
+    category: "pdf",
+    faq: [
+      { q: "How do I split a PDF?", a: "Upload your PDF, specify the page range you want to extract (e.g., 1-5, 8, 10-12), and click Split. Your new PDF downloads instantly." },
+      { q: "Can I extract specific pages?", a: "Yes. Enter individual page numbers or ranges separated by commas. For example: 1, 3, 5-10." },
+      { q: "Will splitting affect quality?", a: "No. Pages are extracted without re-encoding, so quality is identical to the original PDF." },
+      { q: "Is there a page limit?", a: "No. Split PDFs of any size. Processing happens in your browser, so very large files may take a moment." },
+    ],
+  },
+  {
+    slug: "pdf-to-png",
+    parentTool: "pdf-to-images",
+    clientComponent: "PdfToImagesClient",
+    keyword: "pdf to png",
+    title: "PDF to PNG Converter - Convert PDF to PNG Free Online | FreeAIKit",
+    description: "Convert PDF to PNG images online for free. Export each PDF page as a high-quality PNG with transparency support. Up to 300 DPI. Browser-based, no upload.",
+    h1: "PDF to PNG Converter",
+    subtitle: "Convert PDF pages to high-quality PNG images with transparency. Up to 300 DPI. Free, private, browser-based.",
+    keywords: ["pdf to png", "convert pdf to png", "pdf to png converter", "pdf to png free", "pdf to png online", "pdf to image", "export pdf as png"],
+    category: "pdf",
+    faq: [
+      { q: "How do I convert PDF to PNG?", a: "Upload your PDF, select PNG as the output format, choose your DPI, and click Convert. Each page is saved as a separate PNG file." },
+      { q: "Why choose PNG over JPG?", a: "PNG supports transparency and lossless compression — ideal for graphics, diagrams, and text-heavy pages. JPG is better for photos." },
+      { q: "What DPI should I use?", a: "72 DPI for web use, 150 DPI for presentations, 300 DPI for print. Higher DPI = larger files but sharper images." },
+      { q: "Can I convert all pages at once?", a: "Yes. All pages are converted automatically. Download them individually or as a batch." },
+    ],
+  },
+  // ============ Image Tools ============
+  {
+    slug: "compress-image",
+    parentTool: "image-compress",
+    clientComponent: "ImageCompressClient",
+    keyword: "compress image",
+    title: "Compress Images Online Free - Reduce Image File Size | FreeAIKit",
+    description: "Compress images online for free. Reduce JPG, PNG, WebP file sizes while maintaining quality. Batch compression supported. No upload, browser-based.",
+    h1: "Compress Images Online",
+    subtitle: "Reduce image file sizes by up to 90% without visible quality loss. Supports JPG, PNG, WebP. Free, private, batch processing.",
+    keywords: ["compress image", "compress image online", "image compressor", "reduce image size", "compress photo", "compress jpeg", "compress png", "image size reducer"],
+    category: "image",
+    faq: [
+      { q: "How do I compress an image?", a: "Upload your image(s), adjust the quality slider, and click Compress. Download your smaller files instantly. Supports batch processing." },
+      { q: "Which image formats are supported?", a: "JPG/JPEG, PNG, and WebP. All common image formats used on the web." },
+      { q: "Will compression reduce image quality?", a: "At recommended settings, the quality difference is imperceptible. You can adjust the quality slider to find your ideal balance." },
+      { q: "Is there a file size limit?", a: "No server-side limit since everything runs in your browser. Your images never leave your device." },
+    ],
+  },
+  {
+    slug: "compress-jpeg",
+    parentTool: "image-compress",
+    clientComponent: "ImageCompressClient",
+    keyword: "compress jpeg",
+    title: "Compress JPEG Online Free - Reduce JPEG File Size | FreeAIKit",
+    description: "Compress JPEG images online for free. Reduce JPEG file size while maintaining quality. Batch compression. No upload to server, runs in browser.",
+    h1: "Compress JPEG Online",
+    subtitle: "Reduce JPEG file sizes instantly while keeping visual quality. Free, private, supports batch processing.",
+    keywords: ["compress jpeg", "compress jpeg online", "jpeg compressor", "reduce jpeg size", "compress jpg", "jpeg file size reducer", "compress jpeg free"],
+    category: "image",
+    faq: [
+      { q: "How do I compress a JPEG file?", a: "Upload your JPEG file(s), set the quality level, and click Compress. Your smaller JPEG downloads automatically." },
+      { q: "What's the difference between JPG and JPEG?", a: "They're the same format. JPG and JPEG are interchangeable — both are fully supported by this tool." },
+      { q: "How much can JPEG files be compressed?", a: "Typically 40-80% reduction depending on the original quality and your chosen compression level." },
+      { q: "Does this tool upload my photos?", a: "No. Everything runs in your browser. Your JPEG files are processed locally and never sent to any server." },
+    ],
+  },
+  {
+    slug: "compress-png",
+    parentTool: "image-compress",
+    clientComponent: "ImageCompressClient",
+    keyword: "compress png",
+    title: "Compress PNG Online Free - Reduce PNG File Size | FreeAIKit",
+    description: "Compress PNG images online for free. Reduce PNG file size with minimal quality loss. Batch support. No upload, browser-based processing.",
+    h1: "Compress PNG Online",
+    subtitle: "Reduce PNG file sizes significantly while preserving transparency and quality. Free, private, batch processing.",
+    keywords: ["compress png", "compress png online", "png compressor", "reduce png size", "png file size reducer", "compress png free", "png optimizer"],
+    category: "image",
+    faq: [
+      { q: "How do I compress a PNG file?", a: "Upload your PNG file(s), adjust the compression level, and click Compress. Download your optimized PNG files instantly." },
+      { q: "Will PNG transparency be preserved?", a: "Yes. The compression process maintains transparency in your PNG images." },
+      { q: "How much smaller will my PNG be?", a: "PNG compression typically achieves 30-70% reduction depending on image complexity and color count." },
+      { q: "Is this lossless compression?", a: "The tool offers both lossy and lossless options. Lossy achieves smaller sizes with imperceptible quality changes." },
+    ],
+  },
+  {
+    slug: "resize-image",
+    parentTool: "image-resize",
+    clientComponent: "ImageResizeClient",
+    keyword: "resize image",
+    title: "Resize Image Online Free - Change Image Dimensions | FreeAIKit",
+    description: "Resize images online for free. Change dimensions by pixels or percentage. Maintain aspect ratio. Batch resize supported. No upload, browser-based.",
+    h1: "Resize Image Online",
+    subtitle: "Change image dimensions instantly. Resize by pixels or percentage with aspect ratio lock. Free, private, batch support.",
+    keywords: ["resize image", "resize image online", "image resizer", "resize photo", "change image size", "resize image free", "resize picture", "resize image pixels"],
+    category: "image",
+    faq: [
+      { q: "How do I resize an image?", a: "Upload your image, enter the desired width and height (or percentage), and click Resize. Download your resized image instantly." },
+      { q: "Can I maintain the aspect ratio?", a: "Yes. Lock the aspect ratio to prevent distortion. Change one dimension and the other adjusts automatically." },
+      { q: "What formats are supported?", a: "JPG, PNG, WebP, GIF, and BMP. Output in your preferred format." },
+      { q: "Can I resize multiple images at once?", a: "Yes. Upload multiple images and resize them all to the same dimensions in one batch." },
+    ],
+  },
+  {
+    slug: "remove-background",
+    parentTool: "bg-remover",
+    clientComponent: "BgRemoverClient",
+    keyword: "remove background",
+    title: "Remove Background from Image Free Online - AI Background Remover | FreeAIKit",
+    description: "Remove background from images online for free using AI. Instant, automatic background removal. No signup, no watermark. Runs in your browser.",
+    h1: "Remove Background from Image",
+    subtitle: "Remove image backgrounds instantly with AI. No signup, no watermark, no upload to server. 100% free and private.",
+    keywords: ["remove background", "remove background from image", "background remover", "remove bg", "background eraser", "remove image background", "transparent background", "remove background free"],
+    category: "image",
+    faq: [
+      { q: "How do I remove a background from an image?", a: "Upload your image and the AI automatically detects and removes the background. Download the result as a transparent PNG." },
+      { q: "Is the background removal AI-powered?", a: "Yes. It uses a machine learning model that runs directly in your browser for instant, accurate results." },
+      { q: "Will there be a watermark?", a: "No. The output is completely clean with no watermarks, logos, or branding. It's 100% free." },
+      { q: "What image formats are supported?", a: "Upload JPG, PNG, or WebP images. The output is always a PNG with transparent background." },
+    ],
+  },
+  {
+    slug: "png-to-pdf",
+    parentTool: "image-to-pdf",
+    clientComponent: "ImageToPdfClient",
+    keyword: "png to pdf",
+    title: "PNG to PDF Converter - Convert PNG to PDF Free Online | FreeAIKit",
+    description: "Convert PNG to PDF online for free. Combine multiple PNG images into one PDF. Lossless quality. No upload to server, runs in your browser.",
+    h1: "PNG to PDF Converter",
+    subtitle: "Convert PNG images to PDF with lossless quality. Combine multiple PNGs into one document. Free, private, browser-based.",
+    keywords: ["png to pdf", "convert png to pdf", "png to pdf converter", "png to pdf free", "png to pdf online", "combine png to pdf"],
+    category: "pdf",
+    faq: [
+      { q: "How do I convert PNG to PDF?", a: "Upload your PNG images, arrange them in order, choose page settings, and click Convert. Your PDF downloads instantly." },
+      { q: "Is the PNG quality preserved?", a: "Yes. PNG images are embedded losslessly in the PDF — pixel-perfect quality, no compression artifacts." },
+      { q: "Can I combine multiple PNGs?", a: "Yes. Upload multiple PNG files, drag to reorder, and combine them all into a single PDF document." },
+      { q: "Does it support transparent PNGs?", a: "PNG transparency is preserved in the PDF. The transparent areas will appear as white in the PDF." },
+    ],
+  },
+  {
+    slug: "png-to-jpg",
+    parentTool: "image-convert",
+    clientComponent: "ImageConvertClient",
+    keyword: "png to jpg",
+    title: "PNG to JPG Converter - Convert PNG to JPG Free Online | FreeAIKit",
+    description: "Convert PNG to JPG online for free. Fast, high-quality conversion. Batch support. No upload to server, runs entirely in your browser.",
+    h1: "PNG to JPG Converter",
+    subtitle: "Convert PNG images to JPG format instantly. Reduce file size while keeping quality. Free, private, batch support.",
+    keywords: ["png to jpg", "convert png to jpg", "png to jpg converter", "png to jpeg", "png to jpg free", "png to jpg online", "convert png to jpeg"],
+    category: "image",
+    faq: [
+      { q: "How do I convert PNG to JPG?", a: "Upload your PNG file(s), select JPG as the output format, adjust quality if needed, and click Convert. Download your JPG files instantly." },
+      { q: "Why convert PNG to JPG?", a: "JPG files are typically much smaller than PNG, making them ideal for photos, web uploads, and email attachments." },
+      { q: "Will I lose quality?", a: "JPG uses lossy compression, but at high quality settings (90%+) the difference is imperceptible for photos." },
+      { q: "What happens to transparency?", a: "JPG doesn't support transparency. Transparent areas in your PNG will become white in the JPG output." },
+    ],
+  },
+  {
+    slug: "jpg-to-png",
+    parentTool: "image-convert",
+    clientComponent: "ImageConvertClient",
+    keyword: "jpg to png",
+    title: "JPG to PNG Converter - Convert JPG to PNG Free Online | FreeAIKit",
+    description: "Convert JPG to PNG online for free. Lossless conversion with transparency support. Batch processing. No upload, browser-based.",
+    h1: "JPG to PNG Converter",
+    subtitle: "Convert JPG images to PNG format with lossless quality. Free, private, supports batch conversion.",
+    keywords: ["jpg to png", "convert jpg to png", "jpg to png converter", "jpeg to png", "jpg to png free", "jpg to png online"],
+    category: "image",
+    faq: [
+      { q: "How do I convert JPG to PNG?", a: "Upload your JPG file(s), select PNG as the output format, and click Convert. Your PNG files download automatically." },
+      { q: "Why convert JPG to PNG?", a: "PNG supports transparency, lossless quality, and is better for graphics, logos, and screenshots." },
+      { q: "Will the file size increase?", a: "Usually yes, since PNG is lossless. But PNG is the better choice when you need transparency or pixel-perfect quality." },
+      { q: "Can I convert multiple files at once?", a: "Yes. Upload multiple JPG files and convert them all to PNG in one batch." },
+    ],
+  },
+  {
+    slug: "webp-to-jpg",
+    parentTool: "image-convert",
+    clientComponent: "ImageConvertClient",
+    keyword: "webp to jpg",
+    title: "WebP to JPG Converter - Convert WebP to JPG Free Online | FreeAIKit",
+    description: "Convert WebP to JPG online for free. Fast conversion with high quality. Batch support. No upload needed, runs in your browser.",
+    h1: "WebP to JPG Converter",
+    subtitle: "Convert WebP images to universally compatible JPG format. Free, private, batch processing supported.",
+    keywords: ["webp to jpg", "convert webp to jpg", "webp to jpg converter", "webp to jpeg", "webp to jpg free", "webp to jpg online"],
+    category: "image",
+    faq: [
+      { q: "How do I convert WebP to JPG?", a: "Upload your WebP file(s), select JPG as output, and click Convert. Your JPG images download instantly." },
+      { q: "Why convert WebP to JPG?", a: "While WebP offers smaller file sizes, JPG is universally supported by all devices, apps, and social media platforms." },
+      { q: "Is there quality loss?", a: "Minimal. At 95% quality setting, the conversion is virtually lossless and visually identical." },
+      { q: "Can I batch convert?", a: "Yes. Upload multiple WebP files and convert them all to JPG at once." },
+    ],
+  },
+  {
+    slug: "webp-to-png",
+    parentTool: "image-convert",
+    clientComponent: "ImageConvertClient",
+    keyword: "webp to png",
+    title: "WebP to PNG Converter - Convert WebP to PNG Free Online | FreeAIKit",
+    description: "Convert WebP to PNG online for free. Lossless conversion. Batch support. No upload, browser-based processing.",
+    h1: "WebP to PNG Converter",
+    subtitle: "Convert WebP images to PNG format with lossless quality. Free, private, supports batch processing.",
+    keywords: ["webp to png", "convert webp to png", "webp to png converter", "webp to png free", "webp to png online"],
+    category: "image",
+    faq: [
+      { q: "How do I convert WebP to PNG?", a: "Upload your WebP file(s), select PNG as output, and click Convert. Download your PNG files immediately." },
+      { q: "Why choose PNG over JPG?", a: "PNG supports transparency and lossless quality — ideal for graphics, logos, and images that need editing." },
+      { q: "Will quality be preserved?", a: "Yes. PNG is lossless, so the conversion preserves every pixel of your original WebP image." },
+      { q: "Does this support animated WebP?", a: "This tool converts static WebP images. For animated WebP, use the GIF Maker tool instead." },
+    ],
+  },
+  {
+    slug: "image-to-png",
+    parentTool: "image-convert",
+    clientComponent: "ImageConvertClient",
+    keyword: "image to png",
+    title: "Image to PNG Converter - Convert Any Image to PNG Free | FreeAIKit",
+    description: "Convert any image to PNG format online for free. Supports JPG, WebP, BMP, GIF. Lossless quality. No upload, runs in your browser.",
+    h1: "Convert Image to PNG",
+    subtitle: "Convert any image format to PNG. Lossless quality with transparency support. Free, private, batch processing.",
+    keywords: ["image to png", "convert to png", "convert image to png", "jpg to png", "bmp to png", "gif to png", "image to png converter"],
+    category: "image",
+    faq: [
+      { q: "Which image formats can I convert to PNG?", a: "JPG, WebP, BMP, GIF, and most common image formats. Upload any image and get a PNG output." },
+      { q: "Why convert to PNG?", a: "PNG offers lossless quality, transparency support, and wide compatibility — ideal for graphics, logos, and editing." },
+      { q: "Is the conversion lossless?", a: "Yes. PNG preserves every pixel of your original image without any quality loss." },
+      { q: "Can I convert multiple images?", a: "Yes. Upload multiple images and convert them all to PNG format in one batch." },
+    ],
+  },
+  {
+    slug: "png-to-svg",
+    parentTool: "image-to-svg",
+    clientComponent: "ImageToSvgClient",
+    keyword: "png to svg",
+    title: "PNG to SVG Converter - Convert PNG to SVG Free Online | FreeAIKit",
+    description: "Convert PNG to SVG vector format online for free. Trace raster images to scalable vectors. No upload, runs in your browser.",
+    h1: "PNG to SVG Converter",
+    subtitle: "Convert raster PNG images to scalable SVG vector format. Perfect for logos and icons. Free, private, browser-based.",
+    keywords: ["png to svg", "convert png to svg", "png to svg converter", "raster to vector", "png to svg free", "image to svg", "vectorize image"],
+    category: "image",
+    faq: [
+      { q: "How does PNG to SVG conversion work?", a: "The tool traces the edges and colors in your PNG image to create a scalable vector SVG. Best results with simple graphics, logos, and icons." },
+      { q: "Will the SVG look exactly like the PNG?", a: "For simple graphics and logos, the result is very close. Complex photos may lose some detail since SVG represents shapes, not pixels." },
+      { q: "What images work best?", a: "Logos, icons, line art, and simple graphics convert best. Photos and complex images are better kept as PNG/JPG." },
+      { q: "Can I edit the SVG afterwards?", a: "Yes. The output SVG can be opened and edited in any vector editor like Inkscape, Illustrator, or Figma." },
+    ],
+  },
+  {
+    slug: "crop-image",
+    parentTool: "image-crop",
+    clientComponent: "ImageCropClient",
+    keyword: "crop image",
+    title: "Crop Image Online Free - Crop Photos Instantly | FreeAIKit",
+    description: "Crop images online for free. Select custom areas, use preset aspect ratios, rotate and flip. No upload, runs in your browser.",
+    h1: "Crop Image Online",
+    subtitle: "Crop images to any size or aspect ratio. Rotate, flip, and adjust. Free, private, instant results.",
+    keywords: ["crop image", "crop image online", "image cropper", "crop photo", "crop picture", "crop image free", "photo cropper", "crop image online free"],
+    category: "image",
+    faq: [
+      { q: "How do I crop an image?", a: "Upload your image, drag to select the area you want to keep, and click Crop. Download your cropped image instantly." },
+      { q: "Can I crop to specific aspect ratios?", a: "Yes. Choose from preset ratios like 1:1 (square), 16:9 (widescreen), 4:3, or set a custom ratio." },
+      { q: "Can I also rotate images?", a: "Yes. Rotate by 90 degrees or flip horizontally/vertically alongside cropping." },
+      { q: "What formats are supported?", a: "JPG, PNG, WebP, and other common image formats. Output matches your input format." },
+    ],
+  },
+];
