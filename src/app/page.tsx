@@ -761,7 +761,7 @@ const tools = [
 const stats = [
   { value: "No Limits", label: "Files Per Session", icon: Download },
   { value: "100%", label: "Free Forever", icon: DollarSign },
-  { value: "47+", label: "Online Tools", icon: Wand2 },
+  { value: "57+", label: "Online Tools", icon: Wand2 },
   { value: "0 bytes", label: "Data Uploaded", icon: Shield },
 ];
 
