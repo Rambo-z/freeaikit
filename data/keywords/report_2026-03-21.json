@@ -1,10 +1,10 @@
 {
   "date": "2026-03-21",
   "stats": {
-    "trends_total": 201,
-    "suggest_total": 644
+    "trends_total": 335,
+    "suggest_total": 964
   },
-  "total_opportunities": 713,
+  "total_opportunities": 1037,
   "top_50": [
     {
       "keyword": "watermark remover",
@@ -14,6 +14,37 @@
       "trend_score": 195350,
       "suggested_slug": "watermark-remover",
       "root": "cropper",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tax calculator 2026",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 100000,
+      "suggested_slug": "tax-calculator-2026",
+      "root": "calculator",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "ai image detector",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 11100,
+      "suggested_slug": "image-detector",
+      "root": "watermark",
       "already_have": false,
       "combined_score": 590,
       "difficulty": "需WASM",
@@ -203,6 +234,36 @@
       "competition": 0
     },
     {
+      "keyword": "web page analyzer online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 16600,
+      "suggested_slug": "web-page-analyzer-online",
+      "root": "analyzer",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free tax calculator 2026",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 11700,
+      "suggested_slug": "tax-calculator-2026",
+      "root": "calculator",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "best free video editors",
       "sources": [
         "trends_rising"
@@ -212,6 +273,36 @@
       "root": "format",
       "already_have": false,
       "combined_score": 400,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "ghibli ai generator free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1450,
+      "suggested_slug": "ghibli-generator-free",
+      "root": "generator",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "img resizer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 77250,
+      "suggested_slug": "img-resizer",
+      "root": "resizer",
+      "already_have": false,
+      "combined_score": 390,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
@@ -248,6 +339,51 @@
       "competition": 0
     },
     {
+      "keyword": "apple creator studio",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 32750,
+      "suggested_slug": "apple-creator-studio",
+      "root": "creator",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "bpm analyzer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 32550,
+      "suggested_slug": "bpm-analyzer",
+      "root": "analyzer",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "mixing ai analyzer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 25100,
+      "suggested_slug": "mixing-analyzer",
+      "root": "analyzer",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "soundcloud downloader",
       "sources": [
         "trends_rising"
@@ -263,6 +399,111 @@
       "competition": 0
     },
     {
+      "keyword": "builder ai scandal",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 14600,
+      "suggested_slug": "builder-scandal",
+      "root": "builder",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "mii maker",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 14250,
+      "suggested_slug": "mii-maker",
+      "root": "creator",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "ai app builder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1600,
+      "suggested_slug": "app-builder",
+      "root": "builder",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "ai twerk generator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1600,
+      "suggested_slug": "twerk-generator",
+      "root": "generator",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "birth chart calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1500,
+      "suggested_slug": "birth-chart-calculator",
+      "root": "calculator",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free casino promo codes for existing customers casino analyzer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 48950,
+      "suggested_slug": "casino-promo-codes-for-existing-customers-casino-analyzer",
+      "root": "analyzer",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "water mark remover for free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 21300,
+      "suggested_slug": "water-mark-remover-for-free",
+      "root": "watermark",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "free uncensored ai image editor",
       "sources": [
         "trends_rising"
@@ -273,6 +514,36 @@
       "already_have": false,
       "combined_score": 380,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tyler, the creator sucka free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 9200,
+      "suggested_slug": "tyler,-the-creator-sucka-free",
+      "root": "creator",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "sucka free tyler the creator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 2700,
+      "suggested_slug": "sucka-tyler-the-creator",
+      "root": "creator",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -323,6 +594,36 @@
       "competition": 0
     },
     {
+      "keyword": "png to jpg converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 20550,
+      "suggested_slug": "png-to-jpg-converter",
+      "root": "resizer",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "webflow ai site builder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 18750,
+      "suggested_slug": "webflow-site-builder",
+      "root": "builder",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "online presence management",
       "sources": [
         "trends_rising"
@@ -333,6 +634,66 @@
       "already_have": false,
       "combined_score": 370,
       "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "clash royale deck analyzer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 15650,
+      "suggested_slug": "clash-royale-deck-analyzer",
+      "root": "analyzer",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "clash royale deck builder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 13850,
+      "suggested_slug": "clash-royale-deck-builder",
+      "root": "builder",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "f1 25 ai calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 13000,
+      "suggested_slug": "f1-25-calculator",
+      "root": "calculator",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "readdy ai website builder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 7550,
+      "suggested_slug": "readdy-website-builder",
+      "root": "builder",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需API",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -368,393 +729,31 @@
       "competition": 0
     },
     {
-      "keyword": "ghibli ai image generator",
+      "keyword": "ai death prediction calculator",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 1600,
-      "suggested_slug": "ghibli-image-generator",
-      "root": "image",
+      "trend_score": 4850,
+      "suggested_slug": "death-prediction-calculator",
+      "root": "calculator",
       "already_have": false,
       "combined_score": 370,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "great photo lovely life watch online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 2350,
-      "suggested_slug": "great-photo-lovely-life-watch-free",
-      "root": "photo",
-      "already_have": false,
-      "combined_score": 360,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "hotels with free breakfast",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 11900,
-      "suggested_slug": "hotels-with-breakfast",
-      "root": "filter",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "university of arizona online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 11850,
-      "suggested_slug": "university-of-arizona-online",
-      "root": "filter",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free antivirus software",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9750,
-      "suggested_slug": "best-antivirus-software",
-      "root": "portrait",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai ebook to audio converter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9200,
-      "suggested_slug": "ebook-to-audio-converter",
-      "root": "converter",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free password managers",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 7900,
-      "suggested_slug": "best-password-managers",
-      "root": "portrait",
-      "already_have": false,
-      "combined_score": 350,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "best free email clients",
+      "keyword": "the master builder playwright",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 7450,
-      "suggested_slug": "best-email-clients",
-      "root": "format",
+      "trend_score": 3600,
+      "suggested_slug": "the-master-builder-playwright",
+      "root": "builder",
       "already_have": false,
-      "combined_score": 350,
+      "combined_score": 370,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free coding practice sites",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 4450,
-      "suggested_slug": "coding-practice-sites",
-      "root": "filter",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free genealogy sites",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 3900,
-      "suggested_slug": "best-genealogy-sites",
-      "root": "format",
-      "already_have": false,
-      "combined_score": 350,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "google photos",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 18200,
-      "suggested_slug": "google-photos",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "compress jpg file",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 11250,
-      "suggested_slug": "compress-jpg-file",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "pdfsam",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 10700,
-      "suggested_slug": "pdfsam",
-      "root": "merger",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "resize video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9350,
-      "suggested_slug": "resize-video",
-      "root": "compressor",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "clever ai humanizer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 2900,
-      "suggested_slug": "clever-humanizer",
-      "root": "format",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "curveball and splitter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 2050,
-      "suggested_slug": "curveball-and-splitter",
-      "root": "splitter",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai picture trend",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 1300,
-      "suggested_slug": "picture-trend",
-      "root": "picture",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai de",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 1150,
-      "suggested_slug": "de",
-      "root": "format",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "m4a to mp3",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 1100,
-      "suggested_slug": "m4a-to-mp3",
-      "root": "splitter",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "google online word processor crossword clue",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 28800,
-      "suggested_slug": "google-word-processor-crossword-clue",
-      "root": "processor",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "english to urdu translation online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 28400,
-      "suggested_slug": "english-to-urdu-translation-online",
-      "root": "picture",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "arabic to english translation online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 18650,
-      "suggested_slug": "arabic-to-english-translation-online",
-      "root": "image",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "convert jpg to pdf free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 12150,
-      "suggested_slug": "convert-jpg-to-pdf-free",
-      "root": "portrait",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free stock photos no attribution",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 4450,
-      "suggested_slug": "stock-photos-no-attribution",
-      "root": "format",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free image to video ai",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 350,
-      "suggested_slug": "image-to-video-ai",
-      "root": "image",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free picture to video ai",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 250,
-      "suggested_slug": "picture-to-video-ai",
-      "root": "picture",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0

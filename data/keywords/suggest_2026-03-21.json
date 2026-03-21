@@ -1,9 +1,9 @@
 {
   "date": "2026-03-21",
-  "batch": 1,
-  "total_suggestions": 644,
-  "new_opportunities": 617,
-  "existing_matches": 27,
+  "batch": 2,
+  "total_suggestions": 964,
+  "new_opportunities": 939,
+  "existing_matches": 25,
   "opportunities": [
     {
       "keyword": "free compression tool online",
@@ -4183,8 +4183,8 @@
     },
     {
       "keyword": "ai resizer online",
-      "root": "cropper",
-      "pattern": "ai {root} online",
+      "root": "resizer",
+      "pattern": "space_trick",
       "source": "google_suggest",
       "discovered": "2026-03-21",
       "already_have": false,
@@ -5557,6 +5557,2904 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "product-photography-app"
+    },
+    {
+      "keyword": "free resize tool online",
+      "root": "resizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resize-online"
+    },
+    {
+      "keyword": "free tool resize images",
+      "root": "resizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-resize-images"
+    },
+    {
+      "keyword": "free tool resize partition",
+      "root": "resizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-resize-partition"
+    },
+    {
+      "keyword": "free jpeg resizer tool",
+      "root": "resizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "jpeg-resizer"
+    },
+    {
+      "keyword": "free video resizer tool",
+      "root": "resizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-resizer"
+    },
+    {
+      "keyword": "free pdf resizer tool",
+      "root": "resizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-resizer"
+    },
+    {
+      "keyword": "free disk resize tool",
+      "root": "resizer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "disk-resize"
+    },
+    {
+      "keyword": "ai resize online free",
+      "root": "resizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resize-free"
+    },
+    {
+      "keyword": "ai online resize image",
+      "root": "resizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resize-image"
+    },
+    {
+      "keyword": "ai photo resizer online",
+      "root": "resizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-resizer-online"
+    },
+    {
+      "keyword": "ai video resizer online free",
+      "root": "resizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-resizer-free"
+    },
+    {
+      "keyword": "ai video resizer online",
+      "root": "resizer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-resizer-online"
+    },
+    {
+      "keyword": "size converter free",
+      "root": "resizer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "size-converter-free"
+    },
+    {
+      "keyword": "size converter free pdf",
+      "root": "resizer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "size-converter-pdf"
+    },
+    {
+      "keyword": "size converter free online",
+      "root": "resizer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "size-converter-online"
+    },
+    {
+      "keyword": "video resizer converter free",
+      "root": "resizer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-resizer-converter-free"
+    },
+    {
+      "keyword": "pdf resize converter free",
+      "root": "resizer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-resize-converter-free"
+    },
+    {
+      "keyword": "jpg resize converter free download",
+      "root": "resizer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "jpg-resize-converter-download"
+    },
+    {
+      "keyword": "resize video converter free download",
+      "root": "resizer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resize-video-converter-download"
+    },
+    {
+      "keyword": "video converter resizer free online",
+      "root": "resizer",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-converter-resizer-online"
+    },
+    {
+      "keyword": "free watermark tool online",
+      "root": "watermark",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-online"
+    },
+    {
+      "keyword": "free watermark software",
+      "root": "watermark",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-software"
+    },
+    {
+      "keyword": "free watermark software for pc",
+      "root": "watermark",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-software-for-pc"
+    },
+    {
+      "keyword": "free watermark software for windows 10",
+      "root": "watermark",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-software-for-windows-10"
+    },
+    {
+      "keyword": "free watermark software for windows 11",
+      "root": "watermark",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-software-for-windows-11"
+    },
+    {
+      "keyword": "free watermark software for mac",
+      "root": "watermark",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-software-for-mac"
+    },
+    {
+      "keyword": "free watermark application",
+      "root": "watermark",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-application"
+    },
+    {
+      "keyword": "free watermark remover tool",
+      "root": "watermark",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover"
+    },
+    {
+      "keyword": "free pdf watermark tool",
+      "root": "watermark",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-watermark"
+    },
+    {
+      "keyword": "ai online watermark remover",
+      "root": "watermark",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover"
+    },
+    {
+      "keyword": "ai online watermark remover free",
+      "root": "watermark",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-free"
+    },
+    {
+      "keyword": "ai online watermark remover video",
+      "root": "watermark",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-video"
+    },
+    {
+      "keyword": "free online ai watermark",
+      "root": "watermark",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark"
+    },
+    {
+      "keyword": "ai watermark remover online pdf",
+      "root": "watermark",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-pdf"
+    },
+    {
+      "keyword": "ai watermark detector online",
+      "root": "watermark",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-detector-online"
+    },
+    {
+      "keyword": "ai watermark remover online free video",
+      "root": "watermark",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-video"
+    },
+    {
+      "keyword": "ai delete watermark online",
+      "root": "watermark",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "delete-watermark-online"
+    },
+    {
+      "keyword": "image to watermark converter free",
+      "root": "watermark",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-to-watermark-converter-free"
+    },
+    {
+      "keyword": "logo to watermark converter free",
+      "root": "watermark",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "logo-to-watermark-converter-free"
+    },
+    {
+      "keyword": "watermark fee",
+      "root": "watermark",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-fee"
+    },
+    {
+      "keyword": "best watermark maker app",
+      "root": "watermark",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-maker-app"
+    },
+    {
+      "keyword": "free building tools",
+      "root": "builder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "buildings"
+    },
+    {
+      "keyword": "free tool builder",
+      "root": "builder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-builder"
+    },
+    {
+      "keyword": "free toolbox talks for construction",
+      "root": "builder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "toolbox-talks-for-construction"
+    },
+    {
+      "keyword": "free construction tool",
+      "root": "builder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "construction"
+    },
+    {
+      "keyword": "free construction toolbox safety talks",
+      "root": "builder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "constructionbox-safety-talks"
+    },
+    {
+      "keyword": "free resume builder tools",
+      "root": "builder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resume-builders"
+    },
+    {
+      "keyword": "free website builder tools",
+      "root": "builder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "website-builders"
+    },
+    {
+      "keyword": "free cv builder tool",
+      "root": "builder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cv-builder"
+    },
+    {
+      "keyword": "free resume builder tools online",
+      "root": "builder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resume-builders-online"
+    },
+    {
+      "keyword": "free shape builder tool",
+      "root": "builder",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "shape-builder"
+    },
+    {
+      "keyword": "ai builder online free",
+      "root": "builder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-free"
+    },
+    {
+      "keyword": "ai resume builder online free",
+      "root": "builder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resume-builder-free"
+    },
+    {
+      "keyword": "ai resume builder online",
+      "root": "builder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resume-builder-online"
+    },
+    {
+      "keyword": "ai app builder online",
+      "root": "builder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "app-builder-online"
+    },
+    {
+      "keyword": "ai website builder online",
+      "root": "builder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "website-builder-online"
+    },
+    {
+      "keyword": "ai website builder online free",
+      "root": "builder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "website-builder-free"
+    },
+    {
+      "keyword": "ai app builder online free",
+      "root": "builder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "app-builder-free"
+    },
+    {
+      "keyword": "ai agent builder online",
+      "root": "builder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "agent-builder-online"
+    },
+    {
+      "keyword": "ai cv builder online",
+      "root": "builder",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cv-builder-online"
+    },
+    {
+      "keyword": "resume builder converter free",
+      "root": "builder",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resume-builder-converter-free"
+    },
+    {
+      "keyword": "free estimator tool",
+      "root": "calculator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "estimator"
+    },
+    {
+      "keyword": "free mortgage calculator tool",
+      "root": "calculator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "mortgage-calculator"
+    },
+    {
+      "keyword": "free loan calculator tool",
+      "root": "calculator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "loan-calculator"
+    },
+    {
+      "keyword": "free online calculator tool",
+      "root": "calculator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator"
+    },
+    {
+      "keyword": "free kindy calculator tool",
+      "root": "calculator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "kindy-calculator"
+    },
+    {
+      "keyword": "free tax calculator tool",
+      "root": "calculator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tax-calculator"
+    },
+    {
+      "keyword": "free carbon calculator tool",
+      "root": "calculator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "carbon-calculator"
+    },
+    {
+      "keyword": "free load calculator tool",
+      "root": "calculator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "load-calculator"
+    },
+    {
+      "keyword": "free utility calculator by zip code",
+      "root": "calculator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "utility-calculator-by-zip-code"
+    },
+    {
+      "keyword": "ai calculator online free",
+      "root": "calculator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-free"
+    },
+    {
+      "keyword": "ai math calculator online",
+      "root": "calculator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "math-calculator-online"
+    },
+    {
+      "keyword": "ai token calculator online",
+      "root": "calculator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "token-calculator-online"
+    },
+    {
+      "keyword": "ai photo calculator online free",
+      "root": "calculator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-calculator-free"
+    },
+    {
+      "keyword": "ai age calculator online",
+      "root": "calculator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "age-calculator-online"
+    },
+    {
+      "keyword": "ai calorie calculator online",
+      "root": "calculator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calorie-calculator-online"
+    },
+    {
+      "keyword": "best ai calculator online free",
+      "root": "calculator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-free"
+    },
+    {
+      "keyword": "ai height calculator online",
+      "root": "calculator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "height-calculator-online"
+    },
+    {
+      "keyword": "google ai calculator online",
+      "root": "calculator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "google-calculator-online"
+    },
+    {
+      "keyword": "calculator converter app free",
+      "root": "calculator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-converter-app-free"
+    },
+    {
+      "keyword": "calculator converter app free download",
+      "root": "calculator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-converter-app-download"
+    },
+    {
+      "keyword": "conversion calculator free",
+      "root": "calculator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "conversion-calculator-free"
+    },
+    {
+      "keyword": "conversion calculator free download for pc",
+      "root": "calculator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "conversion-calculator-download-for-pc"
+    },
+    {
+      "keyword": "area converter calculator free download",
+      "root": "calculator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "area-converter-calculator-download"
+    },
+    {
+      "keyword": "unit converter calculator free download",
+      "root": "calculator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "unit-converter-calculator-download"
+    },
+    {
+      "keyword": "metric converter calculator free download",
+      "root": "calculator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "metric-converter-calculator-download"
+    },
+    {
+      "keyword": "currency converter calculator free",
+      "root": "calculator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "currency-converter-calculator-free"
+    },
+    {
+      "keyword": "samsung calculator currency converter free",
+      "root": "calculator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "samsung-calculator-currency-converter-free"
+    },
+    {
+      "keyword": "scientific calculator generator",
+      "root": "calculator",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scientific-calculator-generator"
+    },
+    {
+      "keyword": "graphing calculator generator",
+      "root": "calculator",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "graphing-calculator-generator"
+    },
+    {
+      "keyword": "free creator tools",
+      "root": "creator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creators"
+    },
+    {
+      "keyword": "free iso creator tool",
+      "root": "creator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "iso-creator"
+    },
+    {
+      "keyword": "free image creator tool",
+      "root": "creator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-creator"
+    },
+    {
+      "keyword": "free video creator tool",
+      "root": "creator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-creator"
+    },
+    {
+      "keyword": "free logo creator tool",
+      "root": "creator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "logo-creator"
+    },
+    {
+      "keyword": "free pdf creator tool",
+      "root": "creator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-creator"
+    },
+    {
+      "keyword": "free ai creator tool",
+      "root": "creator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator"
+    },
+    {
+      "keyword": "free map creator tool",
+      "root": "creator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "map-creator"
+    },
+    {
+      "keyword": "free cv creator tool",
+      "root": "creator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cv-creator"
+    },
+    {
+      "keyword": "free content creation tools",
+      "root": "creator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "content-creations"
+    },
+    {
+      "keyword": "ai creator online free",
+      "root": "creator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-free"
+    },
+    {
+      "keyword": "ai generator online",
+      "root": "creator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-online"
+    },
+    {
+      "keyword": "ai generator online free",
+      "root": "creator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-free"
+    },
+    {
+      "keyword": "ai maker online",
+      "root": "creator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-online"
+    },
+    {
+      "keyword": "ai generator online free from photo",
+      "root": "creator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-from-photo"
+    },
+    {
+      "keyword": "ai generator online image",
+      "root": "creator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-image"
+    },
+    {
+      "keyword": "ai generator online video",
+      "root": "creator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-video"
+    },
+    {
+      "keyword": "ai generator online from photo",
+      "root": "creator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-from-photo"
+    },
+    {
+      "keyword": "pdf creator converter free download",
+      "root": "creator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-creator-converter-download"
+    },
+    {
+      "keyword": "best ai video creator generator",
+      "root": "creator",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-creator-generator"
+    },
+    {
+      "keyword": "create usernames generator",
+      "root": "creator",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "create-usernames-generator"
+    },
+    {
+      "keyword": "create your own religion generator",
+      "root": "creator",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "create-your-own-religion-generator"
+    },
+    {
+      "keyword": "create name generator free",
+      "root": "creator",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "create-name-generator-free"
+    },
+    {
+      "keyword": "free maker tool",
+      "root": "generator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker"
+    },
+    {
+      "keyword": "free keyword generator tool",
+      "root": "generator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "keyword-generator"
+    },
+    {
+      "keyword": "free image generator tool",
+      "root": "generator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator"
+    },
+    {
+      "keyword": "free video generator tools",
+      "root": "generator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-generators"
+    },
+    {
+      "keyword": "free ai generator tool",
+      "root": "generator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator"
+    },
+    {
+      "keyword": "free email generator tool",
+      "root": "generator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "email-generator"
+    },
+    {
+      "keyword": "free tag generator tool",
+      "root": "generator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tag-generator"
+    },
+    {
+      "keyword": "free question generator tool",
+      "root": "generator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "question-generator"
+    },
+    {
+      "keyword": "free content generator tools",
+      "root": "generator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "content-generators"
+    },
+    {
+      "keyword": "ai generator online free from text",
+      "root": "generator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-from-text"
+    },
+    {
+      "keyword": "ai generator online free image",
+      "root": "generator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-image"
+    },
+    {
+      "keyword": "ai image generator converter free",
+      "root": "generator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator-converter-free"
+    },
+    {
+      "keyword": "ghibli ai generator free converter",
+      "root": "generator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "ghibli-generator-converter"
+    },
+    {
+      "keyword": "generator cost",
+      "root": "generator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-cost"
+    },
+    {
+      "keyword": "generator unable to start",
+      "root": "generator",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-unable-to-start"
+    },
+    {
+      "keyword": "which generator is best for home use",
+      "root": "generator",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "which-generator-is-for-home-use"
+    },
+    {
+      "keyword": "free tool make",
+      "root": "maker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-make"
+    },
+    {
+      "keyword": "free logo maker tool",
+      "root": "maker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "logo-maker"
+    },
+    {
+      "keyword": "free map maker tool",
+      "root": "maker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "map-maker"
+    },
+    {
+      "keyword": "free cv maker tool",
+      "root": "maker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cv-maker"
+    },
+    {
+      "keyword": "free ppt maker tool",
+      "root": "maker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "ppt-maker"
+    },
+    {
+      "keyword": "free resume maker tools",
+      "root": "maker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resume-makers"
+    },
+    {
+      "keyword": "free video maker tool",
+      "root": "maker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-maker"
+    },
+    {
+      "keyword": "free presentation maker tool",
+      "root": "maker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "presentation-maker"
+    },
+    {
+      "keyword": "ai maker online free",
+      "root": "maker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-free"
+    },
+    {
+      "keyword": "ai maker online from text",
+      "root": "maker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-from-text"
+    },
+    {
+      "keyword": "ai logo maker online",
+      "root": "maker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "logo-maker-online"
+    },
+    {
+      "keyword": "ai photo maker online",
+      "root": "maker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-maker-online"
+    },
+    {
+      "keyword": "ai video maker online",
+      "root": "maker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-maker-online"
+    },
+    {
+      "keyword": "ai cv maker online free",
+      "root": "maker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cv-maker-free"
+    },
+    {
+      "keyword": "ai ppt maker online free",
+      "root": "maker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "ppt-maker-free"
+    },
+    {
+      "keyword": "ai collage maker online",
+      "root": "maker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "collage-maker-online"
+    },
+    {
+      "keyword": "ai resume maker online free",
+      "root": "maker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resume-maker-free"
+    },
+    {
+      "keyword": "free maker converter",
+      "root": "maker",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-converter"
+    },
+    {
+      "keyword": "best make generator",
+      "root": "maker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "make-generator"
+    },
+    {
+      "keyword": "best brand generator",
+      "root": "maker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "brand-generator"
+    },
+    {
+      "keyword": "best brand generator for home",
+      "root": "maker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "brand-generator-for-home"
+    },
+    {
+      "keyword": "best brand generator for home use philippines",
+      "root": "maker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "brand-generator-for-home-use-philippines"
+    },
+    {
+      "keyword": "best brand generator for home use",
+      "root": "maker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "brand-generator-for-home-use"
+    },
+    {
+      "keyword": "best brand generator australia",
+      "root": "maker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "brand-generator-australia"
+    },
+    {
+      "keyword": "best brand generator philippines",
+      "root": "maker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "brand-generator-philippines"
+    },
+    {
+      "keyword": "best brand generator ai",
+      "root": "maker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "brand-generator-ai"
+    },
+    {
+      "keyword": "free analysis tool for binary trading",
+      "root": "analyzer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analysis-for-binary-trading"
+    },
+    {
+      "keyword": "free analysis tool for deriv",
+      "root": "analyzer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analysis-for-deriv"
+    },
+    {
+      "keyword": "free analysis tool",
+      "root": "analyzer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analysis"
+    },
+    {
+      "keyword": "free parser tool",
+      "root": "analyzer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "parser"
+    },
+    {
+      "keyword": "free headline analyzer tool",
+      "root": "analyzer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "headline-analyzer"
+    },
+    {
+      "keyword": "free seo analyzer tool",
+      "root": "analyzer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "seo-analyzer"
+    },
+    {
+      "keyword": "free wifi analyzer tool",
+      "root": "analyzer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "wifi-analyzer"
+    },
+    {
+      "keyword": "free stock analyzer tool",
+      "root": "analyzer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "stock-analyzer"
+    },
+    {
+      "keyword": "free website analyzer tool",
+      "root": "analyzer",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "website-analyzer"
+    },
+    {
+      "keyword": "ai analyzer online free",
+      "root": "analyzer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-free"
+    },
+    {
+      "keyword": "ai tester online",
+      "root": "analyzer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester-online"
+    },
+    {
+      "keyword": "ai analysis online",
+      "root": "analyzer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analysis-online"
+    },
+    {
+      "keyword": "ai tester online job",
+      "root": "analyzer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester-job"
+    },
+    {
+      "keyword": "ai analysis online free",
+      "root": "analyzer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analysis-free"
+    },
+    {
+      "keyword": "ai image analyzer online",
+      "root": "analyzer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-analyzer-online"
+    },
+    {
+      "keyword": "ai face analyzer online",
+      "root": "analyzer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "face-analyzer-online"
+    },
+    {
+      "keyword": "ai face analyzer online free",
+      "root": "analyzer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "face-analyzer-free"
+    },
+    {
+      "keyword": "ai beauty analyzer online free",
+      "root": "analyzer",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "beauty-analyzer-free"
+    },
+    {
+      "keyword": "best parser generator",
+      "root": "analyzer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "parser-generator"
+    },
+    {
+      "keyword": "best parser generator rust",
+      "root": "analyzer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "parser-generator-rust"
+    },
+    {
+      "keyword": "analyzer or analyser",
+      "root": "analyzer",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-or-analyser"
+    },
+    {
+      "keyword": "ai builder",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder"
+    },
+    {
+      "keyword": "ai builder in power automate",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-in-power-automate"
+    },
+    {
+      "keyword": "ai builder credits",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-credits"
+    },
+    {
+      "keyword": "ai builder capacity add-on t1",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-capacity-add-on-t1"
+    },
+    {
+      "keyword": "ai builder microsoft",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-microsoft"
+    },
+    {
+      "keyword": "ai builder website",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-website"
+    },
+    {
+      "keyword": "ai builder app",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-app"
+    },
+    {
+      "keyword": "ai builder credits cost",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-credits-cost"
+    },
+    {
+      "keyword": "ai builder club",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-club"
+    },
+    {
+      "keyword": "ai builder free",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-free"
+    },
+    {
+      "keyword": "free builder",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder"
+    },
+    {
+      "keyword": "free builders supply",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builders-supply"
+    },
+    {
+      "keyword": "free builder brigade checklist",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-brigade-checklist"
+    },
+    {
+      "keyword": "free builders checklist",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builders-checklist"
+    },
+    {
+      "keyword": "free builder bash monopoly go",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-bash-monopoly-go"
+    },
+    {
+      "keyword": "free builders bozeman",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builders-bozeman"
+    },
+    {
+      "keyword": "free builder software",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builder-software"
+    },
+    {
+      "keyword": "free builders san marcos",
+      "root": "builder",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "builders-san-marcos"
+    },
+    {
+      "keyword": "ai creator",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator"
+    },
+    {
+      "keyword": "ai creator marketplace",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-marketplace"
+    },
+    {
+      "keyword": "ai creator images",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-images"
+    },
+    {
+      "keyword": "ai creator studio",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-studio"
+    },
+    {
+      "keyword": "ai creator academy",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-academy"
+    },
+    {
+      "keyword": "ai creator app",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-app"
+    },
+    {
+      "keyword": "ai creator video",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-video"
+    },
+    {
+      "keyword": "free creator",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator"
+    },
+    {
+      "keyword": "free creator codes for essential coins",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-codes-for-essential-coins"
+    },
+    {
+      "keyword": "free creator code fortnite",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-code-fortnite"
+    },
+    {
+      "keyword": "free creator coin levels",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-coin-levels"
+    },
+    {
+      "keyword": "free creator coins geometry dash",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-coins-geometry-dash"
+    },
+    {
+      "keyword": "free creator codes for clash of clans",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-codes-for-clash-of-clans"
+    },
+    {
+      "keyword": "free creator code in coc",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-code-in-coc"
+    },
+    {
+      "keyword": "free creator app",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-app"
+    },
+    {
+      "keyword": "free crematorium",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "crematorium"
+    },
+    {
+      "keyword": "free creator sound effects",
+      "root": "creator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "creator-sound-effects"
+    },
+    {
+      "keyword": "ai resizer",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer"
+    },
+    {
+      "keyword": "ai resizer image",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-image"
+    },
+    {
+      "keyword": "ai resizer free",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-free"
+    },
+    {
+      "keyword": "ai resizer photo",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-photo"
+    },
+    {
+      "keyword": "ai resizer video",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-video"
+    },
+    {
+      "keyword": "ai resizer image free",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-image-free"
+    },
+    {
+      "keyword": "ai resizer tool",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer"
+    },
+    {
+      "keyword": "ai picture resizer",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-resizer"
+    },
+    {
+      "keyword": "free resizer",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer"
+    },
+    {
+      "keyword": "free resizer image",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-image"
+    },
+    {
+      "keyword": "free resizer photo",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-photo"
+    },
+    {
+      "keyword": "free resizer pdf",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-pdf"
+    },
+    {
+      "keyword": "free resizer online",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-online"
+    },
+    {
+      "keyword": "free resizer video",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-video"
+    },
+    {
+      "keyword": "free resizer app",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-app"
+    },
+    {
+      "keyword": "free resizer download",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-download"
+    },
+    {
+      "keyword": "free resizer jpg",
+      "root": "resizer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-jpg"
+    },
+    {
+      "keyword": "ai maker",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker"
+    },
+    {
+      "keyword": "ai maker image",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-image"
+    },
+    {
+      "keyword": "ai maker video",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-video"
+    },
+    {
+      "keyword": "ai makerspace",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "makerspace"
+    },
+    {
+      "keyword": "ai maker free",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-free"
+    },
+    {
+      "keyword": "ai maker app",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-app"
+    },
+    {
+      "keyword": "ai maker picture",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-picture"
+    },
+    {
+      "keyword": "ai maker photo",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-photo"
+    },
+    {
+      "keyword": "ai maker song",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-song"
+    },
+    {
+      "keyword": "ai maker video free",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-video-free"
+    },
+    {
+      "keyword": "free maker",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker"
+    },
+    {
+      "keyword": "free makerspace",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "makerspace"
+    },
+    {
+      "keyword": "free maker fallout 4",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-fallout-4"
+    },
+    {
+      "keyword": "freemake video converter",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "freemake-video-converter"
+    },
+    {
+      "keyword": "free makerbot files",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "makerbot-files"
+    },
+    {
+      "keyword": "free maker's beginner kit",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker's-beginner-kit"
+    },
+    {
+      "keyword": "freemaker adventures",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "freemaker-adventures"
+    },
+    {
+      "keyword": "free maker ai",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-ai"
+    },
+    {
+      "keyword": "free maker app",
+      "root": "maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "maker-app"
+    },
+    {
+      "keyword": "ai calculator",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator"
+    },
+    {
+      "keyword": "ai calculator with camera",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-with-camera"
+    },
+    {
+      "keyword": "ai calculator text",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-text"
+    },
+    {
+      "keyword": "ai calculator handheld",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-handheld"
+    },
+    {
+      "keyword": "ai calculator physical",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-physical"
+    },
+    {
+      "keyword": "ai calculator free",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-free"
+    },
+    {
+      "keyword": "ai calculator online",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-online"
+    },
+    {
+      "keyword": "ai calculator app",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-app"
+    },
+    {
+      "keyword": "ai calculator math",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-math"
+    },
+    {
+      "keyword": "free calculator",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator"
+    },
+    {
+      "keyword": "free calculator app",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-app"
+    },
+    {
+      "keyword": "free calculator online",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-online"
+    },
+    {
+      "keyword": "free calculator download",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-download"
+    },
+    {
+      "keyword": "free calculator app for iphone",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-app-for-iphone"
+    },
+    {
+      "keyword": "free calculator app for android",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-app-for-android"
+    },
+    {
+      "keyword": "free calculator app for ipad",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-app-for-ipad"
+    },
+    {
+      "keyword": "free calculator hours",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-hours"
+    },
+    {
+      "keyword": "free calculator for walking to lose weight",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-for-walking-to-lose-weight"
+    },
+    {
+      "keyword": "free calculator app download",
+      "root": "calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-app-download"
+    },
+    {
+      "keyword": "ai watermark remover",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover"
+    },
+    {
+      "keyword": "ai watermark",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark"
+    },
+    {
+      "keyword": "ai watermark remover free",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-free"
+    },
+    {
+      "keyword": "ai watermark remover video",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-video"
+    },
+    {
+      "keyword": "ai watermark remover text",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-text"
+    },
+    {
+      "keyword": "ai watermark detector",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-detector"
+    },
+    {
+      "keyword": "ai watermark checker",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-checker"
+    },
+    {
+      "keyword": "ai watermark remover video free",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-video-free"
+    },
+    {
+      "keyword": "ai watermark maker",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-maker"
+    },
+    {
+      "keyword": "ai watermark examples",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-examples"
+    },
+    {
+      "keyword": "free watermark remover",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover"
+    },
+    {
+      "keyword": "free watermark remover video",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-video"
+    },
+    {
+      "keyword": "free watermark",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark"
+    },
+    {
+      "keyword": "free watermark maker",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-maker"
+    },
+    {
+      "keyword": "free watermark remover from photo",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-from-photo"
+    },
+    {
+      "keyword": "free watermark app",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-app"
+    },
+    {
+      "keyword": "free watermark remover app",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-app"
+    },
+    {
+      "keyword": "free watermark remover online",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-online"
+    },
+    {
+      "keyword": "free watermark remover ai",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-remover-ai"
+    },
+    {
+      "keyword": "free watermark adder",
+      "root": "watermark",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "watermark-adder"
+    },
+    {
+      "keyword": "ai generator",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator"
+    },
+    {
+      "keyword": "ai generator image",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-image"
+    },
+    {
+      "keyword": "ai generator checker",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-checker"
+    },
+    {
+      "keyword": "ai generator text",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-text"
+    },
+    {
+      "keyword": "ai generator detector",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-detector"
+    },
+    {
+      "keyword": "ai generator video",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-video"
+    },
+    {
+      "keyword": "ai generator no restrictions",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-no-restrictions"
+    },
+    {
+      "keyword": "ai generator image free",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-image-free"
+    },
+    {
+      "keyword": "ai generator check",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-check"
+    },
+    {
+      "keyword": "ai generator detector free",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-detector-free"
+    },
+    {
+      "keyword": "free generator",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator"
+    },
+    {
+      "keyword": "free generator barcode",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-barcode"
+    },
+    {
+      "keyword": "free generator program",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-program"
+    },
+    {
+      "keyword": "free generators for veterans",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generators-for-veterans"
+    },
+    {
+      "keyword": "free generator shed plans",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-shed-plans"
+    },
+    {
+      "keyword": "free generator ai",
+      "root": "generator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-ai"
+    },
+    {
+      "keyword": "ai analyzer",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer"
+    },
+    {
+      "keyword": "ai analyzer for trading",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-for-trading"
+    },
+    {
+      "keyword": "ai analyzer for stocks",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-for-stocks"
+    },
+    {
+      "keyword": "ai analysis",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analysis"
+    },
+    {
+      "keyword": "ai analyzer free",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-free"
+    },
+    {
+      "keyword": "ai analyzer for day trading",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-for-day-trading"
+    },
+    {
+      "keyword": "ai analyzer photo",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-photo"
+    },
+    {
+      "keyword": "ai analyzer video",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-video"
+    },
+    {
+      "keyword": "ai analyze text",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyze-text"
+    },
+    {
+      "keyword": "ai analyzer for trading free",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-for-trading-free"
+    },
+    {
+      "keyword": "free analyzer plugin",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-plugin"
+    },
+    {
+      "keyword": "free analyzer vst",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-vst"
+    },
+    {
+      "keyword": "free analyzer chess",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-chess"
+    },
+    {
+      "keyword": "free analyzer",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer"
+    },
+    {
+      "keyword": "free analyzer ai",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-ai"
+    },
+    {
+      "keyword": "free wifi analyzer",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "wifi-analyzer"
+    },
+    {
+      "keyword": "free serial analyzer",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "serial-analyzer"
+    },
+    {
+      "keyword": "free seo analyzer",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "seo-analyzer"
+    },
+    {
+      "keyword": "free spectrum analyzer",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "spectrum-analyzer"
+    },
+    {
+      "keyword": "free headline analyzer",
+      "root": "analyzer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "headline-analyzer"
     }
   ],
   "existing": [
