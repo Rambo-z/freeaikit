@@ -140,6 +140,7 @@ export default function Header() {
   const [expandedMobile, setExpandedMobile] = useState<string | null>(null);
   const [langOpen, setLangOpen] = useState(false);
   const headerRef = useRef<HTMLElement>(null);
+  const langRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
 
   // Determine current locale and get switch URL
@@ -169,13 +170,16 @@ export default function Header() {
   // Close dropdowns on outside click
   useEffect(() => {
     function handleClick(e: MouseEvent) {
-      if (headerRef.current && !headerRef.current.contains(e.target as Node)) {
+      const target = e.target as Node;
+      if (headerRef.current && !headerRef.current.contains(target)) {
         setOpenGroup(null);
+        setLangOpen(false);
+      } else if (langRef.current && !langRef.current.contains(target)) {
         setLangOpen(false);
       }
     }
-    document.addEventListener("mousedown", handleClick);
-    return () => document.removeEventListener("mousedown", handleClick);
+    document.addEventListener("click", handleClick);
+    return () => document.removeEventListener("click", handleClick);
   }, []);
 
   const toggleGroup = useCallback((label: string) => {
@@ -223,9 +227,9 @@ export default function Header() {
 
           <div className="flex items-center gap-2">
             {/* Language switcher */}
-            <div className="relative">
+            <div className="relative" ref={langRef}>
               <button
-                onClick={(e) => { e.stopPropagation(); setLangOpen((v) => !v); setOpenGroup(null); }}
+                onClick={() => { setLangOpen((v) => !v); setOpenGroup(null); }}
                 className="inline-flex items-center gap-1 px-2 py-1.5 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
                 aria-label="Switch language"
               >
@@ -234,9 +238,7 @@ export default function Header() {
                 <ChevronDown className={`w-3 h-3 transition-transform ${langOpen ? "rotate-180" : ""}`} />
               </button>
               {langOpen && (
-                <div className="absolute top-full right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-lg py-1 min-w-[140px] z-50"
-                  onClick={(e) => e.stopPropagation()}
-                >
+                <div className="absolute top-full right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-lg py-1 min-w-[140px] z-50">
                   {LANGUAGES.map((lang) => (
                     <Link
                       key={lang.code}
