@@ -253,24 +253,45 @@ export default function RootLayout({
               </div>
             </div>
 
-            {/* Spanish Tools */}
-            <div className="mt-8 pt-6 border-t border-gray-800">
-              <h4 className="text-sm font-semibold text-white mb-3">Herramientas en Español</h4>
-              <div className="flex flex-wrap gap-x-4 gap-y-1">
-                {[
-                  ["/es/comprimir-imagen",      "Comprimir Imagen"],
-                  ["/es/quitar-fondo",          "Quitar Fondo"],
-                  ["/es/unir-pdf",              "Unir PDF"],
-                  ["/es/imagen-a-texto",        "Imagen a Texto"],
-                  ["/es/redimensionar-imagen",  "Redimensionar Imagen"],
-                  ["/es/convertir-imagen",      "Convertir Imagen"],
-                  ["/es/comprimir-pdf",         "Comprimir PDF"],
-                  ["/es/recortar-imagen",       "Recortar Imagen"],
-                  ["/es/pdf-a-imagen",          "PDF a Imagen"],
-                  ["/es/imagen-a-pdf",          "Imagen a PDF"],
-                ].map(([href, label]) => (
-                  <Link key={href} href={href} className="text-sm text-gray-400 hover:text-white transition-colors">{label}</Link>
-                ))}
+            {/* Multilingual Tools */}
+            <div className="mt-8 pt-6 border-t border-gray-800 grid grid-cols-1 md:grid-cols-2 gap-6">
+              <div>
+                <h4 className="text-sm font-semibold text-white mb-3">Herramientas en Español</h4>
+                <div className="flex flex-wrap gap-x-4 gap-y-1">
+                  {[
+                    ["/es/comprimir-imagen",      "Comprimir Imagen"],
+                    ["/es/quitar-fondo",          "Quitar Fondo"],
+                    ["/es/unir-pdf",              "Unir PDF"],
+                    ["/es/imagen-a-texto",        "Imagen a Texto"],
+                    ["/es/redimensionar-imagen",  "Redimensionar Imagen"],
+                    ["/es/convertir-imagen",      "Convertir Imagen"],
+                    ["/es/comprimir-pdf",         "Comprimir PDF"],
+                    ["/es/recortar-imagen",       "Recortar Imagen"],
+                    ["/es/pdf-a-imagen",          "PDF a Imagen"],
+                    ["/es/imagen-a-pdf",          "Imagen a PDF"],
+                  ].map(([href, label]) => (
+                    <Link key={href} href={href} className="text-sm text-gray-400 hover:text-white transition-colors">{label}</Link>
+                  ))}
+                </div>
+              </div>
+              <div>
+                <h4 className="text-sm font-semibold text-white mb-3">Ferramentas em Português</h4>
+                <div className="flex flex-wrap gap-x-4 gap-y-1">
+                  {[
+                    ["/pt/comprimir-imagem",      "Comprimir Imagem"],
+                    ["/pt/remover-fundo",          "Remover Fundo"],
+                    ["/pt/juntar-pdf",              "Juntar PDF"],
+                    ["/pt/imagem-para-texto",        "Imagem para Texto"],
+                    ["/pt/redimensionar-imagem",  "Redimensionar Imagem"],
+                    ["/pt/converter-imagem",      "Converter Imagem"],
+                    ["/pt/comprimir-pdf",         "Comprimir PDF"],
+                    ["/pt/cortar-imagem",       "Cortar Imagem"],
+                    ["/pt/pdf-para-imagem",          "PDF para Imagem"],
+                    ["/pt/imagem-para-pdf",          "Imagem para PDF"],
+                  ].map(([href, label]) => (
+                    <Link key={href} href={href} className="text-sm text-gray-400 hover:text-white transition-colors">{label}</Link>
+                  ))}
+                </div>
               </div>
             </div>
 

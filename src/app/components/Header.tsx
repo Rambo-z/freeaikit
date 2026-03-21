@@ -8,24 +8,19 @@ import { Menu, X, ChevronDown, Globe } from "lucide-react";
 type NavItem = { href: string; label: string };
 type NavGroup = { label: string; items: NavItem[] };
 
-// Mapping from English slug to Spanish slug
-const ES_SLUG_MAP: Record<string, string> = {
-  "image-compress": "comprimir-imagen",
-  "bg-remover": "quitar-fondo",
-  "pdf-merge": "unir-pdf",
-  "image-to-text": "imagen-a-texto",
-  "image-resize": "redimensionar-imagen",
-  "image-convert": "convertir-imagen",
-  "pdf-compress": "comprimir-pdf",
-  "image-crop": "recortar-imagen",
-  "pdf-to-images": "pdf-a-imagen",
-  "image-to-pdf": "imagen-a-pdf",
+// Mapping from English slug to localized slugs
+const I18N_SLUG_MAP: Record<string, { es: string; pt: string }> = {
+  "image-compress": { es: "comprimir-imagen", pt: "comprimir-imagem" },
+  "bg-remover": { es: "quitar-fondo", pt: "remover-fundo" },
+  "pdf-merge": { es: "unir-pdf", pt: "juntar-pdf" },
+  "image-to-text": { es: "imagen-a-texto", pt: "imagem-para-texto" },
+  "image-resize": { es: "redimensionar-imagen", pt: "redimensionar-imagem" },
+  "image-convert": { es: "convertir-imagen", pt: "converter-imagem" },
+  "pdf-compress": { es: "comprimir-pdf", pt: "comprimir-pdf" },
+  "image-crop": { es: "recortar-imagen", pt: "cortar-imagem" },
+  "pdf-to-images": { es: "pdf-a-imagen", pt: "pdf-para-imagem" },
+  "image-to-pdf": { es: "imagen-a-pdf", pt: "imagem-para-pdf" },
 };
-
-const LANGUAGES = [
-  { code: "en", label: "English", flag: "🇺🇸" },
-  { code: "es", label: "Español", flag: "🇪🇸" },
-];
 
 const NAV_GROUPS: NavGroup[] = [
   {
@@ -141,21 +136,30 @@ export default function Header() {
   const headerRef = useRef<HTMLElement>(null);
   const pathname = usePathname();
 
-  // Determine current locale and switch URL
-  const isSpanish = pathname.startsWith("/es/");
+  // Determine current locale
+  const currentLang = pathname.startsWith("/es/") ? "es" : pathname.startsWith("/pt/") ? "pt" : "en";
 
-  const switchUrl = (() => {
-    if (isSpanish) {
-      // Spanish → English
-      const esSlug = pathname.replace("/es/", "");
-      const enSlug = Object.entries(ES_SLUG_MAP).find(([, v]) => v === esSlug)?.[0];
-      return enSlug ? `/${enSlug}` : "/";
-    }
-    // English → Spanish
+  // Build available language switch URLs
+  const langLinks: { code: string; label: string; url: string }[] = [];
+
+  if (currentLang === "en") {
     const slug = pathname.replace(/^\//, "");
-    const esSlug = ES_SLUG_MAP[slug];
-    return esSlug ? `/es/${esSlug}` : null;
-  })();
+    const map = I18N_SLUG_MAP[slug];
+    if (map) {
+      langLinks.push({ code: "es", label: "ES", url: `/es/${map.es}` });
+      langLinks.push({ code: "pt", label: "PT", url: `/pt/${map.pt}` });
+    }
+  } else {
+    // Find English slug from current localized slug
+    const localSlug = pathname.replace(/^\/(es|pt)\//, "");
+    const enSlug = Object.entries(I18N_SLUG_MAP).find(([, v]) => v[currentLang as "es" | "pt"] === localSlug)?.[0];
+    if (enSlug) {
+      const map = I18N_SLUG_MAP[enSlug];
+      langLinks.push({ code: "en", label: "EN", url: `/${enSlug}` });
+      if (currentLang !== "es") langLinks.push({ code: "es", label: "ES", url: `/es/${map.es}` });
+      if (currentLang !== "pt") langLinks.push({ code: "pt", label: "PT", url: `/pt/${map.pt}` });
+    }
+  }
 
   // Close dropdown on outside click
   useEffect(() => {
@@ -212,16 +216,21 @@ export default function Header() {
           </nav>
 
           <div className="flex items-center gap-2">
-            {/* Language switcher — only show when a translation exists */}
-            {switchUrl && (
-              <Link
-                href={switchUrl}
-                className="inline-flex items-center gap-1.5 px-2.5 py-1.5 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
-                title={isSpanish ? "Switch to English" : "Cambiar a Español"}
-              >
-                <Globe className="w-4 h-4" />
-                <span className="hidden sm:inline">{isSpanish ? "EN" : "ES"}</span>
-              </Link>
+            {/* Language switcher — show available translations */}
+            {langLinks.length > 0 && (
+              <div className="inline-flex items-center gap-0.5">
+                <Globe className="w-4 h-4 text-gray-400 mr-1" />
+                {langLinks.map((lang) => (
+                  <Link
+                    key={lang.code}
+                    href={lang.url}
+                    className="px-1.5 py-1 text-xs font-medium text-gray-500 hover:text-gray-900 hover:bg-gray-100 rounded transition-colors"
+                    title={`Switch to ${lang.label}`}
+                  >
+                    {lang.label}
+                  </Link>
+                ))}
+              </div>
             )}
             <Link href="/bg-remover"
               className="hidden sm:inline-flex items-center gap-1.5 px-4 py-2 bg-blue-600 text-white rounded-lg text-sm font-medium hover:bg-blue-700 transition-colors shadow-sm">
