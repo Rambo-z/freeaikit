@@ -174,17 +174,17 @@ export default function ImageToSvgClient() {
         onDragLeave={handleDragLeave}
         onClick={() => fileInputRef.current?.click()}
         className={`border-2 border-dashed rounded-2xl p-8 sm:p-12 text-center cursor-pointer transition-all duration-200 bg-white ${
-          isDragging ? "border-violet-500 bg-violet-50 scale-[1.02] shadow-lg" : "border-gray-200 hover:border-violet-400 hover:bg-violet-50/30"
+          isDragging ? "border-blue-500 bg-blue-50 scale-[1.02] shadow-lg" : "border-gray-200 hover:border-blue-400 hover:bg-blue-50/30"
         }`}
       >
-        <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 transition-colors ${isDragging ? "bg-violet-100" : "bg-violet-50"}`}>
-          <Upload className={`w-7 h-7 ${isDragging ? "text-violet-600" : "text-violet-500"}`} />
+        <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 transition-colors ${isDragging ? "bg-blue-100" : "bg-blue-50"}`}>
+          <Upload className={`w-7 h-7 ${isDragging ? "text-blue-600" : "text-blue-500"}`} />
         </div>
         {isDragging ? (
-          <p className="text-lg font-semibold text-violet-600 mb-1">Drop images here</p>
+          <p className="text-lg font-semibold text-blue-600 mb-1">Drop images here</p>
         ) : (
           <>
-            <button className="px-6 py-3 bg-violet-600 text-white rounded-xl text-sm font-semibold hover:bg-violet-700 transition-colors shadow-lg shadow-violet-500/25 mb-3">
+            <button className="px-6 py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 transition-colors shadow-lg shadow-blue-500/25 mb-3">
               Upload Images
             </button>
             <p className="text-sm text-gray-500 mb-1">or drop files here</p>
@@ -211,10 +211,10 @@ export default function ImageToSvgClient() {
                 key={p.value}
                 onClick={() => setPreset(p.value)}
                 className={`p-3 rounded-xl border-2 text-left transition-all ${
-                  preset === p.value ? "border-violet-500 bg-violet-50" : "border-gray-200 hover:border-gray-300"
+                  preset === p.value ? "border-blue-500 bg-blue-50" : "border-gray-200 hover:border-gray-300"
                 }`}
               >
-                <div className={`text-sm font-semibold mb-1 ${preset === p.value ? "text-violet-700" : "text-gray-800"}`}>{p.label}</div>
+                <div className={`text-sm font-semibold mb-1 ${preset === p.value ? "text-blue-700" : "text-gray-800"}`}>{p.label}</div>
                 <div className="text-xs text-gray-400 leading-tight">{p.desc}</div>
               </button>
             ))}
@@ -224,7 +224,7 @@ export default function ImageToSvgClient() {
             <button
               onClick={convertAll}
               disabled={isProcessing}
-              className="inline-flex items-center gap-2 px-6 py-2.5 bg-violet-600 text-white rounded-xl text-sm font-semibold hover:bg-violet-700 transition-colors disabled:opacity-50 shadow-sm"
+              className="inline-flex items-center gap-2 px-6 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 transition-colors disabled:opacity-50 shadow-sm"
             >
               {isProcessing ? <><RefreshCw className="w-4 h-4 animate-spin" />Converting…</> : <>Convert to SVG</>}
             </button>
@@ -264,11 +264,11 @@ export default function ImageToSvgClient() {
                     {item.status === "done" && (
                       <>
                         <span className="text-xs text-gray-400">→</span>
-                        <span className="text-xs font-medium text-violet-600">{formatBytes(item.svgSize)} SVG</span>
+                        <span className="text-xs font-medium text-blue-600">{formatBytes(item.svgSize)} SVG</span>
                       </>
                     )}
                     {item.status === "processing" && (
-                      <span className="text-xs text-violet-500 flex items-center gap-1">
+                      <span className="text-xs text-blue-500 flex items-center gap-1">
                         <RefreshCw className="w-3 h-3 animate-spin" />Converting…
                       </span>
                     )}
@@ -282,7 +282,7 @@ export default function ImageToSvgClient() {
 
                 <div className="flex items-center gap-1 flex-shrink-0">
                   {item.status === "done" && (
-                    <button onClick={() => downloadOne(item)} className="p-2 rounded-lg hover:bg-violet-50 text-violet-600 transition-colors" title="Download SVG">
+                    <button onClick={() => downloadOne(item)} className="p-2 rounded-lg hover:bg-blue-50 text-blue-600 transition-colors" title="Download SVG">
                       <Download className="w-4 h-4" />
                     </button>
                   )}

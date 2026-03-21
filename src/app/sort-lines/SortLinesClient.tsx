@@ -84,7 +84,7 @@ export default function SortLinesClient() {
             <select
               value={mode}
               onChange={(e) => { setMode(e.target.value as SortMode); if (e.target.value === "random") setShuffleKey((k) => k + 1); }}
-              className="block px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
+              className="block px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
             >
               {SORT_OPTIONS.map((o) => (
                 <option key={o.value} value={o.value}>{o.label}</option>
@@ -94,7 +94,7 @@ export default function SortLinesClient() {
           {mode === "random" && (
             <button
               onClick={() => setShuffleKey((k) => k + 1)}
-              className="px-4 py-2 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 transition-colors"
+              className="px-4 py-2 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 transition-colors"
             >
               Reshuffle
             </button>
@@ -102,15 +102,15 @@ export default function SortLinesClient() {
         </div>
         <div className="flex flex-wrap gap-4">
           <label className="flex items-center gap-2 cursor-pointer select-none">
-            <input type="checkbox" checked={caseSensitive} onChange={(e) => setCaseSensitive(e.target.checked)} className="w-4 h-4 accent-indigo-600 rounded" />
+            <input type="checkbox" checked={caseSensitive} onChange={(e) => setCaseSensitive(e.target.checked)} className="w-4 h-4 accent-blue-600 rounded" />
             <span className="text-sm text-gray-700">Case sensitive</span>
           </label>
           <label className="flex items-center gap-2 cursor-pointer select-none">
-            <input type="checkbox" checked={removeEmpty} onChange={(e) => setRemoveEmpty(e.target.checked)} className="w-4 h-4 accent-indigo-600 rounded" />
+            <input type="checkbox" checked={removeEmpty} onChange={(e) => setRemoveEmpty(e.target.checked)} className="w-4 h-4 accent-blue-600 rounded" />
             <span className="text-sm text-gray-700">Remove empty lines</span>
           </label>
           <label className="flex items-center gap-2 cursor-pointer select-none">
-            <input type="checkbox" checked={removeDups} onChange={(e) => setRemoveDups(e.target.checked)} className="w-4 h-4 accent-indigo-600 rounded" />
+            <input type="checkbox" checked={removeDups} onChange={(e) => setRemoveDups(e.target.checked)} className="w-4 h-4 accent-blue-600 rounded" />
             <span className="text-sm text-gray-700">Remove duplicates</span>
           </label>
         </div>
@@ -125,7 +125,7 @@ export default function SortLinesClient() {
             onChange={(e) => setInput(e.target.value)}
             placeholder="Paste lines to sort..."
             rows={14}
-            className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm font-mono focus:outline-none focus:ring-2 focus:ring-indigo-500 resize-y"
+            className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm font-mono focus:outline-none focus:ring-2 focus:ring-blue-500 resize-y"
           />
           {input && <p className="text-xs text-gray-400">{input.split("\n").length} lines</p>}
         </div>
@@ -135,7 +135,7 @@ export default function SortLinesClient() {
             <button
               onClick={copy}
               disabled={!output}
-              className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-semibold rounded-lg border border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 disabled:opacity-40 transition-all"
+              className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-semibold rounded-lg border border-gray-200 hover:border-blue-400 hover:bg-blue-50 disabled:opacity-40 transition-all"
             >
               {copied ? <Check className="w-3 h-3 text-green-500" /> : <Copy className="w-3 h-3" />}
               {copied ? "Copied" : "Copy"}

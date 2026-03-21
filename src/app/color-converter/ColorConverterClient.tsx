@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useCallback, useEffect } from "react";
-import { Copy, Check, Pipette } from "lucide-react";
+import { Copy, Check } from "lucide-react";
 
 // ─── Conversion Functions ─────────────────────────────────────────────────────
 
@@ -325,25 +325,7 @@ export default function ColorConverterClient() {
   ];
 
   return (
-    <div className="min-h-screen bg-gray-50">
-      {/* Header */}
-      <div className="bg-white border-b border-gray-200 py-8">
-        <div className="max-w-3xl mx-auto px-4 text-center">
-          <div className="inline-flex items-center gap-2 px-3 py-1 bg-blue-50 text-blue-600 rounded-full text-xs font-medium mb-3">
-            <Pipette className="w-3.5 h-3.5" />
-            Color Converter
-          </div>
-          <h1 className="text-3xl font-bold text-gray-900 mb-2">
-            Color Code Converter
-          </h1>
-          <p className="text-gray-500 text-sm">
-            Convert between HEX, RGB, HSL, and CMYK instantly. Click the color
-            picker or type any format.
-          </p>
-        </div>
-      </div>
-
-      <div className="max-w-3xl mx-auto px-4 py-10 space-y-6">
+    <div className="space-y-6">
         {/* ── Color Picker + Swatch ── */}
         <div className="bg-white rounded-2xl border border-gray-200 overflow-hidden shadow-sm">
           {/* Large swatch */}
@@ -541,7 +523,6 @@ export default function ColorConverterClient() {
             </div>
           )}
         </div>
-      </div>
     </div>
   );
 }

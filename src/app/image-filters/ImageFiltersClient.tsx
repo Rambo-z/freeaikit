@@ -86,7 +86,10 @@ export default function ImageFiltersClient() {
       ctx.filter = filterString;
       ctx.drawImage(img, 0, 0);
       canvas.toBlob((blob) => {
-        if (!blob) return;
+        if (!blob) {
+          setIsDownloading(false);
+          return;
+        }
         const url = URL.createObjectURL(blob);
         const a = document.createElement("a");
         a.href = url;
@@ -105,16 +108,16 @@ export default function ImageFiltersClient() {
         onDragOver={(e) => { e.preventDefault(); setIsDragging(true); }}
         onDragLeave={(e) => { if (!e.currentTarget.contains(e.relatedTarget as Node)) setIsDragging(false); }}
         onClick={() => fileInputRef.current?.click()}
-        className={`border-2 border-dashed rounded-2xl p-10 sm:p-16 text-center cursor-pointer transition-all bg-white ${isDragging ? "border-indigo-500 bg-indigo-50" : "border-gray-200 hover:border-indigo-400 hover:bg-indigo-50/30"}`}
+        className={`border-2 border-dashed rounded-2xl p-10 sm:p-16 text-center cursor-pointer transition-all bg-white ${isDragging ? "border-blue-500 bg-blue-50" : "border-gray-200 hover:border-blue-400 hover:bg-blue-50/30"}`}
       >
-        <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${isDragging ? "bg-indigo-100" : "bg-indigo-50"}`}>
-          <ImageIcon className={`w-7 h-7 ${isDragging ? "text-indigo-600" : "text-indigo-400"}`} />
+        <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${isDragging ? "bg-blue-100" : "bg-blue-50"}`}>
+          <ImageIcon className={`w-7 h-7 ${isDragging ? "text-blue-600" : "text-blue-400"}`} />
         </div>
         {isDragging ? (
-          <p className="text-lg font-semibold text-indigo-600">Drop image here</p>
+          <p className="text-lg font-semibold text-blue-600">Drop image here</p>
         ) : (
           <>
-            <button className="px-6 py-3 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-500/25 mb-3">Upload Image</button>
+            <button className="px-6 py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 transition-colors shadow-lg shadow-blue-500/25 mb-3">Upload Image</button>
             <p className="text-sm text-gray-500 mb-1">or drag & drop</p>
           </>
         )}
@@ -151,7 +154,7 @@ export default function ImageFiltersClient() {
         <button
           onClick={handleDownload}
           disabled={isDownloading}
-          className="w-full inline-flex items-center justify-center gap-2 px-6 py-3 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 disabled:opacity-60 transition-colors shadow-sm shadow-indigo-500/20"
+          className="w-full inline-flex items-center justify-center gap-2 px-6 py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 disabled:opacity-60 transition-colors shadow-sm shadow-blue-500/20"
         >
           {isDownloading ? <RefreshCw className="w-4 h-4 animate-spin" /> : <Download className="w-4 h-4" />}
           {isDownloading ? "Preparing…" : "Download Filtered Image"}
@@ -170,7 +173,7 @@ export default function ImageFiltersClient() {
                 onClick={() => setFilters({ ...p.values })}
                 className={`px-3 py-2 rounded-xl text-xs font-semibold border transition-all ${
                   JSON.stringify(filters) === JSON.stringify(p.values)
-                    ? "border-indigo-500 bg-indigo-50 text-indigo-700"
+                    ? "border-blue-500 bg-blue-50 text-blue-700"
                     : "border-gray-200 text-gray-600 hover:border-gray-300"
                 }`}
               >
@@ -186,7 +189,7 @@ export default function ImageFiltersClient() {
             <h3 className="text-sm font-semibold text-gray-700">Adjustments</h3>
             {!isDefault && (
               <button onClick={() => setFilters({ ...DEFAULTS })}
-                className="text-xs text-indigo-600 hover:text-indigo-800 font-medium">
+                className="text-xs text-blue-600 hover:text-blue-800 font-medium">
                 Reset all
               </button>
             )}
@@ -206,12 +209,12 @@ export default function ImageFiltersClient() {
                 step={step}
                 value={filters[key]}
                 onChange={(e) => setFilters((f) => ({ ...f, [key]: Number(e.target.value) }))}
-                className="w-full h-1.5 rounded-full accent-indigo-600 cursor-pointer"
+                className="w-full h-1.5 rounded-full accent-blue-600 cursor-pointer"
               />
               {filters[key] !== def && (
                 <button
                   onClick={() => setFilters((f) => ({ ...f, [key]: def }))}
-                  className="text-[10px] text-gray-400 hover:text-indigo-500"
+                  className="text-[10px] text-gray-400 hover:text-blue-500"
                 >
                   Reset
                 </button>

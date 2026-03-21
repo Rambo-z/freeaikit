@@ -106,7 +106,7 @@ export default function Base64ImageClient() {
         {(["encode", "decode"] as Tab[]).map((t) => (
           <button key={t} onClick={() => setTab(t)}
             className={`px-6 py-2.5 rounded-xl text-sm font-semibold border transition-all capitalize ${
-              tab === t ? "border-indigo-500 bg-indigo-50 text-indigo-700" : "border-gray-200 text-gray-500 hover:border-gray-300"
+              tab === t ? "border-blue-500 bg-blue-50 text-blue-700" : "border-gray-200 text-gray-500 hover:border-gray-300"
             }`}>
             {t === "encode" ? "Image → Base64" : "Base64 → Image"}
           </button>
@@ -121,17 +121,17 @@ export default function Base64ImageClient() {
               onDrop={handleDrop} onDragOver={handleDragOver} onDragLeave={handleDragLeave}
               onClick={() => fileInputRef.current?.click()}
               className={`border-2 border-dashed rounded-2xl p-8 sm:p-12 text-center cursor-pointer transition-all duration-200 bg-white ${
-                isDragging ? "border-indigo-500 bg-indigo-50 scale-[1.02]" : "border-gray-200 hover:border-indigo-400 hover:bg-indigo-50/30"
+                isDragging ? "border-blue-500 bg-blue-50 scale-[1.02]" : "border-gray-200 hover:border-blue-400 hover:bg-blue-50/30"
               }`}
             >
-              <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${isDragging ? "bg-indigo-100" : "bg-indigo-50"}`}>
-                <ImageIcon className={`w-7 h-7 ${isDragging ? "text-indigo-600" : "text-indigo-500"}`} />
+              <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${isDragging ? "bg-blue-100" : "bg-blue-50"}`}>
+                <ImageIcon className={`w-7 h-7 ${isDragging ? "text-blue-600" : "text-blue-500"}`} />
               </div>
               {isDragging ? (
-                <p className="text-lg font-semibold text-indigo-600">Drop image here</p>
+                <p className="text-lg font-semibold text-blue-600">Drop image here</p>
               ) : (
                 <>
-                  <button className="px-6 py-3 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-500/25 mb-3">
+                  <button className="px-6 py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 transition-colors shadow-lg shadow-blue-500/25 mb-3">
                     Upload Image
                   </button>
                   <p className="text-sm text-gray-500 mb-1">or drop file here</p>
@@ -163,7 +163,7 @@ export default function Base64ImageClient() {
                   <h3 className="text-sm font-semibold text-gray-700">Base64 Output</h3>
                   {encodeBase64 && (
                     <button onClick={copyBase64}
-                      className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 transition-all">
+                      className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-blue-400 hover:bg-blue-50 transition-all">
                       {encodeCopied ? <Check className="w-3.5 h-3.5 text-green-500" /> : <Copy className="w-3.5 h-3.5" />}
                       {encodeCopied ? "Copied!" : "Copy"}
                     </button>
@@ -201,14 +201,14 @@ export default function Base64ImageClient() {
                 onChange={(e) => { setDecodeInput(e.target.value); setDecodeError(""); setDecodeImageUrl(null); }}
                 placeholder="data:image/png;base64,iVBORw0KGgo... or just the raw base64 string"
                 rows={6}
-                className="w-full px-3 py-2 border border-gray-200 rounded-xl text-xs font-mono focus:outline-none focus:ring-2 focus:ring-indigo-500 resize-none"
+                className="w-full px-3 py-2 border border-gray-200 rounded-xl text-xs font-mono focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none"
               />
             </div>
             {decodeError && (
               <p className="text-sm text-red-500">{decodeError}</p>
             )}
             <button onClick={handleDecode} disabled={!decodeInput.trim()}
-              className="inline-flex items-center gap-2 px-6 py-2.5 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 disabled:opacity-50 transition-colors shadow-sm">
+              className="inline-flex items-center gap-2 px-6 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 disabled:opacity-50 transition-colors shadow-sm">
               <Upload className="w-4 h-4" />Decode Image
             </button>
           </div>
@@ -218,7 +218,7 @@ export default function Base64ImageClient() {
               <div className="flex items-center justify-between">
                 <h3 className="text-sm font-semibold text-gray-700">Decoded Image</h3>
                 <button onClick={downloadDecoded}
-                  className="inline-flex items-center gap-1.5 px-4 py-2 bg-indigo-600 text-white rounded-xl text-xs font-semibold hover:bg-indigo-700 transition-colors shadow-sm">
+                  className="inline-flex items-center gap-1.5 px-4 py-2 bg-blue-600 text-white rounded-xl text-xs font-semibold hover:bg-blue-700 transition-colors shadow-sm">
                   <Download className="w-3.5 h-3.5" />Download PNG
                 </button>
               </div>

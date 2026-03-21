@@ -87,7 +87,7 @@ export default function JsonFormatterClient() {
             <select
               value={indent}
               onChange={(e) => setIndent(Number(e.target.value))}
-              className="text-xs border border-gray-200 rounded-lg px-2 py-1 focus:outline-none focus:ring-1 focus:ring-indigo-400"
+              className="text-xs border border-gray-200 rounded-lg px-2 py-1 focus:outline-none focus:ring-1 focus:ring-blue-400"
             >
               <option value={2}>2 spaces</option>
               <option value={4}>4 spaces</option>
@@ -117,7 +117,7 @@ export default function JsonFormatterClient() {
           placeholder={`Paste your JSON here...\n\n{\n  "name": "FreeAIKit",\n  "free": true,\n  "tools": 16\n}`}
           rows={10}
           spellCheck={false}
-          className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm font-mono focus:outline-none focus:ring-2 focus:ring-indigo-500 resize-y"
+          className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm font-mono focus:outline-none focus:ring-2 focus:ring-blue-500 resize-y"
         />
 
         {error && (
@@ -130,7 +130,7 @@ export default function JsonFormatterClient() {
           <button
             onClick={() => process(input, "format")}
             disabled={!input.trim()}
-            className="inline-flex items-center gap-2 px-5 py-2.5 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 disabled:opacity-50 transition-colors shadow-sm shadow-indigo-500/20"
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 disabled:opacity-50 transition-colors shadow-sm shadow-blue-500/20"
           >
             <Braces className="w-4 h-4" />
             Format / Beautify
@@ -173,7 +173,7 @@ export default function JsonFormatterClient() {
             <div className="flex gap-2">
               <button
                 onClick={copy}
-                className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 transition-all"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-blue-400 hover:bg-blue-50 transition-all"
               >
                 {copied ? (
                   <Check className="w-3.5 h-3.5 text-green-500" />
@@ -184,7 +184,7 @@ export default function JsonFormatterClient() {
               </button>
               <button
                 onClick={download}
-                className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 transition-all"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-blue-400 hover:bg-blue-50 transition-all"
               >
                 <Download className="w-3.5 h-3.5" />
                 Download

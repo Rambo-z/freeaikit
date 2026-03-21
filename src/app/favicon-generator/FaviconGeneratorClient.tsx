@@ -84,13 +84,18 @@ export default function FaviconGeneratorClient() {
   const handleDownloadAll = useCallback(async () => {
     if (!imageSrc) return;
     setDownloading("all");
-    for (const { size } of SIZES) {
-      const blob = await generateFaviconBlob(imageSrc, size, useBg ? bgColor : null);
-      const filename = size === 180 ? "apple-touch-icon.png" : `favicon-${size}x${size}.png`;
-      downloadBlob(blob, filename);
-      await new Promise((r) => setTimeout(r, 150));
+    try {
+      for (const { size } of SIZES) {
+        const blob = await generateFaviconBlob(imageSrc, size, useBg ? bgColor : null);
+        const filename = size === 180 ? "apple-touch-icon.png" : `favicon-${size}x${size}.png`;
+        downloadBlob(blob, filename);
+        await new Promise((r) => setTimeout(r, 150));
+      }
+    } catch {
+      // individual downloads may still succeed
+    } finally {
+      setDownloading(null);
     }
-    setDownloading(null);
   }, [imageSrc, useBg, bgColor]);
 
   if (!imageSrc) {
@@ -100,16 +105,16 @@ export default function FaviconGeneratorClient() {
         onDragOver={(e) => { e.preventDefault(); setIsDragging(true); }}
         onDragLeave={(e) => { if (!e.currentTarget.contains(e.relatedTarget as Node)) setIsDragging(false); }}
         onClick={() => fileInputRef.current?.click()}
-        className={`border-2 border-dashed rounded-2xl p-10 sm:p-16 text-center cursor-pointer transition-all bg-white ${isDragging ? "border-indigo-500 bg-indigo-50" : "border-gray-200 hover:border-indigo-400 hover:bg-indigo-50/30"}`}
+        className={`border-2 border-dashed rounded-2xl p-10 sm:p-16 text-center cursor-pointer transition-all bg-white ${isDragging ? "border-blue-500 bg-blue-50" : "border-gray-200 hover:border-blue-400 hover:bg-blue-50/30"}`}
       >
-        <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${isDragging ? "bg-indigo-100" : "bg-indigo-50"}`}>
-          <ImageIcon className={`w-7 h-7 ${isDragging ? "text-indigo-600" : "text-indigo-400"}`} />
+        <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${isDragging ? "bg-blue-100" : "bg-blue-50"}`}>
+          <ImageIcon className={`w-7 h-7 ${isDragging ? "text-blue-600" : "text-blue-400"}`} />
         </div>
         {isDragging ? (
-          <p className="text-lg font-semibold text-indigo-600">Drop image here</p>
+          <p className="text-lg font-semibold text-blue-600">Drop image here</p>
         ) : (
           <>
-            <button className="px-6 py-3 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-500/25 mb-3">Upload Image</button>
+            <button className="px-6 py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 transition-colors shadow-lg shadow-blue-500/25 mb-3">Upload Image</button>
             <p className="text-sm text-gray-500 mb-1">or drag & drop</p>
           </>
         )}
@@ -130,7 +135,7 @@ export default function FaviconGeneratorClient() {
               id="useBg"
               checked={useBg}
               onChange={(e) => setUseBg(e.target.checked)}
-              className="w-4 h-4 accent-indigo-600 cursor-pointer"
+              className="w-4 h-4 accent-blue-600 cursor-pointer"
             />
             <label htmlFor="useBg" className="text-sm text-gray-700 cursor-pointer">
               Fill background color
@@ -152,7 +157,7 @@ export default function FaviconGeneratorClient() {
           <button
             onClick={handleDownloadAll}
             disabled={downloading !== null}
-            className="inline-flex items-center gap-2 px-5 py-2.5 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 disabled:opacity-60 transition-colors shadow-sm shadow-indigo-500/20"
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 disabled:opacity-60 transition-colors shadow-sm shadow-blue-500/20"
           >
             <Download className="w-4 h-4" />
             {downloading === "all" ? "Downloading…" : "Download All"}
@@ -195,7 +200,7 @@ export default function FaviconGeneratorClient() {
             <button
               onClick={() => handleDownload(size)}
               disabled={downloading !== null}
-              className="w-full inline-flex items-center justify-center gap-1.5 px-3 py-2 text-xs font-semibold border border-gray-200 rounded-xl hover:border-indigo-400 hover:bg-indigo-50 disabled:opacity-50 transition-all"
+              className="w-full inline-flex items-center justify-center gap-1.5 px-3 py-2 text-xs font-semibold border border-gray-200 rounded-xl hover:border-blue-400 hover:bg-blue-50 disabled:opacity-50 transition-all"
             >
               <Download className="w-3.5 h-3.5" />
               {downloading === size ? "…" : "Download"}

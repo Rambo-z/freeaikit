@@ -16,6 +16,7 @@ export default function PdfToImagesClient() {
   const [isDragging, setIsDragging] = useState(false);
   const [isProcessing, setIsProcessing] = useState(false);
   const [progress, setProgress] = useState("");
+  const [error, setError] = useState("");
   const [pages, setPages] = useState<PageResult[]>([]);
   const [format, setFormat] = useState<Format>("jpeg");
   const [dpi, setDpi] = useState(150);
@@ -24,7 +25,7 @@ export default function PdfToImagesClient() {
 
   const handleFile = useCallback((f: File) => {
     if (f.type === "application/pdf" || f.name.endsWith(".pdf")) {
-      setFile(f); setPages([]); setProgress("");
+      setFile(f); setPages([]); setProgress(""); setError("");
     }
   }, []);
 
@@ -45,6 +46,7 @@ export default function PdfToImagesClient() {
     if (!file) return;
     setIsProcessing(true);
     setPages([]);
+    setError("");
     try {
       const { getDocument, GlobalWorkerOptions } = await import("pdfjs-dist");
       GlobalWorkerOptions.workerSrc = "/pdf.worker.min.mjs";
@@ -72,7 +74,7 @@ export default function PdfToImagesClient() {
       }
       setProgress("");
     } catch (err) {
-      setProgress("Error: " + (err instanceof Error ? err.message : String(err)));
+      setError(err instanceof Error ? err.message : String(err));
     }
     setIsProcessing(false);
   }, [file, dpi, format, quality]);
@@ -91,7 +93,7 @@ export default function PdfToImagesClient() {
     for (const p of pages) { downloadOne(p); await new Promise((r) => setTimeout(r, 100)); }
   }, [pages, downloadOne]);
 
-  const reset = useCallback(() => { setFile(null); setPages([]); setProgress(""); }, []);
+  const reset = useCallback(() => { setFile(null); setPages([]); setProgress(""); setError(""); }, []);
 
   return (
     <div className="space-y-6">
@@ -101,17 +103,17 @@ export default function PdfToImagesClient() {
           onDrop={handleDrop} onDragOver={handleDragOver} onDragLeave={handleDragLeave}
           onClick={() => fileInputRef.current?.click()}
           className={`border-2 border-dashed rounded-2xl p-8 sm:p-12 text-center cursor-pointer transition-all duration-200 bg-white ${
-            isDragging ? "border-indigo-500 bg-indigo-50 scale-[1.02]" : "border-gray-200 hover:border-indigo-400 hover:bg-indigo-50/30"
+            isDragging ? "border-blue-500 bg-blue-50 scale-[1.02]" : "border-gray-200 hover:border-blue-400 hover:bg-blue-50/30"
           }`}
         >
-          <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${isDragging ? "bg-indigo-100" : "bg-indigo-50"}`}>
-            <FileText className={`w-7 h-7 ${isDragging ? "text-indigo-600" : "text-indigo-500"}`} />
+          <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${isDragging ? "bg-blue-100" : "bg-blue-50"}`}>
+            <FileText className={`w-7 h-7 ${isDragging ? "text-blue-600" : "text-blue-500"}`} />
           </div>
           {isDragging ? (
-            <p className="text-lg font-semibold text-indigo-600">Drop PDF here</p>
+            <p className="text-lg font-semibold text-blue-600">Drop PDF here</p>
           ) : (
             <>
-              <button className="px-6 py-3 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-500/25 mb-3">
+              <button className="px-6 py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 transition-colors shadow-lg shadow-blue-500/25 mb-3">
                 Upload PDF
               </button>
               <p className="text-sm text-gray-500 mb-1">or drop file here</p>
@@ -123,8 +125,8 @@ export default function PdfToImagesClient() {
       ) : (
         <div className="bg-white rounded-2xl border border-gray-200 p-5 space-y-5">
           {/* File info */}
-          <div className="flex items-center gap-3 p-3 bg-indigo-50 rounded-xl">
-            <FileText className="w-5 h-5 text-indigo-500 flex-shrink-0" />
+          <div className="flex items-center gap-3 p-3 bg-blue-50 rounded-xl">
+            <FileText className="w-5 h-5 text-blue-500 flex-shrink-0" />
             <p className="text-sm font-medium text-gray-800 flex-1 truncate">{file.name}</p>
             <button onClick={reset} className="p-1.5 rounded-lg hover:bg-red-50 text-gray-400 hover:text-red-500 transition-colors">
               <Trash2 className="w-4 h-4" />
@@ -139,7 +141,7 @@ export default function PdfToImagesClient() {
                 {(["jpeg", "png"] as Format[]).map((f) => (
                   <button key={f} onClick={() => setFormat(f)}
                     className={`px-4 py-1.5 rounded-lg text-xs font-semibold border uppercase transition-all ${
-                      format === f ? "border-indigo-500 bg-indigo-50 text-indigo-700" : "border-gray-200 text-gray-500"
+                      format === f ? "border-blue-500 bg-blue-50 text-blue-700" : "border-gray-200 text-gray-500"
                     }`}
                   >{f}</button>
                 ))}
@@ -148,13 +150,13 @@ export default function PdfToImagesClient() {
             <div>
               <label className="block text-xs font-medium text-gray-500 mb-1.5">Resolution — {dpi} DPI</label>
               <input type="range" min={72} max={300} step={1} value={dpi} onChange={(e) => setDpi(Number(e.target.value))}
-                className="w-full accent-indigo-600" />
+                className="w-full accent-blue-600" />
             </div>
             {format === "jpeg" && (
               <div>
                 <label className="block text-xs font-medium text-gray-500 mb-1.5">Quality — {quality}%</label>
                 <input type="range" min={10} max={100} value={quality} onChange={(e) => setQuality(Number(e.target.value))}
-                  className="w-full accent-indigo-600" />
+                  className="w-full accent-blue-600" />
               </div>
             )}
           </div>
@@ -162,7 +164,7 @@ export default function PdfToImagesClient() {
           {/* Actions */}
           <div className="flex flex-wrap gap-3 pt-2 border-t border-gray-100">
             <button onClick={convert} disabled={isProcessing}
-              className="inline-flex items-center gap-2 px-6 py-2.5 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 disabled:opacity-50 transition-colors shadow-sm"
+              className="inline-flex items-center gap-2 px-6 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 disabled:opacity-50 transition-colors shadow-sm"
             >
               {isProcessing
                 ? <><RefreshCw className="w-4 h-4 animate-spin" />{progress || "Converting…"}</>
@@ -176,6 +178,13 @@ export default function PdfToImagesClient() {
               </button>
             )}
           </div>
+
+          {/* Error */}
+          {error && (
+            <div className="p-4 bg-red-50 rounded-xl">
+              <p className="text-sm text-red-600">{error}</p>
+            </div>
+          )}
         </div>
       )}
 
@@ -188,7 +197,7 @@ export default function PdfToImagesClient() {
               <img src={p.dataUrl} alt={`Page ${p.pageNum}`} className="w-full aspect-[3/4] object-contain bg-gray-50 rounded-lg mb-2" />
               <div className="flex items-center justify-between">
                 <span className="text-xs text-gray-500">Page {p.pageNum}</span>
-                <button onClick={() => downloadOne(p)} className="p-1.5 rounded-lg hover:bg-indigo-50 text-indigo-600 transition-colors">
+                <button onClick={() => downloadOne(p)} className="p-1.5 rounded-lg hover:bg-blue-50 text-blue-600 transition-colors">
                   <Download className="w-3.5 h-3.5" />
                 </button>
               </div>

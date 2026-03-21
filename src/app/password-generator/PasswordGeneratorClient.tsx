@@ -92,12 +92,12 @@ export default function PasswordGeneratorClient() {
         <div className="space-y-2">
           <div className="flex items-center justify-between">
             <label className="text-sm font-semibold text-gray-700">Password Length</label>
-            <span className="text-sm font-bold font-mono text-indigo-600 w-8 text-center">{opts.length}</span>
+            <span className="text-sm font-bold font-mono text-blue-600 w-8 text-center">{opts.length}</span>
           </div>
           <input
             type="range" min={6} max={64} step={1} value={opts.length}
             onChange={(e) => setOpts((o) => ({ ...o, length: Number(e.target.value) }))}
-            className="w-full h-2 rounded-full accent-indigo-600 cursor-pointer"
+            className="w-full h-2 rounded-full accent-blue-600 cursor-pointer"
           />
           <div className="flex justify-between text-xs text-gray-400">
             <span>6</span><span>16</span><span>32</span><span>64</span>
@@ -118,7 +118,7 @@ export default function PasswordGeneratorClient() {
                 type="checkbox"
                 checked={opts[key] as boolean}
                 onChange={() => toggle(key)}
-                className="w-4 h-4 accent-indigo-600 rounded"
+                className="w-4 h-4 accent-blue-600 rounded"
               />
               <span className="text-sm text-gray-700">{label}</span>
             </label>
@@ -129,7 +129,7 @@ export default function PasswordGeneratorClient() {
         <button
           onClick={() => generate(5)}
           disabled={!hasValidChars}
-          className="w-full inline-flex items-center justify-center gap-2 py-3 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 disabled:opacity-50 transition-colors shadow-sm shadow-indigo-500/20"
+          className="w-full inline-flex items-center justify-center gap-2 py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 disabled:opacity-50 transition-colors shadow-sm shadow-blue-500/20"
         >
           <RefreshCw className="w-4 h-4" />
           Generate Passwords
@@ -171,7 +171,7 @@ export default function PasswordGeneratorClient() {
                 </span>
                 <button
                   onClick={() => copy(pw, i)}
-                  className="shrink-0 inline-flex items-center gap-1 px-2.5 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 transition-all opacity-0 group-hover:opacity-100"
+                  className="shrink-0 inline-flex items-center gap-1 px-2.5 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-blue-400 hover:bg-blue-50 transition-all opacity-0 group-hover:opacity-100"
                 >
                   {copied === i ? <Check className="w-3.5 h-3.5 text-green-500" /> : <Copy className="w-3.5 h-3.5" />}
                   {copied === i ? "Copied" : "Copy"}

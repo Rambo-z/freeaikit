@@ -92,7 +92,7 @@ export default function TextCaseClient() {
           onChange={(e) => setInput(e.target.value)}
           placeholder="Type or paste your text here…"
           rows={4}
-          className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm font-mono focus:outline-none focus:ring-2 focus:ring-indigo-500 resize-none"
+          className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm font-mono focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none"
         />
         {input && (
           <p className="text-xs text-gray-400">
@@ -118,7 +118,7 @@ export default function TextCaseClient() {
                 <button
                   onClick={() => copy(key, value)}
                   disabled={!value}
-                  className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-semibold rounded-lg border border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 disabled:opacity-40 transition-all"
+                  className="inline-flex items-center gap-1 px-2.5 py-1 text-xs font-semibold rounded-lg border border-gray-200 hover:border-blue-400 hover:bg-blue-50 disabled:opacity-40 transition-all"
                 >
                   {isCopied ? (
                     <Check className="w-3 h-3 text-green-500" />

@@ -70,7 +70,7 @@ export default function WordCounterClient() {
           onChange={(e) => setText(e.target.value)}
           placeholder="Paste or type your text here…"
           rows={10}
-          className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 resize-y"
+          className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 resize-y"
         />
         {text && (
           <button
@@ -107,7 +107,7 @@ export default function WordCounterClient() {
                   <span className="w-28 text-sm font-mono text-gray-700 truncate">{word}</span>
                   <div className="flex-1 bg-gray-100 rounded-full h-2 overflow-hidden">
                     <div
-                      className="h-full bg-indigo-500 rounded-full transition-all"
+                      className="h-full bg-blue-500 rounded-full transition-all"
                       style={{ width: `${pct}%` }}
                     />
                   </div>

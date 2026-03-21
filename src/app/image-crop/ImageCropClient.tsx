@@ -152,16 +152,16 @@ export default function ImageCropClient() {
         onDragOver={(e) => { e.preventDefault(); setIsDragging(true); }}
         onDragLeave={(e) => { if (!e.currentTarget.contains(e.relatedTarget as Node)) setIsDragging(false); }}
         onClick={() => fileInputRef.current?.click()}
-        className={`border-2 border-dashed rounded-2xl p-10 sm:p-16 text-center cursor-pointer transition-all duration-200 bg-white ${isDragging ? "border-indigo-500 bg-indigo-50 scale-[1.01]" : "border-gray-200 hover:border-indigo-400 hover:bg-indigo-50/30"}`}
+        className={`border-2 border-dashed rounded-2xl p-10 sm:p-16 text-center cursor-pointer transition-all duration-200 bg-white ${isDragging ? "border-blue-500 bg-blue-50 scale-[1.01]" : "border-gray-200 hover:border-blue-400 hover:bg-blue-50/30"}`}
       >
-        <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${isDragging ? "bg-indigo-100" : "bg-indigo-50"}`}>
-          <ImageIcon className={`w-7 h-7 ${isDragging ? "text-indigo-600" : "text-indigo-400"}`} />
+        <div className={`w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4 ${isDragging ? "bg-blue-100" : "bg-blue-50"}`}>
+          <ImageIcon className={`w-7 h-7 ${isDragging ? "text-blue-600" : "text-blue-400"}`} />
         </div>
         {isDragging ? (
-          <p className="text-lg font-semibold text-indigo-600">Drop image here</p>
+          <p className="text-lg font-semibold text-blue-600">Drop image here</p>
         ) : (
           <>
-            <button className="px-6 py-3 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 transition-colors shadow-lg shadow-indigo-500/25 mb-3">
+            <button className="px-6 py-3 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 transition-colors shadow-lg shadow-blue-500/25 mb-3">
               Upload Image
             </button>
             <p className="text-sm text-gray-500 mb-1">or drag & drop</p>
@@ -182,7 +182,7 @@ export default function ImageCropClient() {
           <span className="text-xs text-gray-500 font-medium mr-1">Ratio:</span>
           {ASPECTS.map((a, i) => (
             <button key={a.label} onClick={() => handleAspectChange(i)}
-              className={`px-3 py-1.5 rounded-lg text-xs font-semibold border transition-all ${aspectKey === i ? "border-indigo-500 bg-indigo-50 text-indigo-700" : "border-gray-200 text-gray-600 hover:border-gray-300"}`}>
+              className={`px-3 py-1.5 rounded-lg text-xs font-semibold border transition-all ${aspectKey === i ? "border-blue-500 bg-blue-50 text-blue-700" : "border-gray-200 text-gray-600 hover:border-gray-300"}`}>
               {a.label}
             </button>
           ))}
@@ -247,7 +247,7 @@ export default function ImageCropClient() {
         <button
           onClick={handleDownload}
           disabled={!completedCrop || cropW === 0}
-          className="inline-flex items-center gap-2 px-6 py-2.5 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 disabled:opacity-40 transition-colors shadow-sm shadow-indigo-500/20"
+          className="inline-flex items-center gap-2 px-6 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 disabled:opacity-40 transition-colors shadow-sm shadow-blue-500/20"
         >
           <Download className="w-4 h-4" />
           Download Cropped PNG

@@ -68,7 +68,7 @@ export default function AgeCalculatorClient() {
               value={birthDate}
               onChange={(e) => setBirthDate(e.target.value)}
               max={today}
-              className="block px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
+              className="block px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
           </div>
           <div className="space-y-1">
@@ -77,7 +77,7 @@ export default function AgeCalculatorClient() {
               type="date"
               value={targetDate}
               onChange={(e) => setTargetDate(e.target.value)}
-              className="block px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
+              className="block px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
           </div>
         </div>
@@ -86,13 +86,13 @@ export default function AgeCalculatorClient() {
       {/* Main result */}
       {result && (
         <>
-          <div className="bg-indigo-50 rounded-2xl border border-indigo-200 p-6 text-center">
-            <div className="text-4xl font-extrabold text-indigo-700">
+          <div className="bg-blue-50 rounded-2xl border border-blue-200 p-6 text-center">
+            <div className="text-4xl font-extrabold text-blue-700">
               {result.years} <span className="text-lg font-semibold">years</span>{" "}
               {result.months} <span className="text-lg font-semibold">months</span>{" "}
               {result.days} <span className="text-lg font-semibold">days</span>
             </div>
-            <p className="text-sm text-indigo-500 mt-2">
+            <p className="text-sm text-blue-500 mt-2">
               Born on a {result.dayOfWeek} · {result.daysUntilBirthday} days until next birthday
             </p>
           </div>

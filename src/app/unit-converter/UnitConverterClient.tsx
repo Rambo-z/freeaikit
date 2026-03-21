@@ -159,8 +159,8 @@ export default function UnitConverterClient() {
             onClick={() => { setCategory(c.key); setFromIdx(0); setToIdx(1); }}
             className={`px-3 py-1.5 text-xs font-semibold rounded-lg transition-all ${
               category === c.key
-                ? "bg-indigo-600 text-white shadow-sm"
-                : "bg-white border border-gray-200 text-gray-600 hover:border-indigo-400"
+                ? "bg-blue-600 text-white shadow-sm"
+                : "bg-white border border-gray-200 text-gray-600 hover:border-blue-400"
             }`}
           >
             {c.label}
@@ -177,7 +177,7 @@ export default function UnitConverterClient() {
             <select
               value={fromIdx}
               onChange={(e) => setFromIdx(Number(e.target.value))}
-              className="block w-full px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
+              className="block w-full px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
             >
               {units.map((u, i) => (
                 <option key={i} value={i}>{u.name} ({u.symbol})</option>
@@ -191,13 +191,13 @@ export default function UnitConverterClient() {
               type="number"
               value={value}
               onChange={(e) => setValue(e.target.value)}
-              className="block w-full px-3 py-2 border border-gray-200 rounded-xl text-sm text-center focus:outline-none focus:ring-2 focus:ring-indigo-500"
+              className="block w-full px-3 py-2 border border-gray-200 rounded-xl text-sm text-center focus:outline-none focus:ring-2 focus:ring-blue-500"
             />
           </div>
           {/* Swap */}
           <button
             onClick={swap}
-            className="px-3 py-2 border border-gray-200 rounded-xl text-sm font-semibold hover:border-indigo-400 hover:bg-indigo-50 transition-all"
+            className="px-3 py-2 border border-gray-200 rounded-xl text-sm font-semibold hover:border-blue-400 hover:bg-blue-50 transition-all"
             title="Swap units"
           >
             ⇄
@@ -208,7 +208,7 @@ export default function UnitConverterClient() {
             <select
               value={toIdx}
               onChange={(e) => setToIdx(Number(e.target.value))}
-              className="block w-full px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500"
+              className="block w-full px-3 py-2 border border-gray-200 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
             >
               {units.map((u, i) => (
                 <option key={i} value={i}>{u.name} ({u.symbol})</option>
@@ -220,12 +220,12 @@ export default function UnitConverterClient() {
         {/* Result */}
         {result && (
           <div className="flex items-center gap-3">
-            <div className="flex-1 px-4 py-3 bg-indigo-50 rounded-xl text-center text-lg font-bold text-indigo-700">
+            <div className="flex-1 px-4 py-3 bg-blue-50 rounded-xl text-center text-lg font-bold text-blue-700">
               {value} {fromUnit.symbol} = {result} {toUnit.symbol}
             </div>
             <button
               onClick={copy}
-              className="inline-flex items-center gap-1 px-2.5 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 transition-all"
+              className="inline-flex items-center gap-1 px-2.5 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-blue-400 hover:bg-blue-50 transition-all"
             >
               {copied ? <Check className="w-3 h-3 text-green-500" /> : <Copy className="w-3 h-3" />}
               {copied ? "Copied" : "Copy"}

@@ -32,8 +32,8 @@ export default function PercentageCalculatorClient() {
 
   const cardClass = "bg-white rounded-2xl border border-gray-200 p-5 space-y-3";
   const labelClass = "text-sm font-semibold text-gray-700";
-  const inputClass = "w-28 px-3 py-2 border border-gray-200 rounded-xl text-sm text-center focus:outline-none focus:ring-2 focus:ring-indigo-500";
-  const resultClass = "px-4 py-3 bg-indigo-50 rounded-xl text-center text-lg font-bold text-indigo-700";
+  const inputClass = "w-28 px-3 py-2 border border-gray-200 rounded-xl text-sm text-center focus:outline-none focus:ring-2 focus:ring-blue-500";
+  const resultClass = "px-4 py-3 bg-blue-50 rounded-xl text-center text-lg font-bold text-blue-700";
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">

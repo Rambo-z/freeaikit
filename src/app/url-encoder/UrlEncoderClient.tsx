@@ -49,7 +49,7 @@ function CopyButton({ text }: { text: string }) {
   }, [text]);
   return (
     <button onClick={handleCopy} disabled={!text}
-      className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 disabled:opacity-40 transition-all">
+      className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-blue-400 hover:bg-blue-50 disabled:opacity-40 transition-all">
       {copied ? <Check className="w-3.5 h-3.5 text-green-500" /> : <Copy className="w-3.5 h-3.5" />}
       {copied ? "Copied!" : "Copy"}
     </button>
@@ -76,7 +76,7 @@ export default function UrlEncoderClient() {
       <div className="flex gap-2">
         {TABS.map(({ key, label }) => (
           <button key={key} onClick={() => setTab(key)}
-            className={`px-5 py-2.5 rounded-xl text-sm font-semibold border transition-all ${tab === key ? "border-indigo-500 bg-indigo-50 text-indigo-700" : "border-gray-200 text-gray-500 hover:border-gray-300"}`}>
+            className={`px-5 py-2.5 rounded-xl text-sm font-semibold border transition-all ${tab === key ? "border-blue-500 bg-blue-50 text-blue-700" : "border-gray-200 text-gray-500 hover:border-gray-300"}`}>
             {label}
           </button>
         ))}
@@ -97,7 +97,7 @@ export default function UrlEncoderClient() {
           }
           rows={4}
           spellCheck={false}
-          className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm font-mono focus:outline-none focus:ring-2 focus:ring-indigo-500 resize-none"
+          className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm font-mono focus:outline-none focus:ring-2 focus:ring-blue-500 resize-none"
         />
       </div>
 

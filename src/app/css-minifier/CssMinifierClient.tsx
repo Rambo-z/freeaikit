@@ -99,7 +99,7 @@ export default function CssMinifierClient() {
           placeholder={`.container {\n  display: flex;\n  /* center all children */\n  align-items: center;\n  justify-content: center;\n}`}
           rows={12}
           spellCheck={false}
-          className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm font-mono focus:outline-none focus:ring-2 focus:ring-indigo-500 resize-y"
+          className="w-full px-3 py-2 border border-gray-200 rounded-xl text-sm font-mono focus:outline-none focus:ring-2 focus:ring-blue-500 resize-y"
         />
 
         {inputBytes > 0 && (
@@ -112,7 +112,7 @@ export default function CssMinifierClient() {
           <button
             onClick={() => process(input, "minify")}
             disabled={!input.trim()}
-            className="inline-flex items-center gap-2 px-5 py-2.5 bg-indigo-600 text-white rounded-xl text-sm font-semibold hover:bg-indigo-700 disabled:opacity-50 transition-colors shadow-sm shadow-indigo-500/20"
+            className="inline-flex items-center gap-2 px-5 py-2.5 bg-blue-600 text-white rounded-xl text-sm font-semibold hover:bg-blue-700 disabled:opacity-50 transition-colors shadow-sm shadow-blue-500/20"
           >
             <Minimize2 className="w-4 h-4" />
             Minify CSS
@@ -156,7 +156,7 @@ export default function CssMinifierClient() {
             <div className="flex gap-2">
               <button
                 onClick={copy}
-                className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 transition-all"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-blue-400 hover:bg-blue-50 transition-all"
               >
                 {copied ? (
                   <Check className="w-3.5 h-3.5 text-green-500" />
@@ -167,7 +167,7 @@ export default function CssMinifierClient() {
               </button>
               <button
                 onClick={download}
-                className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-indigo-400 hover:bg-indigo-50 transition-all"
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded-lg border border-gray-200 hover:border-blue-400 hover:bg-blue-50 transition-all"
               >
                 <Download className="w-3.5 h-3.5" />
                 Download
