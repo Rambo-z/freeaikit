@@ -715,6 +715,20 @@ const tools = [
     ready: true,
   },
   {
+    name: "Text to Speech",
+    description:
+      "Convert text to speech online. Multiple voices, speed & pitch control. Free, runs in your browser.",
+    href: "/text-to-speech",
+    icon: Type,
+    category: "ai",
+    color: "from-teal-500 to-cyan-500",
+    bgColor: "bg-teal-50",
+    iconColor: "text-teal-600",
+    tag: "New",
+    tagColor: "bg-green-500 text-white",
+    ready: true,
+  },
+  {
     name: "GIF Maker",
     description:
       "Create animated GIFs from images. Set frame delay, quality, and loop. Download as GIF.",
@@ -761,7 +775,7 @@ const tools = [
 const stats = [
   { value: "No Limits", label: "Files Per Session", icon: Download },
   { value: "100%", label: "Free Forever", icon: DollarSign },
-  { value: "57+", label: "Online Tools", icon: Wand2 },
+  { value: "58+", label: "Online Tools", icon: Wand2 },
   { value: "0 bytes", label: "Data Uploaded", icon: Shield },
 ];
 
