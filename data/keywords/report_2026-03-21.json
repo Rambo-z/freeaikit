@@ -1,11 +1,26 @@
 {
   "date": "2026-03-21",
   "stats": {
-    "trends_total": 335,
-    "suggest_total": 964
+    "trends_total": 179,
+    "suggest_total": 1226
   },
-  "total_opportunities": 1037,
+  "total_opportunities": 1304,
   "top_50": [
+    {
+      "keyword": "hertz ai scanner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 223400,
+      "suggested_slug": "hertz-scanner",
+      "root": "scanner",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
     {
       "keyword": "watermark remover",
       "sources": [
@@ -279,21 +294,6 @@
       "competition": 0
     },
     {
-      "keyword": "ghibli ai generator free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 1450,
-      "suggested_slug": "ghibli-generator-free",
-      "root": "generator",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "img resizer",
       "sources": [
         "trends_rising"
@@ -304,6 +304,21 @@
       "already_have": false,
       "combined_score": 390,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "schema markup validator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 72100,
+      "suggested_slug": "schema-markup-validator",
+      "root": "validator",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -369,6 +384,21 @@
       "competition": 0
     },
     {
+      "keyword": "proofademic ai detector",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 27200,
+      "suggested_slug": "proofademic-detector",
+      "root": "detector",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "mixing ai analyzer",
       "sources": [
         "trends_rising"
@@ -384,6 +414,21 @@
       "competition": 0
     },
     {
+      "keyword": "internet speed tester",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 23100,
+      "suggested_slug": "internet-speed-tester",
+      "root": "tester",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "soundcloud downloader",
       "sources": [
         "trends_rising"
@@ -391,6 +436,21 @@
       "trend_score": 18550,
       "suggested_slug": "soundcloud-downloader",
       "root": "splitter",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "fps tester",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 17550,
+      "suggested_slug": "fps-tester",
+      "root": "tester",
       "already_have": false,
       "combined_score": 390,
       "difficulty": "",
@@ -429,46 +489,16 @@
       "competition": 0
     },
     {
-      "keyword": "ai app builder",
+      "keyword": "cheater scanner",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 1600,
-      "suggested_slug": "app-builder",
-      "root": "builder",
+      "trend_score": 9300,
+      "suggested_slug": "cheater-scanner",
+      "root": "scanner",
       "already_have": false,
       "combined_score": 390,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai twerk generator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 1600,
-      "suggested_slug": "twerk-generator",
-      "root": "generator",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "birth chart calculator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 1500,
-      "suggested_slug": "birth-chart-calculator",
-      "root": "calculator",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "纯前端",
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -519,27 +549,27 @@
       "competition": 0
     },
     {
+      "keyword": "face shape detector online camera",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 12050,
+      "suggested_slug": "face-shape-detector-camera",
+      "root": "detector",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "tyler, the creator sucka free",
       "sources": [
         "trends_rising"
       ],
       "trend_score": 9200,
       "suggested_slug": "tyler,-the-creator-sucka-free",
-      "root": "creator",
-      "already_have": false,
-      "combined_score": 380,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "sucka free tyler the creator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 2700,
-      "suggested_slug": "sucka-tyler-the-creator",
       "root": "creator",
       "already_have": false,
       "combined_score": 380,
@@ -574,6 +604,21 @@
       "already_have": false,
       "combined_score": 370,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "hertz ai scanner locations",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 35450,
+      "suggested_slug": "hertz-scanner-locations",
+      "root": "scanner",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需API",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -709,51 +754,6 @@
       "already_have": false,
       "combined_score": 370,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "online whiteboard",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 6000,
-      "suggested_slug": "whiteboard",
-      "root": "format",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai death prediction calculator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 4850,
-      "suggested_slug": "death-prediction-calculator",
-      "root": "calculator",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "the master builder playwright",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 3600,
-      "suggested_slug": "the-master-builder-playwright",
-      "root": "builder",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0

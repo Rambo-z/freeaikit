@@ -1,9 +1,9 @@
 {
   "date": "2026-03-21",
-  "batch": 2,
-  "total_suggestions": 964,
-  "new_opportunities": 939,
-  "existing_matches": 25,
+  "batch": 3,
+  "total_suggestions": 1226,
+  "new_opportunities": 1206,
+  "existing_matches": 20,
   "opportunities": [
     {
       "keyword": "free compression tool online",
@@ -7036,7 +7036,7 @@
     },
     {
       "keyword": "ai analyzer online free",
-      "root": "analyzer",
+      "root": "tester",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -7045,7 +7045,7 @@
     },
     {
       "keyword": "ai tester online",
-      "root": "analyzer",
+      "root": "validator",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -7063,7 +7063,7 @@
     },
     {
       "keyword": "ai tester online job",
-      "root": "analyzer",
+      "root": "tester",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -8455,6 +8455,2409 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "headline-analyzer"
+    },
+    {
+      "keyword": "free tool test",
+      "root": "checker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-test"
+    },
+    {
+      "keyword": "free ai checker tool",
+      "root": "checker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker"
+    },
+    {
+      "keyword": "free plagiarism checker tool",
+      "root": "checker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "plagiarism-checker"
+    },
+    {
+      "keyword": "free backlink checker tool",
+      "root": "checker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "backlink-checker"
+    },
+    {
+      "keyword": "free grammar checker tool",
+      "root": "checker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "grammar-checker"
+    },
+    {
+      "keyword": "free seo checker tools",
+      "root": "checker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "seo-checkers"
+    },
+    {
+      "keyword": "free da checker tool",
+      "root": "checker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "da-checker"
+    },
+    {
+      "keyword": "free domain checker tool",
+      "root": "checker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "domain-checker"
+    },
+    {
+      "keyword": "free serp checker tool",
+      "root": "checker",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "serp-checker"
+    },
+    {
+      "keyword": "ai checker online free",
+      "root": "checker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-free"
+    },
+    {
+      "keyword": "ai checker online pdf",
+      "root": "checker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-pdf"
+    },
+    {
+      "keyword": "ai checker online turnitin",
+      "root": "checker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-turnitin"
+    },
+    {
+      "keyword": "ai checker online image",
+      "root": "checker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-image"
+    },
+    {
+      "keyword": "ai checker online document",
+      "root": "checker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-document"
+    },
+    {
+      "keyword": "ai checker online job",
+      "root": "checker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-job"
+    },
+    {
+      "keyword": "ai checker online tool",
+      "root": "checker",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker"
+    },
+    {
+      "keyword": "best test generator for teachers",
+      "root": "checker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "test-generator-for-teachers"
+    },
+    {
+      "keyword": "best test generator",
+      "root": "checker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "test-generator"
+    },
+    {
+      "keyword": "best test generator app",
+      "root": "checker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "test-generator-app"
+    },
+    {
+      "keyword": "best test generator ai",
+      "root": "checker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "test-generator-ai"
+    },
+    {
+      "keyword": "best check stub generator",
+      "root": "checker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "check-stub-generator"
+    },
+    {
+      "keyword": "best free check generator front and back",
+      "root": "checker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "check-generator-front-and-back"
+    },
+    {
+      "keyword": "best ai generator checker",
+      "root": "checker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-checker"
+    },
+    {
+      "keyword": "best ai generator checker free",
+      "root": "checker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-checker-free"
+    },
+    {
+      "keyword": "check writing generator",
+      "root": "checker",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "check-writing-generator"
+    },
+    {
+      "keyword": "free compare tool",
+      "root": "comparator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compare"
+    },
+    {
+      "keyword": "free diff tool",
+      "root": "comparator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diff"
+    },
+    {
+      "keyword": "free diff tool for mac",
+      "root": "comparator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diff-for-mac"
+    },
+    {
+      "keyword": "free diff tool for windows",
+      "root": "comparator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diff-for-windows"
+    },
+    {
+      "keyword": "free compare tool for windows",
+      "root": "comparator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compare-for-windows"
+    },
+    {
+      "keyword": "free compare tool for mac",
+      "root": "comparator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compare-for-mac"
+    },
+    {
+      "keyword": "free compare tool download",
+      "root": "comparator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compare-download"
+    },
+    {
+      "keyword": "free comparison tool for car insurance",
+      "root": "comparator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison-for-car-insurance"
+    },
+    {
+      "keyword": "free diff tool macos",
+      "root": "comparator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diff-macos"
+    },
+    {
+      "keyword": "free diff tool online",
+      "root": "comparator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diff-online"
+    },
+    {
+      "keyword": "ai comparison online",
+      "root": "comparator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison-online"
+    },
+    {
+      "keyword": "diff ai online",
+      "root": "comparator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diff-online"
+    },
+    {
+      "keyword": "free ai detector tool",
+      "root": "detector",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector"
+    },
+    {
+      "keyword": "free ai detector tool for essays",
+      "root": "detector",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-for-essays"
+    },
+    {
+      "keyword": "free ai detector tool for teachers",
+      "root": "detector",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-for-teachers"
+    },
+    {
+      "keyword": "free ai detector tool online",
+      "root": "detector",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-online"
+    },
+    {
+      "keyword": "free plagiarism detector tool",
+      "root": "detector",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "plagiarism-detector"
+    },
+    {
+      "keyword": "free ai detector tool unlimited words",
+      "root": "detector",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-unlimited-words"
+    },
+    {
+      "keyword": "free ai detector tool for research paper",
+      "root": "detector",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-for-research-paper"
+    },
+    {
+      "keyword": "free ai detector tool for students",
+      "root": "detector",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-for-students"
+    },
+    {
+      "keyword": "free ai detector tool for pdf",
+      "root": "detector",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-for-pdf"
+    },
+    {
+      "keyword": "ai detector online free",
+      "root": "detector",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-free"
+    },
+    {
+      "keyword": "ai detector online image",
+      "root": "detector",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-image"
+    },
+    {
+      "keyword": "ai detector online pdf",
+      "root": "detector",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-pdf"
+    },
+    {
+      "keyword": "ai detector online check",
+      "root": "detector",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-check"
+    },
+    {
+      "keyword": "ai detector online tool",
+      "root": "detector",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector"
+    },
+    {
+      "keyword": "ai detector online text",
+      "root": "detector",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-text"
+    },
+    {
+      "keyword": "ai detector online turnitin",
+      "root": "detector",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-turnitin"
+    },
+    {
+      "keyword": "ai detector free converter",
+      "root": "detector",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-converter"
+    },
+    {
+      "keyword": "best ai detector generator",
+      "root": "detector",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-generator"
+    },
+    {
+      "keyword": "best ai text generator detector",
+      "root": "detector",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "text-generator-detector"
+    },
+    {
+      "keyword": "best free ai generator detector",
+      "root": "detector",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-detector"
+    },
+    {
+      "keyword": "best ai image generator detector",
+      "root": "detector",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator-detector"
+    },
+    {
+      "keyword": "which minelab detector is the best",
+      "root": "detector",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "which-minelab-detector-is-the-best"
+    },
+    {
+      "keyword": "free test tools",
+      "root": "tester",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tests"
+    },
+    {
+      "keyword": "free tool tester",
+      "root": "tester",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-tester"
+    },
+    {
+      "keyword": "free sample tool",
+      "root": "tester",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "sample"
+    },
+    {
+      "keyword": "free analyzer tool",
+      "root": "tester",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer"
+    },
+    {
+      "keyword": "free snmp tester tool",
+      "root": "tester",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "snmp-tester"
+    },
+    {
+      "keyword": "free email tester tool",
+      "root": "tester",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "email-tester"
+    },
+    {
+      "keyword": "free api tester tool",
+      "root": "tester",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "api-tester"
+    },
+    {
+      "keyword": "free tool samples by mail",
+      "root": "tester",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-samples-by-mail"
+    },
+    {
+      "keyword": "free test management tools",
+      "root": "tester",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "test-managements"
+    },
+    {
+      "keyword": "free smtp test tool",
+      "root": "tester",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "smtp-test"
+    },
+    {
+      "keyword": "ai test online",
+      "root": "tester",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "test-online"
+    },
+    {
+      "keyword": "ai test online free",
+      "root": "tester",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "test-free"
+    },
+    {
+      "keyword": "ai analyzer online",
+      "root": "tester",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "analyzer-online"
+    },
+    {
+      "keyword": "ai online test helper",
+      "root": "tester",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "test-helper"
+    },
+    {
+      "keyword": "ai online test answers",
+      "root": "tester",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "test-answers"
+    },
+    {
+      "keyword": "best cable tester tone generator",
+      "root": "tester",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cable-tester-tone-generator"
+    },
+    {
+      "keyword": "test names generator",
+      "root": "tester",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "test-names-generator"
+    },
+    {
+      "keyword": "free checker tool",
+      "root": "validator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker"
+    },
+    {
+      "keyword": "free email validator tool",
+      "root": "validator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "email-validator"
+    },
+    {
+      "keyword": "free phone validation tool",
+      "root": "validator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "phone-validation"
+    },
+    {
+      "keyword": "free xml validator tool",
+      "root": "validator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "xml-validator"
+    },
+    {
+      "keyword": "free address validation tool",
+      "root": "validator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "address-validation"
+    },
+    {
+      "keyword": "free data validation tools",
+      "root": "validator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "data-validations"
+    },
+    {
+      "keyword": "free bulk email validator tools",
+      "root": "validator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "bulk-email-validators"
+    },
+    {
+      "keyword": "free phone number validator tool",
+      "root": "validator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "phone-number-validator"
+    },
+    {
+      "keyword": "phone number validator free",
+      "root": "validator",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "phone-number-validator-free"
+    },
+    {
+      "keyword": "ai checker online",
+      "root": "validator",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-online"
+    },
+    {
+      "keyword": "free scan tool software",
+      "root": "scanner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scan-software"
+    },
+    {
+      "keyword": "free scan tool for car",
+      "root": "scanner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scan-for-car"
+    },
+    {
+      "keyword": "free scan tool autozone",
+      "root": "scanner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scan-autozone"
+    },
+    {
+      "keyword": "free scan tool for iphone",
+      "root": "scanner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scan-for-iphone"
+    },
+    {
+      "keyword": "free scan tool app",
+      "root": "scanner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scan-app"
+    },
+    {
+      "keyword": "free scan tool windows",
+      "root": "scanner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scan-windows"
+    },
+    {
+      "keyword": "free scan tool windows 10",
+      "root": "scanner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scan-windows-10"
+    },
+    {
+      "keyword": "free scan tool app for android",
+      "root": "scanner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scan-app-for-android"
+    },
+    {
+      "keyword": "free scan tool for pc",
+      "root": "scanner",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scan-for-pc"
+    },
+    {
+      "keyword": "ai scanner online free",
+      "root": "scanner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-free"
+    },
+    {
+      "keyword": "ai scan online",
+      "root": "scanner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scan-online"
+    },
+    {
+      "keyword": "ai image scanner online",
+      "root": "scanner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-scanner-online"
+    },
+    {
+      "keyword": "ai document scanner online",
+      "root": "scanner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "document-scanner-online"
+    },
+    {
+      "keyword": "ai skin scanner online free",
+      "root": "scanner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "skin-scanner-free"
+    },
+    {
+      "keyword": "ai photo scanner online",
+      "root": "scanner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-scanner-online"
+    },
+    {
+      "keyword": "ai makeup scanner online free",
+      "root": "scanner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "makeup-scanner-free"
+    },
+    {
+      "keyword": "ai image scanner online free",
+      "root": "scanner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-scanner-free"
+    },
+    {
+      "keyword": "ai face scanner online free",
+      "root": "scanner",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "face-scanner-free"
+    },
+    {
+      "keyword": "scanner pdf converter free download",
+      "root": "scanner",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-pdf-converter-download"
+    },
+    {
+      "keyword": "link to scanner converter free",
+      "root": "scanner",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "link-to-scanner-converter-free"
+    },
+    {
+      "keyword": "scanner to word converter free",
+      "root": "scanner",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-to-word-converter-free"
+    },
+    {
+      "keyword": "pdf converter scanner free",
+      "root": "scanner",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-converter-scanner-free"
+    },
+    {
+      "keyword": "scanner to text converter free download",
+      "root": "scanner",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-to-text-converter-download"
+    },
+    {
+      "keyword": "scanner pdf to word converter free",
+      "root": "scanner",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-pdf-to-word-converter-free"
+    },
+    {
+      "keyword": "free scanner converter",
+      "root": "scanner",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-converter"
+    },
+    {
+      "keyword": "can i scan without a scanner",
+      "root": "scanner",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "can-i-scan-without-a-scanner"
+    },
+    {
+      "keyword": "freeware diff tool",
+      "root": "diff",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "freeware-diff"
+    },
+    {
+      "keyword": "ai compare online",
+      "root": "diff",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compare-online"
+    },
+    {
+      "keyword": "ai and ar difference",
+      "root": "diff",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "and-ar-difference"
+    },
+    {
+      "keyword": "free code tools",
+      "root": "code",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "codes"
+    },
+    {
+      "keyword": "free toolset code tarkov",
+      "root": "code",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "toolset-code-tarkov"
+    },
+    {
+      "keyword": "free code analysis tools",
+      "root": "code",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-analysiss"
+    },
+    {
+      "keyword": "free code compare tool",
+      "root": "code",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-compare"
+    },
+    {
+      "keyword": "free code ai tools",
+      "root": "code",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "codes"
+    },
+    {
+      "keyword": "free no code tools",
+      "root": "code",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "no-codes"
+    },
+    {
+      "keyword": "free code compare tool for windows",
+      "root": "code",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-compare-for-windows"
+    },
+    {
+      "keyword": "free code scanning tools",
+      "root": "code",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-scannings"
+    },
+    {
+      "keyword": "free code coverage tools",
+      "root": "code",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-coverages"
+    },
+    {
+      "keyword": "ai code online free",
+      "root": "code",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-free"
+    },
+    {
+      "keyword": "ai online code editor",
+      "root": "code",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-editor"
+    },
+    {
+      "keyword": "ai online code generator",
+      "root": "code",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-generator"
+    },
+    {
+      "keyword": "ai online code editor free",
+      "root": "code",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-editor-free"
+    },
+    {
+      "keyword": "ai code detector online",
+      "root": "code",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-detector-online"
+    },
+    {
+      "keyword": "ai code assistant online",
+      "root": "code",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-assistant-online"
+    },
+    {
+      "keyword": "ai code helper online",
+      "root": "code",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-helper-online"
+    },
+    {
+      "keyword": "ai code checker online",
+      "root": "code",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-checker-online"
+    },
+    {
+      "keyword": "run ai code online",
+      "root": "code",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "run-code-online"
+    },
+    {
+      "keyword": "best code generator ai",
+      "root": "code",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-generator-ai"
+    },
+    {
+      "keyword": "best code generator app",
+      "root": "code",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-generator-app"
+    },
+    {
+      "keyword": "best code generator ai free",
+      "root": "code",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-generator-free"
+    },
+    {
+      "keyword": "best code generator ai tool",
+      "root": "code",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-generator"
+    },
+    {
+      "keyword": "best code generator ai tool free",
+      "root": "code",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-generator-free"
+    },
+    {
+      "keyword": "best code generator app for x",
+      "root": "code",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-generator-app-for-x"
+    },
+    {
+      "keyword": "best code generator llm",
+      "root": "code",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-generator-llm"
+    },
+    {
+      "keyword": "ai detector",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector"
+    },
+    {
+      "keyword": "ai detector free",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-free"
+    },
+    {
+      "keyword": "ai detector image",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-image"
+    },
+    {
+      "keyword": "ai detector turnitin",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-turnitin"
+    },
+    {
+      "keyword": "ai detector grammarly",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-grammarly"
+    },
+    {
+      "keyword": "ai detector photo",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-photo"
+    },
+    {
+      "keyword": "ai detector text",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-text"
+    },
+    {
+      "keyword": "ai detector tool",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector"
+    },
+    {
+      "keyword": "ai detector for essays",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-for-essays"
+    },
+    {
+      "keyword": "ai detector and humanizer",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-and-humanizer"
+    },
+    {
+      "keyword": "free detector ai",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-ai"
+    },
+    {
+      "keyword": "free detector",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector"
+    },
+    {
+      "keyword": "free detector maps",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detector-maps"
+    },
+    {
+      "keyword": "free detect ai",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detect-ai"
+    },
+    {
+      "keyword": "free detective",
+      "root": "detector",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "detective"
+    },
+    {
+      "keyword": "ai tester",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester"
+    },
+    {
+      "keyword": "ai tester text",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester-text"
+    },
+    {
+      "keyword": "ai tester image",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester-image"
+    },
+    {
+      "keyword": "ai tester writing",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester-writing"
+    },
+    {
+      "keyword": "ai tester video",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester-video"
+    },
+    {
+      "keyword": "free tester seeds",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester-seeds"
+    },
+    {
+      "keyword": "free tester samples",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester-samples"
+    },
+    {
+      "keyword": "free testers",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "testers"
+    },
+    {
+      "keyword": "free testosterone levels",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "testosterone-levels"
+    },
+    {
+      "keyword": "free testosterone",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "testosterone"
+    },
+    {
+      "keyword": "free tester products",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester-products"
+    },
+    {
+      "keyword": "free testosterone levels women",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "testosterone-levels-women"
+    },
+    {
+      "keyword": "free tester items",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tester-items"
+    },
+    {
+      "keyword": "free testosterone calculator",
+      "root": "tester",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "testosterone-calculator"
+    },
+    {
+      "keyword": "ai code quality issues",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-quality-issues"
+    },
+    {
+      "keyword": "ai code detector",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-detector"
+    },
+    {
+      "keyword": "ai code checker",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-checker"
+    },
+    {
+      "keyword": "ai code",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code"
+    },
+    {
+      "keyword": "ai code generator",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-generator"
+    },
+    {
+      "keyword": "ai coder",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "coder"
+    },
+    {
+      "keyword": "ai code editor",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-editor"
+    },
+    {
+      "keyword": "ai code writer",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-writer"
+    },
+    {
+      "keyword": "ai code humanizer",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-humanizer"
+    },
+    {
+      "keyword": "free code camp",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-camp"
+    },
+    {
+      "keyword": "free code",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code"
+    },
+    {
+      "keyword": "free code camp python",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-camp-python"
+    },
+    {
+      "keyword": "free codes for robux",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "codes-for-robux"
+    },
+    {
+      "keyword": "free codes for roblox",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "codes-for-roblox"
+    },
+    {
+      "keyword": "free codes for clash royale",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "codes-for-clash-royale"
+    },
+    {
+      "keyword": "free code editor",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-editor"
+    },
+    {
+      "keyword": "free code generator",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "code-generator"
+    },
+    {
+      "keyword": "free codes for rocket league",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "codes-for-rocket-league"
+    },
+    {
+      "keyword": "free codes for rivals",
+      "root": "code",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "codes-for-rivals"
+    },
+    {
+      "keyword": "ai diffusion",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diffusion"
+    },
+    {
+      "keyword": "ai diffusion model",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diffusion-model"
+    },
+    {
+      "keyword": "ai diffusion rule",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diffusion-rule"
+    },
+    {
+      "keyword": "ai differences",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "differences"
+    },
+    {
+      "keyword": "ai different hairstyles",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "different-hairstyles"
+    },
+    {
+      "keyword": "ai diffusion meaning",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diffusion-meaning"
+    },
+    {
+      "keyword": "ai different hair colors",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "different-hair-colors"
+    },
+    {
+      "keyword": "ai difficulty f1 25",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "difficulty-f1-25"
+    },
+    {
+      "keyword": "ai different hairstyles free",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "different-hairstyles-free"
+    },
+    {
+      "keyword": "ai different types",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "different-types"
+    },
+    {
+      "keyword": "free diffuser",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diffuser"
+    },
+    {
+      "keyword": "free difficult word search",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "difficult-word-search"
+    },
+    {
+      "keyword": "free difficult word search printable",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "difficult-word-search-printable"
+    },
+    {
+      "keyword": "free diffuser pura",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diffuser-pura"
+    },
+    {
+      "keyword": "free diff checker",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "diff-checker"
+    },
+    {
+      "keyword": "free different fonts",
+      "root": "diff",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "different-fonts"
+    },
+    {
+      "keyword": "ai validator",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "validator"
+    },
+    {
+      "keyword": "ai validator text",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "validator-text"
+    },
+    {
+      "keyword": "ai resume validator",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resume-validator"
+    },
+    {
+      "keyword": "ai business idea validator",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "business-idea-validator"
+    },
+    {
+      "keyword": "free validator xml",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "validator-xml"
+    },
+    {
+      "keyword": "free validator email",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "validator-email"
+    },
+    {
+      "keyword": "free phone validator",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "phone-validator"
+    },
+    {
+      "keyword": "free email validator bulk",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "email-validator-bulk"
+    },
+    {
+      "keyword": "free ssn validator",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "ssn-validator"
+    },
+    {
+      "keyword": "gstzen free validator",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "gstzen-validator"
+    },
+    {
+      "keyword": "free email validator online",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "email-validator-online"
+    },
+    {
+      "keyword": "free phone validator by number",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "phone-validator-by-number"
+    },
+    {
+      "keyword": "free xml validator online",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "xml-validator-online"
+    },
+    {
+      "keyword": "free json validator online",
+      "root": "validator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "json-validator-online"
+    },
+    {
+      "keyword": "ai scanner",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner"
+    },
+    {
+      "keyword": "ai scanner free",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-free"
+    },
+    {
+      "keyword": "ai scanner for essays",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-for-essays"
+    },
+    {
+      "keyword": "ai scanner photo",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-photo"
+    },
+    {
+      "keyword": "ai scanner text",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-text"
+    },
+    {
+      "keyword": "ai scanner detector",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-detector"
+    },
+    {
+      "keyword": "ai scanner image",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-image"
+    },
+    {
+      "keyword": "ai scanner for resume",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-for-resume"
+    },
+    {
+      "keyword": "ai scanner picture",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-picture"
+    },
+    {
+      "keyword": "ai scanner grammarly",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-grammarly"
+    },
+    {
+      "keyword": "free scanner app",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-app"
+    },
+    {
+      "keyword": "free scanner",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner"
+    },
+    {
+      "keyword": "free scanner app for iphone",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-app-for-iphone"
+    },
+    {
+      "keyword": "free scanner app for android",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-app-for-android"
+    },
+    {
+      "keyword": "free scanner for iphone",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-for-iphone"
+    },
+    {
+      "keyword": "free scanner software",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-software"
+    },
+    {
+      "keyword": "free scanner online",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-online"
+    },
+    {
+      "keyword": "free scanner radio app",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-radio-app"
+    },
+    {
+      "keyword": "free scanner app for android phone",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-app-for-android-phone"
+    },
+    {
+      "keyword": "free scanner radio",
+      "root": "scanner",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "scanner-radio"
+    },
+    {
+      "keyword": "ai checker",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker"
+    },
+    {
+      "keyword": "ai checker free",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-free"
+    },
+    {
+      "keyword": "ai checker grammarly",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-grammarly"
+    },
+    {
+      "keyword": "ai checker turnitin",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-turnitin"
+    },
+    {
+      "keyword": "ai checker essay",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-essay"
+    },
+    {
+      "keyword": "ai checker image",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-image"
+    },
+    {
+      "keyword": "ai checker for teachers",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-for-teachers"
+    },
+    {
+      "keyword": "ai checker turnitin free",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-turnitin-free"
+    },
+    {
+      "keyword": "ai checker and humanizer",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker-and-humanizer"
+    },
+    {
+      "keyword": "ai checker - google search",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checker---google-search"
+    },
+    {
+      "keyword": "free checkers",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checkers"
+    },
+    {
+      "keyword": "free checkers online",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checkers-online"
+    },
+    {
+      "keyword": "free checkers food",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checkers-food"
+    },
+    {
+      "keyword": "free checkers burger",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checkers-burger"
+    },
+    {
+      "keyword": "free checkered background",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checkered-background"
+    },
+    {
+      "keyword": "free checkers app",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checkers-app"
+    },
+    {
+      "keyword": "free checkerboard crochet pattern",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checkerboard-crochet-pattern"
+    },
+    {
+      "keyword": "free checkerboard pattern",
+      "root": "checker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "checkerboard-pattern"
+    },
+    {
+      "keyword": "ai comparison",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison"
+    },
+    {
+      "keyword": "ai comparison chart",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison-chart"
+    },
+    {
+      "keyword": "ai comparison tool",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison"
+    },
+    {
+      "keyword": "ai comparison chart 2025",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison-chart-2025"
+    },
+    {
+      "keyword": "ai comparison chart 2026",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison-chart-2026"
+    },
+    {
+      "keyword": "ai comparison 2026",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison-2026"
+    },
+    {
+      "keyword": "ai comparison website",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison-website"
+    },
+    {
+      "keyword": "ai comparison site",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison-site"
+    },
+    {
+      "keyword": "ai comparison benchmarks",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "comparison-benchmarks"
+    },
+    {
+      "keyword": "free chlorine comparator",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "chlorine-comparator"
+    },
+    {
+      "keyword": "free online text comparator",
+      "root": "comparator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "text-comparator"
     }
   ],
   "existing": [
