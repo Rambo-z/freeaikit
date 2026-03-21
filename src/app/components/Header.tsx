@@ -167,20 +167,35 @@ export default function Header() {
     return "/";
   }
 
-  // Close dropdowns on outside click
+  // Close nav dropdowns on outside click (only nav groups, not lang)
   useEffect(() => {
-    function handleClick(e: MouseEvent) {
-      const target = e.target as Node;
-      if (headerRef.current && !headerRef.current.contains(target)) {
+    function handleClickOutside(e: MouseEvent) {
+      if (headerRef.current && !headerRef.current.contains(e.target as Node)) {
         setOpenGroup(null);
-        setLangOpen(false);
-      } else if (langRef.current && !langRef.current.contains(target)) {
         setLangOpen(false);
       }
     }
-    document.addEventListener("click", handleClick);
-    return () => document.removeEventListener("click", handleClick);
+    document.addEventListener("mousedown", handleClickOutside);
+    return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
+
+  // Close lang dropdown when clicking anywhere except lang switcher
+  useEffect(() => {
+    if (!langOpen) return;
+    function handleCloseLang(e: MouseEvent) {
+      if (langRef.current && !langRef.current.contains(e.target as Node)) {
+        setLangOpen(false);
+      }
+    }
+    // Use setTimeout to avoid catching the same click that opened it
+    const timer = setTimeout(() => {
+      document.addEventListener("mousedown", handleCloseLang);
+    }, 0);
+    return () => {
+      clearTimeout(timer);
+      document.removeEventListener("mousedown", handleCloseLang);
+    };
+  }, [langOpen]);
 
   const toggleGroup = useCallback((label: string) => {
     setOpenGroup((prev) => (prev === label ? null : label));
