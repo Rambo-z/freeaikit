@@ -1,26 +1,11 @@
 {
   "date": "2026-03-21",
   "stats": {
-    "trends_total": 233,
-    "suggest_total": 1877
+    "trends_total": 117,
+    "suggest_total": 1875
   },
-  "total_opportunities": 1953,
+  "total_opportunities": 1944,
   "top_50": [
-    {
-      "keyword": "hertz ai scanner",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 223400,
-      "suggested_slug": "hertz-scanner",
-      "root": "scanner",
-      "already_have": false,
-      "combined_score": 590,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
     {
       "keyword": "watermark remover",
       "sources": [
@@ -47,22 +32,6 @@
       "already_have": false,
       "combined_score": 590,
       "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai image detector",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 11100,
-      "suggested_slug": "image-detector",
-      "root": "watermark",
-      "already_have": false,
-      "combined_score": 590,
-      "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -138,7 +107,7 @@
       "root": "product photo",
       "already_have": false,
       "combined_score": 540,
-      "difficulty": "需API",
+      "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -153,7 +122,22 @@
       "root": "merger",
       "already_have": false,
       "combined_score": 540,
-      "difficulty": "需API",
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "hertz ai scanner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 223400,
+      "suggested_slug": "hertz-scanner",
+      "root": "scanner",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -219,6 +203,22 @@
       "competition": 0
     },
     {
+      "keyword": "ai image detector",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 11100,
+      "suggested_slug": "image-detector",
+      "root": "watermark",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "remove background from photo online",
       "sources": [
         "trends_rising"
@@ -243,7 +243,7 @@
       "root": "processor",
       "already_have": false,
       "combined_score": 500,
-      "difficulty": "需API",
+      "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -258,7 +258,7 @@
       "root": "processor",
       "already_have": false,
       "combined_score": 500,
-      "difficulty": "需API",
+      "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -273,7 +273,7 @@
       "root": "processor",
       "already_have": false,
       "combined_score": 500,
-      "difficulty": "需API",
+      "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -288,7 +288,7 @@
       "root": "processor",
       "already_have": false,
       "combined_score": 500,
-      "difficulty": "需API",
+      "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -429,21 +429,6 @@
       "competition": 0
     },
     {
-      "keyword": "proofademic ai detector",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 27200,
-      "suggested_slug": "proofademic-detector",
-      "root": "detector",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "mixing ai analyzer",
       "sources": [
         "trends_rising"
@@ -453,7 +438,7 @@
       "root": "analyzer",
       "already_have": false,
       "combined_score": 390,
-      "difficulty": "需API",
+      "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -466,21 +451,6 @@
       "trend_score": 23100,
       "suggested_slug": "internet-speed-tester",
       "root": "tester",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "soundcloud downloader",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 18550,
-      "suggested_slug": "soundcloud-downloader",
-      "root": "splitter",
       "already_have": false,
       "combined_score": 390,
       "difficulty": "",
@@ -513,7 +483,7 @@
       "root": "builder",
       "already_have": false,
       "combined_score": 390,
-      "difficulty": "需API",
+      "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -526,21 +496,6 @@
       "trend_score": 14250,
       "suggested_slug": "mii-maker",
       "root": "creator",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "cheater scanner",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9300,
-      "suggested_slug": "cheater-scanner",
-      "root": "scanner",
       "already_have": false,
       "combined_score": 390,
       "difficulty": "",
@@ -594,21 +549,6 @@
       "competition": 0
     },
     {
-      "keyword": "face shape detector online camera",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 12050,
-      "suggested_slug": "face-shape-detector-camera",
-      "root": "detector",
-      "already_have": false,
-      "combined_score": 380,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "tyler, the creator sucka free",
       "sources": [
         "trends_rising"
@@ -654,21 +594,6 @@
       "competition": 0
     },
     {
-      "keyword": "hertz ai scanner locations",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 35450,
-      "suggested_slug": "hertz-scanner-locations",
-      "root": "scanner",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "ultimate vocal remover 5",
       "sources": [
         "trends_rising"
@@ -679,21 +604,6 @@
       "already_have": false,
       "combined_score": 370,
       "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "hyundai ai translator glasses",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 27650,
-      "suggested_slug": "hyundtranslator-glasses",
-      "root": "translator",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需API",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -738,7 +648,7 @@
       "root": "builder",
       "already_have": false,
       "combined_score": 370,
-      "difficulty": "需API",
+      "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -753,6 +663,96 @@
       "root": "portrait",
       "already_have": false,
       "combined_score": 370,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "clash royale deck analyzer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 15650,
+      "suggested_slug": "clash-royale-deck-analyzer",
+      "root": "analyzer",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "clash royale deck builder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 13850,
+      "suggested_slug": "clash-royale-deck-builder",
+      "root": "builder",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "f1 25 ai calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 13000,
+      "suggested_slug": "f1-25-calculator",
+      "root": "calculator",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "hotels with free breakfast",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 12650,
+      "suggested_slug": "hotels-with-breakfast",
+      "root": "designer",
+      "already_have": false,
+      "combined_score": 350,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "university of arizona online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 11850,
+      "suggested_slug": "university-of-arizona-online",
+      "root": "filter",
+      "already_have": false,
+      "combined_score": 350,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best free email clients",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 10700,
+      "suggested_slug": "best-email-clients",
+      "root": "graph",
+      "already_have": false,
+      "combined_score": 350,
       "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
