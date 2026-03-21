@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quora Answer Assistant</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8f9fa; color: #1a1a1a; font-size: 13px; }
+
+    .header { background: #fff; border-bottom: 1px solid #e5e7eb; padding: 12px 16px; position: sticky; top: 0; z-index: 10; }
+    .header h1 { font-size: 15px; font-weight: 700; color: #1a1a1a; }
+    .header p { font-size: 11px; color: #6b7280; margin-top: 2px; }
+
+    .section { padding: 12px 16px; }
+    .section-title { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.5px; color: #6b7280; margin-bottom: 8px; }
+
+    /* Settings */
+    .settings { background: #fff; border-bottom: 1px solid #e5e7eb; padding: 12px 16px; }
+    .input-group { margin-bottom: 8px; }
+    .input-group label { display: block; font-size: 11px; font-weight: 600; color: #374151; margin-bottom: 4px; }
+    .input-group input { width: 100%; padding: 6px 10px; border: 1px solid #d1d5db; border-radius: 6px; font-size: 12px; outline: none; }
+    .input-group input:focus { border-color: #3b82f6; box-shadow: 0 0 0 2px rgba(59,130,246,0.1); }
+
+    /* Buttons */
+    .btn { display: inline-flex; align-items: center; gap: 6px; padding: 7px 14px; border: none; border-radius: 8px; font-size: 12px; font-weight: 600; cursor: pointer; transition: all 0.15s; }
+    .btn-primary { background: #3b82f6; color: #fff; }
+    .btn-primary:hover { background: #2563eb; }
+    .btn-primary:disabled { opacity: 0.5; cursor: not-allowed; }
+    .btn-secondary { background: #f3f4f6; color: #374151; border: 1px solid #d1d5db; }
+    .btn-secondary:hover { background: #e5e7eb; }
+    .btn-sm { padding: 4px 10px; font-size: 11px; }
+    .btn-copy { background: #10b981; color: #fff; }
+    .btn-copy:hover { background: #059669; }
+
+    /* Question cards */
+    .question-card { background: #fff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 10px 12px; margin-bottom: 8px; transition: border-color 0.15s; }
+    .question-card:hover { border-color: #3b82f6; }
+    .question-card .score { display: inline-block; background: #dbeafe; color: #1d4ed8; font-size: 10px; font-weight: 700; padding: 2px 6px; border-radius: 4px; margin-bottom: 4px; }
+    .question-card .score.high { background: #dcfce7; color: #15803d; }
+    .question-card .q-text { font-size: 12px; line-height: 1.4; color: #1a1a1a; margin-bottom: 6px; }
+    .question-card .q-tool { font-size: 10px; color: #6b7280; }
+    .question-card .q-actions { display: flex; gap: 6px; margin-top: 6px; }
+    .current-tag { background: #fef3c7; color: #92400e; font-size: 10px; font-weight: 600; padding: 1px 6px; border-radius: 4px; margin-left: 6px; }
+
+    /* Answer area */
+    .answer-box { background: #fff; border: 1px solid #e5e7eb; border-radius: 10px; padding: 12px; margin-top: 8px; }
+    .answer-text { font-size: 12px; line-height: 1.6; color: #374151; white-space: pre-wrap; word-wrap: break-word; max-height: 400px; overflow-y: auto; }
+    .answer-actions { display: flex; gap: 6px; margin-top: 10px; }
+
+    /* Status */
+    .status { text-align: center; padding: 20px; color: #9ca3af; font-size: 12px; }
+    .spinner { display: inline-block; width: 20px; height: 20px; border: 2px solid #e5e7eb; border-top-color: #3b82f6; border-radius: 50%; animation: spin 0.6s linear infinite; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .error { background: #fef2f2; color: #991b1b; padding: 8px 12px; border-radius: 8px; font-size: 12px; margin-top: 8px; }
+    .empty { text-align: center; padding: 30px 20px; color: #9ca3af; }
+    .empty p { margin-top: 6px; font-size: 11px; }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Quora Answer Assistant</h1>
+    <p>Find questions & generate answers</p>
+  </div>
+
+  <div class="settings" id="settingsSection">
+    <div class="input-group">
+      <label>Claude API Key</label>
+      <input type="password" id="apiKeyInput" placeholder="sk-ant-..." />
+    </div>
+    <button class="btn btn-secondary btn-sm" id="saveKeyBtn">Save Key</button>
+    <span id="keySaved" style="display:none; color:#10b981; font-size:11px; margin-left:8px;">Saved!</span>
+  </div>
+
+  <div class="section">
+    <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:10px;">
+      <span class="section-title" style="margin:0;">Matched Questions</span>
+      <button class="btn btn-primary btn-sm" id="scanBtn">Scan Page</button>
+    </div>
+    <div id="questionList">
+      <div class="empty">
+        <p>Click "Scan Page" on any Quora page to find relevant questions</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="section" id="answerSection" style="display:none;">
+    <span class="section-title">Generated Answer</span>
+    <div id="answerContainer"></div>
+  </div>
+
+  <script src="sidepanel.js"></script>
+</body>
+</html>
