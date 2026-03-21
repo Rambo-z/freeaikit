@@ -1,10 +1,10 @@
 {
   "date": "2026-03-21",
   "stats": {
-    "trends_total": 179,
-    "suggest_total": 1226
+    "trends_total": 185,
+    "suggest_total": 1509
   },
-  "total_opportunities": 1304,
+  "total_opportunities": 1583,
   "top_50": [
     {
       "keyword": "hertz ai scanner",
@@ -94,6 +94,36 @@
       "already_have": false,
       "combined_score": 550,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "lua obfuscator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1883150,
+      "suggested_slug": "lua-obfuscator",
+      "root": "obfuscator",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "javascript obfuscator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1345800,
+      "suggested_slug": "javascript-obfuscator",
+      "root": "obfuscator",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -289,6 +319,21 @@
       "already_have": false,
       "combined_score": 400,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "decoder ring",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 97350,
+      "suggested_slug": "decoder-ring",
+      "root": "decoder",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -639,6 +684,21 @@
       "competition": 0
     },
     {
+      "keyword": "hyundai ai translator glasses",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 27650,
+      "suggested_slug": "hyundtranslator-glasses",
+      "root": "translator",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需API",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "png to jpg converter",
       "sources": [
         "trends_rising"
@@ -694,66 +754,6 @@
       "already_have": false,
       "combined_score": 370,
       "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "clash royale deck builder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 13850,
-      "suggested_slug": "clash-royale-deck-builder",
-      "root": "builder",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "f1 25 ai calculator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 13000,
-      "suggested_slug": "f1-25-calculator",
-      "root": "calculator",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "readdy ai website builder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 7550,
-      "suggested_slug": "readdy-website-builder",
-      "root": "builder",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需API",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "falling filter free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 6850,
-      "suggested_slug": "falling-filter-free",
-      "root": "filter",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0

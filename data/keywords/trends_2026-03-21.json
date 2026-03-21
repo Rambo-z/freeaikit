@@ -1,11 +1,31 @@
 {
   "date": "2026-03-21",
-  "batch": 3,
-  "total_rising_found": 179,
-  "new_opportunities": 164,
-  "existing_matches": 15,
+  "batch": 5,
+  "total_rising_found": 185,
+  "new_opportunities": 168,
+  "existing_matches": 17,
   "errors": 0,
   "opportunities": [
+    {
+      "keyword": "lua obfuscator",
+      "root": "obfuscator",
+      "prefix": "free",
+      "trend_score": 1883150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "lua-obfuscator"
+    },
+    {
+      "keyword": "javascript obfuscator",
+      "root": "obfuscator",
+      "prefix": "free",
+      "trend_score": 1345800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "javascript-obfuscator"
+    },
     {
       "keyword": "ai updates",
       "root": "product photo",
@@ -145,6 +165,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "tax-calculator-2026"
+    },
+    {
+      "keyword": "decoder ring",
+      "root": "decoder",
+      "prefix": "online",
+      "trend_score": 97350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "decoder-ring"
     },
     {
       "keyword": "ryzen ai 5 340",
@@ -327,6 +357,16 @@
       "suggested_slug": "bpm-analyzer"
     },
     {
+      "keyword": "ram price chart",
+      "root": "chart",
+      "prefix": "ai",
+      "trend_score": 29600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "ram-price-chart"
+    },
+    {
       "keyword": "paramount warner bros merger",
       "root": "merger",
       "prefix": "free",
@@ -355,6 +395,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "english-to-urdu-translation-online"
+    },
+    {
+      "keyword": "hyundai ai translator glasses",
+      "root": "translator",
+      "prefix": "ai",
+      "trend_score": 27650,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "hyundtranslator-glasses"
     },
     {
       "keyword": "proofademic ai detector",
@@ -485,6 +535,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "uncensored-image-editor"
+    },
+    {
+      "keyword": "hex to ascii",
+      "root": "decoder",
+      "prefix": "online",
+      "trend_score": 17850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "hex-to-ascii"
     },
     {
       "keyword": "fps tester",
@@ -667,6 +727,16 @@
       "suggested_slug": "tax-calculator-2026"
     },
     {
+      "keyword": "google translate voice to text",
+      "root": "translator",
+      "prefix": "free",
+      "trend_score": 11400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "google-translate-voice-to-text"
+    },
+    {
       "keyword": "compress jpg file",
       "root": "compressor",
       "prefix": "online",
@@ -787,6 +857,16 @@
       "suggested_slug": "tyler,-the-creator-sucka-free"
     },
     {
+      "keyword": "lunar eclipse diagram",
+      "root": "diagram",
+      "prefix": "ai",
+      "trend_score": 9200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "lunar-eclipse-diagram"
+    },
+    {
       "keyword": "ai christmas photo trend",
       "root": "photo",
       "prefix": "ai",
@@ -807,6 +887,16 @@
       "suggested_slug": "candy-cane-picture"
     },
     {
+      "keyword": "ram prices chart",
+      "root": "chart",
+      "prefix": "ai",
+      "trend_score": 8100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "ram-prices-chart"
+    },
+    {
       "keyword": "best free password managers",
       "root": "portrait",
       "prefix": "free",
@@ -825,6 +915,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "sublime-text"
+    },
+    {
+      "keyword": "jets depth chart",
+      "root": "chart",
+      "prefix": "ai",
+      "trend_score": 7700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "jets-depth-chart"
     },
     {
       "keyword": "dff ai watermark",
@@ -905,106 +1005,6 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "remove-watermark-from-photo-unlimited"
-    },
-    {
-      "keyword": "scan id card online free",
-      "root": "scanner",
-      "prefix": "online",
-      "trend_score": 6050,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "scan-id-card-free"
-    },
-    {
-      "keyword": "online whiteboard",
-      "root": "format",
-      "prefix": "online",
-      "trend_score": 6000,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "whiteboard"
-    },
-    {
-      "keyword": "humanize ai text free 1000 words",
-      "root": "detector",
-      "prefix": "free",
-      "trend_score": 5600,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "humanize-text-1000-words"
-    },
-    {
-      "keyword": "ai death prediction calculator",
-      "root": "calculator",
-      "prefix": "ai",
-      "trend_score": 4850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "death-prediction-calculator"
-    },
-    {
-      "keyword": "free coding practice sites",
-      "root": "filter",
-      "prefix": "free",
-      "trend_score": 4450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "coding-practice-sites"
-    },
-    {
-      "keyword": "free stock photos no attribution",
-      "root": "format",
-      "prefix": "free",
-      "trend_score": 4450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "stock-photos-no-attribution"
-    },
-    {
-      "keyword": "macy’s online coupon code",
-      "root": "code",
-      "prefix": "online",
-      "trend_score": 4000,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "macy’s-coupon-code"
-    },
-    {
-      "keyword": "best free genealogy sites",
-      "root": "format",
-      "prefix": "free",
-      "trend_score": 3900,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "best-genealogy-sites"
-    },
-    {
-      "keyword": "description of an online image nyt",
-      "root": "builder",
-      "prefix": "online",
-      "trend_score": 3900,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "description-of-an-image-nyt"
-    },
-    {
-      "keyword": "the master builder playwright",
-      "root": "builder",
-      "prefix": "online",
-      "trend_score": 3600,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "the-master-builder-playwright"
     }
   ],
   "existing": [
@@ -1157,6 +1157,26 @@
       "discovered": "2026-03-21",
       "already_have": true,
       "suggested_slug": "background-remover"
+    },
+    {
+      "keyword": "encoder",
+      "root": "decoder",
+      "prefix": "online",
+      "trend_score": 50,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "encoder"
+    },
+    {
+      "keyword": "online qr code decoder",
+      "root": "decoder",
+      "prefix": "online",
+      "trend_score": 40,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "qr-code-decoder"
     }
   ],
   "error_log": []
