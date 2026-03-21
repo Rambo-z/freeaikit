@@ -166,11 +166,12 @@ export default function Header() {
     return "/";
   }
 
-  // Close dropdown on outside click
+  // Close dropdowns on outside click
   useEffect(() => {
     function handleClick(e: MouseEvent) {
       if (headerRef.current && !headerRef.current.contains(e.target as Node)) {
         setOpenGroup(null);
+        setLangOpen(false);
       }
     }
     document.addEventListener("mousedown", handleClick);
@@ -224,7 +225,7 @@ export default function Header() {
             {/* Language switcher */}
             <div className="relative">
               <button
-                onClick={() => { setLangOpen((v) => !v); setOpenGroup(null); }}
+                onClick={(e) => { e.stopPropagation(); setLangOpen((v) => !v); setOpenGroup(null); }}
                 className="inline-flex items-center gap-1 px-2 py-1.5 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
                 aria-label="Switch language"
               >
@@ -233,7 +234,9 @@ export default function Header() {
                 <ChevronDown className={`w-3 h-3 transition-transform ${langOpen ? "rotate-180" : ""}`} />
               </button>
               {langOpen && (
-                <div className="absolute top-full right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-lg py-1 min-w-[140px] z-50">
+                <div className="absolute top-full right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-lg py-1 min-w-[140px] z-50"
+                  onClick={(e) => e.stopPropagation()}
+                >
                   {LANGUAGES.map((lang) => (
                     <Link
                       key={lang.code}
