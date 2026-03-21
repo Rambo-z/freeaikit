@@ -1,8 +1,8 @@
 {
   "date": "2026-03-21",
-  "batch": 5,
-  "total_rising_found": 185,
-  "new_opportunities": 168,
+  "batch": 6,
+  "total_rising_found": 233,
+  "new_opportunities": 216,
   "existing_matches": 17,
   "errors": 0,
   "opportunities": [
@@ -135,6 +135,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "remove-background-from-photo-online"
+    },
+    {
+      "keyword": "colorify ai",
+      "root": "coloring page",
+      "prefix": "ai",
+      "trend_score": 122900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "colorify-ai"
     },
     {
       "keyword": "photo editing software",
@@ -357,6 +367,26 @@
       "suggested_slug": "bpm-analyzer"
     },
     {
+      "keyword": "67 coloring page",
+      "root": "coloring page",
+      "prefix": "free",
+      "trend_score": 31850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "67-coloring-page"
+    },
+    {
+      "keyword": "bosch icon wiper blades",
+      "root": "icon",
+      "prefix": "online",
+      "trend_score": 31400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "bosch-icon-wiper-blades"
+    },
+    {
       "keyword": "ram price chart",
       "root": "chart",
       "prefix": "ai",
@@ -427,6 +457,16 @@
       "suggested_slug": "apa-citation-format-journal-article"
     },
     {
+      "keyword": "rumi coloring page",
+      "root": "coloring page",
+      "prefix": "free",
+      "trend_score": 26050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "rumi-coloring-page"
+    },
+    {
       "keyword": "mixing ai analyzer",
       "root": "analyzer",
       "prefix": "ai",
@@ -435,6 +475,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "mixing-analyzer"
+    },
+    {
+      "keyword": "blackjack online",
+      "root": "emoji",
+      "prefix": "online",
+      "trend_score": 23400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "blackjack-online"
     },
     {
       "keyword": "internet speed tester",
@@ -475,6 +525,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "png-to-jpg-converter"
+    },
+    {
+      "keyword": "labubu coloring pages",
+      "root": "coloring page",
+      "prefix": "free",
+      "trend_score": 20150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "labubu-coloring-pages"
     },
     {
       "keyword": "opencode",
@@ -555,6 +615,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "fps-tester"
+    },
+    {
+      "keyword": "2026 rawlings icon",
+      "root": "icon",
+      "prefix": "ai",
+      "trend_score": 17550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "2026-rawlings-icon"
     },
     {
       "keyword": "web page analyzer online",
@@ -668,13 +738,23 @@
     },
     {
       "keyword": "convert jpg to pdf free",
-      "root": "portrait",
+      "root": "designer",
       "prefix": "free",
-      "trend_score": 12150,
+      "trend_score": 13000,
       "source": "google_trends_rising",
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "convert-jpg-to-pdf-free"
+    },
+    {
+      "keyword": "hotels with free breakfast",
+      "root": "designer",
+      "prefix": "free",
+      "trend_score": 12650,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "hotels-with-breakfast"
     },
     {
       "keyword": "face shape detector online camera",
@@ -685,16 +765,6 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "face-shape-detector-camera"
-    },
-    {
-      "keyword": "hotels with free breakfast",
-      "root": "filter",
-      "prefix": "free",
-      "trend_score": 11900,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "hotels-with-breakfast"
     },
     {
       "keyword": "university of arizona online",
@@ -747,6 +817,16 @@
       "suggested_slug": "compress-jpg-file"
     },
     {
+      "keyword": "catalogue icon",
+      "root": "icon",
+      "prefix": "online",
+      "trend_score": 11250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "catalogue-icon"
+    },
+    {
       "keyword": "ai image detector",
       "root": "watermark",
       "prefix": "ai",
@@ -785,6 +865,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "pdfsam"
+    },
+    {
+      "keyword": "best free email clients",
+      "root": "graph",
+      "prefix": "free",
+      "trend_score": 10700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "best-email-clients"
     },
     {
       "keyword": "ai scream picture trend",
@@ -867,6 +957,16 @@
       "suggested_slug": "lunar-eclipse-diagram"
     },
     {
+      "keyword": "didot font",
+      "root": "font",
+      "prefix": "ai",
+      "trend_score": 9150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "didot-font"
+    },
+    {
       "keyword": "ai christmas photo trend",
       "root": "photo",
       "prefix": "ai",
@@ -875,6 +975,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "christmas-photo-trend"
+    },
+    {
+      "keyword": "chicken jockey coloring page",
+      "root": "coloring page",
+      "prefix": "free",
+      "trend_score": 9050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "chicken-jockey-coloring-page"
     },
     {
       "keyword": "candy cane ai picture",
@@ -895,116 +1005,6 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "ram-prices-chart"
-    },
-    {
-      "keyword": "best free password managers",
-      "root": "portrait",
-      "prefix": "free",
-      "trend_score": 7900,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "best-password-managers"
-    },
-    {
-      "keyword": "sublime text",
-      "root": "watermark",
-      "prefix": "ai",
-      "trend_score": 7850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "sublime-text"
-    },
-    {
-      "keyword": "jets depth chart",
-      "root": "chart",
-      "prefix": "ai",
-      "trend_score": 7700,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "jets-depth-chart"
-    },
-    {
-      "keyword": "dff ai watermark",
-      "root": "watermark",
-      "prefix": "ai",
-      "trend_score": 7650,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "dff-watermark"
-    },
-    {
-      "keyword": "download facebook videos online",
-      "root": "watermark",
-      "prefix": "online",
-      "trend_score": 7550,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "download-facebook-videos-online"
-    },
-    {
-      "keyword": "readdy ai website builder",
-      "root": "builder",
-      "prefix": "ai",
-      "trend_score": 7550,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "readdy-website-builder"
-    },
-    {
-      "keyword": "best free email clients",
-      "root": "format",
-      "prefix": "free",
-      "trend_score": 7450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "best-email-clients"
-    },
-    {
-      "keyword": "best free video editors",
-      "root": "format",
-      "prefix": "free",
-      "trend_score": 7350,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "best-video-editors"
-    },
-    {
-      "keyword": "falling filter free",
-      "root": "filter",
-      "prefix": "online",
-      "trend_score": 6850,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "falling-filter-free"
-    },
-    {
-      "keyword": "ai sway dance filter",
-      "root": "filter",
-      "prefix": "ai",
-      "trend_score": 6450,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "sway-dance-filter"
-    },
-    {
-      "keyword": "remove watermark from photo online free unlimited",
-      "root": "watermark",
-      "prefix": "online",
-      "trend_score": 6050,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "remove-watermark-from-photo-unlimited"
     }
   ],
   "existing": [
