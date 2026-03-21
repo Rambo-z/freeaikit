@@ -2,12 +2,12 @@ name: Keyword Monitor
 
 on:
   schedule:
-    # Run every 2 hours, 12 times a day — each run handles ~10 roots
-    - cron: '0 */2 * * *'
+    # Run every 4 hours, 6 times a day — each run handles ~22 queries
+    - cron: '0 */4 * * *'
   workflow_dispatch:
     inputs:
       batch:
-        description: 'Batch index (0-11), leave empty for auto'
+        description: 'Batch index (0-5), leave empty for auto'
         type: string
         default: ''
       limit:
@@ -50,7 +50,7 @@ jobs:
             echo "index=${{ github.event.inputs.batch }}" >> $GITHUB_OUTPUT
           else
             HOUR=$(date -u +%H)
-            BATCH=$((HOUR / 2))
+            BATCH=$((HOUR / 4 % 6))
             echo "index=$BATCH" >> $GITHUB_OUTPUT
           fi
 
