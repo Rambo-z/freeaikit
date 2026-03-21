@@ -1,0 +1,764 @@
+{
+  "date": "2026-03-21",
+  "stats": {
+    "trends_total": 142,
+    "suggest_total": 353
+  },
+  "total_opportunities": 430,
+  "top_50": [
+    {
+      "keyword": "best free video editors",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 7350,
+      "suggested_slug": "best-video-editors",
+      "root": "format",
+      "already_have": false,
+      "combined_score": 900,
+      "difficulty": "需WASM",
+      "search_volume": 22200,
+      "cpc": 4.86,
+      "competition": 0.5
+    },
+    {
+      "keyword": "ai image editor",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "image-editor",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "需WASM",
+      "search_volume": 90500,
+      "cpc": 1.64,
+      "competition": 0.2
+    },
+    {
+      "keyword": "online whiteboard",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 6000,
+      "suggested_slug": "whiteboard",
+      "root": "format",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "",
+      "search_volume": 301000,
+      "cpc": 6.23,
+      "competition": 0.2
+    },
+    {
+      "keyword": "university of arizona online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 11850,
+      "suggested_slug": "university-of-arizona-online",
+      "root": "filter",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 10.89,
+      "competition": 0.2
+    },
+    {
+      "keyword": "google photos",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 18200,
+      "suggested_slug": "google-photos",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 1830000,
+      "cpc": 1.46,
+      "competition": 0.2
+    },
+    {
+      "keyword": "clever ai humanizer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 2900,
+      "suggested_slug": "clever-humanizer",
+      "root": "format",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需API",
+      "search_volume": 22200,
+      "cpc": 2.39,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ai de",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1150,
+      "suggested_slug": "de",
+      "root": "format",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需API",
+      "search_volume": 14800,
+      "cpc": 0.46,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free ai video generator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 160,
+      "suggested_slug": "video-generator",
+      "root": "image",
+      "already_have": false,
+      "combined_score": 700,
+      "difficulty": "需WASM",
+      "search_volume": 74000,
+      "cpc": 2.73,
+      "competition": 0.5
+    },
+    {
+      "keyword": "time converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 200,
+      "suggested_slug": "time-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "screw extractor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 200,
+      "suggested_slug": "screw-extractor",
+      "root": "extractor",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 33100,
+      "cpc": 0.47,
+      "competition": 0.8
+    },
+    {
+      "keyword": "ai video editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 170,
+      "suggested_slug": "video-editor",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 27100,
+      "cpc": 3.9,
+      "competition": 0.5
+    },
+    {
+      "keyword": "ai video generator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 170,
+      "suggested_slug": "video-generator",
+      "root": "image",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 246000,
+      "cpc": 3.41,
+      "competition": 0.5
+    },
+    {
+      "keyword": "pdf editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 160,
+      "suggested_slug": "pdf-editor",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 246000,
+      "cpc": 5.07,
+      "competition": 0.8
+    },
+    {
+      "keyword": "pdf to jpg converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "pdf-to-jpg-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 670,
+      "difficulty": "需WASM",
+      "search_volume": 12100,
+      "cpc": 0.53,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "ai",
+      "root": "format",
+      "already_have": false,
+      "combined_score": 670,
+      "difficulty": "",
+      "search_volume": 110000,
+      "cpc": 1.98,
+      "competition": 0.5
+    },
+    {
+      "keyword": "video frame extractor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 62300,
+      "suggested_slug": "video-frame-extractor",
+      "root": "extractor",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "需WASM",
+      "search_volume": 2400,
+      "cpc": 6.76,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free uncensored ai image editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 17850,
+      "suggested_slug": "uncensored-image-editor",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 580,
+      "difficulty": "需WASM",
+      "search_volume": 1300,
+      "cpc": 1.29,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best online banks",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 51050,
+      "suggested_slug": "best-banks",
+      "root": "format",
+      "already_have": false,
+      "combined_score": 570,
+      "difficulty": "",
+      "search_volume": 5400,
+      "cpc": 20.14,
+      "competition": 0.8
+    },
+    {
+      "keyword": "ai image generation tools",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 20100,
+      "suggested_slug": "image-generations",
+      "root": "format",
+      "already_have": false,
+      "combined_score": 570,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 3.26,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ghibli ai image generator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1600,
+      "suggested_slug": "ghibli-image-generator",
+      "root": "image",
+      "already_have": false,
+      "combined_score": 570,
+      "difficulty": "需WASM",
+      "search_volume": 5400,
+      "cpc": 1.67,
+      "competition": 0.2
+    },
+    {
+      "keyword": "hotels with free breakfast",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 11900,
+      "suggested_slug": "hotels-with-breakfast",
+      "root": "filter",
+      "already_have": false,
+      "combined_score": 550,
+      "difficulty": "",
+      "search_volume": 9900,
+      "cpc": 2.31,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free photo editing software",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 11050,
+      "suggested_slug": "photo-editing-software",
+      "root": "format",
+      "already_have": false,
+      "combined_score": 550,
+      "difficulty": "需WASM",
+      "search_volume": 9900,
+      "cpc": 6.49,
+      "competition": 0.5
+    },
+    {
+      "keyword": "compress jpg file",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 11250,
+      "suggested_slug": "compress-jpg-file",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
+      "search_volume": 1300,
+      "cpc": 2.07,
+      "competition": 0.2
+    },
+    {
+      "keyword": "resize video",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 9350,
+      "suggested_slug": "resize-video",
+      "root": "compressor",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
+      "search_volume": 3600,
+      "cpc": 1.59,
+      "competition": 0.2
+    },
+    {
+      "keyword": "convert jpg to pdf free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 4850,
+      "suggested_slug": "convert-jpg-to-pdf-free",
+      "root": "filter",
+      "already_have": false,
+      "combined_score": 530,
+      "difficulty": "需WASM",
+      "search_volume": 3600,
+      "cpc": 1.8,
+      "competition": 0.5
+    },
+    {
+      "keyword": "free image to video ai",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 350,
+      "suggested_slug": "image-to-video-ai",
+      "root": "image",
+      "already_have": false,
+      "combined_score": 530,
+      "difficulty": "需WASM",
+      "search_volume": 6600,
+      "cpc": 1.94,
+      "competition": 0.5
+    },
+    {
+      "keyword": "free convert pdf to jpg",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 140,
+      "suggested_slug": "convert-pdf-to-jpg",
+      "root": "convert",
+      "already_have": false,
+      "combined_score": 530,
+      "difficulty": "需WASM",
+      "search_volume": 1600,
+      "cpc": 1.15,
+      "competition": 0.5
+    },
+    {
+      "keyword": "best ai for image generation",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1000,
+      "suggested_slug": "best-for-image-generation",
+      "root": "image",
+      "already_have": false,
+      "combined_score": 500,
+      "difficulty": "需WASM",
+      "search_volume": 5400,
+      "cpc": 3.81,
+      "competition": 0.5
+    },
+    {
+      "keyword": "ibackup extractor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 39700,
+      "suggested_slug": "ibackup-extractor",
+      "root": "extractor",
+      "already_have": false,
+      "combined_score": 440,
+      "difficulty": "",
+      "search_volume": 720,
+      "cpc": 2.35,
+      "competition": 0.2
+    },
+    {
+      "keyword": "online presence management",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 13700,
+      "suggested_slug": "presence-management",
+      "root": "filter",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "",
+      "search_volume": 210,
+      "cpc": 23.89,
+      "competition": 0.2
+    },
+    {
+      "keyword": "falling filter free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 6850,
+      "suggested_slug": "falling-filter-free",
+      "root": "filter",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "需WASM",
+      "search_volume": 880,
+      "cpc": 4.5,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best image generation ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 750,
+      "suggested_slug": "best-image-generation-ai",
+      "root": "image",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "需WASM",
+      "search_volume": 5400,
+      "cpc": 3.84,
+      "competition": 0.5
+    },
+    {
+      "keyword": "online unit converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "unit-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "",
+      "search_volume": 9900,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "time converter online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "time-converter-online",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "",
+      "search_volume": 1900,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best free password managers",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 6150,
+      "suggested_slug": "best-password-managers",
+      "root": "filter",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "纯前端",
+      "search_volume": 320,
+      "cpc": 4.1,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best free genealogy sites",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 3900,
+      "suggested_slug": "best-genealogy-sites",
+      "root": "format",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "",
+      "search_volume": 480,
+      "cpc": 2.74,
+      "competition": 0.5
+    },
+    {
+      "keyword": "ai video editor free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 160,
+      "suggested_slug": "video-editor-free",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需WASM",
+      "search_volume": 2400,
+      "cpc": 2.38,
+      "competition": 0.5
+    },
+    {
+      "keyword": "free ai video editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "video-editor",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需WASM",
+      "search_volume": 2900,
+      "cpc": 2.34,
+      "competition": 0.5
+    },
+    {
+      "keyword": "free ai image editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 120,
+      "suggested_slug": "image-editor",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需WASM",
+      "search_volume": 9900,
+      "cpc": 1.73,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ai filter app",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 140,
+      "suggested_slug": "filter-app",
+      "root": "filter",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需WASM",
+      "search_volume": 210,
+      "cpc": 2.43,
+      "competition": 0.5
+    },
+    {
+      "keyword": "vn video editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 450,
+      "suggested_slug": "vn-video-editor",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需WASM",
+      "search_volume": 5400,
+      "cpc": 3.53,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf text extractor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 190,
+      "suggested_slug": "pdf-text-extractor",
+      "root": "extractor",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "纯前端",
+      "search_volume": 6600,
+      "cpc": 2.08,
+      "competition": 0.5
+    },
+    {
+      "keyword": "mermaid live editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "mermaid-live-editor",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "",
+      "search_volume": 9900,
+      "cpc": 3.64,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf-xchange editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "pdf-xchange-editor",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需WASM",
+      "search_volume": 9900,
+      "cpc": 3.51,
+      "competition": 0.2
+    },
+    {
+      "keyword": "arabic to english translation online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 18650,
+      "suggested_slug": "arabic-to-english-translation-online",
+      "root": "image",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "",
+      "search_volume": 390,
+      "cpc": 1.97,
+      "competition": 0.2
+    },
+    {
+      "keyword": "remove background from photo online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 4200,
+      "suggested_slug": "remove-background-from-photo-online",
+      "root": "format",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "需WASM",
+      "search_volume": 170,
+      "cpc": 1.83,
+      "competition": 0.5
+    },
+    {
+      "keyword": "free image to video ai generator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "image-to-video-generator",
+      "root": "image",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "需WASM",
+      "search_volume": 1900,
+      "cpc": 2.14,
+      "competition": 0.5
+    },
+    {
+      "keyword": "free pdf to jpg converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "pdf-to-jpg-converter",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "需WASM",
+      "search_volume": 1600,
+      "cpc": 1.15,
+      "competition": 0.5
+    },
+    {
+      "keyword": "jpg to pdf converter free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "jpg-to-pdf-converter-free",
+      "root": "converter",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "需WASM",
+      "search_volume": 3600,
+      "cpc": 1.8,
+      "competition": 0.5
+    },
+    {
+      "keyword": "best free ai photo editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 120,
+      "suggested_slug": "best-photo-editor",
+      "root": "editor",
+      "already_have": false,
+      "combined_score": 380,
+      "difficulty": "需WASM",
+      "search_volume": 1600,
+      "cpc": 2.68,
+      "competition": 0.5
+    }
+  ]
+}

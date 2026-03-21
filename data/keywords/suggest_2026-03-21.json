@@ -1,0 +1,3188 @@
+{
+  "date": "2026-03-21",
+  "batch": 0,
+  "total_suggestions": 353,
+  "new_opportunities": 334,
+  "existing_matches": 19,
+  "opportunities": [
+    {
+      "keyword": "free compression tool online",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compression-online"
+    },
+    {
+      "keyword": "free compress tool pdf",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compress-pdf"
+    },
+    {
+      "keyword": "free compression tool mac",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compression-mac"
+    },
+    {
+      "keyword": "free video compressor tool",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-compressor"
+    },
+    {
+      "keyword": "adobe free compressor tool",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "adobe-compressor"
+    },
+    {
+      "keyword": "free file compressor tool",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-compressor"
+    },
+    {
+      "keyword": "free video compressor tool download",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-compressor-download"
+    },
+    {
+      "keyword": "compress ai online",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compress-online"
+    },
+    {
+      "keyword": "ai file compressor online",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-compressor-online"
+    },
+    {
+      "keyword": "ai video compressor online free",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-compressor-free"
+    },
+    {
+      "keyword": "ai video compressor online",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-compressor-online"
+    },
+    {
+      "keyword": "compressor free convert",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor-convert"
+    },
+    {
+      "keyword": "compress free converter",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compress-converter"
+    },
+    {
+      "keyword": "video compressor converter free",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-compressor-converter-free"
+    },
+    {
+      "keyword": "compress pdf converter free",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compress-pdf-converter-free"
+    },
+    {
+      "keyword": "compress jpg converter free",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compress-jpg-converter-free"
+    },
+    {
+      "keyword": "video converter compressor free download",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-converter-compressor-download"
+    },
+    {
+      "keyword": "png compressor free converter",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "png-compressor-converter"
+    },
+    {
+      "keyword": "difference between generator and compressor",
+      "root": "compressor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "difference-between-generator-and-compressor"
+    },
+    {
+      "keyword": "free converter tools store",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converters-store"
+    },
+    {
+      "keyword": "free tool convert pdf to word",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-convert-pdf-to-word"
+    },
+    {
+      "keyword": "free tool convert mbr to gpt",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-convert-mbr-to-gpt"
+    },
+    {
+      "keyword": "free tool convert pdf to excel",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-convert-pdf-to-excel"
+    },
+    {
+      "keyword": "free tool convert pdf to jpg",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-convert-pdf-to-jpg"
+    },
+    {
+      "keyword": "free tool convert heic to jpg",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-convert-heic-to-jpg"
+    },
+    {
+      "keyword": "free tool convert pdf to ppt",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-convert-pdf-to-ppt"
+    },
+    {
+      "keyword": "free converter software",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-software"
+    },
+    {
+      "keyword": "ai convert online (lineartify)",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-(lineartify)"
+    },
+    {
+      "keyword": "ai translation online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "translation-online"
+    },
+    {
+      "keyword": "ai converter free",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-free"
+    },
+    {
+      "keyword": "ai photo converter online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-converter-online"
+    },
+    {
+      "keyword": "ai video converter online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-converter-online"
+    },
+    {
+      "keyword": "ai voice converter online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "voice-converter-online"
+    },
+    {
+      "keyword": "ai converter online free",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-free"
+    },
+    {
+      "keyword": "ai dxf converter online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "dxf-converter-online"
+    },
+    {
+      "keyword": "mp3 converter converter free",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "mp3-converter-converter-free"
+    },
+    {
+      "keyword": "convert free convert",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-convert"
+    },
+    {
+      "keyword": "mp4 converter free converter",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "mp4-converter-converter"
+    },
+    {
+      "keyword": "pdf converter free converter",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-converter-converter"
+    },
+    {
+      "keyword": "video converter free converter",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-converter-converter"
+    },
+    {
+      "keyword": "online converter free converter",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-converter"
+    },
+    {
+      "keyword": "pdf to word converter converter free",
+      "root": "converter",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-to-word-converter-converter-free"
+    },
+    {
+      "keyword": "best generator converter",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-converter"
+    },
+    {
+      "keyword": "best inverter generator",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "inverter-generator"
+    },
+    {
+      "keyword": "best inverter generator for home",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-for-home"
+    },
+    {
+      "keyword": "best inverter generator for home backup",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-for-home-backup"
+    },
+    {
+      "keyword": "best inverter generator for rv",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-for-rv"
+    },
+    {
+      "keyword": "best inverter generator for the money",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-for-the-money"
+    },
+    {
+      "keyword": "best inverter generator australia",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-australia"
+    },
+    {
+      "keyword": "best inverter generator canada",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-canada"
+    },
+    {
+      "keyword": "best inverter generator philippines",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-philippines"
+    },
+    {
+      "keyword": "best inverter generator for camping",
+      "root": "converter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "inverter-generator-for-camping"
+    },
+    {
+      "keyword": "free translate tool",
+      "root": "convert",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "translate"
+    },
+    {
+      "keyword": "ai convert online free",
+      "root": "convert",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-free"
+    },
+    {
+      "keyword": "ai conversion online",
+      "root": "convert",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "conversion-online"
+    },
+    {
+      "keyword": "convert adobe illustrator online",
+      "root": "convert",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-adobe-illustrator-online"
+    },
+    {
+      "keyword": "ai photo convert online",
+      "root": "convert",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-convert-online"
+    },
+    {
+      "keyword": "ai convert image online",
+      "root": "convert",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-image-online"
+    },
+    {
+      "keyword": "ai convert photo online free",
+      "root": "convert",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-photo-free"
+    },
+    {
+      "keyword": "ai convert video online",
+      "root": "convert",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-video-online"
+    },
+    {
+      "keyword": "ai voice convert online",
+      "root": "convert",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "voice-convert-online"
+    },
+    {
+      "keyword": "convert to pdf converter free",
+      "root": "convert",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-to-pdf-converter-free"
+    },
+    {
+      "keyword": "convert to jpg converter free",
+      "root": "convert",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-to-jpg-converter-free"
+    },
+    {
+      "keyword": "convert pdf to word converter free online",
+      "root": "convert",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-word-converter-online"
+    },
+    {
+      "keyword": "convert pdf to word converter free",
+      "root": "convert",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-word-converter-free"
+    },
+    {
+      "keyword": "convert pdf to jpg converter free download",
+      "root": "convert",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-jpg-converter-download"
+    },
+    {
+      "keyword": "convert pdf to excel converter free download",
+      "root": "convert",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-excel-converter-download"
+    },
+    {
+      "keyword": "convert pdf to word converter free download",
+      "root": "convert",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-word-converter-download"
+    },
+    {
+      "keyword": "free editor tool online",
+      "root": "editor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-online"
+    },
+    {
+      "keyword": "free editing tools",
+      "root": "editor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editings"
+    },
+    {
+      "keyword": "free editing tools for videos",
+      "root": "editor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editings-for-videos"
+    },
+    {
+      "keyword": "free editing tool for pc",
+      "root": "editor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editing-for-pc"
+    },
+    {
+      "keyword": "free editing tools for writing",
+      "root": "editor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editings-for-writing"
+    },
+    {
+      "keyword": "free editing tools for photos",
+      "root": "editor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editings-for-photos"
+    },
+    {
+      "keyword": "free edit tool for pdf",
+      "root": "editor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "edit-for-pdf"
+    },
+    {
+      "keyword": "ai editor online free",
+      "root": "editor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-free"
+    },
+    {
+      "keyword": "ai editor online free photo",
+      "root": "editor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-photo"
+    },
+    {
+      "keyword": "ai editor online video",
+      "root": "editor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-video"
+    },
+    {
+      "keyword": "ai editor online free video",
+      "root": "editor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-video"
+    },
+    {
+      "keyword": "ai editor online photo",
+      "root": "editor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-photo"
+    },
+    {
+      "keyword": "ai editor online text",
+      "root": "editor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-text"
+    },
+    {
+      "keyword": "ai editor online image",
+      "root": "editor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-image"
+    },
+    {
+      "keyword": "ai editor online writing",
+      "root": "editor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-writing"
+    },
+    {
+      "keyword": "ai editor online pdf",
+      "root": "editor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-pdf"
+    },
+    {
+      "keyword": "pdf editor converter free",
+      "root": "editor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-editor-converter-free"
+    },
+    {
+      "keyword": "acepdf editor & converter free download",
+      "root": "editor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "acepdf-editor-&-converter-download"
+    },
+    {
+      "keyword": "video editor converter free download",
+      "root": "editor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-editor-converter-download"
+    },
+    {
+      "keyword": "photo editor converter free download",
+      "root": "editor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editor-converter-download"
+    },
+    {
+      "keyword": "video editor converter free",
+      "root": "editor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-editor-converter-free"
+    },
+    {
+      "keyword": "pdf editor converter free download",
+      "root": "editor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-editor-converter-download"
+    },
+    {
+      "keyword": "pdf editor converter free online",
+      "root": "editor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-editor-converter-online"
+    },
+    {
+      "keyword": "edit pdf converter free",
+      "root": "editor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "edit-pdf-converter-free"
+    },
+    {
+      "keyword": "edit pdf converter free online",
+      "root": "editor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "edit-pdf-converter-online"
+    },
+    {
+      "keyword": "pdf to word editor converter free",
+      "root": "editor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-to-word-editor-converter-free"
+    },
+    {
+      "keyword": "best image editor generator ai",
+      "root": "editor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-editor-generator-ai"
+    },
+    {
+      "keyword": "best ai generator editor",
+      "root": "editor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-editor"
+    },
+    {
+      "keyword": "best ai video editor generator",
+      "root": "editor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-editor-generator"
+    },
+    {
+      "keyword": "best ai photo editor generator free",
+      "root": "editor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editor-generator-free"
+    },
+    {
+      "keyword": "best ai video editor generator free",
+      "root": "editor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-editor-generator-free"
+    },
+    {
+      "keyword": "best ai image editor generator free",
+      "root": "editor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-editor-generator-free"
+    },
+    {
+      "keyword": "best ai photo editor generator app",
+      "root": "editor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editor-generator-app"
+    },
+    {
+      "keyword": "best image editor and generator",
+      "root": "editor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-editor-and-generator"
+    },
+    {
+      "keyword": "best football editor names generator",
+      "root": "editor",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "football-editor-names-generator"
+    },
+    {
+      "keyword": "free extraction tool",
+      "root": "extractor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extraction"
+    },
+    {
+      "keyword": "free removal tool",
+      "root": "extractor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "removal"
+    },
+    {
+      "keyword": "free removal tool for photos",
+      "root": "extractor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "removal-for-photos"
+    },
+    {
+      "keyword": "free removal tool photoshop",
+      "root": "extractor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "removal-photoshop"
+    },
+    {
+      "keyword": "free removal.tool for images",
+      "root": "extractor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "removal.tool-for-images"
+    },
+    {
+      "keyword": "free tool extract text from image",
+      "root": "extractor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-extract-text-from-image"
+    },
+    {
+      "keyword": "free tool extract audio from video",
+      "root": "extractor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-extract-audio-from-video"
+    },
+    {
+      "keyword": "free email extractor tools",
+      "root": "extractor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "email-extractors"
+    },
+    {
+      "keyword": "free audio extractor tool",
+      "root": "extractor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "audio-extractor"
+    },
+    {
+      "keyword": "ai extractor online'",
+      "root": "extractor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-online'"
+    },
+    {
+      "keyword": "online ai viewer",
+      "root": "extractor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "viewer"
+    },
+    {
+      "keyword": "ai vocal extractor online",
+      "root": "extractor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "vocal-extractor-online"
+    },
+    {
+      "keyword": "ai audio extractor online free",
+      "root": "extractor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "audio-extractor-free"
+    },
+    {
+      "keyword": "ai vocal extractor online free",
+      "root": "extractor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "vocal-extractor-free"
+    },
+    {
+      "keyword": "ai stamp extractor online free",
+      "root": "extractor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "stamp-extractor-free"
+    },
+    {
+      "keyword": "ai extract image online",
+      "root": "extractor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extract-image-online"
+    },
+    {
+      "keyword": "free filter design tool",
+      "root": "filter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-design"
+    },
+    {
+      "keyword": "free ascii filter web tool",
+      "root": "filter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "ascii-filter-web"
+    },
+    {
+      "keyword": "are there any free filter apps",
+      "root": "filter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "are-there-any-filter-apps"
+    },
+    {
+      "keyword": "ai filter online free",
+      "root": "filter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-free"
+    },
+    {
+      "keyword": "ai filter online photo",
+      "root": "filter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-photo"
+    },
+    {
+      "keyword": "ai filter online aesthetic",
+      "root": "filter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-aesthetic"
+    },
+    {
+      "keyword": "ai filter online video",
+      "root": "filter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-video"
+    },
+    {
+      "keyword": "ai filter online free download",
+      "root": "filter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-download"
+    },
+    {
+      "keyword": "ai filter online free app",
+      "root": "filter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-app"
+    },
+    {
+      "keyword": "best generator filter shop in lahore",
+      "root": "filter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "generator-filter-shop-in-lahore"
+    },
+    {
+      "keyword": "best filter maker",
+      "root": "filter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-maker"
+    },
+    {
+      "keyword": "best ai filter generator",
+      "root": "filter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-generator"
+    },
+    {
+      "keyword": "best no filter ai generator",
+      "root": "filter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "no-filter-generator"
+    },
+    {
+      "keyword": "best no filter image generator",
+      "root": "filter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "no-filter-image-generator"
+    },
+    {
+      "keyword": "best thd filter for generator",
+      "root": "filter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "thd-filter-for-generator"
+    },
+    {
+      "keyword": "best fuel filter for generator",
+      "root": "filter",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "fuel-filter-for-generator"
+    },
+    {
+      "keyword": "free format tool fat32",
+      "root": "format",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-fat32"
+    },
+    {
+      "keyword": "free format tool windows",
+      "root": "format",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-windows"
+    },
+    {
+      "keyword": "free format tool for usb",
+      "root": "format",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-for-usb"
+    },
+    {
+      "keyword": "free format software",
+      "root": "format",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-software"
+    },
+    {
+      "keyword": "free format utility",
+      "root": "format",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-utility"
+    },
+    {
+      "keyword": "free format software for windows 10",
+      "root": "format",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-software-for-windows-10"
+    },
+    {
+      "keyword": "free format software for mac",
+      "root": "format",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-software-for-mac"
+    },
+    {
+      "keyword": "free disk format tool",
+      "root": "format",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "disk-format"
+    },
+    {
+      "keyword": "free usb format tool android",
+      "root": "format",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "usb-format-android"
+    },
+    {
+      "keyword": "ai format online viewer",
+      "root": "format",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-viewer"
+    },
+    {
+      "keyword": "ai format online editor",
+      "root": "format",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-editor"
+    },
+    {
+      "keyword": "ai formatter online",
+      "root": "format",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "formatter-online"
+    },
+    {
+      "keyword": "ai form online",
+      "root": "format",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "form-online"
+    },
+    {
+      "keyword": "ai file online editor",
+      "root": "format",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-editor"
+    },
+    {
+      "keyword": "ai file online",
+      "root": "format",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-online"
+    },
+    {
+      "keyword": "ai file online open",
+      "root": "format",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-open"
+    },
+    {
+      "keyword": "ai file online editor free",
+      "root": "format",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-editor-free"
+    },
+    {
+      "keyword": "ai file online free",
+      "root": "format",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-free"
+    },
+    {
+      "keyword": "format converter free download",
+      "root": "format",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-converter-download"
+    },
+    {
+      "keyword": "file converter free",
+      "root": "format",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-converter-free"
+    },
+    {
+      "keyword": "file converter free download",
+      "root": "format",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-converter-download"
+    },
+    {
+      "keyword": "file converter free online",
+      "root": "format",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-converter-online"
+    },
+    {
+      "keyword": "file converter free no limit",
+      "root": "format",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-converter-no-limit"
+    },
+    {
+      "keyword": "file converter free download for windows 10",
+      "root": "format",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-converter-download-for-windows-10"
+    },
+    {
+      "keyword": "file converter free software",
+      "root": "format",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-converter-software"
+    },
+    {
+      "keyword": "file converter free open source",
+      "root": "format",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "file-converter-open-source"
+    },
+    {
+      "keyword": "best citation generator",
+      "root": "format",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "citation-generator"
+    },
+    {
+      "keyword": "best citation generator for apa",
+      "root": "format",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "citation-generator-for-apa"
+    },
+    {
+      "keyword": "best citation generator for apa 7",
+      "root": "format",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "citation-generator-for-apa-7"
+    },
+    {
+      "keyword": "best citation generator free",
+      "root": "format",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "citation-generator-free"
+    },
+    {
+      "keyword": "best citation generator for chicago style",
+      "root": "format",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "citation-generator-for-chicago-style"
+    },
+    {
+      "keyword": "best citation generator for mla",
+      "root": "format",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "citation-generator-for-mla"
+    },
+    {
+      "keyword": "best citation generator harvard",
+      "root": "format",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "citation-generator-harvard"
+    },
+    {
+      "keyword": "best citation generator for word",
+      "root": "format",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "citation-generator-for-word"
+    },
+    {
+      "keyword": "best citation generator for google docs",
+      "root": "format",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "citation-generator-for-google-docs"
+    },
+    {
+      "keyword": "free image tools online",
+      "root": "image",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "images-online"
+    },
+    {
+      "keyword": "free image tool ai",
+      "root": "image",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-ai"
+    },
+    {
+      "keyword": "free images toolbox",
+      "root": "image",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "imagesbox"
+    },
+    {
+      "keyword": "free tool image to video",
+      "root": "image",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-image-to-video"
+    },
+    {
+      "keyword": "free tool image to video ai",
+      "root": "image",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-image-to-video-ai"
+    },
+    {
+      "keyword": "free tool image generator",
+      "root": "image",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-image-generator"
+    },
+    {
+      "keyword": "free photo tool",
+      "root": "image",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo"
+    },
+    {
+      "keyword": "ai image online free",
+      "root": "image",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-free"
+    },
+    {
+      "keyword": "ai image online editor",
+      "root": "image",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-editor"
+    },
+    {
+      "keyword": "ai image online generator",
+      "root": "image",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator"
+    },
+    {
+      "keyword": "ai image online free generator",
+      "root": "image",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator"
+    },
+    {
+      "keyword": "ai image online enhancer",
+      "root": "image",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-enhancer"
+    },
+    {
+      "keyword": "ai image online creator",
+      "root": "image",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-creator"
+    },
+    {
+      "keyword": "ai image online editor free",
+      "root": "image",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-editor-free"
+    },
+    {
+      "keyword": "ai image online search",
+      "root": "image",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-search"
+    },
+    {
+      "keyword": "ai image online create",
+      "root": "image",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-create"
+    },
+    {
+      "keyword": "best image generator ai",
+      "root": "image",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator-ai"
+    },
+    {
+      "keyword": "best image generator ai free",
+      "root": "image",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator-free"
+    },
+    {
+      "keyword": "best image generator free",
+      "root": "image",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator-free"
+    },
+    {
+      "keyword": "best image generator no restrictions",
+      "root": "image",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator-no-restrictions"
+    },
+    {
+      "keyword": "best image generator app",
+      "root": "image",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator-app"
+    },
+    {
+      "keyword": "best image generator model",
+      "root": "image",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator-model"
+    },
+    {
+      "keyword": "ai converter",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter"
+    },
+    {
+      "keyword": "ai converter to human",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-to-human"
+    },
+    {
+      "keyword": "ai converter image",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-image"
+    },
+    {
+      "keyword": "ai converter to human text",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-to-human-text"
+    },
+    {
+      "keyword": "ai converter to human free",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-to-human-free"
+    },
+    {
+      "keyword": "ai converter text",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-text"
+    },
+    {
+      "keyword": "ai converter to pdf",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-to-pdf"
+    },
+    {
+      "keyword": "ai converter video",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-video"
+    },
+    {
+      "keyword": "free converter",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter"
+    },
+    {
+      "keyword": "free converter pdf to word",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-pdf-to-word"
+    },
+    {
+      "keyword": "free converter pdf to jpg",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-pdf-to-jpg"
+    },
+    {
+      "keyword": "free converter to pdf",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-to-pdf"
+    },
+    {
+      "keyword": "free converter mp3",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-mp3"
+    },
+    {
+      "keyword": "free converter mp4 to mp3",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-mp4-to-mp3"
+    },
+    {
+      "keyword": "free converter video to mp3",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-video-to-mp3"
+    },
+    {
+      "keyword": "free converter heic to jpg",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-heic-to-jpg"
+    },
+    {
+      "keyword": "free converter to jpg",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-to-jpg"
+    },
+    {
+      "keyword": "free converter to mp4",
+      "root": "converter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "converter-to-mp4"
+    },
+    {
+      "keyword": "ai format",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format"
+    },
+    {
+      "keyword": "ai formatting tool",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "formatting"
+    },
+    {
+      "keyword": "ai formatter",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "formatter"
+    },
+    {
+      "keyword": "ai format remover",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-remover"
+    },
+    {
+      "keyword": "ai format file",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-file"
+    },
+    {
+      "keyword": "ai format resume",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-resume"
+    },
+    {
+      "keyword": "ai format document",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-document"
+    },
+    {
+      "keyword": "ai format generator",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-generator"
+    },
+    {
+      "keyword": "ai format converter",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-converter"
+    },
+    {
+      "keyword": "ai format text",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-text"
+    },
+    {
+      "keyword": "free format",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format"
+    },
+    {
+      "keyword": "free format converter",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-converter"
+    },
+    {
+      "keyword": "free formatting tool",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "formatting"
+    },
+    {
+      "keyword": "free formatter",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "formatter"
+    },
+    {
+      "keyword": "free formatting software",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "formatting-software"
+    },
+    {
+      "keyword": "free format for resume",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-for-resume"
+    },
+    {
+      "keyword": "free format submission",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-submission"
+    },
+    {
+      "keyword": "free formatter json",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "formatter-json"
+    },
+    {
+      "keyword": "free formatting software for books",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "formatting-software-for-books"
+    },
+    {
+      "keyword": "free format to fat32",
+      "root": "format",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "format-to-fat32"
+    },
+    {
+      "keyword": "ai convert image",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-image"
+    },
+    {
+      "keyword": "ai convert pdf to excel",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-excel"
+    },
+    {
+      "keyword": "ai convert photo to cartoon",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-photo-to-cartoon"
+    },
+    {
+      "keyword": "ai convert image to video",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-image-to-video"
+    },
+    {
+      "keyword": "ai convert pdf to word",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-word"
+    },
+    {
+      "keyword": "ai convert image to vector",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-image-to-vector"
+    },
+    {
+      "keyword": "ai convert to vector",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-to-vector"
+    },
+    {
+      "keyword": "ai convert audio to text",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-audio-to-text"
+    },
+    {
+      "keyword": "free convert",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert"
+    },
+    {
+      "keyword": "free convert pdf to word",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-word"
+    },
+    {
+      "keyword": "free convert pdf to jpg",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-jpg"
+    },
+    {
+      "keyword": "free convert video to mp3",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-video-to-mp3"
+    },
+    {
+      "keyword": "free convert to pdf",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-to-pdf"
+    },
+    {
+      "keyword": "free convert mp3",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-mp3"
+    },
+    {
+      "keyword": "free convert heic to jpg",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-heic-to-jpg"
+    },
+    {
+      "keyword": "free convert pdf to excel",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-pdf-to-excel"
+    },
+    {
+      "keyword": "free convert mp4 to mp3",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-mp4-to-mp3"
+    },
+    {
+      "keyword": "free convert png to pdf",
+      "root": "convert",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "convert-png-to-pdf"
+    },
+    {
+      "keyword": "ai filter",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter"
+    },
+    {
+      "keyword": "ai filter for photos",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-for-photos"
+    },
+    {
+      "keyword": "ai filter app",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-app"
+    },
+    {
+      "keyword": "ai filter free",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-free"
+    },
+    {
+      "keyword": "ai filter foundation",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-foundation"
+    },
+    {
+      "keyword": "ai filter video",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-video"
+    },
+    {
+      "keyword": "ai filter snapchat",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-snapchat"
+    },
+    {
+      "keyword": "ai filter remover",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-remover"
+    },
+    {
+      "keyword": "ai filter check",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-check"
+    },
+    {
+      "keyword": "ai filter pinterest",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-pinterest"
+    },
+    {
+      "keyword": "free filters",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filters"
+    },
+    {
+      "keyword": "free filter apps",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-apps"
+    },
+    {
+      "keyword": "free filters for photos",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filters-for-photos"
+    },
+    {
+      "keyword": "free filters online",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filters-online"
+    },
+    {
+      "keyword": "free filter app for photos",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-app-for-photos"
+    },
+    {
+      "keyword": "free filters for face",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filters-for-face"
+    },
+    {
+      "keyword": "free filter apps for iphone",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-apps-for-iphone"
+    },
+    {
+      "keyword": "free filter website",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filter-website"
+    },
+    {
+      "keyword": "free filters for iphone",
+      "root": "filter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "filters-for-iphone"
+    },
+    {
+      "keyword": "ai extractor",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor"
+    },
+    {
+      "keyword": "ai extractor music",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-music"
+    },
+    {
+      "keyword": "ai extractor acapella",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-acapella"
+    },
+    {
+      "keyword": "ai extractor vocal",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-vocal"
+    },
+    {
+      "keyword": "ai extractor image",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-image"
+    },
+    {
+      "keyword": "ai extractor free",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-free"
+    },
+    {
+      "keyword": "ai extractor from pdf",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-from-pdf"
+    },
+    {
+      "keyword": "ai extractor tool",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor"
+    },
+    {
+      "keyword": "ai extractor audio",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-audio"
+    },
+    {
+      "keyword": "free extractor",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor"
+    },
+    {
+      "keyword": "free extractor for mac",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-for-mac"
+    },
+    {
+      "keyword": "free extractor for pc",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-for-pc"
+    },
+    {
+      "keyword": "free extractor for zip files",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-for-zip-files"
+    },
+    {
+      "keyword": "free extractor for windows",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-for-windows"
+    },
+    {
+      "keyword": "free extractor online",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-online"
+    },
+    {
+      "keyword": "free extractor download",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-download"
+    },
+    {
+      "keyword": "free extractor email",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-email"
+    },
+    {
+      "keyword": "free extractor file",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-file"
+    },
+    {
+      "keyword": "free extractor zip",
+      "root": "extractor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "extractor-zip"
+    },
+    {
+      "keyword": "ai image generator",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator"
+    },
+    {
+      "keyword": "ai image editor",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-editor"
+    },
+    {
+      "keyword": "ai image generator free",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator-free"
+    },
+    {
+      "keyword": "ai image detector",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-detector"
+    },
+    {
+      "keyword": "ai image",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image"
+    },
+    {
+      "keyword": "ai image creator",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-creator"
+    },
+    {
+      "keyword": "ai image upscaler",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-upscaler"
+    },
+    {
+      "keyword": "ai image enhancer",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-enhancer"
+    },
+    {
+      "keyword": "ai image checker",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-checker"
+    },
+    {
+      "keyword": "ai image maker",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-maker"
+    },
+    {
+      "keyword": "free images",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "images"
+    },
+    {
+      "keyword": "free image generator",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator"
+    },
+    {
+      "keyword": "free image generator ai",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator-ai"
+    },
+    {
+      "keyword": "free image editor",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-editor"
+    },
+    {
+      "keyword": "free image upscaler",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-upscaler"
+    },
+    {
+      "keyword": "free image to video ai",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-to-video-ai"
+    },
+    {
+      "keyword": "free images download",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "images-download"
+    },
+    {
+      "keyword": "free image hosting",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-hosting"
+    },
+    {
+      "keyword": "free image enhancer",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-enhancer"
+    },
+    {
+      "keyword": "ai editor",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor"
+    },
+    {
+      "keyword": "ai editor photo",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-photo"
+    },
+    {
+      "keyword": "ai editor free",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-free"
+    },
+    {
+      "keyword": "ai editor video",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-video"
+    },
+    {
+      "keyword": "ai editor writing",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-writing"
+    },
+    {
+      "keyword": "ai editor image",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-image"
+    },
+    {
+      "keyword": "ai editor app",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-app"
+    },
+    {
+      "keyword": "ai editor photo free",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-photo-free"
+    },
+    {
+      "keyword": "free editor",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor"
+    },
+    {
+      "keyword": "free editor apps",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-apps"
+    },
+    {
+      "keyword": "free editor pdf",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-pdf"
+    },
+    {
+      "keyword": "free editorials",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editorials"
+    },
+    {
+      "keyword": "free editor online",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-online"
+    },
+    {
+      "keyword": "free editor software",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-software"
+    },
+    {
+      "keyword": "free editor video",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-video"
+    },
+    {
+      "keyword": "free editor for pictures",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-for-pictures"
+    },
+    {
+      "keyword": "free editor like capcut",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-like-capcut"
+    },
+    {
+      "keyword": "free editor no watermark",
+      "root": "editor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-no-watermark"
+    },
+    {
+      "keyword": "ai compressor plugin",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor-plugin"
+    },
+    {
+      "keyword": "free compressor",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor"
+    },
+    {
+      "keyword": "free compressor plugin",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor-plugin"
+    },
+    {
+      "keyword": "free compressor vst",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor-vst"
+    },
+    {
+      "keyword": "free compressor pdf",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor-pdf"
+    },
+    {
+      "keyword": "free compressor video",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor-video"
+    },
+    {
+      "keyword": "free compressor vst plugin",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor-vst-plugin"
+    },
+    {
+      "keyword": "free compressor plugin for vocals",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor-plugin-for-vocals"
+    },
+    {
+      "keyword": "free compressor online",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor-online"
+    },
+    {
+      "keyword": "free compress gif",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compress-gif"
+    },
+    {
+      "keyword": "free compressor plugin fl studio",
+      "root": "compressor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "compressor-plugin-fl-studio"
+    }
+  ],
+  "existing": [
+    {
+      "keyword": "free image compressor tool",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-compressor"
+    },
+    {
+      "keyword": "free pdf compressor tool download",
+      "root": "compressor",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "pdf-compressor-download"
+    },
+    {
+      "keyword": "ai pdf compressor online free",
+      "root": "compressor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "pdf-compressor-free"
+    },
+    {
+      "keyword": "pdf compress converter free online",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "pdf-compress-converter-online"
+    },
+    {
+      "keyword": "compress image converter free",
+      "root": "compressor",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "compress-image-converter-free"
+    },
+    {
+      "keyword": "free tool convert image to text",
+      "root": "converter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "tool-convert-image-to-text"
+    },
+    {
+      "keyword": "ai image converter online",
+      "root": "converter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-converter-online"
+    },
+    {
+      "keyword": "convert image to pdf converter free",
+      "root": "convert",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "convert-image-to-pdf-converter-free"
+    },
+    {
+      "keyword": "free tool image to text",
+      "root": "image",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "tool-image-to-text"
+    },
+    {
+      "keyword": "free tool image to pdf",
+      "root": "image",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "tool-image-to-pdf"
+    },
+    {
+      "keyword": "image converter free online",
+      "root": "image",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-converter-online"
+    },
+    {
+      "keyword": "image converter free software",
+      "root": "image",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-converter-software"
+    },
+    {
+      "keyword": "image converter free unlimited",
+      "root": "image",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-converter-unlimited"
+    },
+    {
+      "keyword": "image converter free download for pc",
+      "root": "image",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-converter-download-for-pc"
+    },
+    {
+      "keyword": "image converter freeware",
+      "root": "image",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-converter-freeware"
+    },
+    {
+      "keyword": "image converter free ai",
+      "root": "image",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-converter-ai"
+    },
+    {
+      "keyword": "image converter free app",
+      "root": "image",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-converter-app"
+    },
+    {
+      "keyword": "image converter free to jpg",
+      "root": "image",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-converter-to-jpg"
+    },
+    {
+      "keyword": "free image resizer",
+      "root": "image",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-resizer"
+    }
+  ]
+}
