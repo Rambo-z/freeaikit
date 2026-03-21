@@ -138,64 +138,35 @@ export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [openGroup, setOpenGroup] = useState<string | null>(null);
   const [expandedMobile, setExpandedMobile] = useState<string | null>(null);
-  const [langOpen, setLangOpen] = useState(false);
   const headerRef = useRef<HTMLElement>(null);
-  const langRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
 
-  // Determine current locale and get switch URL
+  // Determine current locale and switch URL
   const isSpanish = pathname.startsWith("/es/");
-  const currentLang = isSpanish ? "es" : "en";
 
-  function getSwitchUrl(targetLang: string): string {
-    if (targetLang === "en") {
-      // Spanish → English: /es/comprimir-imagen → /image-compress
-      if (isSpanish) {
-        const esSlug = pathname.replace("/es/", "");
-        const enSlug = Object.entries(ES_SLUG_MAP).find(([, v]) => v === esSlug)?.[0];
-        return enSlug ? `/${enSlug}` : "/";
-      }
-      return pathname;
+  const switchUrl = (() => {
+    if (isSpanish) {
+      // Spanish → English
+      const esSlug = pathname.replace("/es/", "");
+      const enSlug = Object.entries(ES_SLUG_MAP).find(([, v]) => v === esSlug)?.[0];
+      return enSlug ? `/${enSlug}` : "/";
     }
-    if (targetLang === "es") {
-      // English → Spanish: /image-compress → /es/comprimir-imagen
-      if (isSpanish) return pathname;
-      const slug = pathname.replace("/", "");
-      const esSlug = ES_SLUG_MAP[slug];
-      return esSlug ? `/es/${esSlug}` : "/";
-    }
-    return "/";
-  }
+    // English → Spanish
+    const slug = pathname.replace(/^\//, "");
+    const esSlug = ES_SLUG_MAP[slug];
+    return esSlug ? `/es/${esSlug}` : "/es/comprimir-imagen";
+  })();
 
-  // Close nav dropdowns on outside click (only nav groups, not lang)
+  // Close dropdown on outside click
   useEffect(() => {
-    function handleClickOutside(e: MouseEvent) {
+    function handleClick(e: MouseEvent) {
       if (headerRef.current && !headerRef.current.contains(e.target as Node)) {
         setOpenGroup(null);
-        setLangOpen(false);
       }
     }
-    document.addEventListener("mousedown", handleClickOutside);
-    return () => document.removeEventListener("mousedown", handleClickOutside);
+    document.addEventListener("mousedown", handleClick);
+    return () => document.removeEventListener("mousedown", handleClick);
   }, []);
-
-  // Close lang dropdown when clicking anywhere except lang switcher
-  useEffect(() => {
-    if (!langOpen) return;
-    function handleCloseLang(e: MouseEvent) {
-      if (langRef.current && !langRef.current.contains(e.target as Node)) {
-        setLangOpen(false);
-      }
-    }
-    // Use setTimeout to avoid catching the same click that opened it
-    const timer = setTimeout(() => {
-      document.addEventListener("mousedown", handleCloseLang);
-    }, 0);
-    return () => {
-      clearTimeout(timer);
-      document.removeEventListener("mousedown", handleCloseLang);
-    };
-  }, [langOpen]);
 
   const toggleGroup = useCallback((label: string) => {
     setOpenGroup((prev) => (prev === label ? null : label));
@@ -241,37 +212,15 @@ export default function Header() {
           </nav>
 
           <div className="flex items-center gap-2">
-            {/* Language switcher */}
-            <div className="relative" ref={langRef}>
-              <button
-                onClick={() => { setLangOpen((v) => !v); setOpenGroup(null); }}
-                className="inline-flex items-center gap-1 px-2 py-1.5 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
-                aria-label="Switch language"
-              >
-                <Globe className="w-4 h-4" />
-                <span className="hidden sm:inline">{currentLang === "es" ? "ES" : "EN"}</span>
-                <ChevronDown className={`w-3 h-3 transition-transform ${langOpen ? "rotate-180" : ""}`} />
-              </button>
-              {langOpen && (
-                <div className="absolute top-full right-0 mt-1 bg-white border border-gray-200 rounded-xl shadow-lg py-1 min-w-[140px] z-50">
-                  {LANGUAGES.map((lang) => (
-                    <Link
-                      key={lang.code}
-                      href={getSwitchUrl(lang.code)}
-                      onClick={() => setLangOpen(false)}
-                      className={`flex items-center gap-2 px-3 py-2 text-sm transition-colors ${
-                        currentLang === lang.code
-                          ? "bg-blue-50 text-blue-700 font-medium"
-                          : "text-gray-700 hover:bg-gray-50"
-                      }`}
-                    >
-                      <span>{lang.flag}</span>
-                      <span>{lang.label}</span>
-                    </Link>
-                  ))}
-                </div>
-              )}
-            </div>
+            {/* Language switcher — direct link, no dropdown */}
+            <Link
+              href={switchUrl}
+              className="inline-flex items-center gap-1.5 px-2.5 py-1.5 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
+              title={isSpanish ? "Switch to English" : "Cambiar a Español"}
+            >
+              <Globe className="w-4 h-4" />
+              <span className="hidden sm:inline">{isSpanish ? "🇺🇸 EN" : "🇪🇸 ES"}</span>
+            </Link>
             <Link href="/bg-remover"
               className="hidden sm:inline-flex items-center gap-1.5 px-4 py-2 bg-blue-600 text-white rounded-lg text-sm font-medium hover:bg-blue-700 transition-colors shadow-sm">
               Try Free
