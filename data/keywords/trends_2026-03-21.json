@@ -1,11 +1,21 @@
 {
   "date": "2026-03-21",
-  "batch": 4,
-  "total_rising_found": 156,
-  "new_opportunities": 149,
-  "existing_matches": 7,
+  "batch": 5,
+  "total_rising_found": 160,
+  "new_opportunities": 150,
+  "existing_matches": 10,
   "errors": 0,
   "opportunities": [
+    {
+      "keyword": "tip calculator google",
+      "root": "tip calculator",
+      "prefix": "free",
+      "trend_score": 1456850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tip-calculator-google"
+    },
     {
       "keyword": "car loan payment calculator",
       "root": "loan calculator online",
@@ -25,6 +35,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "soundcloud-to-mp3"
+    },
+    {
+      "keyword": "best discount auto insurance",
+      "root": "discount calculator",
+      "prefix": "online",
+      "trend_score": 158600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "best-discount-auto-insurance"
     },
     {
       "keyword": "link to audio converter online free mp4",
@@ -107,6 +127,16 @@
       "suggested_slug": "va-loan-payment-calculator"
     },
     {
+      "keyword": "today's date",
+      "root": "date calculator online",
+      "prefix": "",
+      "trend_score": 73300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "today's-date"
+    },
+    {
       "keyword": "online insurance quotes car",
       "root": "loan calculator online",
       "prefix": "online",
@@ -115,6 +145,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "insurance-quotes-car"
+    },
+    {
+      "keyword": "zip file password remover online",
+      "root": "zip file online",
+      "prefix": "online",
+      "trend_score": 59800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "zip-file-password-remover-online"
     },
     {
       "keyword": "online auto insurance quotes",
@@ -155,6 +195,26 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "toyota-sale"
+    },
+    {
+      "keyword": "zip file password remover online free",
+      "root": "zip file online",
+      "prefix": "online",
+      "trend_score": 45300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "zip-file-password-remover-free"
+    },
+    {
+      "keyword": "cloudconvert",
+      "root": "file converter online free",
+      "prefix": "",
+      "trend_score": 40400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cloudconvert"
     },
     {
       "keyword": "toyota 4runner",
@@ -257,6 +317,16 @@
       "suggested_slug": "navy-federal-personal-loan-calculator"
     },
     {
+      "keyword": "todays date",
+      "root": "date calculator online",
+      "prefix": "online",
+      "trend_score": 16200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "todays-date"
+    },
+    {
       "keyword": "anthropic news today",
       "root": "video to audio",
       "prefix": "online",
@@ -307,6 +377,16 @@
       "suggested_slug": "how-to-trim-video-in-vlc"
     },
     {
+      "keyword": "tax calculator 2025",
+      "root": "tip calculator",
+      "prefix": "",
+      "trend_score": 800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tax-calculator-2025"
+    },
+    {
       "keyword": "how to make a gif from a video",
       "root": "video to gif",
       "prefix": "",
@@ -347,6 +427,26 @@
       "suggested_slug": "soundcloud-to-wav"
     },
     {
+      "keyword": "hex to hsl converter",
+      "root": "color to hex converter",
+      "prefix": "",
+      "trend_score": 500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "hex-to-hsl-converter"
+    },
+    {
+      "keyword": "tax refund calculator",
+      "root": "tip calculator",
+      "prefix": "",
+      "trend_score": 450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tax-refund-calculator"
+    },
+    {
       "keyword": "make gif from video",
       "root": "video to gif",
       "prefix": "",
@@ -365,6 +465,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "how-to-make-gif-from-video"
+    },
+    {
+      "keyword": "pdf converter",
+      "root": "temperature converter",
+      "prefix": "",
+      "trend_score": 400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-converter"
     },
     {
       "keyword": "pdf to word converter online free",
@@ -417,6 +527,16 @@
       "suggested_slug": "glp-1-online"
     },
     {
+      "keyword": "binary to decimal conversion method",
+      "root": "binary to decimal",
+      "prefix": "",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "binary-to-decimal-conversion-method"
+    },
+    {
       "keyword": "webm to mp4",
       "root": "mp4 to mp3 online",
       "prefix": "online",
@@ -425,6 +545,26 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "webm-to-mp4"
+    },
+    {
+      "keyword": "auto loan calculator",
+      "root": "discount calculator",
+      "prefix": "online",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "auto-loan-calculator"
+    },
+    {
+      "keyword": "money converter",
+      "root": "temperature converter",
+      "prefix": "",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "money-converter"
     },
     {
       "keyword": "cut video online",
@@ -475,6 +615,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "personal-loan-calculator"
+    },
+    {
+      "keyword": "length converter",
+      "root": "temperature converter",
+      "prefix": "",
+      "trend_score": 200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "length-converter"
     },
     {
       "keyword": "photo to video ai free",
@@ -647,6 +797,26 @@
       "suggested_slug": "prevent-calculator"
     },
     {
+      "keyword": "car loan calculator",
+      "root": "discount calculator",
+      "prefix": "online",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "car-loan-calculator"
+    },
+    {
+      "keyword": "tdee calculator",
+      "root": "discount calculator",
+      "prefix": "",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tdee-calculator"
+    },
+    {
       "keyword": "cloud convert",
       "root": "mp4 to webm",
       "prefix": "",
@@ -685,6 +855,16 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "make-video-to-gif"
+    },
+    {
+      "keyword": "binary to decimal conversion",
+      "root": "binary to decimal",
+      "prefix": "",
+      "trend_score": 120,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "binary-to-decimal-conversion"
     },
     {
       "keyword": "online video editor",
@@ -767,6 +947,56 @@
       "suggested_slug": "glp1-online"
     },
     {
+      "keyword": "calculator online",
+      "root": "tip calculator",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "calculator-online"
+    },
+    {
+      "keyword": "online tip calculator",
+      "root": "tip calculator",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tip-calculator"
+    },
+    {
+      "keyword": "tip calculator online",
+      "root": "tip calculator",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tip-calculator-online"
+    },
+    {
+      "keyword": "discount calculator online",
+      "root": "discount calculator",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "discount-calculator-online"
+    },
+    {
+      "keyword": "unzip files online free",
+      "root": "unzip file online",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "unzip-files-free"
+    },
+    {
       "keyword": "free ai video generator",
       "root": "video to gif",
       "prefix": "free",
@@ -775,236 +1005,6 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "video-generator"
-    },
-    {
-      "keyword": "mkv to mp4",
-      "root": "mp4 to webm",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "mkv-to-mp4"
-    },
-    {
-      "keyword": "webm vs mp4",
-      "root": "mp4 to webm",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "webm-vs-mp4"
-    },
-    {
-      "keyword": "online logo maker for free",
-      "root": "logo maker free online",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "logo-maker-for-free"
-    },
-    {
-      "keyword": "product mockup generator",
-      "root": "mockup generator free",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "product-mockup-generator"
-    },
-    {
-      "keyword": "best free video compressor",
-      "root": "video compressor free",
-      "prefix": "free",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "best-video-compressor"
-    },
-    {
-      "keyword": "make gif",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "make-gif"
-    },
-    {
-      "keyword": "convert video to text",
-      "root": "video converter online free",
-      "prefix": "online",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "convert-video-to-text"
-    },
-    {
-      "keyword": "mp3 vs mp4",
-      "root": "mp4 to mp3 online",
-      "prefix": "online",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "mp3-vs-mp4"
-    },
-    {
-      "keyword": "webm to mp3",
-      "root": "mp4 to mp3 online",
-      "prefix": "online",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "webm-to-mp3"
-    },
-    {
-      "keyword": "mp4 to ogv",
-      "root": "mp4 to webm",
-      "prefix": "",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "mp4-to-ogv"
-    },
-    {
-      "keyword": "mp3 to flac",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "mp3-to-flac"
-    },
-    {
-      "keyword": "best free thumbnail maker",
-      "root": "youtube thumbnail maker free",
-      "prefix": "free",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "best-thumbnail-maker"
-    },
-    {
-      "keyword": "how to calculate bmi",
-      "root": "bmi calculator online",
-      "prefix": "online",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "how-to-calculate-bmi"
-    },
-    {
-      "keyword": "tirzepatide online",
-      "root": "bmi calculator online",
-      "prefix": "online",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "tirzepatide-online"
-    },
-    {
-      "keyword": "calculator for home loan",
-      "root": "loan calculator online",
-      "prefix": "online",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "calculator-for-home-loan"
-    },
-    {
-      "keyword": "video compressor app",
-      "root": "video compressor free",
-      "prefix": "free",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "video-compressor-app"
-    },
-    {
-      "keyword": "image to video ai",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "image-to-video-ai"
-    },
-    {
-      "keyword": "online video cutter",
-      "root": "mp4 to mp3 online",
-      "prefix": "online",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "video-cutter"
-    },
-    {
-      "keyword": "audio extractor",
-      "root": "audio converter online",
-      "prefix": "",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "audio-extractor"
-    },
-    {
-      "keyword": "flac to wav",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "flac-to-wav"
-    },
-    {
-      "keyword": "webm to wav",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "webm-to-wav"
-    },
-    {
-      "keyword": "ai mockup generator free",
-      "root": "mockup generator free",
-      "prefix": "",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "mockup-generator-free"
-    },
-    {
-      "keyword": "free ai thumbnail maker",
-      "root": "youtube thumbnail maker free",
-      "prefix": "free",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-21",
-      "already_have": false,
-      "suggested_slug": "thumbnail-maker"
     }
   ],
   "existing": [
@@ -1077,6 +1077,36 @@
       "discovered": "2026-03-21",
       "already_have": true,
       "suggested_slug": "background-remover"
+    },
+    {
+      "keyword": "age calculator by date of birth",
+      "root": "date calculator online",
+      "prefix": "free",
+      "trend_score": 95200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "age-calculator-by-date-of-birth"
+    },
+    {
+      "keyword": "mortgage calculator",
+      "root": "date calculator online",
+      "prefix": "online",
+      "trend_score": 200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "mortgage-calculator"
+    },
+    {
+      "keyword": "compress pdf free",
+      "root": "file compressor online",
+      "prefix": "online",
+      "trend_score": 60,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "compress-pdf-free"
     }
   ],
   "error_log": []
