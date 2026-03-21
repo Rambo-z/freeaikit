@@ -90,7 +90,7 @@ export default function RootLayout({
 
               {/* Image Tools */}
               <div>
-                <h4 className="text-sm font-semibold text-white mb-3">Image</h4>
+                <Link href="/image-tools" className="text-sm font-semibold text-white mb-3 block hover:text-blue-400 transition-colors">Image Tools</Link>
                 <ul className="space-y-2">
                   {[
                     ["/bg-remover",      "BG Remover"],
@@ -99,43 +99,83 @@ export default function RootLayout({
                     ["/image-resize",    "Resizer"],
                     ["/image-crop",      "Crop & Rotate"],
                     ["/image-filters",   "Filters"],
-                    ["/image-watermark", "Watermark"],
+                    ["/image-to-text",   "Image to Text (OCR)"],
+                    ["/gif-maker",       "GIF Maker"],
                     ["/image-to-svg",    "Image to SVG"],
-                    ["/base64-image",    "Base64"],
-                    ["/image-to-text",  "Image to Text"],
-                    ["/gif-maker",      "GIF Maker"],
-                    ["/image-blur",     "Blur Image"],
-                    ["/meme-generator", "Meme Generator"],
+                    ["/image-blur",      "Blur Image"],
+                    ["/meme-generator",  "Meme Generator"],
+                    ["/compress-jpg",    "Compress JPG"],
+                    ["/compress-png",    "Compress PNG"],
+                    ["/png-compressor",  "PNG Compressor"],
+                    ["/image-compressor","Image Compressor"],
+                    ["/resize-image",    "Resize Image"],
+                    ["/crop-image",      "Crop Image"],
+                    ["/remove-background","Remove Background"],
                   ].map(([href, label]) => (
                     <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
                   ))}
                 </ul>
               </div>
 
-              {/* PDF & Design */}
+              {/* PDF & Converters */}
               <div>
-                <h4 className="text-sm font-semibold text-white mb-3">PDF</h4>
+                <Link href="/pdf-tools" className="text-sm font-semibold text-white mb-3 block hover:text-blue-400 transition-colors">PDF Tools</Link>
                 <ul className="space-y-2">
                   {[
-                    ["/pdf-compress",  "PDF Compressor"],
-                    ["/pdf-merge",     "Merge & Split"],
-                    ["/pdf-rotate",    "PDF Rotate"],
-                    ["/pdf-unlock",    "PDF Unlock"],
-                    ["/pdf-protect",   "PDF Protect"],
-                    ["/pdf-extract",   "Extract Pages"],
-                    ["/image-to-pdf",  "Image to PDF"],
-                    ["/pdf-to-images", "PDF to Images"],
+                    ["/pdf-compress",    "PDF Compressor"],
+                    ["/compress-pdf",    "Compress PDF"],
+                    ["/pdf-merge",       "Merge & Split"],
+                    ["/merge-pdf",       "Merge PDF"],
+                    ["/split-pdf",       "Split PDF"],
+                    ["/pdf-rotate",      "PDF Rotate"],
+                    ["/pdf-unlock",      "PDF Unlock"],
+                    ["/pdf-protect",     "PDF Protect"],
+                    ["/pdf-extract",     "Extract Pages"],
+                    ["/pdf-text-extractor","PDF Text Extractor"],
+                    ["/image-to-pdf",    "Image to PDF"],
+                    ["/jpg-to-pdf",      "JPG to PDF"],
+                    ["/png-to-pdf",      "PNG to PDF"],
+                    ["/pdf-to-images",   "PDF to Images"],
+                    ["/pdf-to-jpg",      "PDF to JPG"],
+                    ["/pdf-to-png",      "PDF to PNG"],
                   ].map(([href, label]) => (
                     <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
                   ))}
                 </ul>
-                <h4 className="text-sm font-semibold text-white mt-6 mb-3">Design</h4>
+              </div>
+
+              {/* Format Converters */}
+              <div>
+                <h4 className="text-sm font-semibold text-white mb-3">Convert</h4>
+                <ul className="space-y-2">
+                  {[
+                    ["/jpg-to-png",      "JPG to PNG"],
+                    ["/png-to-jpg",      "PNG to JPG"],
+                    ["/jpg-to-webp",     "JPG to WebP"],
+                    ["/png-to-webp",     "PNG to WebP"],
+                    ["/webp-to-jpg",     "WebP to JPG"],
+                    ["/webp-to-png",     "WebP to PNG"],
+                    ["/svg-to-jpg",      "SVG to JPG"],
+                    ["/svg-to-png",      "SVG to PNG"],
+                    ["/gif-to-jpg",      "GIF to JPG"],
+                    ["/gif-to-png",      "GIF to PNG"],
+                    ["/png-to-svg",      "PNG to SVG"],
+                    ["/image-to-png",    "Image to PNG"],
+                    ["/photo-to-pdf",    "Photo to PDF"],
+                  ].map(([href, label]) => (
+                    <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
+                  ))}
+                </ul>
+                <Link href="/design-tools" className="text-sm font-semibold text-white mt-6 mb-3 block hover:text-blue-400 transition-colors">Design</Link>
                 <ul className="space-y-2">
                   {[
                     ["/qr-code",           "QR Code"],
                     ["/color-palette",     "Color Palette"],
                     ["/color-converter",   "Color Converter"],
+                    ["/color-picker",      "Color Picker"],
                     ["/favicon-generator", "Favicon Generator"],
+                    ["/base64-image",      "Base64 Image"],
+                    ["/image-watermark",   "Watermark"],
                   ].map(([href, label]) => (
                     <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
                   ))}
@@ -144,35 +184,41 @@ export default function RootLayout({
 
               {/* Dev Tools */}
               <div>
-                <h4 className="text-sm font-semibold text-white mb-3">Dev Tools</h4>
+                <Link href="/dev-tools" className="text-sm font-semibold text-white mb-3 block hover:text-blue-400 transition-colors">Dev Tools</Link>
                 <ul className="space-y-2">
                   {[
                     ["/json-formatter",      "JSON Formatter"],
+                    ["/json-beautifier",     "JSON Beautifier"],
+                    ["/json-validator",      "JSON Validator"],
                     ["/css-minifier",        "CSS Minifier"],
+                    ["/case-converter",      "Case Converter"],
                     ["/text-case",           "Text Case"],
                     ["/markdown-editor",     "Markdown Editor"],
                     ["/regex-tester",        "Regex Tester"],
                     ["/hash-generator",      "Hash Generator"],
                     ["/timestamp-converter", "Timestamp Converter"],
+                    ["/time-converter",      "Time Converter"],
+                    ["/epoch-converter",     "Epoch Converter"],
                     ["/uuid-generator",      "UUID Generator"],
                     ["/password-generator",  "Password Generator"],
                     ["/word-counter",        "Word Counter"],
                     ["/url-encoder",         "URL Encoder"],
-                    ["/yaml-formatter",     "YAML Formatter"],
-                    ["/csv-to-json",        "CSV to JSON"],
-                    ["/html-encoder",       "HTML Encoder"],
-                    ["/jwt-decoder",        "JWT Decoder"],
-                    ["/base-converter",     "Base Converter"],
-                    ["/xml-formatter",      "XML Formatter"],
+                    ["/html-encoder",        "HTML Encoder"],
+                    ["/binary-translator",   "Binary Translator"],
+                    ["/csv-to-json",         "CSV to JSON"],
+                    ["/yaml-formatter",      "YAML Formatter"],
+                    ["/xml-formatter",       "XML Formatter"],
+                    ["/jwt-decoder",         "JWT Decoder"],
+                    ["/base-converter",      "Base Converter"],
                   ].map(([href, label]) => (
                     <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
                   ))}
                 </ul>
               </div>
 
-              {/* SEO Tools */}
+              {/* SEO & Utilities */}
               <div>
-                <h4 className="text-sm font-semibold text-white mb-3">SEO</h4>
+                <Link href="/seo-tools" className="text-sm font-semibold text-white mb-3 block hover:text-blue-400 transition-colors">SEO Tools</Link>
                 <ul className="space-y-2">
                   {[
                     ["/meta-tag-generator", "Meta Tags"],
@@ -180,6 +226,26 @@ export default function RootLayout({
                     ["/robots-generator",   "Robots.txt"],
                     ["/keyword-density",    "Keyword Density"],
                     ["/og-preview",         "OG Preview"],
+                  ].map(([href, label]) => (
+                    <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
+                  ))}
+                </ul>
+                <h4 className="text-sm font-semibold text-white mt-6 mb-3">Utilities</h4>
+                <ul className="space-y-2">
+                  {[
+                    ["/unit-converter",         "Unit Converter"],
+                    ["/age-calculator",         "Age Calculator"],
+                    ["/percentage-calculator",  "Percentage Calculator"],
+                    ["/random-number",          "Random Number"],
+                    ["/lorem-ipsum",            "Lorem Ipsum"],
+                    ["/text-diff",              "Text Diff"],
+                    ["/text-compare",           "Text Compare"],
+                    ["/sort-lines",             "Sort Lines"],
+                    ["/remove-duplicates",      "Remove Duplicates"],
+                    ["/text-to-binary",         "Text to Binary"],
+                    ["/how-old-am-i",           "How Old Am I"],
+                    ["/compress-image",         "Compress Image"],
+                    ["/compress-jpeg",          "Compress JPEG"],
                   ].map(([href, label]) => (
                     <li key={href}><Link href={href} className="text-sm hover:text-white transition-colors">{label}</Link></li>
                   ))}
