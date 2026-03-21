@@ -253,6 +253,27 @@ export default function RootLayout({
               </div>
             </div>
 
+            {/* Spanish Tools */}
+            <div className="mt-8 pt-6 border-t border-gray-800">
+              <h4 className="text-sm font-semibold text-white mb-3">Herramientas en Español</h4>
+              <div className="flex flex-wrap gap-x-4 gap-y-1">
+                {[
+                  ["/es/comprimir-imagen",      "Comprimir Imagen"],
+                  ["/es/quitar-fondo",          "Quitar Fondo"],
+                  ["/es/unir-pdf",              "Unir PDF"],
+                  ["/es/imagen-a-texto",        "Imagen a Texto"],
+                  ["/es/redimensionar-imagen",  "Redimensionar Imagen"],
+                  ["/es/convertir-imagen",      "Convertir Imagen"],
+                  ["/es/comprimir-pdf",         "Comprimir PDF"],
+                  ["/es/recortar-imagen",       "Recortar Imagen"],
+                  ["/es/pdf-a-imagen",          "PDF a Imagen"],
+                  ["/es/imagen-a-pdf",          "Imagen a PDF"],
+                ].map(([href, label]) => (
+                  <Link key={href} href={href} className="text-sm text-gray-400 hover:text-white transition-colors">{label}</Link>
+                ))}
+              </div>
+            </div>
+
             <div className="border-t border-gray-800 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
               <p className="text-xs text-gray-500">
                 &copy; {new Date().getFullYear()} FreeAIKit. All rights
