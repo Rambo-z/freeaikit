@@ -1,9 +1,9 @@
 {
   "date": "2026-03-21",
-  "batch": 0,
-  "total_suggestions": 353,
-  "new_opportunities": 334,
-  "existing_matches": 19,
+  "batch": 1,
+  "total_suggestions": 644,
+  "new_opportunities": 617,
+  "existing_matches": 27,
   "opportunities": [
     {
       "keyword": "free compression tool online",
@@ -682,7 +682,7 @@
     },
     {
       "keyword": "ai editor online free",
-      "root": "editor",
+      "root": "cropper",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -691,7 +691,7 @@
     },
     {
       "keyword": "ai editor online free photo",
-      "root": "editor",
+      "root": "cropper",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -700,7 +700,7 @@
     },
     {
       "keyword": "ai editor online video",
-      "root": "editor",
+      "root": "cropper",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -709,7 +709,7 @@
     },
     {
       "keyword": "ai editor online free video",
-      "root": "editor",
+      "root": "cropper",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -718,7 +718,7 @@
     },
     {
       "keyword": "ai editor online photo",
-      "root": "editor",
+      "root": "cropper",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -727,7 +727,7 @@
     },
     {
       "keyword": "ai editor online text",
-      "root": "editor",
+      "root": "cropper",
       "pattern": "ai {root} online",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -1546,7 +1546,7 @@
     },
     {
       "keyword": "free image tool ai",
-      "root": "image",
+      "root": "photo",
       "pattern": "free {root} tool",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -1591,7 +1591,7 @@
     },
     {
       "keyword": "free photo tool",
-      "root": "image",
+      "root": "picture",
       "pattern": "free {root} tool",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -1681,7 +1681,7 @@
     },
     {
       "keyword": "best image generator ai",
-      "root": "image",
+      "root": "portrait",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -1690,7 +1690,7 @@
     },
     {
       "keyword": "best image generator ai free",
-      "root": "image",
+      "root": "portrait",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -1699,7 +1699,7 @@
     },
     {
       "keyword": "best image generator free",
-      "root": "image",
+      "root": "portrait",
       "pattern": "best {root} generator",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -3010,6 +3010,2553 @@
       "discovered": "2026-03-21",
       "already_have": false,
       "suggested_slug": "compressor-plugin-fl-studio"
+    },
+    {
+      "keyword": "free photo tool online",
+      "root": "photo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-online"
+    },
+    {
+      "keyword": "free photo tool for us visa",
+      "root": "photo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-for-us-visa"
+    },
+    {
+      "keyword": "free photo tool editor",
+      "root": "photo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editor"
+    },
+    {
+      "keyword": "free photo tool ai",
+      "root": "photo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-ai"
+    },
+    {
+      "keyword": "free photo tool for dv lottery",
+      "root": "photo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-for-dv-lottery"
+    },
+    {
+      "keyword": "free image tool",
+      "root": "photo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image"
+    },
+    {
+      "keyword": "freepik tool",
+      "root": "photo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "freepik"
+    },
+    {
+      "keyword": "free picture tool",
+      "root": "photo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture"
+    },
+    {
+      "keyword": "ai photo online free",
+      "root": "photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-free"
+    },
+    {
+      "keyword": "ai photo online editor",
+      "root": "photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editor"
+    },
+    {
+      "keyword": "ai photo online editor free",
+      "root": "photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editor-free"
+    },
+    {
+      "keyword": "ai photo online generator",
+      "root": "photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator"
+    },
+    {
+      "keyword": "ai photo online enhancer",
+      "root": "photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-enhancer"
+    },
+    {
+      "keyword": "ai photo online editing",
+      "root": "photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editing"
+    },
+    {
+      "keyword": "ai photo online free automatic",
+      "root": "photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-automatic"
+    },
+    {
+      "keyword": "ai photo online generator free",
+      "root": "photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator-free"
+    },
+    {
+      "keyword": "photo converter free online",
+      "root": "photo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-converter-online"
+    },
+    {
+      "keyword": "photo converter free download",
+      "root": "photo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-converter-download"
+    },
+    {
+      "keyword": "photo converter free ai",
+      "root": "photo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-converter-ai"
+    },
+    {
+      "keyword": "best photo generator ai",
+      "root": "photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator-ai"
+    },
+    {
+      "keyword": "best photo generator ai free",
+      "root": "photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator-free"
+    },
+    {
+      "keyword": "best photo generator app",
+      "root": "photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator-app"
+    },
+    {
+      "keyword": "best photo generator prompt",
+      "root": "photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator-prompt"
+    },
+    {
+      "keyword": "best photo generator ai app",
+      "root": "photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator-app"
+    },
+    {
+      "keyword": "best photo generator free",
+      "root": "photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator-free"
+    },
+    {
+      "keyword": "best photo generator ai prompt",
+      "root": "photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator-prompt"
+    },
+    {
+      "keyword": "free image tool online",
+      "root": "picture",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-online"
+    },
+    {
+      "keyword": "ai picture online free",
+      "root": "picture",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-free"
+    },
+    {
+      "keyword": "ai picture online editor",
+      "root": "picture",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-editor"
+    },
+    {
+      "keyword": "ai picture online generator",
+      "root": "picture",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-generator"
+    },
+    {
+      "keyword": "ai picture online generator free",
+      "root": "picture",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-generator-free"
+    },
+    {
+      "keyword": "ai picture online edit",
+      "root": "picture",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-edit"
+    },
+    {
+      "keyword": "ai pic online",
+      "root": "picture",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pic-online"
+    },
+    {
+      "keyword": "ai pic online generator",
+      "root": "picture",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pic-generator"
+    },
+    {
+      "keyword": "ai online picture enhancer",
+      "root": "picture",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-enhancer"
+    },
+    {
+      "keyword": "ai online picture editor free",
+      "root": "picture",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-editor-free"
+    },
+    {
+      "keyword": "picture converter free online",
+      "root": "picture",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-converter-online"
+    },
+    {
+      "keyword": "best picture generator ai",
+      "root": "picture",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-generator-ai"
+    },
+    {
+      "keyword": "best picture generator ai free",
+      "root": "picture",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-generator-free"
+    },
+    {
+      "keyword": "best picture generator app",
+      "root": "picture",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-generator-app"
+    },
+    {
+      "keyword": "best picture generator free",
+      "root": "picture",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-generator-free"
+    },
+    {
+      "keyword": "best picture generator ai app",
+      "root": "picture",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-generator-app"
+    },
+    {
+      "keyword": "best picture generator ai tool",
+      "root": "picture",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-generator"
+    },
+    {
+      "keyword": "free ai portrait tool",
+      "root": "portrait",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait"
+    },
+    {
+      "keyword": "ai portrait online free",
+      "root": "portrait",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-free"
+    },
+    {
+      "keyword": "ai photo online",
+      "root": "portrait",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-online"
+    },
+    {
+      "keyword": "ai picture online",
+      "root": "portrait",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-online"
+    },
+    {
+      "keyword": "portrait converter free online",
+      "root": "portrait",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-converter-online"
+    },
+    {
+      "keyword": "photo converter free",
+      "root": "portrait",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-converter-free"
+    },
+    {
+      "keyword": "sketch converter free",
+      "root": "portrait",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "sketch-converter-free"
+    },
+    {
+      "keyword": "photo converter free app",
+      "root": "portrait",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-converter-app"
+    },
+    {
+      "keyword": "ghibli portrait converter free",
+      "root": "portrait",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "ghibli-portrait-converter-free"
+    },
+    {
+      "keyword": "ghibli portrait converter free online",
+      "root": "portrait",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "ghibli-portrait-converter-online"
+    },
+    {
+      "keyword": "best portrait generator ai",
+      "root": "portrait",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-generator-ai"
+    },
+    {
+      "keyword": "best portrait generator ai free",
+      "root": "portrait",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-generator-free"
+    },
+    {
+      "keyword": "best image generator",
+      "root": "portrait",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-generator"
+    },
+    {
+      "keyword": "free product photography ai tool",
+      "root": "product photo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photography"
+    },
+    {
+      "keyword": "is there a free photo app",
+      "root": "product photo",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "is-there-a-photo-app"
+    },
+    {
+      "keyword": "ai product photography online",
+      "root": "product photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photography-online"
+    },
+    {
+      "keyword": "ai product photo editor online free",
+      "root": "product photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-editor-free"
+    },
+    {
+      "keyword": "ai product photography free online",
+      "root": "product photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photography-online"
+    },
+    {
+      "keyword": "ai product photo generator free online",
+      "root": "product photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-generator-online"
+    },
+    {
+      "keyword": "ai product image generator online",
+      "root": "product photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-image-generator-online"
+    },
+    {
+      "keyword": "online ai product photo editor",
+      "root": "product photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-editor"
+    },
+    {
+      "keyword": "how can i find a product online with a picture",
+      "root": "product photo",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "how-can-i-find-a-product-with-a-picture"
+    },
+    {
+      "keyword": "best product image generator ai",
+      "root": "product photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-image-generator-ai"
+    },
+    {
+      "keyword": "best product image generator",
+      "root": "product photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-image-generator"
+    },
+    {
+      "keyword": "best ai product photo generator",
+      "root": "product photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-generator"
+    },
+    {
+      "keyword": "best ai product photo generator free",
+      "root": "product photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-generator-free"
+    },
+    {
+      "keyword": "best free product image generator",
+      "root": "product photo",
+      "pattern": "best {root} generator",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-image-generator"
+    },
+    {
+      "keyword": "ai image processor online",
+      "root": "processor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-processor-online"
+    },
+    {
+      "keyword": "ai image processor online free",
+      "root": "processor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-processor-free"
+    },
+    {
+      "keyword": "ai word processor online free",
+      "root": "processor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "word-processor-free"
+    },
+    {
+      "keyword": "ai word processor online",
+      "root": "processor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "word-processor-online"
+    },
+    {
+      "keyword": "ai image processing online",
+      "root": "processor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-processing-online"
+    },
+    {
+      "keyword": "ai image processing online free",
+      "root": "processor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-processing-free"
+    },
+    {
+      "keyword": "ai photo processing online",
+      "root": "processor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-processing-online"
+    },
+    {
+      "keyword": "ai audio processing online",
+      "root": "processor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "audio-processing-online"
+    },
+    {
+      "keyword": "ai photo processing online free",
+      "root": "processor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-processing-free"
+    },
+    {
+      "keyword": "ai processor companies",
+      "root": "processor",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-companies"
+    },
+    {
+      "keyword": "free merge tool",
+      "root": "merger",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge"
+    },
+    {
+      "keyword": "free merge tool windows",
+      "root": "merger",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge-windows"
+    },
+    {
+      "keyword": "free merge tools add in",
+      "root": "merger",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merges-add-in"
+    },
+    {
+      "keyword": "free merge tool for mac",
+      "root": "merger",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge-for-mac"
+    },
+    {
+      "keyword": "free merge tool git",
+      "root": "merger",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge-git"
+    },
+    {
+      "keyword": "free tool merge pdf",
+      "root": "merger",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-merge-pdf"
+    },
+    {
+      "keyword": "free tool merge videos",
+      "root": "merger",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-merge-videos"
+    },
+    {
+      "keyword": "free tool merge pdf files",
+      "root": "merger",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-merge-pdf-files"
+    },
+    {
+      "keyword": "ai merge online",
+      "root": "merger",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge-online"
+    },
+    {
+      "keyword": "ai merge online free",
+      "root": "merger",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge-free"
+    },
+    {
+      "keyword": "ai image merger online free",
+      "root": "merger",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-merger-free"
+    },
+    {
+      "keyword": "ai image merger online",
+      "root": "merger",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-merger-online"
+    },
+    {
+      "keyword": "ai video merger online free",
+      "root": "merger",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-merger-free"
+    },
+    {
+      "keyword": "ai video merger online",
+      "root": "merger",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-merger-online"
+    },
+    {
+      "keyword": "ai audio merger online free",
+      "root": "merger",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "audio-merger-free"
+    },
+    {
+      "keyword": "ai audio merger online",
+      "root": "merger",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "audio-merger-online"
+    },
+    {
+      "keyword": "ai song merge online",
+      "root": "merger",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "song-merge-online"
+    },
+    {
+      "keyword": "ai image merge online free app",
+      "root": "merger",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-merge-app"
+    },
+    {
+      "keyword": "merge pdf converter free download",
+      "root": "merger",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge-pdf-converter-download"
+    },
+    {
+      "keyword": "merge pdf converter free online",
+      "root": "merger",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge-pdf-converter-online"
+    },
+    {
+      "keyword": "merge jpg converter free",
+      "root": "merger",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge-jpg-converter-free"
+    },
+    {
+      "keyword": "free splitting tool",
+      "root": "splitter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitting"
+    },
+    {
+      "keyword": "free tool split pdf",
+      "root": "splitter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "tool-split-pdf"
+    },
+    {
+      "keyword": "free pst splitter tool",
+      "root": "splitter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pst-splitter"
+    },
+    {
+      "keyword": "free audio splitter tool",
+      "root": "splitter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "audio-splitter"
+    },
+    {
+      "keyword": "free image splitter tool",
+      "root": "splitter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-splitter"
+    },
+    {
+      "keyword": "free stem splitter tool",
+      "root": "splitter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "stem-splitter"
+    },
+    {
+      "keyword": "free video splitter tool",
+      "root": "splitter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-splitter"
+    },
+    {
+      "keyword": "free csv splitter tool",
+      "root": "splitter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "csv-splitter"
+    },
+    {
+      "keyword": "free split pdf tool online",
+      "root": "splitter",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "split-pdf-online"
+    },
+    {
+      "keyword": "ai splitter online free",
+      "root": "splitter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-free"
+    },
+    {
+      "keyword": "ai cutter online",
+      "root": "splitter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cutter-online"
+    },
+    {
+      "keyword": "splitter ai online",
+      "root": "splitter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-online"
+    },
+    {
+      "keyword": "ai stem splitter online free",
+      "root": "splitter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "stem-splitter-free"
+    },
+    {
+      "keyword": "ai stem splitter online",
+      "root": "splitter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "stem-splitter-online"
+    },
+    {
+      "keyword": "ai music splitter online free",
+      "root": "splitter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "music-splitter-free"
+    },
+    {
+      "keyword": "ai audio splitter online",
+      "root": "splitter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "audio-splitter-online"
+    },
+    {
+      "keyword": "ai audio splitter online free",
+      "root": "splitter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "audio-splitter-free"
+    },
+    {
+      "keyword": "ai music splitter online",
+      "root": "splitter",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "music-splitter-online"
+    },
+    {
+      "keyword": "free crop tool photoshop",
+      "root": "cropper",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "crop-photoshop"
+    },
+    {
+      "keyword": "free cropping tool for images",
+      "root": "cropper",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropping-for-images"
+    },
+    {
+      "keyword": "free cropping tool for pdf",
+      "root": "cropper",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropping-for-pdf"
+    },
+    {
+      "keyword": "free crop tool online",
+      "root": "cropper",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "crop-online"
+    },
+    {
+      "keyword": "free cropping tool for windows",
+      "root": "cropper",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropping-for-windows"
+    },
+    {
+      "keyword": "free crop tool download",
+      "root": "cropper",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "crop-download"
+    },
+    {
+      "keyword": "free cropping tool for passport photos",
+      "root": "cropper",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropping-for-passport-photos"
+    },
+    {
+      "keyword": "free crop tool mac",
+      "root": "cropper",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "crop-mac"
+    },
+    {
+      "keyword": "free cropping tool for us visa photo",
+      "root": "cropper",
+      "pattern": "free {root} tool",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropping-for-us-visa-photo"
+    },
+    {
+      "keyword": "ai crop online",
+      "root": "cropper",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "crop-online"
+    },
+    {
+      "keyword": "ai editor online",
+      "root": "cropper",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "editor-online"
+    },
+    {
+      "keyword": "ai resizer online",
+      "root": "cropper",
+      "pattern": "ai {root} online",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "resizer-online"
+    },
+    {
+      "keyword": "ai portrait generator",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-generator"
+    },
+    {
+      "keyword": "ai portrait generator free",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-generator-free"
+    },
+    {
+      "keyword": "ai portrait",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait"
+    },
+    {
+      "keyword": "ai portrait prompts",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-prompts"
+    },
+    {
+      "keyword": "ai portraits from photos",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portraits-from-photos"
+    },
+    {
+      "keyword": "ai portrait editor",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-editor"
+    },
+    {
+      "keyword": "ai portrait enhancer",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-enhancer"
+    },
+    {
+      "keyword": "ai portraits free",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portraits-free"
+    },
+    {
+      "keyword": "ai portrait maker",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-maker"
+    },
+    {
+      "keyword": "ai portrait app",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-app"
+    },
+    {
+      "keyword": "free portraits",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portraits"
+    },
+    {
+      "keyword": "free portrait photos",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-photos"
+    },
+    {
+      "keyword": "free portrait backgrounds",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-backgrounds"
+    },
+    {
+      "keyword": "free portrait editor",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-editor"
+    },
+    {
+      "keyword": "free portrait presets for lightroom",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-presets-for-lightroom"
+    },
+    {
+      "keyword": "free portrait app",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-app"
+    },
+    {
+      "keyword": "free portrait photo editor",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-photo-editor"
+    },
+    {
+      "keyword": "free portrait calendar 2026",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-calendar-2026"
+    },
+    {
+      "keyword": "free portrait images",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-images"
+    },
+    {
+      "keyword": "free portrait generator",
+      "root": "portrait",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "portrait-generator"
+    },
+    {
+      "keyword": "ai photo generator",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator"
+    },
+    {
+      "keyword": "ai photo editor",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editor"
+    },
+    {
+      "keyword": "ai photo",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo"
+    },
+    {
+      "keyword": "ai photo enhancer",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-enhancer"
+    },
+    {
+      "keyword": "ai photo detector",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-detector"
+    },
+    {
+      "keyword": "ai photo editor free",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editor-free"
+    },
+    {
+      "keyword": "ai photo generator free",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-generator-free"
+    },
+    {
+      "keyword": "ai photoshop",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photoshop"
+    },
+    {
+      "keyword": "ai photo maker",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-maker"
+    },
+    {
+      "keyword": "ai photo checker",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-checker"
+    },
+    {
+      "keyword": "free photo editor",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editor"
+    },
+    {
+      "keyword": "free photoshop",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photoshop"
+    },
+    {
+      "keyword": "free photo editing apps",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editing-apps"
+    },
+    {
+      "keyword": "free photos",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photos"
+    },
+    {
+      "keyword": "free photoshop alternative",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photoshop-alternative"
+    },
+    {
+      "keyword": "free photo prints",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-prints"
+    },
+    {
+      "keyword": "free photo enhancer",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-enhancer"
+    },
+    {
+      "keyword": "free photoshop app",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photoshop-app"
+    },
+    {
+      "keyword": "free photo editing software",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editing-software"
+    },
+    {
+      "keyword": "free photo editing",
+      "root": "photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-editing"
+    },
+    {
+      "keyword": "ai picture generator",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-generator"
+    },
+    {
+      "keyword": "ai picture editor",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-editor"
+    },
+    {
+      "keyword": "ai picture",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture"
+    },
+    {
+      "keyword": "ai picture generator free",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-generator-free"
+    },
+    {
+      "keyword": "ai picture detector",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-detector"
+    },
+    {
+      "keyword": "ai picture maker",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-maker"
+    },
+    {
+      "keyword": "ai picture editor free",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-editor-free"
+    },
+    {
+      "keyword": "ai picture to video",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-to-video"
+    },
+    {
+      "keyword": "ai picture creator",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-creator"
+    },
+    {
+      "keyword": "ai picture checker",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-checker"
+    },
+    {
+      "keyword": "free pictures",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pictures"
+    },
+    {
+      "keyword": "free pictures with santa chicago",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pictures-with-santa-chicago"
+    },
+    {
+      "keyword": "free pictures with santa",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pictures-with-santa"
+    },
+    {
+      "keyword": "free picture editor",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-editor"
+    },
+    {
+      "keyword": "free picture prints",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-prints"
+    },
+    {
+      "keyword": "free picture editing apps",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-editing-apps"
+    },
+    {
+      "keyword": "free pictures to download",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pictures-to-download"
+    },
+    {
+      "keyword": "free picture collage app",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-collage-app"
+    },
+    {
+      "keyword": "free picture to video ai",
+      "root": "picture",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "picture-to-video-ai"
+    },
+    {
+      "keyword": "ai splitter",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter"
+    },
+    {
+      "keyword": "ai splitter music",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-music"
+    },
+    {
+      "keyword": "ai splitter mp3",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-mp3"
+    },
+    {
+      "keyword": "ai splitter audio",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-audio"
+    },
+    {
+      "keyword": "ai splitter free",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-free"
+    },
+    {
+      "keyword": "ai splitter fl studio",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-fl-studio"
+    },
+    {
+      "keyword": "ai splitter vocal",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-vocal"
+    },
+    {
+      "keyword": "ai splitter stems",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-stems"
+    },
+    {
+      "keyword": "ai splitter bandlab",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-bandlab"
+    },
+    {
+      "keyword": "ai splitter satisfactory",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-satisfactory"
+    },
+    {
+      "keyword": "free splitter",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter"
+    },
+    {
+      "keyword": "free splitter ai",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-ai"
+    },
+    {
+      "keyword": "free splitter online",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-online"
+    },
+    {
+      "keyword": "free splitter audio",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-audio"
+    },
+    {
+      "keyword": "free splitter music",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-music"
+    },
+    {
+      "keyword": "free splitter pdf",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-pdf"
+    },
+    {
+      "keyword": "free splitter apps",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-apps"
+    },
+    {
+      "keyword": "free splitter video",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-video"
+    },
+    {
+      "keyword": "free splitter bandlab",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-bandlab"
+    },
+    {
+      "keyword": "free splitter stem",
+      "root": "splitter",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "splitter-stem"
+    },
+    {
+      "keyword": "ai merger",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merger"
+    },
+    {
+      "keyword": "ai mergers and acquisitions",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "mergers-and-acquisitions"
+    },
+    {
+      "keyword": "ai merger pdf",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merger-pdf"
+    },
+    {
+      "keyword": "ai merger video",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merger-video"
+    },
+    {
+      "keyword": "mergermarket ai",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "mergermarket-ai"
+    },
+    {
+      "keyword": "ai photo merger",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-merger"
+    },
+    {
+      "keyword": "ai image merge",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "image-merge"
+    },
+    {
+      "keyword": "ai photo merger couple",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "photo-merger-couple"
+    },
+    {
+      "keyword": "ai song merger",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "song-merger"
+    },
+    {
+      "keyword": "free merger",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merger"
+    },
+    {
+      "keyword": "free merger pdf",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merger-pdf"
+    },
+    {
+      "keyword": "free merger of pdf files",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merger-of-pdf-files"
+    },
+    {
+      "keyword": "free merger jpg",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merger-jpg"
+    },
+    {
+      "keyword": "free merge file",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge-file"
+    },
+    {
+      "keyword": "free merger pdf online",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merger-pdf-online"
+    },
+    {
+      "keyword": "free online merge",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merge"
+    },
+    {
+      "keyword": "free merger documents",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merger-documents"
+    },
+    {
+      "keyword": "free merger jpg to pdf",
+      "root": "merger",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "merger-jpg-to-pdf"
+    },
+    {
+      "keyword": "ai processor",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor"
+    },
+    {
+      "keyword": "ai processor in tv",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-in-tv"
+    },
+    {
+      "keyword": "ai processor chips",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-chips"
+    },
+    {
+      "keyword": "ai processor laptop",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-laptop"
+    },
+    {
+      "keyword": "ai processor 4k",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-4k"
+    },
+    {
+      "keyword": "ai processor brands",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-brands"
+    },
+    {
+      "keyword": "ai processor power consumption",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-power-consumption"
+    },
+    {
+      "keyword": "ai processor chip companies",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-chip-companies"
+    },
+    {
+      "keyword": "ai processor for pc",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-for-pc"
+    },
+    {
+      "keyword": "free processor",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor"
+    },
+    {
+      "keyword": "free processors for pc",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processors-for-pc"
+    },
+    {
+      "keyword": "free processor temperature monitor",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-temperature-monitor"
+    },
+    {
+      "keyword": "free processor download",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-download"
+    },
+    {
+      "keyword": "processor free fire",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-fire"
+    },
+    {
+      "keyword": "processor free fire download",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-fire-download"
+    },
+    {
+      "keyword": "processor free fire max",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-fire-max"
+    },
+    {
+      "keyword": "processor free fire id",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-fire-id"
+    },
+    {
+      "keyword": "processor free fire ka",
+      "root": "processor",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "processor-fire-ka"
+    },
+    {
+      "keyword": "ai cropper",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropper"
+    },
+    {
+      "keyword": "ai cropper free",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropper-free"
+    },
+    {
+      "keyword": "ai cropper image",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropper-image"
+    },
+    {
+      "keyword": "ai cropper online",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropper-online"
+    },
+    {
+      "keyword": "ai cropper tool",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropper"
+    },
+    {
+      "keyword": "ai video cropper",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-cropper"
+    },
+    {
+      "keyword": "ai face cropper",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "face-cropper"
+    },
+    {
+      "keyword": "ai pdf cropper",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-cropper"
+    },
+    {
+      "keyword": "free cropper",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropper"
+    },
+    {
+      "keyword": "free cropper online",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropper-online"
+    },
+    {
+      "keyword": "free cropper tool",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropper"
+    },
+    {
+      "keyword": "free cropper video",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropper-video"
+    },
+    {
+      "keyword": "free cropper image",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "cropper-image"
+    },
+    {
+      "keyword": "free pdf cropper",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-cropper"
+    },
+    {
+      "keyword": "free video cropper online",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-cropper-online"
+    },
+    {
+      "keyword": "free pdf cropper online",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "pdf-cropper-online"
+    },
+    {
+      "keyword": "free video cropper no watermark",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "video-cropper-no-watermark"
+    },
+    {
+      "keyword": "free audio cropper",
+      "root": "cropper",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "audio-cropper"
+    },
+    {
+      "keyword": "ai product photos",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photos"
+    },
+    {
+      "keyword": "ai product photography",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photography"
+    },
+    {
+      "keyword": "ai product photo generator",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-generator"
+    },
+    {
+      "keyword": "ai product photography free",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photography-free"
+    },
+    {
+      "keyword": "ai product photo editor",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-editor"
+    },
+    {
+      "keyword": "ai product photoshoot",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photoshoot"
+    },
+    {
+      "keyword": "ai product photo generator free",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-generator-free"
+    },
+    {
+      "keyword": "ai product photo enhancer",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-enhancer"
+    },
+    {
+      "keyword": "ai product photography generator",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photography-generator"
+    },
+    {
+      "keyword": "ai product photos free",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photos-free"
+    },
+    {
+      "keyword": "free product photo editor",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-editor"
+    },
+    {
+      "keyword": "free product photo app",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-app"
+    },
+    {
+      "keyword": "free product photography ai",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photography-ai"
+    },
+    {
+      "keyword": "free product photos",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photos"
+    },
+    {
+      "keyword": "free product photo editor ai",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-editor-ai"
+    },
+    {
+      "keyword": "free product photography",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photography"
+    },
+    {
+      "keyword": "free product photoshoot ai",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photoshoot-ai"
+    },
+    {
+      "keyword": "free product photo ai",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photo-ai"
+    },
+    {
+      "keyword": "free product photography app",
+      "root": "product photo",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": false,
+      "suggested_slug": "product-photography-app"
     }
   ],
   "existing": [
@@ -3105,7 +5652,7 @@
     },
     {
       "keyword": "image converter free online",
-      "root": "image",
+      "root": "photo",
       "pattern": "{root} converter free",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -3114,7 +5661,7 @@
     },
     {
       "keyword": "image converter free software",
-      "root": "image",
+      "root": "photo",
       "pattern": "{root} converter free",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -3150,7 +5697,7 @@
     },
     {
       "keyword": "image converter free ai",
-      "root": "image",
+      "root": "photo",
       "pattern": "{root} converter free",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -3159,7 +5706,7 @@
     },
     {
       "keyword": "image converter free app",
-      "root": "image",
+      "root": "photo",
       "pattern": "{root} converter free",
       "source": "google_suggest",
       "discovered": "2026-03-21",
@@ -3183,6 +5730,15 @@
       "discovered": "2026-03-21",
       "already_have": true,
       "suggested_slug": "image-resizer"
+    },
+    {
+      "keyword": "image converter free",
+      "root": "photo",
+      "pattern": "{root} converter free",
+      "source": "google_suggest",
+      "discovered": "2026-03-21",
+      "already_have": true,
+      "suggested_slug": "image-converter-free"
     }
   ]
 }
