@@ -55,29 +55,61 @@ RULES:
 - Tone: helpful but casual. Like talking to a friend, not writing an essay.
 - Do NOT mention that you are AI or that you were asked to write this.`;
 
+  // Detect API provider from key format
+  const isOpenRouter = apiKey.startsWith("sk-or-");
+  const isClaude = apiKey.startsWith("sk-ant-");
+
   try {
-    const res = await fetch("https://api.anthropic.com/v1/messages", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "x-api-key": apiKey,
-        "anthropic-version": "2023-06-01",
-        "anthropic-dangerous-direct-browser-access": "true",
-      },
-      body: JSON.stringify({
-        model: "claude-haiku-4-5-20251001",
-        max_tokens: 1024,
-        messages: [{ role: "user", content: prompt }],
-      }),
-    });
+    let res, data;
 
-    if (!res.ok) {
-      const err = await res.text();
-      return { error: `API error ${res.status}: ${err}` };
+    if (isOpenRouter) {
+      // OpenRouter (OpenAI-compatible format)
+      res = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${apiKey}`,
+        },
+        body: JSON.stringify({
+          model: "anthropic/claude-haiku-4-5-20251001",
+          max_tokens: 1024,
+          messages: [{ role: "user", content: prompt }],
+        }),
+      });
+
+      if (!res.ok) {
+        const err = await res.text();
+        return { error: `OpenRouter error ${res.status}: ${err}` };
+      }
+
+      data = await res.json();
+      return { answer: data.choices[0].message.content };
+
+    } else {
+      // Claude API (direct)
+      res = await fetch("https://api.anthropic.com/v1/messages", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "x-api-key": apiKey,
+          "anthropic-version": "2023-06-01",
+          "anthropic-dangerous-direct-browser-access": "true",
+        },
+        body: JSON.stringify({
+          model: "claude-haiku-4-5-20251001",
+          max_tokens: 1024,
+          messages: [{ role: "user", content: prompt }],
+        }),
+      });
+
+      if (!res.ok) {
+        const err = await res.text();
+        return { error: `Claude API error ${res.status}: ${err}` };
+      }
+
+      data = await res.json();
+      return { answer: data.content[0].text };
     }
-
-    const data = await res.json();
-    return { answer: data.content[0].text };
   } catch (e) {
     return { error: `Request failed: ${e.message}` };
   }
