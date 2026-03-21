@@ -154,7 +154,7 @@ export default function Header() {
     // English → Spanish
     const slug = pathname.replace(/^\//, "");
     const esSlug = ES_SLUG_MAP[slug];
-    return esSlug ? `/es/${esSlug}` : "/es/comprimir-imagen";
+    return esSlug ? `/es/${esSlug}` : null;
   })();
 
   // Close dropdown on outside click
@@ -212,15 +212,17 @@ export default function Header() {
           </nav>
 
           <div className="flex items-center gap-2">
-            {/* Language switcher — direct link, no dropdown */}
-            <Link
-              href={switchUrl}
-              className="inline-flex items-center gap-1.5 px-2.5 py-1.5 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
-              title={isSpanish ? "Switch to English" : "Cambiar a Español"}
-            >
-              <Globe className="w-4 h-4" />
-              <span className="hidden sm:inline">{isSpanish ? "EN" : "ES"}</span>
-            </Link>
+            {/* Language switcher — only show when a translation exists */}
+            {switchUrl && (
+              <Link
+                href={switchUrl}
+                className="inline-flex items-center gap-1.5 px-2.5 py-1.5 text-sm text-gray-600 hover:text-gray-900 hover:bg-gray-100 rounded-lg transition-colors"
+                title={isSpanish ? "Switch to English" : "Cambiar a Español"}
+              >
+                <Globe className="w-4 h-4" />
+                <span className="hidden sm:inline">{isSpanish ? "EN" : "ES"}</span>
+              </Link>
+            )}
             <Link href="/bg-remover"
               className="hidden sm:inline-flex items-center gap-1.5 px-4 py-2 bg-blue-600 text-white rounded-lg text-sm font-medium hover:bg-blue-700 transition-colors shadow-sm">
               Try Free
