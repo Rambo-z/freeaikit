@@ -1,10 +1,10 @@
 {
   "date": "2026-03-22",
   "stats": {
-    "trends_total": 174,
-    "suggest_total": 1212
+    "trends_total": 115,
+    "suggest_total": 1504
   },
-  "total_opportunities": 1307,
+  "total_opportunities": 1596,
   "top_50": [
     {
       "keyword": "remove background free",
@@ -322,21 +322,6 @@
       "competition": 0.5
     },
     {
-      "keyword": "handbrake video compressor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "handbrake-video-compressor",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 27100,
-      "cpc": 1.97,
-      "competition": 0.2
-    },
-    {
       "keyword": "amazon prime video",
       "sources": [
         "trends_rising"
@@ -379,6 +364,21 @@
       "difficulty": "需WASM",
       "search_volume": 22200,
       "cpc": 0.29,
+      "competition": 0.2
+    },
+    {
+      "keyword": "markdown to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "markdown-to-pdf",
+      "root": "html to markdown",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "纯前端",
+      "search_volume": 12100,
+      "cpc": 3.81,
       "competition": 0.2
     },
     {
