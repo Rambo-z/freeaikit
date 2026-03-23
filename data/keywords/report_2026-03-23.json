@@ -1,10 +1,10 @@
 {
   "date": "2026-03-23",
   "stats": {
-    "trends_total": 156,
-    "suggest_total": 1201
+    "trends_total": 120,
+    "suggest_total": 1498
   },
-  "total_opportunities": 1296,
+  "total_opportunities": 1588,
   "top_50": [
     {
       "keyword": "ai image generator",
@@ -262,36 +262,6 @@
       "competition": 0.5
     },
     {
-      "keyword": "video recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "video-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 22200,
-      "cpc": 2.34,
-      "competition": 0.5
-    },
-    {
-      "keyword": "voice recorder app",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "voice-recorder-app",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 18100,
-      "cpc": 2.44,
-      "competition": 0.5
-    },
-    {
       "keyword": "remove background free",
       "sources": [
         "trends_rising"
@@ -472,6 +442,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "markdown to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "markdown-to-pdf",
+      "root": "html to markdown",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "纯前端",
+      "search_volume": 12100,
+      "cpc": 3.81,
+      "competition": 0.2
+    },
+    {
       "keyword": "webp to jpeg",
       "sources": [
         "trends_rising"
@@ -517,21 +502,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "text now",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "text-now",
-      "root": "voice to text online",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "纯前端",
-      "search_volume": 823000,
-      "cpc": 0.52,
-      "competition": 0.2
-    },
-    {
       "keyword": "image to video ai free",
       "sources": [
         "trends_rising"
@@ -545,6 +515,21 @@
       "search_volume": 12100,
       "cpc": 1.72,
       "competition": 0.5
+    },
+    {
+      "keyword": "online ping",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 194350,
+      "suggested_slug": "ping",
+      "root": "dns lookup online",
+      "already_have": false,
+      "combined_score": 620,
+      "difficulty": "",
+      "search_volume": 720,
+      "cpc": 2.01,
+      "competition": 0.2
     },
     {
       "keyword": "watermark remover video online free",
@@ -755,6 +740,21 @@
       "difficulty": "需WASM",
       "search_volume": 4400,
       "cpc": 0.8,
+      "competition": 0.2
+    },
+    {
+      "keyword": "make a gif from video",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 550,
+      "suggested_slug": "make-a-gif-from-video",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需WASM",
+      "search_volume": 6600,
+      "cpc": 0.73,
       "competition": 0.2
     }
   ]
