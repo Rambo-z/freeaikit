@@ -1,11 +1,26 @@
 {
   "date": "2026-03-23",
   "stats": {
-    "trends_total": 120,
-    "suggest_total": 1498
+    "trends_total": 172,
+    "suggest_total": 1848
   },
-  "total_opportunities": 1588,
+  "total_opportunities": 1932,
   "top_50": [
+    {
+      "keyword": "car loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 344600,
+      "suggested_slug": "car-loan-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 1090,
+      "difficulty": "纯前端",
+      "search_volume": 673000,
+      "cpc": 0.99,
+      "competition": 0.2
+    },
     {
       "keyword": "ai image generator",
       "sources": [
@@ -67,6 +82,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "tax refund calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 5850,
+      "suggested_slug": "tax-refund-calculator",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 74000,
+      "cpc": 1.92,
+      "competition": 0.2
+    },
+    {
       "keyword": "online casino casino.us",
       "sources": [
         "trends_rising"
@@ -97,6 +127,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "cloudconvert",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 46650,
+      "suggested_slug": "cloudconvert",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 74000,
+      "cpc": 3,
+      "competition": 0.2
+    },
+    {
       "keyword": "companies history",
       "sources": [
         "trends_rising"
@@ -124,6 +169,36 @@
       "difficulty": "需API/服务端",
       "search_volume": 27100,
       "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "virustotal",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 20650,
+      "suggested_slug": "virustotal",
+      "root": "zip file online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 246000,
+      "cpc": 7.59,
+      "competition": 0.2
+    },
+    {
+      "keyword": "todays date",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 19200,
+      "suggested_slug": "todays-date",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 823000,
+      "cpc": 1.36,
       "competition": 0.2
     },
     {
@@ -217,6 +292,66 @@
       "competition": 0.2
     },
     {
+      "keyword": "best discount auto insurance",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 19750,
+      "suggested_slug": "best-discount-auto-insurance",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 820,
+      "difficulty": "纯前端",
+      "search_volume": 40500,
+      "cpc": 86.86,
+      "competition": 0.8
+    },
+    {
+      "keyword": "pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 500,
+      "suggested_slug": "pdf-converter",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 790,
+      "difficulty": "需WASM",
+      "search_volume": 135000,
+      "cpc": 1.52,
+      "competition": 0.5
+    },
+    {
+      "keyword": "file compare online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 107200,
+      "suggested_slug": "file-compare-online",
+      "root": "file compressor online",
+      "already_have": false,
+      "combined_score": 770,
+      "difficulty": "",
+      "search_volume": 2900,
+      "cpc": 2.24,
+      "competition": 0.2
+    },
+    {
+      "keyword": "calculator online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "calculator-online",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 720,
+      "difficulty": "纯前端",
+      "search_volume": 135000,
+      "cpc": 1.75,
+      "competition": 0.2
+    },
+    {
       "keyword": "best free video editors",
       "sources": [
         "trends_rising"
@@ -232,48 +367,123 @@
       "competition": 0.5
     },
     {
-      "keyword": "gif editor",
+      "keyword": "peptide calculator",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 80,
-      "suggested_slug": "gif-editor",
-      "root": "mp4 to webm",
+      "trend_score": 350,
+      "suggested_slug": "peptide-calculator",
+      "root": "discount calculator",
       "already_have": false,
       "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 27100,
-      "cpc": 1.55,
+      "difficulty": "纯前端",
+      "search_volume": 165000,
+      "cpc": 2.13,
       "competition": 0.2
     },
     {
-      "keyword": "recorder app",
+      "keyword": "google tip calculator",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 80,
-      "suggested_slug": "recorder-app",
-      "root": "voice recorder online",
+      "trend_score": 300,
+      "suggested_slug": "google-tip-calculator",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 27100,
+      "cpc": 0.66,
+      "competition": 0.2
+    },
+    {
+      "keyword": "money converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "money-converter",
+      "root": "temperature converter",
       "already_have": false,
       "combined_score": 690,
       "difficulty": "",
-      "search_volume": 14800,
-      "cpc": 2.9,
-      "competition": 0.5
+      "search_volume": 74000,
+      "cpc": 0.35,
+      "competition": 0.2
     },
     {
-      "keyword": "remove background free",
+      "keyword": "ovulation calculator",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 90,
-      "suggested_slug": "remove-background-free",
-      "root": "avif to png",
+      "trend_score": 200,
+      "suggested_slug": "ovulation-calculator",
+      "root": "date calculator online",
       "already_have": false,
-      "combined_score": 670,
-      "difficulty": "需WASM",
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 201000,
+      "cpc": 2.38,
+      "competition": 0.2
+    },
+    {
+      "keyword": "catalytic converter cleaner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "catalytic-converter-cleaner",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
       "search_volume": 60500,
-      "cpc": 1.28,
+      "cpc": 0.33,
+      "competition": 0.8
+    },
+    {
+      "keyword": "tdee calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 120,
+      "suggested_slug": "tdee-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 450000,
+      "cpc": 0.63,
+      "competition": 0.2
+    },
+    {
+      "keyword": "roth ira calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "roth-ira-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 135000,
+      "cpc": 3.18,
+      "competition": 0.2
+    },
+    {
+      "keyword": "zip file password remover online free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 228150,
+      "suggested_slug": "zip-file-password-remover-free",
+      "root": "zip file online",
+      "already_have": false,
+      "combined_score": 660,
+      "difficulty": "纯前端",
+      "search_volume": 110,
+      "cpc": 0,
       "competition": 0.2
     },
     {
@@ -307,21 +517,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "cloudconvert",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 200,
-      "suggested_slug": "cloudconvert",
-      "root": "avif to jpg",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "",
-      "search_volume": 74000,
-      "cpc": 3,
-      "competition": 0.2
-    },
-    {
       "keyword": "mp4 to mp3",
       "sources": [
         "trends_rising"
@@ -334,6 +529,21 @@
       "difficulty": "需WASM",
       "search_volume": 201000,
       "cpc": 0.4,
+      "competition": 0.2
+    },
+    {
+      "keyword": "rgb to he",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 180,
+      "suggested_slug": "rgb-to-he",
+      "root": "hex to rgb",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 0.26,
       "competition": 0.2
     },
     {
@@ -457,51 +667,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "webp to jpeg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "webp-to-jpeg",
-      "root": "webp to gif",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 110000,
-      "cpc": 0.11,
-      "competition": 0.2
-    },
-    {
-      "keyword": "webp to gif",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "webp-to-gif",
-      "root": "mp4 to webm",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 22200,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "m4a to mp3",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "m4a-to-mp3",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 49500,
-      "cpc": 0.84,
-      "competition": 0.2
-    },
-    {
       "keyword": "image to video ai free",
       "sources": [
         "trends_rising"
@@ -589,172 +754,6 @@
       "difficulty": "",
       "search_volume": 9900,
       "cpc": 5.17,
-      "competition": 0.2
-    },
-    {
-      "keyword": "freeconvert video compressor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 130,
-      "suggested_slug": "freeconvert-video-compressor",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.84,
-      "competition": 0.2
-    },
-    {
-      "keyword": "audio cutter online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "audio-cutter-online",
-      "root": "mp3 cutter online",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 1000,
-      "cpc": 0.86,
-      "competition": 0.2
-    },
-    {
-      "keyword": "video trimmer online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "video-trimmer-online",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 8100,
-      "cpc": 1.83,
-      "competition": 0.2
-    },
-    {
-      "keyword": "online video recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "video-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 2.64,
-      "competition": 0.2
-    },
-    {
-      "keyword": "video link to audio converter online free mp4",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 53350,
-      "suggested_slug": "video-link-to-audio-converter-mp4",
-      "root": "audio converter online",
-      "already_have": false,
-      "combined_score": 410,
-      "difficulty": "需WASM",
-      "search_volume": 30,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "remove blur from photo online free without watermark",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50600,
-      "suggested_slug": "remove-blur-from-photo-without-watermark",
-      "root": "remove watermark from image free",
-      "already_have": false,
-      "combined_score": 410,
-      "difficulty": "需WASM",
-      "search_volume": 110,
-      "cpc": 1.88,
-      "competition": 0.5
-    },
-    {
-      "keyword": "trim large video online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 2050,
-      "suggested_slug": "trim-large-video-free",
-      "root": "cut video online free",
-      "already_have": false,
-      "combined_score": 410,
-      "difficulty": "需WASM",
-      "search_volume": 390,
-      "cpc": 3.18,
-      "competition": 0.2
-    },
-    {
-      "keyword": "best mp4 to mp3 converter",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "best-mp4-to-mp3-converter",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 880,
-      "cpc": 1.93,
-      "competition": 0.2
-    },
-    {
-      "keyword": "how to make a gif from video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 600,
-      "suggested_slug": "how-to-make-a-gif-from-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.8,
-      "competition": 0.2
-    },
-    {
-      "keyword": "how to make a gif from a video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 550,
-      "suggested_slug": "how-to-make-a-gif-from-a-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.8,
-      "competition": 0.2
-    },
-    {
-      "keyword": "make a gif from video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 550,
-      "suggested_slug": "make-a-gif-from-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 6600,
-      "cpc": 0.73,
       "competition": 0.2
     }
   ]
