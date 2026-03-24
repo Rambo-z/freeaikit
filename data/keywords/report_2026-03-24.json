@@ -1,10 +1,10 @@
 {
   "date": "2026-03-24",
   "stats": {
-    "trends_total": 158,
-    "suggest_total": 1819
+    "trends_total": 156,
+    "suggest_total": 2161
   },
-  "total_opportunities": 1899,
+  "total_opportunities": 2235,
   "top_50": [
     {
       "keyword": "handbrake video compressor",
@@ -95,6 +95,21 @@
       "search_volume": 33100,
       "cpc": 8.81,
       "competition": 0.2
+    },
+    {
+      "keyword": "tax calculator 2025",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1900,
+      "suggested_slug": "tax-calculator-2025",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 33100,
+      "cpc": 2.65,
+      "competition": 0.5
     },
     {
       "keyword": "online casino casino.us",
@@ -199,6 +214,21 @@
       "difficulty": "需WASM",
       "search_volume": 49500,
       "cpc": 0.84,
+      "competition": 0.2
+    },
+    {
+      "keyword": "cloudconvert",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 58200,
+      "suggested_slug": "cloudconvert",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 74000,
+      "cpc": 3,
       "competition": 0.2
     },
     {
@@ -428,6 +458,81 @@
       "competition": 0.2
     },
     {
+      "keyword": "peptide calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 450,
+      "suggested_slug": "peptide-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 165000,
+      "cpc": 2.13,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 450,
+      "suggested_slug": "pdf-converter",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 135000,
+      "cpc": 1.52,
+      "competition": 0.5
+    },
+    {
+      "keyword": "google tip calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 350,
+      "suggested_slug": "google-tip-calculator",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 27100,
+      "cpc": 0.66,
+      "competition": 0.2
+    },
+    {
+      "keyword": "calculator app",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 300,
+      "suggested_slug": "calculator-app",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 135000,
+      "cpc": 1.54,
+      "competition": 0.2
+    },
+    {
+      "keyword": "adp paycheck calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "adp-paycheck-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 201000,
+      "cpc": 19.41,
+      "competition": 0.2
+    },
+    {
       "keyword": "business loan calculator",
       "sources": [
         "trends_rising"
@@ -443,6 +548,51 @@
       "competition": 0.5
     },
     {
+      "keyword": "tdee calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 200,
+      "suggested_slug": "tdee-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 450000,
+      "cpc": 0.63,
+      "competition": 0.2
+    },
+    {
+      "keyword": "chipotle nutrition calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 190,
+      "suggested_slug": "chipotle-nutrition-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 165000,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "bmi calculator women",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 190,
+      "suggested_slug": "bmi-calculator-women",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 246000,
+      "cpc": 0.96,
+      "competition": 0.5
+    },
+    {
       "keyword": "renew passport online",
       "sources": [
         "trends_rising"
@@ -455,21 +605,6 @@
       "difficulty": "",
       "search_volume": 301000,
       "cpc": 8.31,
-      "competition": 0.5
-    },
-    {
-      "keyword": "car loan payment calculator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 110,
-      "suggested_slug": "car-loan-payment-calculator",
-      "root": "loan calculator online",
-      "already_have": false,
-      "combined_score": 670,
-      "difficulty": "纯前端",
-      "search_volume": 110000,
-      "cpc": 0.95,
       "competition": 0.5
     },
     {
@@ -578,36 +713,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "heic to jpg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 130,
-      "suggested_slug": "heic-to-jpg",
-      "root": "avif to jpg",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 246000,
-      "cpc": 0.06,
-      "competition": 0.2
-    },
-    {
-      "keyword": "textnow",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 110,
-      "suggested_slug": "textnow",
-      "root": "voice to text online",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "纯前端",
-      "search_volume": 823000,
-      "cpc": 0.52,
-      "competition": 0.2
-    },
-    {
       "keyword": "trim large video online free",
       "sources": [
         "trends_rising"
@@ -650,111 +755,6 @@
       "difficulty": "",
       "search_volume": 9900,
       "cpc": 0.49,
-      "competition": 0.2
-    },
-    {
-      "keyword": "best online casino casino.us",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 4600,
-      "suggested_slug": "best-casino-casino.us",
-      "root": "tts online",
-      "already_have": false,
-      "combined_score": 550,
-      "difficulty": "",
-      "search_volume": 9900,
-      "cpc": 5.17,
-      "competition": 0.2
-    },
-    {
-      "keyword": "trim video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 61700,
-      "suggested_slug": "trim-video",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "需WASM",
-      "search_volume": 6600,
-      "cpc": 1.45,
-      "competition": 0.2
-    },
-    {
-      "keyword": "apple audiobooks",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 22050,
-      "suggested_slug": "apple-audiobooks",
-      "root": "loan calculator online",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "需WASM",
-      "search_volume": 5400,
-      "cpc": 3.12,
-      "competition": 0.5
-    },
-    {
-      "keyword": "minimax audio",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 17900,
-      "suggested_slug": "minimax-audio",
-      "root": "audio to text free",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "需WASM",
-      "search_volume": 2900,
-      "cpc": 2.61,
-      "competition": 0.2
-    },
-    {
-      "keyword": "glp1 online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 500,
-      "suggested_slug": "glp1-online",
-      "root": "bmi calculator online",
-      "already_have": false,
-      "combined_score": 470,
-      "difficulty": "",
-      "search_volume": 8100,
-      "cpc": 44.44,
-      "competition": 0.8
-    },
-    {
-      "keyword": "wav ninja",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 500,
-      "suggested_slug": "wav-ninja",
-      "root": "mp3 to wav",
-      "already_have": false,
-      "combined_score": 440,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 4.32,
-      "competition": 0.2
-    },
-    {
-      "keyword": "video trimmer online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 130,
-      "suggested_slug": "video-trimmer-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 430,
-      "difficulty": "需WASM",
-      "search_volume": 1600,
-      "cpc": 1.73,
       "competition": 0.2
     }
   ]
