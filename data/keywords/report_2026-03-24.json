@@ -1,0 +1,762 @@
+{
+  "date": "2026-03-24",
+  "stats": {
+    "trends_total": 83,
+    "suggest_total": 601
+  },
+  "total_opportunities": 675,
+  "top_50": [
+    {
+      "keyword": "handbrake video compressor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 225050,
+      "suggested_slug": "handbrake-video-compressor",
+      "root": "video compressor free",
+      "already_have": false,
+      "combined_score": 1090,
+      "difficulty": "需WASM",
+      "search_volume": 27100,
+      "cpc": 1.97,
+      "competition": 0.2
+    },
+    {
+      "keyword": "soundcloud to mp3",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 222000,
+      "suggested_slug": "soundcloud-to-mp3",
+      "root": "mp3 to wav",
+      "already_have": false,
+      "combined_score": 1040,
+      "difficulty": "需WASM",
+      "search_volume": 90500,
+      "cpc": 7.04,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best free video editors",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 25250,
+      "suggested_slug": "best-video-editors",
+      "root": "video to audio",
+      "already_have": false,
+      "combined_score": 900,
+      "difficulty": "需WASM",
+      "search_volume": 22200,
+      "cpc": 4.86,
+      "competition": 0.5
+    },
+    {
+      "keyword": "m4a to mp3",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 94750,
+      "suggested_slug": "m4a-to-mp3",
+      "root": "mp3 cutter online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 49500,
+      "cpc": 0.84,
+      "competition": 0.2
+    },
+    {
+      "keyword": "nvidia news today",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 21450,
+      "suggested_slug": "nvidia-news-today",
+      "root": "video to audio",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 2.09,
+      "competition": 0.2
+    },
+    {
+      "keyword": "openai news today",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 11900,
+      "suggested_slug": "opennews-today",
+      "root": "video to audio",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需API/服务端",
+      "search_volume": 27100,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ai news today",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 5300,
+      "suggested_slug": "news-today",
+      "root": "video to audio",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需API/服务端",
+      "search_volume": 49500,
+      "cpc": 3.82,
+      "competition": 0.2
+    },
+    {
+      "keyword": "online video editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 80,
+      "suggested_slug": "video-editor",
+      "root": "mp4 to webm",
+      "already_have": false,
+      "combined_score": 720,
+      "difficulty": "需WASM",
+      "search_volume": 27100,
+      "cpc": 2.33,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ai video generator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 40,
+      "suggested_slug": "video-generator",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 246000,
+      "cpc": 3.41,
+      "competition": 0.5
+    },
+    {
+      "keyword": "text to speech free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 180,
+      "suggested_slug": "text-to-speech-free",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 650,
+      "difficulty": "纯前端",
+      "search_volume": 40500,
+      "cpc": 2.86,
+      "competition": 0.5
+    },
+    {
+      "keyword": "capcut",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 200,
+      "suggested_slug": "capcut",
+      "root": "compress video online",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 1000000,
+      "cpc": 0.76,
+      "competition": 0.2
+    },
+    {
+      "keyword": "make a gif",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 160,
+      "suggested_slug": "make-a-gif",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 33100,
+      "cpc": 1.86,
+      "competition": 0.2
+    },
+    {
+      "keyword": "4k video downloader",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 100,
+      "suggested_slug": "4k-video-downloader",
+      "root": "mp4 to webm",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 74000,
+      "cpc": 2.27,
+      "competition": 0.2
+    },
+    {
+      "keyword": "vid to gif",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 90,
+      "suggested_slug": "vid-to-gif",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 90500,
+      "cpc": 0.23,
+      "competition": 0.2
+    },
+    {
+      "keyword": "webm to mp4",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "webm-to-mp4",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 22200,
+      "cpc": 0.29,
+      "competition": 0.2
+    },
+    {
+      "keyword": "webp to gif",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "webp-to-gif",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 22200,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "cloudconvert",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "cloudconvert",
+      "root": "audio converter online",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "",
+      "search_volume": 74000,
+      "cpc": 3,
+      "competition": 0.2
+    },
+    {
+      "keyword": "yourube to mp3",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "yourube-to-mp3",
+      "root": "mp3 to wav",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 2240000,
+      "cpc": 2.8,
+      "competition": 0.2
+    },
+    {
+      "keyword": "tunestotube",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 40,
+      "suggested_slug": "tunestotube",
+      "root": "mp3 to wav",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "",
+      "search_volume": 12100,
+      "cpc": 3.15,
+      "competition": 0.2
+    },
+    {
+      "keyword": "image to video ai free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "image-to-video-free",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 630,
+      "difficulty": "需WASM",
+      "search_volume": 12100,
+      "cpc": 1.72,
+      "competition": 0.5
+    },
+    {
+      "keyword": "image to video ai",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "image-to-video-ai",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 620,
+      "difficulty": "需WASM",
+      "search_volume": 40500,
+      "cpc": 1.74,
+      "competition": 0.5
+    },
+    {
+      "keyword": "trim large video online free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 109800,
+      "suggested_slug": "trim-large-video-free",
+      "root": "cut video online free",
+      "already_have": false,
+      "combined_score": 610,
+      "difficulty": "需WASM",
+      "search_volume": 390,
+      "cpc": 3.18,
+      "competition": 0.2
+    },
+    {
+      "keyword": "freeconvert",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 44500,
+      "suggested_slug": "freeconvert",
+      "root": "audio converter online",
+      "already_have": false,
+      "combined_score": 570,
+      "difficulty": "",
+      "search_volume": 9900,
+      "cpc": 0.49,
+      "competition": 0.2
+    },
+    {
+      "keyword": "trim video",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 61700,
+      "suggested_slug": "trim-video",
+      "root": "video compressor free",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
+      "search_volume": 6600,
+      "cpc": 1.45,
+      "competition": 0.2
+    },
+    {
+      "keyword": "audio cutter online free",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "audio-cutter-free",
+      "root": "mp3 cutter online",
+      "already_have": false,
+      "combined_score": 480,
+      "difficulty": "需WASM",
+      "search_volume": 480,
+      "cpc": 2.96,
+      "competition": 0.2
+    },
+    {
+      "keyword": "wav ninja",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 500,
+      "suggested_slug": "wav-ninja",
+      "root": "mp3 to wav",
+      "already_have": false,
+      "combined_score": 440,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 4.32,
+      "competition": 0.2
+    },
+    {
+      "keyword": "video trimmer online free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "video-trimmer-free",
+      "root": "video converter online free",
+      "already_have": false,
+      "combined_score": 430,
+      "difficulty": "需WASM",
+      "search_volume": 1600,
+      "cpc": 1.73,
+      "competition": 0.2
+    },
+    {
+      "keyword": "freeconvert video compressor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "freeconvert-video-compressor",
+      "root": "video compressor free",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 0.84,
+      "competition": 0.2
+    },
+    {
+      "keyword": "video compressor free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "video-compressor-free",
+      "root": "compress video online",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "需WASM",
+      "search_volume": 2900,
+      "cpc": 0.8,
+      "competition": 0.2
+    },
+    {
+      "keyword": "audio cutter online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "audio-cutter-online",
+      "root": "mp3 cutter online",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "需WASM",
+      "search_volume": 1000,
+      "cpc": 0.86,
+      "competition": 0.2
+    },
+    {
+      "keyword": "portrait to landscape video converter online free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 55350,
+      "suggested_slug": "portrait-to-landscape-video-converter-free",
+      "root": "video converter online free",
+      "already_have": false,
+      "combined_score": 410,
+      "difficulty": "需WASM",
+      "search_volume": 40,
+      "cpc": 1.38,
+      "competition": 0.2
+    },
+    {
+      "keyword": "video link to audio converter online free mp4",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 32950,
+      "suggested_slug": "video-link-to-audio-converter-mp4",
+      "root": "video converter online free",
+      "already_have": false,
+      "combined_score": 410,
+      "difficulty": "需WASM",
+      "search_volume": 30,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best mp4 to mp3 converter",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 70,
+      "suggested_slug": "best-mp4-to-mp3-converter",
+      "root": "mp4 to mp3 online",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需WASM",
+      "search_volume": 880,
+      "cpc": 1.93,
+      "competition": 0.2
+    },
+    {
+      "keyword": "how to make a gif from a video",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 600,
+      "suggested_slug": "how-to-make-a-gif-from-a-video",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 0.8,
+      "competition": 0.2
+    },
+    {
+      "keyword": "how to make a gif from video",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 600,
+      "suggested_slug": "how-to-make-a-gif-from-video",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 0.8,
+      "competition": 0.2
+    },
+    {
+      "keyword": "make a gif from video",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 500,
+      "suggested_slug": "make-a-gif-from-video",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需WASM",
+      "search_volume": 6600,
+      "cpc": 0.73,
+      "competition": 0.2
+    },
+    {
+      "keyword": "any video converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 70,
+      "suggested_slug": "any-video-converter",
+      "root": "video converter online free",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 1.29,
+      "competition": 0.2
+    },
+    {
+      "keyword": "video compressor app",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "video-compressor-app",
+      "root": "video compressor free",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需WASM",
+      "search_volume": 1600,
+      "cpc": 1.64,
+      "competition": 0.2
+    },
+    {
+      "keyword": "cut video online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 300,
+      "suggested_slug": "cut-video-online",
+      "root": "compress video online",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 1900,
+      "cpc": 1.32,
+      "competition": 0.2
+    },
+    {
+      "keyword": "crop video online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "crop-video-online",
+      "root": "compress video online",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 1.39,
+      "competition": 0.2
+    },
+    {
+      "keyword": "video to transcript converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "video-to-transcript-converter",
+      "root": "video converter online free",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 1300,
+      "cpc": 3.38,
+      "competition": 0.5
+    },
+    {
+      "keyword": "audio to midi converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 80,
+      "suggested_slug": "audio-to-midi-converter",
+      "root": "audio converter online",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 1600,
+      "cpc": 0.61,
+      "competition": 0.2
+    },
+    {
+      "keyword": "gif compressor for discord",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "gif-compressor-for-discord",
+      "root": "video to gif",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 2400,
+      "cpc": 0.58,
+      "competition": 0.2
+    },
+    {
+      "keyword": "screen and audio recorder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 40,
+      "suggested_slug": "screen-and-audio-recorder",
+      "root": "screen recorder online",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 4.02,
+      "competition": 0.5
+    },
+    {
+      "keyword": "usb to rca audio video adaptor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 3650,
+      "suggested_slug": "usb-to-rca-audio-video-adaptor",
+      "root": "video to audio",
+      "already_have": false,
+      "combined_score": 350,
+      "difficulty": "需WASM",
+      "search_volume": 110,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "mp3 vs wav",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 300,
+      "suggested_slug": "mp3-vs-wav",
+      "root": "mp3 to wav",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 2900,
+      "cpc": 2.34,
+      "competition": 0.2
+    },
+    {
+      "keyword": "resize video",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "resize-video",
+      "root": "video compressor free",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 3600,
+      "cpc": 1.59,
+      "competition": 0.2
+    },
+    {
+      "keyword": "soundcloud to wav",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 170,
+      "suggested_slug": "soundcloud-to-wav",
+      "root": "mp3 to wav",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 5400,
+      "cpc": 1.51,
+      "competition": 0.2
+    },
+    {
+      "keyword": "mp3 to midi",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "mp3-to-midi",
+      "root": "mp4 to mp3 online",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 6600,
+      "cpc": 0.51,
+      "competition": 0.2
+    },
+    {
+      "keyword": "mpeg to mp3",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "mpeg-to-mp3",
+      "root": "mp4 to mp3 online",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 0.79,
+      "competition": 0.2
+    }
+  ]
+}
