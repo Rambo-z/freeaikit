@@ -1,9 +1,9 @@
 {
   "date": "2026-03-24",
-  "batch": 3,
-  "total_suggestions": 1469,
-  "new_opportunities": 1460,
-  "existing_matches": 9,
+  "batch": 4,
+  "total_suggestions": 1819,
+  "new_opportunities": 1801,
+  "existing_matches": 18,
   "opportunities": [
     {
       "keyword": "compress video online free",
@@ -10474,7 +10474,7 @@
     },
     {
       "keyword": "box shadow generator cssmatic",
-      "root": "box shadow generator css",
+      "root": "text shadow generator css",
       "pattern": "{root}",
       "source": "google_suggest",
       "discovered": "2026-03-24",
@@ -10483,7 +10483,7 @@
     },
     {
       "keyword": "box shadow generator css online",
-      "root": "box shadow generator css",
+      "root": "text shadow generator css",
       "pattern": "{root}",
       "source": "google_suggest",
       "discovered": "2026-03-24",
@@ -10492,7 +10492,7 @@
     },
     {
       "keyword": "box shadow generator css scan",
-      "root": "box shadow generator css",
+      "root": "text shadow generator css",
       "pattern": "{root}",
       "source": "google_suggest",
       "discovered": "2026-03-24",
@@ -10501,7 +10501,7 @@
     },
     {
       "keyword": "drop shadow generator css",
-      "root": "box shadow generator css",
+      "root": "text shadow generator css",
       "pattern": "{root}",
       "source": "google_suggest",
       "discovered": "2026-03-24",
@@ -13144,6 +13144,3075 @@
       "discovered": "2026-03-24",
       "already_have": false,
       "suggested_slug": "convert-markdown-to-txt"
+    },
+    {
+      "keyword": "epoch time converter online",
+      "root": "epoch converter online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "epoch-time-converter-online"
+    },
+    {
+      "keyword": "epoch date converter online",
+      "root": "epoch converter online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "epoch-date-converter-online"
+    },
+    {
+      "keyword": "last epoch convert online character to offline",
+      "root": "epoch converter online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "last-epoch-convert-character-to-offline"
+    },
+    {
+      "keyword": "last epoch convert online to offline",
+      "root": "epoch converter online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "last-epoch-convert-to-offline"
+    },
+    {
+      "keyword": "epoch to utc converter online",
+      "root": "epoch converter online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "epoch-to-utc-converter-online"
+    },
+    {
+      "keyword": "epoch to ist converter online",
+      "root": "epoch converter online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "epoch-to-ist-converter-online"
+    },
+    {
+      "keyword": "epoch to datetime converter online",
+      "root": "epoch converter online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "epoch-to-datetime-converter-online"
+    },
+    {
+      "keyword": "gradient generator online free",
+      "root": "gradient generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-generator-free"
+    },
+    {
+      "keyword": "gradient generator online png",
+      "root": "gradient generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-generator-png"
+    },
+    {
+      "keyword": "gradient generator online css",
+      "root": "gradient generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-generator-css"
+    },
+    {
+      "keyword": "gradient maker online",
+      "root": "gradient generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-maker-online"
+    },
+    {
+      "keyword": "gradient color generator online",
+      "root": "gradient generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-color-generator-online"
+    },
+    {
+      "keyword": "gradient text generator online free",
+      "root": "gradient generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-text-generator-free"
+    },
+    {
+      "keyword": "gradient image generator online",
+      "root": "gradient generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-image-generator-online"
+    },
+    {
+      "keyword": "gradient background generator online",
+      "root": "gradient generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-background-generator-online"
+    },
+    {
+      "keyword": "linear gradient generator online",
+      "root": "gradient generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linear-gradient-generator-online"
+    },
+    {
+      "keyword": "slope map generator online free",
+      "root": "gradient generator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "slope-map-generator-free"
+    },
+    {
+      "keyword": "best online gradient generator",
+      "root": "gradient generator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-generator"
+    },
+    {
+      "keyword": "color gradient maker minecraft",
+      "root": "color gradient maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-maker-minecraft"
+    },
+    {
+      "keyword": "color gradient maker from image",
+      "root": "color gradient maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-maker-from-image"
+    },
+    {
+      "keyword": "color gradient maker online",
+      "root": "color gradient maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-maker-online"
+    },
+    {
+      "keyword": "color gradient maker hex",
+      "root": "color gradient maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-maker-hex"
+    },
+    {
+      "keyword": "color gradient maker rgb",
+      "root": "color gradient maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-maker-rgb"
+    },
+    {
+      "keyword": "color gradient maker css",
+      "root": "color gradient maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-maker-css"
+    },
+    {
+      "keyword": "color gradient maker text",
+      "root": "color gradient maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-maker-text"
+    },
+    {
+      "keyword": "color gradient maker free",
+      "root": "color gradient maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-maker-free"
+    },
+    {
+      "keyword": "color gradient maker palette",
+      "root": "color gradient maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-maker-palette"
+    },
+    {
+      "keyword": "linear gradient generator free",
+      "root": "color gradient maker",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linear-gradient-generator-free"
+    },
+    {
+      "keyword": "3 color gradient generator free",
+      "root": "color gradient maker",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "3-color-gradient-generator-free"
+    },
+    {
+      "keyword": "4 color gradient generator free",
+      "root": "color gradient maker",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "4-color-gradient-generator-free"
+    },
+    {
+      "keyword": "how to make gradient color",
+      "root": "color gradient maker",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "how-to-make-gradient-color"
+    },
+    {
+      "keyword": "best gradient color generator",
+      "root": "color gradient maker",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-color-generator"
+    },
+    {
+      "keyword": "best color gradient combination generator",
+      "root": "color gradient maker",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-combination-generator"
+    },
+    {
+      "keyword": "how to make a color gradient in illustrator",
+      "root": "color gradient maker",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "how-to-make-a-color-gradient-in-illustrator"
+    },
+    {
+      "keyword": "how to get gradient color code",
+      "root": "color gradient maker",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "how-to-get-gradient-color-code"
+    },
+    {
+      "keyword": "font pairing tool online",
+      "root": "font pairing tool",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-pairing-online"
+    },
+    {
+      "keyword": "font matching tool",
+      "root": "font pairing tool",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-matching"
+    },
+    {
+      "keyword": "font matching tool online",
+      "root": "font pairing tool",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-matching-online"
+    },
+    {
+      "keyword": "font combinations tool",
+      "root": "font pairing tool",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-combinations"
+    },
+    {
+      "keyword": "google font pairing tool",
+      "root": "font pairing tool",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "google-font-pairing"
+    },
+    {
+      "keyword": "font pairing ai tool",
+      "root": "font pairing tool",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-pairing"
+    },
+    {
+      "keyword": "free font pairing tool",
+      "root": "font pairing tool",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-pairing"
+    },
+    {
+      "keyword": "font pairing rules",
+      "root": "font pairing tool",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-pairing-rules"
+    },
+    {
+      "keyword": "font pairing ideas",
+      "root": "font pairing tool",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-pairing-ideas"
+    },
+    {
+      "keyword": "font pairing sites",
+      "root": "font pairing tool",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-pairing-sites"
+    },
+    {
+      "keyword": "how to pair fonts",
+      "root": "font pairing tool",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "how-to-pair-fonts"
+    },
+    {
+      "keyword": "font preview online free",
+      "root": "font preview online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-preview-free"
+    },
+    {
+      "keyword": "font preview online generator",
+      "root": "font preview online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-preview-generator"
+    },
+    {
+      "keyword": "font preview online upload",
+      "root": "font preview online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-preview-upload"
+    },
+    {
+      "keyword": "font viewer online",
+      "root": "font preview online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-viewer-online"
+    },
+    {
+      "keyword": "font view online",
+      "root": "font preview online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-view-online"
+    },
+    {
+      "keyword": "font viewer online free",
+      "root": "font preview online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-viewer-free"
+    },
+    {
+      "keyword": "text preview online",
+      "root": "font preview online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "text-preview-online"
+    },
+    {
+      "keyword": "free font preview online generator",
+      "root": "font preview online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-preview-generator"
+    },
+    {
+      "keyword": "font size preview online",
+      "root": "font preview online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-size-preview-online"
+    },
+    {
+      "keyword": "preview font size",
+      "root": "font preview online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "preview-font-size"
+    },
+    {
+      "keyword": "best free font preview online",
+      "root": "font preview online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-preview-online"
+    },
+    {
+      "keyword": "how to preview fonts",
+      "root": "font preview online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "how-to-preview-fonts"
+    },
+    {
+      "keyword": "how to add fonts to preview",
+      "root": "font preview online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "how-to-add-fonts-to-preview"
+    },
+    {
+      "keyword": "svg editor online free from code",
+      "root": "svg editor online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "svg-editor-from-code"
+    },
+    {
+      "keyword": "svg editor online free github",
+      "root": "svg editor online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "svg-editor-github"
+    },
+    {
+      "keyword": "svg editor online free open source",
+      "root": "svg editor online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "svg-editor-open-source"
+    },
+    {
+      "keyword": "svg maker online free",
+      "root": "svg editor online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "svg-maker-free"
+    },
+    {
+      "keyword": "svg editor for free",
+      "root": "svg editor online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "svg-editor-for-free"
+    },
+    {
+      "keyword": "svg path editor online free",
+      "root": "svg editor online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "svg-path-editor-free"
+    },
+    {
+      "keyword": "svg image editor online free",
+      "root": "svg editor online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "svg-image-editor-free"
+    },
+    {
+      "keyword": "icon maker online free ai",
+      "root": "icon maker online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "icon-maker-ai"
+    },
+    {
+      "keyword": "app icon maker online free",
+      "root": "icon maker online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "app-icon-maker-free"
+    },
+    {
+      "keyword": "folder icon maker online free",
+      "root": "icon maker online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "folder-icon-maker-free"
+    },
+    {
+      "keyword": "desktop icon maker online free",
+      "root": "icon maker online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "desktop-icon-maker-free"
+    },
+    {
+      "keyword": "windows icon maker online free",
+      "root": "icon maker online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "windows-icon-maker-free"
+    },
+    {
+      "keyword": "icon logo maker online free",
+      "root": "icon maker online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "icon-logo-maker-free"
+    },
+    {
+      "keyword": "image to icon maker online free",
+      "root": "icon maker online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-maker-free"
+    },
+    {
+      "keyword": "blue lock icon maker online free",
+      "root": "icon maker online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "blue-lock-icon-maker-free"
+    },
+    {
+      "keyword": "whatsapp group icon maker online free",
+      "root": "icon maker online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "whatsapp-group-icon-maker-free"
+    },
+    {
+      "keyword": "best free icon maker online",
+      "root": "icon maker online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "icon-maker-online"
+    },
+    {
+      "keyword": "logo maker free online without watermark",
+      "root": "logo maker free online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-without-watermark"
+    },
+    {
+      "keyword": "logo maker free online ai",
+      "root": "logo maker free online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-ai"
+    },
+    {
+      "keyword": "logo maker free online without watermark ai",
+      "root": "logo maker free online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-without-watermark-ai"
+    },
+    {
+      "keyword": "logo maker free online download",
+      "root": "logo maker free online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-download"
+    },
+    {
+      "keyword": "logo maker free online without watermark free download",
+      "root": "logo maker free online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-without-watermark-download"
+    },
+    {
+      "keyword": "logo maker free online free download",
+      "root": "logo maker free online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-download"
+    },
+    {
+      "keyword": "logo maker free for free fire",
+      "root": "logo maker free online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-for-fire"
+    },
+    {
+      "keyword": "logo design free online free",
+      "root": "logo maker free online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-design-free"
+    },
+    {
+      "keyword": "logo maker free free",
+      "root": "logo maker free online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-free"
+    },
+    {
+      "keyword": "free logo maker online free no watermark",
+      "root": "logo maker free online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-no-watermark"
+    },
+    {
+      "keyword": "free logo maker online free ai",
+      "root": "logo maker free online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-ai"
+    },
+    {
+      "keyword": "free fire logo maker online free",
+      "root": "logo maker free online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "fire-logo-maker-free"
+    },
+    {
+      "keyword": "free 3d logo maker online free download",
+      "root": "logo maker free online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "3d-logo-maker-download"
+    },
+    {
+      "keyword": "free logo maker online ai free download",
+      "root": "logo maker free online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-download"
+    },
+    {
+      "keyword": "logo design online free without registration",
+      "root": "logo maker free online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-design-without-registration"
+    },
+    {
+      "keyword": "logo design online free without registration and watermark",
+      "root": "logo maker free online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-design-without-registration-and-watermark"
+    },
+    {
+      "keyword": "is there a free logo maker",
+      "root": "logo maker free online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "is-there-a-logo-maker"
+    },
+    {
+      "keyword": "best logo design free online",
+      "root": "logo maker free online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-design-online"
+    },
+    {
+      "keyword": "best logo generator free online",
+      "root": "logo maker free online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-generator-online"
+    },
+    {
+      "keyword": "best logo maker online free ai",
+      "root": "logo maker free online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-ai"
+    },
+    {
+      "keyword": "best logo design online free without registration",
+      "root": "logo maker free online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-design-without-registration"
+    },
+    {
+      "keyword": "best ai logo generator free online",
+      "root": "logo maker free online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-generator-online"
+    },
+    {
+      "keyword": "best football logo design free online",
+      "root": "logo maker free online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "football-logo-design-online"
+    },
+    {
+      "keyword": "best 3d logo maker online free",
+      "root": "logo maker free online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "3d-logo-maker-free"
+    },
+    {
+      "keyword": "best marathi logo maker online free",
+      "root": "logo maker free online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "marathi-logo-maker-free"
+    },
+    {
+      "keyword": "best logo maker online free design 3d download",
+      "root": "logo maker free online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-maker-design-3d-download"
+    },
+    {
+      "keyword": "mockup generator free online",
+      "root": "mockup generator free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-online"
+    },
+    {
+      "keyword": "mockup generator freepik",
+      "root": "mockup generator free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-freepik"
+    },
+    {
+      "keyword": "mockup generator free ai",
+      "root": "mockup generator free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-ai"
+    },
+    {
+      "keyword": "mockup generator free download",
+      "root": "mockup generator free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-download"
+    },
+    {
+      "keyword": "mockup generator free no watermark",
+      "root": "mockup generator free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-no-watermark"
+    },
+    {
+      "keyword": "mockup generator free tshirt",
+      "root": "mockup generator free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-tshirt"
+    },
+    {
+      "keyword": "mockup generator free iphone",
+      "root": "mockup generator free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-iphone"
+    },
+    {
+      "keyword": "mockup generator free book",
+      "root": "mockup generator free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-book"
+    },
+    {
+      "keyword": "mockup free online free",
+      "root": "mockup generator free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-free"
+    },
+    {
+      "keyword": "mockup free online free no watermark",
+      "root": "mockup generator free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-no-watermark"
+    },
+    {
+      "keyword": "free mockup generator free",
+      "root": "mockup generator free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-free"
+    },
+    {
+      "keyword": "free mockup generator freepik",
+      "root": "mockup generator free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-freepik"
+    },
+    {
+      "keyword": "free mockup generator free download",
+      "root": "mockup generator free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-download"
+    },
+    {
+      "keyword": "free book mockup generator free download",
+      "root": "mockup generator free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "book-mockup-generator-download"
+    },
+    {
+      "keyword": "free logo mockup generator free download",
+      "root": "mockup generator free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-mockup-generator-download"
+    },
+    {
+      "keyword": "free mockup generator online free",
+      "root": "mockup generator free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-free"
+    },
+    {
+      "keyword": "free book mockup generator free",
+      "root": "mockup generator free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "book-mockup-generator-free"
+    },
+    {
+      "keyword": "free ai mockup generator free",
+      "root": "mockup generator free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-free"
+    },
+    {
+      "keyword": "best mockup online free",
+      "root": "mockup generator free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-free"
+    },
+    {
+      "keyword": "best mockup maker free",
+      "root": "mockup generator free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-maker-free"
+    },
+    {
+      "keyword": "best ai mockup generator free",
+      "root": "mockup generator free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-free"
+    },
+    {
+      "keyword": "best online mockup generator free",
+      "root": "mockup generator free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-generator-free"
+    },
+    {
+      "keyword": "best clothing mockup generator free",
+      "root": "mockup generator free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "clothing-mockup-generator-free"
+    },
+    {
+      "keyword": "best ai wireframe generator free",
+      "root": "mockup generator free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-generator-free"
+    },
+    {
+      "keyword": "best ai template generator free",
+      "root": "mockup generator free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "template-generator-free"
+    },
+    {
+      "keyword": "best t shirt mockup generator free",
+      "root": "mockup generator free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "t-shirt-mockup-generator-free"
+    },
+    {
+      "keyword": "best wall art mockup generator free",
+      "root": "mockup generator free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wall-art-mockup-generator-free"
+    },
+    {
+      "keyword": "wireframe tool online free",
+      "root": "wireframe tool online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-free"
+    },
+    {
+      "keyword": "wireframe maker online",
+      "root": "wireframe tool online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-maker-online"
+    },
+    {
+      "keyword": "mockup tool online free",
+      "root": "wireframe tool online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-free"
+    },
+    {
+      "keyword": "mockup tool online",
+      "root": "wireframe tool online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mockup-online"
+    },
+    {
+      "keyword": "wireframe maker online free",
+      "root": "wireframe tool online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-maker-free"
+    },
+    {
+      "keyword": "wireframe software online",
+      "root": "wireframe tool online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-software-online"
+    },
+    {
+      "keyword": "wireframe design tool online free",
+      "root": "wireframe tool online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-design-free"
+    },
+    {
+      "keyword": "wireframe design tool online",
+      "root": "wireframe tool online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-design-online"
+    },
+    {
+      "keyword": "free wireframe tool online without registration",
+      "root": "wireframe tool online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-without-registration"
+    },
+    {
+      "keyword": "wireframe tool for free",
+      "root": "wireframe tool online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-for-free"
+    },
+    {
+      "keyword": "quilt mockup tool online free",
+      "root": "wireframe tool online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "quilt-mockup-free"
+    },
+    {
+      "keyword": "3d wireframe generator online free",
+      "root": "wireframe tool online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "3d-wireframe-generator-free"
+    },
+    {
+      "keyword": "online wireframe tool for website free",
+      "root": "wireframe tool online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-for-website-free"
+    },
+    {
+      "keyword": "mobile app wireframe tool free online",
+      "root": "wireframe tool online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "mobile-app-wireframe-online"
+    },
+    {
+      "keyword": "easiest wireframe tool",
+      "root": "wireframe tool online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "easiest-wireframe"
+    },
+    {
+      "keyword": "best free wireframe tool online",
+      "root": "wireframe tool online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe-online"
+    },
+    {
+      "keyword": "best online wireframe tool",
+      "root": "wireframe tool online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "wireframe"
+    },
+    {
+      "keyword": "pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-free"
+    },
+    {
+      "keyword": "pattern generator online from image",
+      "root": "pattern generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-from-image"
+    },
+    {
+      "keyword": "lock pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "lock-pattern-generator-online"
+    },
+    {
+      "keyword": "sashiko pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "sashiko-pattern-generator-free"
+    },
+    {
+      "keyword": "crochet pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "crochet-pattern-generator-free"
+    },
+    {
+      "keyword": "tile pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "tile-pattern-generator-online"
+    },
+    {
+      "keyword": "sewing pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "sewing-pattern-generator-free"
+    },
+    {
+      "keyword": "test pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "test-pattern-generator-online"
+    },
+    {
+      "keyword": "prbs pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "prbs-pattern-generator-online"
+    },
+    {
+      "keyword": "pattern maker online free",
+      "root": "pattern generator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "pattern-maker-free"
+    },
+    {
+      "keyword": "pattern making online free",
+      "root": "pattern generator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "pattern-making-free"
+    },
+    {
+      "keyword": "pattern maker online free sewing",
+      "root": "pattern generator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "pattern-maker-sewing"
+    },
+    {
+      "keyword": "weaving pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "weaving-pattern-generator-free"
+    },
+    {
+      "keyword": "guilloche pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "guilloche-pattern-generator-free"
+    },
+    {
+      "keyword": "logo pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "logo-pattern-generator-free"
+    },
+    {
+      "keyword": "random pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "random-pattern-generator-free"
+    },
+    {
+      "keyword": "best quilt pattern maker online free",
+      "root": "pattern generator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "quilt-pattern-maker-free"
+    },
+    {
+      "keyword": "best sewing pattern maker online free",
+      "root": "pattern generator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "sewing-pattern-maker-free"
+    },
+    {
+      "keyword": "best crochet pattern maker online free",
+      "root": "pattern generator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "crochet-pattern-maker-free"
+    },
+    {
+      "keyword": "generator online name",
+      "root": "pattern generator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "generator-name"
+    },
+    {
+      "keyword": "border radius generator css",
+      "root": "border radius generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "border-radius-generator-css"
+    },
+    {
+      "keyword": "border radius generator tailwind",
+      "root": "border radius generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "border-radius-generator-tailwind"
+    },
+    {
+      "keyword": "border radius generator fancy",
+      "root": "border radius generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "border-radius-generator-fancy"
+    },
+    {
+      "keyword": "border radius generator online",
+      "root": "border radius generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "border-radius-generator-online"
+    },
+    {
+      "keyword": "border radius generator image",
+      "root": "border radius generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "border-radius-generator-image"
+    },
+    {
+      "keyword": "border radius generator mdn",
+      "root": "border radius generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "border-radius-generator-mdn"
+    },
+    {
+      "keyword": "border radius maker",
+      "root": "border radius generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "border-radius-maker"
+    },
+    {
+      "keyword": "border radius maker css",
+      "root": "border radius generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "border-radius-maker-css"
+    },
+    {
+      "keyword": "inverted border radius generator",
+      "root": "border radius generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "inverted-border-radius-generator"
+    },
+    {
+      "keyword": "glassmorphism generator css",
+      "root": "glassmorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "glassmorphism-generator-css"
+    },
+    {
+      "keyword": "glassmorphism generator tailwind",
+      "root": "glassmorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "glassmorphism-generator-tailwind"
+    },
+    {
+      "keyword": "glassmorphism generator png",
+      "root": "glassmorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "glassmorphism-generator-png"
+    },
+    {
+      "keyword": "glassmorphism generator online",
+      "root": "glassmorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "glassmorphism-generator-online"
+    },
+    {
+      "keyword": "glassmorphism generator tailwind css",
+      "root": "glassmorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "glassmorphism-generator-tailwind-css"
+    },
+    {
+      "keyword": "glassmorphism generator image",
+      "root": "glassmorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "glassmorphism-generator-image"
+    },
+    {
+      "keyword": "glassmorphism css generator",
+      "root": "glassmorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "glassmorphism-css-generator"
+    },
+    {
+      "keyword": "glassmorphism background generator",
+      "root": "glassmorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "glassmorphism-background-generator"
+    },
+    {
+      "keyword": "neumorphism generator css",
+      "root": "neumorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "neumorphism-generator-css"
+    },
+    {
+      "keyword": "neumorphism generator flutter",
+      "root": "neumorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "neumorphism-generator-flutter"
+    },
+    {
+      "keyword": "neumorphism ui generator",
+      "root": "neumorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "neumorphism-ui-generator"
+    },
+    {
+      "keyword": "neumorphism text generator",
+      "root": "neumorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "neumorphism-text-generator"
+    },
+    {
+      "keyword": "tailwind neumorphism generator",
+      "root": "neumorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "tailwind-neumorphism-generator"
+    },
+    {
+      "keyword": "neumorphism button generator",
+      "root": "neumorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "neumorphism-button-generator"
+    },
+    {
+      "keyword": "neumorphism shadow generator",
+      "root": "neumorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "neumorphism-shadow-generator"
+    },
+    {
+      "keyword": "neumorphism image generator",
+      "root": "neumorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "neumorphism-image-generator"
+    },
+    {
+      "keyword": "neumorphism css shadow generator",
+      "root": "neumorphism generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "neumorphism-css-shadow-generator"
+    },
+    {
+      "keyword": "text shadow generator css3",
+      "root": "text shadow generator css",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "text-shadow-generator-css3"
+    },
+    {
+      "keyword": "box shadow generator css",
+      "root": "text shadow generator css",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "box-shadow-generator-css"
+    },
+    {
+      "keyword": "text shadow css generator online",
+      "root": "text shadow generator css",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "text-shadow-css-generator-online"
+    },
+    {
+      "keyword": "text shadow maker css",
+      "root": "text shadow generator css",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "text-shadow-maker-css"
+    },
+    {
+      "keyword": "font shadow generator css",
+      "root": "text shadow generator css",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-shadow-generator-css"
+    },
+    {
+      "keyword": "best ig post size",
+      "root": "instagram post size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "ig-post-size"
+    },
+    {
+      "keyword": "best ig post size 2025",
+      "root": "instagram post size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "ig-post-size-2025"
+    },
+    {
+      "keyword": "social media image sizes",
+      "root": "social media image resizer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "social-media-image-sizes"
+    },
+    {
+      "keyword": "current social media image sizes",
+      "root": "social media image resizer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "current-social-media-image-sizes"
+    },
+    {
+      "keyword": "ideal social media image sizes",
+      "root": "social media image resizer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "ideal-social-media-image-sizes"
+    },
+    {
+      "keyword": "how to resize a photo online for free",
+      "root": "social media image resizer",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "how-to-resize-a-photo-for-free"
+    },
+    {
+      "keyword": "is thumbnail maker free",
+      "root": "youtube thumbnail maker free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "is-thumbnail-maker-free"
+    },
+    {
+      "keyword": "twitter banner maker free",
+      "root": "twitter banner maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-maker-free"
+    },
+    {
+      "keyword": "twitter banner maker ai",
+      "root": "twitter banner maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-maker-ai"
+    },
+    {
+      "keyword": "twitter banner maker online",
+      "root": "twitter banner maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-maker-online"
+    },
+    {
+      "keyword": "twitter banner maker online free",
+      "root": "twitter banner maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-maker-free"
+    },
+    {
+      "keyword": "twitter header maker",
+      "root": "twitter banner maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-header-maker"
+    },
+    {
+      "keyword": "twitter header maker online free",
+      "root": "twitter banner maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-header-maker-free"
+    },
+    {
+      "keyword": "twitter header maker resize",
+      "root": "twitter banner maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-header-maker-resize"
+    },
+    {
+      "keyword": "twitter background maker",
+      "root": "twitter banner maker",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-background-maker"
+    },
+    {
+      "keyword": "twitter header maker free",
+      "root": "twitter banner maker",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-header-maker-free"
+    },
+    {
+      "keyword": "twitter banner ideas",
+      "root": "twitter banner maker",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-ideas"
+    },
+    {
+      "keyword": "twitter banner size",
+      "root": "twitter banner maker",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-size"
+    },
+    {
+      "keyword": "linkedin banner size in pixels",
+      "root": "linkedin banner size",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-size-in-pixels"
+    },
+    {
+      "keyword": "linkedin banner size for company page",
+      "root": "linkedin banner size",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-size-for-company-page"
+    },
+    {
+      "keyword": "linkedin banner size 2026",
+      "root": "linkedin banner size",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-size-2026"
+    },
+    {
+      "keyword": "linkedin banner size 2025",
+      "root": "linkedin banner size",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-size-2025"
+    },
+    {
+      "keyword": "linkedin banner size in inches",
+      "root": "linkedin banner size",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-size-in-inches"
+    },
+    {
+      "keyword": "linkedin banner size dimensions",
+      "root": "linkedin banner size",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-size-dimensions"
+    },
+    {
+      "keyword": "linkedin banner size ratio",
+      "root": "linkedin banner size",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-size-ratio"
+    },
+    {
+      "keyword": "linkedin banner size personal page",
+      "root": "linkedin banner size",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-size-personal-page"
+    },
+    {
+      "keyword": "linkedin cover photo size free",
+      "root": "linkedin banner size",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-cover-photo-size-free"
+    },
+    {
+      "keyword": "convert image to linkedin banner size free",
+      "root": "linkedin banner size",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "convert-image-to-linkedin-banner-size-free"
+    },
+    {
+      "keyword": "what size for linkedin banner",
+      "root": "linkedin banner size",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "what-size-for-linkedin-banner"
+    },
+    {
+      "keyword": "what size should a linkedin banner be",
+      "root": "linkedin banner size",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "what-size-should-a-linkedin-banner-be"
+    },
+    {
+      "keyword": "linkedin banner mobile size",
+      "root": "linkedin banner size",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-mobile-size"
+    },
+    {
+      "keyword": "linkedin banner profile size",
+      "root": "linkedin banner size",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-profile-size"
+    },
+    {
+      "keyword": "linkedin events banner size",
+      "root": "linkedin banner size",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-events-banner-size"
+    },
+    {
+      "keyword": "best linkedin cover size",
+      "root": "linkedin banner size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-cover-size"
+    },
+    {
+      "keyword": "best linkedin header size",
+      "root": "linkedin banner size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-header-size"
+    },
+    {
+      "keyword": "best linkedin banner dimensions",
+      "root": "linkedin banner size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-banner-dimensions"
+    },
+    {
+      "keyword": "linkedin top banner size",
+      "root": "linkedin banner size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-top-banner-size"
+    },
+    {
+      "keyword": "linkedin top banner size 2025",
+      "root": "linkedin banner size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-top-banner-size-2025"
+    },
+    {
+      "keyword": "linkedin top banner size 2024",
+      "root": "linkedin banner size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-top-banner-size-2024"
+    },
+    {
+      "keyword": "best linkedin cover photo size",
+      "root": "linkedin banner size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "linkedin-cover-photo-size"
+    },
+    {
+      "keyword": "best size for linkedin banner image",
+      "root": "linkedin banner size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "size-for-linkedin-banner-image"
+    },
+    {
+      "keyword": "best font size for linkedin banner",
+      "root": "linkedin banner size",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-size-for-linkedin-banner"
+    },
+    {
+      "keyword": "og image generator online",
+      "root": "og image generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "og-image-generator-online"
+    },
+    {
+      "keyword": "og image generator free",
+      "root": "og image generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "og-image-generator-free"
+    },
+    {
+      "keyword": "og image generator ai",
+      "root": "og image generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "og-image-generator-ai"
+    },
+    {
+      "keyword": "og image generator from url",
+      "root": "og image generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "og-image-generator-from-url"
+    },
+    {
+      "keyword": "og image generator vercel",
+      "root": "og image generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "og-image-generator-vercel"
+    },
+    {
+      "keyword": "og image generator api",
+      "root": "og image generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "og-image-generator-api"
+    },
+    {
+      "keyword": "og image generator github",
+      "root": "og image generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "og-image-generator-github"
+    },
+    {
+      "keyword": "next js og image generator",
+      "root": "og image generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "next-js-og-image-generator"
+    },
+    {
+      "keyword": "og image generator html",
+      "root": "og image generator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "og-image-generator-html"
+    },
+    {
+      "keyword": "open graph image generator free",
+      "root": "og image generator",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "open-graph-image-generator-free"
+    },
+    {
+      "keyword": "ai original image generator free",
+      "root": "og image generator",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "original-image-generator-free"
+    },
+    {
+      "keyword": "og image size",
+      "root": "og image generator",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "og-image-size"
+    },
+    {
+      "keyword": "bmi calculator online free",
+      "root": "bmi calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-free"
+    },
+    {
+      "keyword": "bmi calculator online women",
+      "root": "bmi calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-women"
+    },
+    {
+      "keyword": "bmi calculator online men",
+      "root": "bmi calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-men"
+    },
+    {
+      "keyword": "bmi calculator online kids",
+      "root": "bmi calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-kids"
+    },
+    {
+      "keyword": "bmi calculator online cm kg",
+      "root": "bmi calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-cm-kg"
+    },
+    {
+      "keyword": "bmi calculator online sri lanka",
+      "root": "bmi calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-sri-lanka"
+    },
+    {
+      "keyword": "bmi calculator online indonesia",
+      "root": "bmi calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-indonesia"
+    },
+    {
+      "keyword": "bmi calculator online india",
+      "root": "bmi calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-india"
+    },
+    {
+      "keyword": "bmi calculator online tool",
+      "root": "bmi calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator"
+    },
+    {
+      "keyword": "bmi calculator for free",
+      "root": "bmi calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-for-free"
+    },
+    {
+      "keyword": "bmi calculator free for adults",
+      "root": "bmi calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-for-adults"
+    },
+    {
+      "keyword": "bmi calculator for women free",
+      "root": "bmi calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-for-women-free"
+    },
+    {
+      "keyword": "bmi calculator wheels for free",
+      "root": "bmi calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-wheels-for-free"
+    },
+    {
+      "keyword": "bmi calculator for men free",
+      "root": "bmi calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-for-men-free"
+    },
+    {
+      "keyword": "free online bmi calculator female",
+      "root": "bmi calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-female"
+    },
+    {
+      "keyword": "bmi calculator on age",
+      "root": "bmi calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-on-age"
+    },
+    {
+      "keyword": "bmi calculator rules",
+      "root": "bmi calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-rules"
+    },
+    {
+      "keyword": "best online bmi calculator for adults",
+      "root": "bmi calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-for-adults"
+    },
+    {
+      "keyword": "most accurate bmi calculator",
+      "root": "bmi calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "most-accurate-bmi-calculator"
+    },
+    {
+      "keyword": "bmi calculator recommended weight",
+      "root": "bmi calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-recommended-weight"
+    },
+    {
+      "keyword": "loan calculator online free",
+      "root": "loan calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-free"
+    },
+    {
+      "keyword": "loan calculator online sbi",
+      "root": "loan calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-sbi"
+    },
+    {
+      "keyword": "loan calculator online hdfc",
+      "root": "loan calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-hdfc"
+    },
+    {
+      "keyword": "loan calculator online icici",
+      "root": "loan calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-icici"
+    },
+    {
+      "keyword": "loan calculator online excel",
+      "root": "loan calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-excel"
+    },
+    {
+      "keyword": "loan calculator online india",
+      "root": "loan calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-india"
+    },
+    {
+      "keyword": "loan calculator online monthly",
+      "root": "loan calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-monthly"
+    },
+    {
+      "keyword": "loan calculator online emi",
+      "root": "loan calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-emi"
+    },
+    {
+      "keyword": "loan calculator online axis",
+      "root": "loan calculator online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-axis"
+    },
+    {
+      "keyword": "emi calculator online free",
+      "root": "loan calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "emi-calculator-free"
+    },
+    {
+      "keyword": "finance calculator online free",
+      "root": "loan calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "finance-calculator-free"
+    },
+    {
+      "keyword": "sainsbury's loan calculator online free",
+      "root": "loan calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "sainsbury's-loan-calculator-free"
+    },
+    {
+      "keyword": "home loan calculator online free",
+      "root": "loan calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "home-loan-calculator-free"
+    },
+    {
+      "keyword": "personal loan calculator online free",
+      "root": "loan calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "personal-loan-calculator-free"
+    },
+    {
+      "keyword": "lloyds loan calculator online free",
+      "root": "loan calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "lloyds-loan-calculator-free"
+    },
+    {
+      "keyword": "sainsbury's loan calculator online free app",
+      "root": "loan calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "sainsbury's-loan-calculator-app"
+    },
+    {
+      "keyword": "car loan calculator online free",
+      "root": "loan calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "car-loan-calculator-free"
+    },
+    {
+      "keyword": "best financial calculator online",
+      "root": "loan calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "financial-calculator-online"
+    },
+    {
+      "keyword": "best financial calculator online free",
+      "root": "loan calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "financial-calculator-free"
+    },
+    {
+      "keyword": "best emi calculator online",
+      "root": "loan calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "emi-calculator-online"
+    },
+    {
+      "keyword": "best auto loan calculator online",
+      "root": "loan calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "auto-loan-calculator-online"
+    },
+    {
+      "keyword": "best online loan calculator",
+      "root": "loan calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator"
+    },
+    {
+      "keyword": "personal loan calculator with lowest interest rate",
+      "root": "loan calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "personal-loan-calculator-with-lowest-interest-rate"
+    },
+    {
+      "keyword": "how much can i get a loan for calculator",
+      "root": "loan calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "how-much-can-i-get-a-loan-for-calculator"
+    },
+    {
+      "keyword": "types of loan calculator",
+      "root": "loan calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "types-of-loan-calculator"
+    },
+    {
+      "keyword": "ai font pairing tool",
+      "root": "font pairing tool",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-pairing"
+    },
+    {
+      "keyword": "ai text matching tool",
+      "root": "font pairing tool",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "text-matching"
+    },
+    {
+      "keyword": "ai tools name",
+      "root": "font pairing tool",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "tools-name"
+    },
+    {
+      "keyword": "free font preview online",
+      "root": "font preview online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-preview-online"
+    },
+    {
+      "keyword": "free font viewer online",
+      "root": "font preview online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "font-viewer-online"
+    },
+    {
+      "keyword": "free loan calculator online",
+      "root": "loan calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-online"
+    },
+    {
+      "keyword": "free credit calculator online",
+      "root": "loan calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "credit-calculator-online"
+    },
+    {
+      "keyword": "free home loan calculator online",
+      "root": "loan calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "home-loan-calculator-online"
+    },
+    {
+      "keyword": "free online loan calculator uk",
+      "root": "loan calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-uk"
+    },
+    {
+      "keyword": "halifax loan calculator free online",
+      "root": "loan calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "halifax-loan-calculator-online"
+    },
+    {
+      "keyword": "free gradient generator online",
+      "root": "gradient generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "gradient-generator-online"
+    },
+    {
+      "keyword": "ai twitter banner maker",
+      "root": "twitter banner maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-maker"
+    },
+    {
+      "keyword": "ai twitter header maker",
+      "root": "twitter banner maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-header-maker"
+    },
+    {
+      "keyword": "ai twitter banner generator",
+      "root": "twitter banner maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-generator"
+    },
+    {
+      "keyword": "ai twitter banner generator free",
+      "root": "twitter banner maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-generator-free"
+    },
+    {
+      "keyword": "free twitter banner maker",
+      "root": "twitter banner maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-maker"
+    },
+    {
+      "keyword": "free twitter header maker",
+      "root": "twitter banner maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-header-maker"
+    },
+    {
+      "keyword": "free ai twitter banner generator",
+      "root": "twitter banner maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "twitter-banner-generator"
+    },
+    {
+      "keyword": "how to make a twitter banner",
+      "root": "twitter banner maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "how-to-make-a-twitter-banner"
+    },
+    {
+      "keyword": "ai pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-online"
+    },
+    {
+      "keyword": "ai pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-free"
+    },
+    {
+      "keyword": "ai crochet pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "crochet-pattern-generator-free"
+    },
+    {
+      "keyword": "ai sewing pattern generator online free",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "sewing-pattern-generator-free"
+    },
+    {
+      "keyword": "ai pattern generator from image online free",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-from-image-free"
+    },
+    {
+      "keyword": "a-i generator reviews",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "a-i-generator-reviews"
+    },
+    {
+      "keyword": "free pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "pattern-generator-online"
+    },
+    {
+      "keyword": "free pattern maker online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "pattern-maker-online"
+    },
+    {
+      "keyword": "free sewing pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "sewing-pattern-generator-online"
+    },
+    {
+      "keyword": "free patio pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "patio-pattern-generator-online"
+    },
+    {
+      "keyword": "free paver pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "paver-pattern-generator-online"
+    },
+    {
+      "keyword": "free bead pattern maker online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bead-pattern-maker-online"
+    },
+    {
+      "keyword": "free stained glass pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "stained-glass-pattern-generator-online"
+    },
+    {
+      "keyword": "free crochet pattern maker online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "crochet-pattern-maker-online"
+    },
+    {
+      "keyword": "free book folding pattern generator online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "book-folding-pattern-generator-online"
+    },
+    {
+      "keyword": "free clothing pattern maker online",
+      "root": "pattern generator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "clothing-pattern-maker-online"
+    },
+    {
+      "keyword": "ai color gradient generator",
+      "root": "color gradient maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-generator"
+    },
+    {
+      "keyword": "how to make a 3 color gradient in illustrator",
+      "root": "color gradient maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "how-to-make-a-3-color-gradient-in-illustrator"
+    },
+    {
+      "keyword": "free color gradient generator",
+      "root": "color gradient maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-generator"
+    },
+    {
+      "keyword": "color gradient types",
+      "root": "color gradient maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-types"
+    },
+    {
+      "keyword": "color gradient ideas",
+      "root": "color gradient maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "color-gradient-ideas"
+    },
+    {
+      "keyword": "create color gradient",
+      "root": "color gradient maker",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "create-color-gradient"
+    },
+    {
+      "keyword": "free svg maker for cricut free",
+      "root": "svg editor online free",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "svg-maker-for-cricut-free"
+    },
+    {
+      "keyword": "free bmi calculator online",
+      "root": "bmi calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator-online"
+    },
+    {
+      "keyword": "is bmi free",
+      "root": "bmi calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "is-bmi-free"
+    },
+    {
+      "keyword": "are online bmi calculators accurate",
+      "root": "bmi calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "are-bmi-calculators-accurate"
     }
   ],
   "existing": [
@@ -13227,6 +16296,87 @@
       "discovered": "2026-03-24",
       "already_have": true,
       "suggested_slug": "json-to-yaml-formatter-online"
+    },
+    {
+      "keyword": "unix epoch converter online",
+      "root": "epoch converter online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": true,
+      "suggested_slug": "unix-epoch-converter-online"
+    },
+    {
+      "keyword": "epoch timestamp converter online",
+      "root": "epoch converter online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": true,
+      "suggested_slug": "epoch-timestamp-converter-online"
+    },
+    {
+      "keyword": "social media image resizer tool",
+      "root": "social media image resizer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": true,
+      "suggested_slug": "social-media-image-resizer"
+    },
+    {
+      "keyword": "free social media image resizer",
+      "root": "social media image resizer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": true,
+      "suggested_slug": "social-media-image-resizer"
+    },
+    {
+      "keyword": "best image resizer for social media",
+      "root": "social media image resizer",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": true,
+      "suggested_slug": "image-resizer-for-social-media"
+    },
+    {
+      "keyword": "mortgage calculator online free",
+      "root": "loan calculator online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": true,
+      "suggested_slug": "mortgage-calculator-free"
+    },
+    {
+      "keyword": "best mortgage calculator online",
+      "root": "loan calculator online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": true,
+      "suggested_slug": "mortgage-calculator-online"
+    },
+    {
+      "keyword": "free mortgage calculator online",
+      "root": "loan calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": true,
+      "suggested_slug": "mortgage-calculator-online"
+    },
+    {
+      "keyword": "free mortgage calculator uk online",
+      "root": "loan calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-03-24",
+      "already_have": true,
+      "suggested_slug": "mortgage-calculator-uk-online"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
   "date": "2026-03-24",
   "stats": {
-    "trends_total": 117,
-    "suggest_total": 1469
+    "trends_total": 158,
+    "suggest_total": 1819
   },
-  "total_opportunities": 1556,
+  "total_opportunities": 1899,
   "top_50": [
     {
       "keyword": "handbrake video compressor",
@@ -19,6 +19,21 @@
       "difficulty": "需WASM",
       "search_volume": 27100,
       "cpc": 1.97,
+      "competition": 0.2
+    },
+    {
+      "keyword": "car auto loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 709650,
+      "suggested_slug": "car-auto-loan-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1070,
+      "difficulty": "纯前端",
+      "search_volume": 673000,
+      "cpc": 0.99,
       "competition": 0.2
     },
     {
@@ -52,6 +67,36 @@
       "competition": 0.5
     },
     {
+      "keyword": "home affordability calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 34150,
+      "suggested_slug": "home-affordability-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 60500,
+      "cpc": 3.16,
+      "competition": 0.5
+    },
+    {
+      "keyword": "ratio calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 6400,
+      "suggested_slug": "ratio-calculator",
+      "root": "instagram post size",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 33100,
+      "cpc": 8.81,
+      "competition": 0.2
+    },
+    {
       "keyword": "online casino casino.us",
       "sources": [
         "trends_rising"
@@ -64,6 +109,81 @@
       "difficulty": "",
       "search_volume": 14800,
       "cpc": 7.87,
+      "competition": 0.2
+    },
+    {
+      "keyword": "online auto insurance quotes",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 93000,
+      "suggested_slug": "auto-insurance-quotes",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 127.28,
+      "competition": 0.2
+    },
+    {
+      "keyword": "university of arizona online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 38550,
+      "suggested_slug": "university-of-arizona-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 10.89,
+      "competition": 0.2
+    },
+    {
+      "keyword": "bank of america auto loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 38450,
+      "suggested_slug": "bank-of-america-auto-loan-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "纯前端",
+      "search_volume": 165000,
+      "cpc": 7.19,
+      "competition": 0.2
+    },
+    {
+      "keyword": "renters insurance quotes online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 29250,
+      "suggested_slug": "renters-insurance-quotes-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 135000,
+      "cpc": 39.23,
+      "competition": 0.2
+    },
+    {
+      "keyword": "renters insurance quote online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 29200,
+      "suggested_slug": "renters-insurance-quote-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 135000,
+      "cpc": 39.23,
       "competition": 0.2
     },
     {
@@ -80,6 +200,81 @@
       "search_volume": 49500,
       "cpc": 0.84,
       "competition": 0.2
+    },
+    {
+      "keyword": "toyota 4runner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 36650,
+      "suggested_slug": "toyota-4runner",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 450000,
+      "cpc": 1.9,
+      "competition": 0.8
+    },
+    {
+      "keyword": "toyota corolla price",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 35250,
+      "suggested_slug": "toyota-corolla-price",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 40500,
+      "cpc": 3.25,
+      "competition": 0.8
+    },
+    {
+      "keyword": "toyota trucks",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 32650,
+      "suggested_slug": "toyota-trucks",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 135000,
+      "cpc": 2.01,
+      "competition": 0.8
+    },
+    {
+      "keyword": "toyota rav4 price",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 28800,
+      "suggested_slug": "toyota-rav4-price",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 33100,
+      "cpc": 3.37,
+      "competition": 0.8
+    },
+    {
+      "keyword": "allstate auto insurance",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 27150,
+      "suggested_slug": "allstate-auto-insurance",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 27100,
+      "cpc": 30.68,
+      "competition": 0.5
     },
     {
       "keyword": "nvidia news today",
@@ -172,6 +367,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "quote on car insurance online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 32950,
+      "suggested_slug": "quote-on-car-insurance-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 830,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 127.28,
+      "competition": 0.2
+    },
+    {
       "keyword": "avif to jpg converter free online",
       "sources": [
         "trends_rising",
@@ -186,6 +396,21 @@
       "search_volume": 30,
       "cpc": 0,
       "competition": 0.2
+    },
+    {
+      "keyword": "personal loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 550,
+      "suggested_slug": "personal-loan-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 790,
+      "difficulty": "纯前端",
+      "search_volume": 135000,
+      "cpc": 7.44,
+      "competition": 0.5
     },
     {
       "keyword": "fish audio",
@@ -203,63 +428,18 @@
       "competition": 0.2
     },
     {
-      "keyword": "online video editor",
+      "keyword": "business loan calculator",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 80,
-      "suggested_slug": "video-editor",
-      "root": "mp4 to webm",
-      "already_have": false,
-      "combined_score": 720,
-      "difficulty": "需WASM",
-      "search_volume": 27100,
-      "cpc": 2.33,
-      "competition": 0.2
-    },
-    {
-      "keyword": "voice recorder app",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "voice-recorder-app",
-      "root": "voice recorder online",
+      "trend_score": 200,
+      "suggested_slug": "business-loan-calculator",
+      "root": "loan calculator online",
       "already_have": false,
       "combined_score": 690,
-      "difficulty": "需WASM",
+      "difficulty": "纯前端",
       "search_volume": 18100,
-      "cpc": 2.44,
-      "competition": 0.5
-    },
-    {
-      "keyword": "video recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "video-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 22200,
-      "cpc": 2.34,
-      "competition": 0.5
-    },
-    {
-      "keyword": "recorder app",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "recorder-app",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "",
-      "search_volume": 14800,
-      "cpc": 2.9,
+      "cpc": 5.41,
       "competition": 0.5
     },
     {
@@ -275,6 +455,21 @@
       "difficulty": "",
       "search_volume": 301000,
       "cpc": 8.31,
+      "competition": 0.5
+    },
+    {
+      "keyword": "car loan payment calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "car-loan-payment-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 670,
+      "difficulty": "纯前端",
+      "search_volume": 110000,
+      "cpc": 0.95,
       "competition": 0.5
     },
     {
@@ -353,6 +548,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "photopea",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 200,
+      "suggested_slug": "photopea",
+      "root": "youtube thumbnail maker free",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 450000,
+      "cpc": 2.67,
+      "competition": 0.2
+    },
+    {
       "keyword": "make a gif",
       "sources": [
         "trends_rising"
@@ -395,66 +605,6 @@
       "difficulty": "纯前端",
       "search_volume": 823000,
       "cpc": 0.52,
-      "competition": 0.2
-    },
-    {
-      "keyword": "4k video downloader",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "4k-video-downloader",
-      "root": "mp4 to webm",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 74000,
-      "cpc": 2.27,
-      "competition": 0.2
-    },
-    {
-      "keyword": "webp to gif",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "webp-to-gif",
-      "root": "avif to jpg",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 22200,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "webp to jpeg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "webp-to-jpeg",
-      "root": "webp to gif",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 110000,
-      "cpc": 0.11,
-      "competition": 0.2
-    },
-    {
-      "keyword": "vid to gif",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "vid-to-gif",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 90500,
-      "cpc": 0.23,
       "competition": 0.2
     },
     {
@@ -533,6 +683,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "apple audiobooks",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 22050,
+      "suggested_slug": "apple-audiobooks",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
+      "search_volume": 5400,
+      "cpc": 3.12,
+      "competition": 0.5
+    },
+    {
       "keyword": "minimax audio",
       "sources": [
         "trends_rising"
@@ -546,6 +711,21 @@
       "search_volume": 2900,
       "cpc": 2.61,
       "competition": 0.2
+    },
+    {
+      "keyword": "glp1 online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 500,
+      "suggested_slug": "glp1-online",
+      "root": "bmi calculator online",
+      "already_have": false,
+      "combined_score": 470,
+      "difficulty": "",
+      "search_volume": 8100,
+      "cpc": 44.44,
+      "competition": 0.8
     },
     {
       "keyword": "wav ninja",
@@ -576,187 +756,6 @@
       "search_volume": 1600,
       "cpc": 1.73,
       "competition": 0.2
-    },
-    {
-      "keyword": "freeconvert video compressor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 250,
-      "suggested_slug": "freeconvert-video-compressor",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.84,
-      "competition": 0.2
-    },
-    {
-      "keyword": "online video recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "video-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 2.64,
-      "competition": 0.2
-    },
-    {
-      "keyword": "portrait to landscape video converter online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 55350,
-      "suggested_slug": "portrait-to-landscape-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 410,
-      "difficulty": "需WASM",
-      "search_volume": 40,
-      "cpc": 1.38,
-      "competition": 0.2
-    },
-    {
-      "keyword": "video link to audio converter online free mp4",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 32950,
-      "suggested_slug": "video-link-to-audio-converter-mp4",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 410,
-      "difficulty": "需WASM",
-      "search_volume": 30,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "remove blur from photo online free without watermark",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 41300,
-      "suggested_slug": "remove-blur-from-photo-without-watermark",
-      "root": "remove watermark from image free",
-      "already_have": false,
-      "combined_score": 410,
-      "difficulty": "需WASM",
-      "search_volume": 110,
-      "cpc": 1.88,
-      "competition": 0.5
-    },
-    {
-      "keyword": "best mp4 to mp3 converter",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "best-mp4-to-mp3-converter",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 880,
-      "cpc": 1.93,
-      "competition": 0.2
-    },
-    {
-      "keyword": "how to make a gif from a video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 600,
-      "suggested_slug": "how-to-make-a-gif-from-a-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.8,
-      "competition": 0.2
-    },
-    {
-      "keyword": "how to make a gif from video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 600,
-      "suggested_slug": "how-to-make-a-gif-from-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.8,
-      "competition": 0.2
-    },
-    {
-      "keyword": "make a gif from video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 500,
-      "suggested_slug": "make-a-gif-from-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 6600,
-      "cpc": 0.73,
-      "competition": 0.2
-    },
-    {
-      "keyword": "online ip lookup tool",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 130,
-      "suggested_slug": "ip-lookup",
-      "root": "ip lookup tool",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需API/服务端",
-      "search_volume": 2400,
-      "cpc": 2.93,
-      "competition": 0.2
-    },
-    {
-      "keyword": "aviv to jpg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 6600,
-      "suggested_slug": "aviv-to-jpg",
-      "root": "avif to jpg",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需WASM",
-      "search_volume": 260,
-      "cpc": 0.73,
-      "competition": 0.2
-    },
-    {
-      "keyword": "digital voice recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 450,
-      "suggested_slug": "digital-voice-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需WASM",
-      "search_volume": 9900,
-      "cpc": 0.65,
-      "competition": 0.8
     }
   ]
 }
