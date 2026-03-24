@@ -1,10 +1,10 @@
 {
   "date": "2026-03-24",
   "stats": {
-    "trends_total": 143,
-    "suggest_total": 1169
+    "trends_total": 117,
+    "suggest_total": 1469
   },
-  "total_opportunities": 1260,
+  "total_opportunities": 1556,
   "top_50": [
     {
       "keyword": "handbrake video compressor",
@@ -218,21 +218,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "online photo editor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "photo-editor",
-      "root": "heic to jpg online",
-      "already_have": false,
-      "combined_score": 720,
-      "difficulty": "需WASM",
-      "search_volume": 22200,
-      "cpc": 2.19,
-      "competition": 0.2
-    },
-    {
       "keyword": "voice recorder app",
       "sources": [
         "trends_rising"
@@ -335,6 +320,21 @@
       "difficulty": "需WASM",
       "search_volume": 60500,
       "cpc": 1.46,
+      "competition": 0.2
+    },
+    {
+      "keyword": "markdown to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "markdown-to-pdf",
+      "root": "markdown to html",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "纯前端",
+      "search_volume": 12100,
+      "cpc": 3.81,
       "competition": 0.2
     },
     {
@@ -456,21 +456,6 @@
       "search_volume": 90500,
       "cpc": 0.23,
       "competition": 0.2
-    },
-    {
-      "keyword": "image to video ai free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "image-to-video-free",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 630,
-      "difficulty": "需WASM",
-      "search_volume": 12100,
-      "cpc": 1.72,
-      "competition": 0.5
     },
     {
       "keyword": "trim large video online free",
@@ -726,6 +711,21 @@
       "difficulty": "需WASM",
       "search_volume": 6600,
       "cpc": 0.73,
+      "competition": 0.2
+    },
+    {
+      "keyword": "online ip lookup tool",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "ip-lookup",
+      "root": "ip lookup tool",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需API/服务端",
+      "search_volume": 2400,
+      "cpc": 2.93,
       "competition": 0.2
     },
     {

@@ -1,9 +1,9 @@
 {
   "date": "2026-03-24",
-  "batch": 1,
-  "total_rising_found": 143,
-  "new_opportunities": 136,
-  "existing_matches": 7,
+  "batch": 3,
+  "total_rising_found": 117,
+  "new_opportunities": 109,
+  "existing_matches": 8,
   "errors": 0,
   "opportunities": [
     {
@@ -417,6 +417,16 @@
       "suggested_slug": "image-upscaler"
     },
     {
+      "keyword": "markdown to pdf",
+      "root": "markdown to html",
+      "prefix": "online",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "markdown-to-pdf"
+    },
+    {
       "keyword": "capcut",
       "root": "compress video online",
       "prefix": "online",
@@ -577,6 +587,16 @@
       "suggested_slug": "mpeg-to-mp3"
     },
     {
+      "keyword": "markdown vs html",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "markdown-vs-html"
+    },
+    {
       "keyword": "crop video online",
       "root": "compress video online",
       "prefix": "online",
@@ -635,6 +655,16 @@
       "discovered": "2026-03-24",
       "already_have": false,
       "suggested_slug": "avif-to-jpeg"
+    },
+    {
+      "keyword": "online ip lookup tool",
+      "root": "ip lookup tool",
+      "prefix": "",
+      "trend_score": 130,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "ip-lookup"
     },
     {
       "keyword": "video to live photo",
@@ -775,6 +805,26 @@
       "discovered": "2026-03-24",
       "already_have": false,
       "suggested_slug": "jpeg-to-png"
+    },
+    {
+      "keyword": "html to markdown online",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "html-to-markdown-online"
+    },
+    {
+      "keyword": "markdown to docx",
+      "root": "markdown to html",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-24",
+      "already_have": false,
+      "suggested_slug": "markdown-to-docx"
     },
     {
       "keyword": "photo to video ai free",
@@ -955,56 +1005,6 @@
       "discovered": "2026-03-24",
       "already_have": false,
       "suggested_slug": "link-to-audio-converter-mp4"
-    },
-    {
-      "keyword": "read text out loud",
-      "root": "text to speech online free",
-      "prefix": "online",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-24",
-      "already_have": false,
-      "suggested_slug": "read-text-out-loud"
-    },
-    {
-      "keyword": "convert m4a to mp3",
-      "root": "audio to text free",
-      "prefix": "free",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-24",
-      "already_have": false,
-      "suggested_slug": "convert-m4a-to-mp3"
-    },
-    {
-      "keyword": "online photo editor",
-      "root": "heic to jpg online",
-      "prefix": "online",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-24",
-      "already_have": false,
-      "suggested_slug": "photo-editor"
-    },
-    {
-      "keyword": "gif compressor for discord",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-24",
-      "already_have": false,
-      "suggested_slug": "gif-compressor-for-discord"
-    },
-    {
-      "keyword": "image to video ai free",
-      "root": "video to gif",
-      "prefix": "free",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-24",
-      "already_have": false,
-      "suggested_slug": "image-to-video-free"
     }
   ],
   "existing": [
@@ -1077,6 +1077,16 @@
       "discovered": "2026-03-24",
       "already_have": true,
       "suggested_slug": "combine-pdf"
+    },
+    {
+      "keyword": "markdown editor online",
+      "root": "markdown to html",
+      "prefix": "",
+      "trend_score": 110,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-24",
+      "already_have": true,
+      "suggested_slug": "markdown-editor-online"
     }
   ],
   "error_log": []
