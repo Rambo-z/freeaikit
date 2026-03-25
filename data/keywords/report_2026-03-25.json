@@ -1,11 +1,27 @@
 {
   "date": "2026-03-25",
   "stats": {
-    "trends_total": 119,
-    "suggest_total": 589
+    "trends_total": 170,
+    "suggest_total": 1191
   },
-  "total_opportunities": 685,
+  "total_opportunities": 1286,
   "top_50": [
+    {
+      "keyword": "avif to jpg converter free online",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 179550,
+      "suggested_slug": "avif-to-jpg-converter-online",
+      "root": "avif to jpg",
+      "already_have": false,
+      "combined_score": 810,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
     {
       "keyword": "video compressor for discord",
       "sources": [
@@ -16,6 +32,21 @@
       "root": "video compressor free",
       "already_have": false,
       "combined_score": 570,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "remove watermark from video online free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 2007550,
+      "suggested_slug": "remove-watermark-from-video-free",
+      "root": "remove watermark from image free",
+      "already_have": false,
+      "combined_score": 560,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
@@ -112,22 +143,6 @@
       "competition": 0
     },
     {
-      "keyword": "video to audio converter online free",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "video-to-audio-converter-free",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 410,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "ai voice generator",
       "sources": [
         "trends_rising"
@@ -138,6 +153,51 @@
       "already_have": false,
       "combined_score": 390,
       "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "ttsmaker",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 4050,
+      "suggested_slug": "ttsmaker",
+      "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "image upscaler free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 97450,
+      "suggested_slug": "image-upscaler-free",
+      "root": "remove watermark from image free",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "online casino casino.us",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 31350,
+      "suggested_slug": "casino-casino.us",
+      "root": "tts online",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -158,17 +218,31 @@
       "competition": 0
     },
     {
-      "keyword": "best mp4 to mp3 converter",
+      "keyword": "remove blur from photo online free without watermark",
       "sources": [
-        "trends_rising",
-        "suggest"
+        "trends_rising"
       ],
-      "trend_score": 70,
-      "suggested_slug": "best-mp4-to-mp3-converter",
-      "root": "mp4 to mp3 online",
+      "trend_score": 40400,
+      "suggested_slug": "remove-blur-from-photo-without-watermark",
+      "root": "remove watermark from image free",
+      "already_have": false,
+      "combined_score": 360,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best online casino casino.us",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 20400,
+      "suggested_slug": "best-casino-casino.us",
+      "root": "tts online",
       "already_have": false,
       "combined_score": 350,
-      "difficulty": "需WASM",
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -204,6 +278,21 @@
       "competition": 0
     },
     {
+      "keyword": "minimax audio",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 25650,
+      "suggested_slug": "minimax-audio",
+      "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "openai news today",
       "sources": [
         "trends_rising"
@@ -214,6 +303,51 @@
       "already_have": false,
       "combined_score": 340,
       "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "companies history",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 14450,
+      "suggested_slug": "companies-history",
+      "root": "tts online",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "avf to png",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 13300,
+      "suggested_slug": "avf-to-png",
+      "root": "avif to png",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tiny png",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 10600,
+      "suggested_slug": "tiny-png",
+      "root": "heic to png",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -264,6 +398,36 @@
       "competition": 0
     },
     {
+      "keyword": "heic to ong",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 4500,
+      "suggested_slug": "heic-to-ong",
+      "root": "heic to png",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "backtofrontshow",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1850,
+      "suggested_slug": "backtofrontshow",
+      "root": "tts online",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "capcut",
       "sources": [
         "trends_rising"
@@ -273,6 +437,21 @@
       "root": "video converter online free",
       "already_have": false,
       "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "remove blur from image online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 9650,
+      "suggested_slug": "remove-blur-from-image-online",
+      "root": "remove watermark from image free",
+      "already_have": false,
+      "combined_score": 330,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
@@ -339,15 +518,30 @@
       "competition": 0
     },
     {
-      "keyword": "online video editor",
+      "keyword": "fish audio",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 50,
-      "suggested_slug": "video-editor",
-      "root": "compress video online",
+      "trend_score": 500,
+      "suggested_slug": "fish-audio",
+      "root": "audio to text free",
       "already_have": false,
-      "combined_score": 220,
+      "combined_score": 240,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "vocal remover online free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "vocal-remover-free",
+      "root": "remove vocal from song",
+      "already_have": false,
+      "combined_score": 230,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
@@ -390,21 +584,6 @@
       ],
       "trend_score": 90,
       "suggested_slug": "portrait-to-landscape-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 210,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video language converter online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "video-language-converter-free",
       "root": "video converter online free",
       "already_have": false,
       "combined_score": 210,
@@ -474,6 +653,21 @@
       "competition": 0
     },
     {
+      "keyword": "123apps online voice recorder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "123apps-voice-recorder",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 200,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "best free video compressor",
       "sources": [
         "trends_rising"
@@ -504,15 +698,15 @@
       "competition": 0
     },
     {
-      "keyword": "any video converter free",
+      "keyword": "digital voice recorder",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 70,
-      "suggested_slug": "any-video-converter-free",
-      "root": "video converter online free",
+      "trend_score": 350,
+      "suggested_slug": "digital-voice-recorder",
+      "root": "voice recorder online",
       "already_have": false,
-      "combined_score": 200,
+      "combined_score": 190,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
@@ -534,118 +728,13 @@
       "competition": 0
     },
     {
-      "keyword": "video compressor",
+      "keyword": "vocal remover ai",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 70,
-      "suggested_slug": "video-compressor",
-      "root": "mp4 to webm",
-      "already_have": false,
-      "combined_score": 190,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "gif editor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "gif-editor",
-      "root": "mp4 to webm",
-      "already_have": false,
-      "combined_score": 190,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "clideo video compressor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "clideo-video-compressor",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 190,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai gif generator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "gif-generator",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 190,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video compressor app",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "video-compressor-app",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 190,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai video generator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "video-generator",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 190,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "gif creator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "gif-creator",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 190,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai video maker",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "video-maker",
-      "root": "video to gif",
+      "trend_score": 90,
+      "suggested_slug": "vocal-remover-ai",
+      "root": "remove vocal from song",
       "already_have": false,
       "combined_score": 190,
       "difficulty": "需WASM",
@@ -663,96 +752,6 @@
       "root": "video to gif",
       "already_have": false,
       "combined_score": 180,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "crop video online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 450,
-      "suggested_slug": "crop-video-online",
-      "root": "compress video online",
-      "already_have": false,
-      "combined_score": 170,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free music distribution",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 180,
-      "suggested_slug": "music-distribution",
-      "root": "mp3 to wav",
-      "already_have": false,
-      "combined_score": 170,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best video compressor app",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 150,
-      "suggested_slug": "best-video-compressor-app",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 170,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free audio books",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 150,
-      "suggested_slug": "audio-books",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 170,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "cut video online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 140,
-      "suggested_slug": "cut-video-online",
-      "root": "compress video online",
-      "already_have": false,
-      "combined_score": 170,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video to transcript converter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "video-to-transcript-converter",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 170,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
