@@ -2,6 +2,7 @@
 
 import { useState, useMemo, useCallback } from "react";
 import { Copy, Check, ArrowUpDown } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type Base = 2 | 8 | 10 | 16;
 

@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { Copy, Check, AlertCircle, CheckCircle2 } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type Tab = "format" | "yaml2json" | "json2yaml";
 
@@ -37,6 +38,7 @@ export default function YamlFormatterClient() {
   const [indent, setIndent] = useState(2);
 
   const handleFormat = useCallback(async () => {
+    trackToolEvent('yaml-formatter', 'process');
     if (!input.trim()) return;
     setError("");
     setOutput("");

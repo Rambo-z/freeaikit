@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useMemo } from "react";
+import { trackToolEvent } from "@/lib/analytics";
 
 function calcAge(birth: Date, target: Date) {
   let years = target.getFullYear() - birth.getFullYear();

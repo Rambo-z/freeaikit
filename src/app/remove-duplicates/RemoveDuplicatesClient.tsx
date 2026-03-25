@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useMemo } from "react";
 import { Copy, Check } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 export default function RemoveDuplicatesClient() {
   const [input, setInput] = useState("");

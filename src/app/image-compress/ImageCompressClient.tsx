@@ -9,6 +9,7 @@ import {
   CheckCircle,
   AlertCircle,
 } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface CompressedImage {
   id: string;
@@ -156,6 +157,7 @@ export default function ImageCompressClient() {
   );
 
   const processAll = useCallback(async () => {
+    trackToolEvent('image-compress', 'process');
     setIsProcessing(true);
     const updated = [...images];
 
@@ -201,6 +203,7 @@ export default function ImageCompressClient() {
   }, [images, quality, outputFormat]);
 
   const downloadOne = useCallback((img: CompressedImage) => {
+    trackToolEvent('image-compress', 'download');
     if (!img.compressedBlob) return;
     const extMap: Record<string, string> = {
       "image/jpeg": "jpg",
@@ -217,6 +220,7 @@ export default function ImageCompressClient() {
   }, [outputFormat]);
 
   const downloadAll = useCallback(() => {
+    trackToolEvent('image-compress', 'download');
     images.filter((img) => img.status === "done").forEach(downloadOne);
   }, [images, downloadOne]);
 

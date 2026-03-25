@@ -8,6 +8,7 @@ import {
   Download,
   ChevronDown,
 } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 // ── types & helpers ───────────────────────────────────────────────────────────
 

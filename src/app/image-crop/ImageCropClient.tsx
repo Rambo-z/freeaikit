@@ -4,6 +4,7 @@ import { useState, useRef, useCallback } from "react";
 import ReactCrop, { type Crop, type PixelCrop, centerCrop, makeAspectCrop } from "react-image-crop";
 import "react-image-crop/dist/ReactCrop.css";
 import { RotateCw, RotateCcw, FlipHorizontal, FlipVertical, Download, ImageIcon, RefreshCw } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 const ASPECTS: { label: string; value: number | undefined }[] = [
   { label: "Free", value: undefined },
@@ -136,6 +137,7 @@ export default function ImageCropClient() {
   }, [originalSrc]);
 
   const handleDownload = useCallback(() => {
+    trackToolEvent('image-crop', 'download');
     if (!imgRef.current || !completedCrop) return;
     downloadCrop(imgRef.current, completedCrop);
   }, [completedCrop]);

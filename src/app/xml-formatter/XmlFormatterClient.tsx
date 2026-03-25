@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { Copy, Check, AlertCircle, CheckCircle2 } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type Mode = "beautify" | "minify";
 
@@ -117,6 +118,7 @@ export default function XmlFormatterClient() {
   const [indent, setIndent] = useState(2);
 
   const handleFormat = useCallback(() => {
+    trackToolEvent('xml-formatter', 'process');
     if (!input.trim()) return;
     setError("");
     setOutput("");

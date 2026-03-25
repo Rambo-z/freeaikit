@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useMemo } from "react";
 import { Copy, Check, Plus, Trash2, Download } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 function CopyButton({ text }: { text: string }) {
   const [copied, setCopied] = useState(false);
@@ -131,6 +132,7 @@ export default function RobotsGeneratorClient() {
   }, [blocks, sitemaps]);
 
   const handleDownload = useCallback(() => {
+    trackToolEvent('robots-generator', 'download');
     const blob = new Blob([output], { type: "text/plain" });
     const url = URL.createObjectURL(blob);
     const a = document.createElement("a");

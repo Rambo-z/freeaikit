@@ -1,6 +1,7 @@
 "use client";
 import { useState, useCallback, useRef } from "react";
 import { Upload, Scissors, Download, X, AlertCircle, CheckCircle } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 export default function PdfExtractClient() {
   const [file, setFile] = useState<File | null>(null);

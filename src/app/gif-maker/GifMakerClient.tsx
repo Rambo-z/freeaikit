@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef } from "react";
 import { Upload, Download, Trash2, Loader2, GripVertical, Plus } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface FrameItem {
   id: string;
@@ -67,6 +68,7 @@ export default function GifMakerClient() {
   };
 
   const handleGenerate = useCallback(async () => {
+    trackToolEvent('gif-maker', 'process');
     if (frames.length < 2) return;
     setStatus("generating");
     setProgress(0);
@@ -123,6 +125,7 @@ export default function GifMakerClient() {
   }, [frames, delay, quality, width, loop]);
 
   const handleDownload = useCallback(() => {
+    trackToolEvent('gif-maker', 'download');
     if (!gifUrl) return;
     const a = document.createElement("a");
     a.href = gifUrl;

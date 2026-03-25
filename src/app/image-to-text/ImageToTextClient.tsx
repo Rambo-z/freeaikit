@@ -14,6 +14,7 @@ import {
   Plus,
 } from "lucide-react";
 import EmailCapture from "../components/EmailCapture";
+import { trackToolEvent } from "@/lib/analytics";
 
 function CopyButton({ text }: { text: string }) {
   const [copied, setCopied] = useState(false);
@@ -140,6 +141,7 @@ export default function ImageToTextClient() {
   }, []);
 
   const recognizeAll = useCallback(async () => {
+    trackToolEvent('image-to-text', 'process');
     const pending = images.filter(
       (i) => i.status === "pending" || i.status === "error"
     );
@@ -241,6 +243,7 @@ export default function ImageToTextClient() {
   );
 
   const handleDownloadTxt = useCallback(() => {
+    trackToolEvent('image-to-text', 'download');
     if (!allText) return;
     const blob = new Blob([allText], { type: "text/plain;charset=utf-8" });
     const url = URL.createObjectURL(blob);

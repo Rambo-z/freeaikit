@@ -2,6 +2,7 @@
 
 import { useState, useMemo, useCallback } from "react";
 import { Copy, Check, AlertCircle, Clock, Shield, User } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 function CopyButton({ text }: { text: string }) {
   const [copied, setCopied] = useState(false);

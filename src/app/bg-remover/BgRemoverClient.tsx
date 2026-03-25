@@ -3,6 +3,7 @@
 import { useState, useCallback, useRef } from "react";
 import { Upload, Download, RefreshCw, Loader2, AlertCircle, ImageIcon } from "lucide-react";
 import EmailCapture from "../components/EmailCapture";
+import { trackToolEvent } from "@/lib/analytics";
 
 type ProcessingState = "idle" | "loading-model" | "processing" | "done" | "error";
 
@@ -17,6 +18,7 @@ export default function BgRemoverClient() {
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   const processImage = useCallback(async (file: File) => {
+    trackToolEvent('bg-remover', 'process');
     setError("");
     setFileName(file.name);
     setOriginalUrl(URL.createObjectURL(file));
@@ -75,6 +77,7 @@ export default function BgRemoverClient() {
   );
 
   const handleDownload = useCallback(() => {
+    trackToolEvent('bg-remover', 'download');
     if (!resultUrl) return;
     const a = document.createElement("a");
     a.href = resultUrl;

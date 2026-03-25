@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { Copy, Check, AlertCircle, Download } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type Tab = "csv2json" | "json2csv";
 type Delimiter = "," | ";" | "\t" | "|";
@@ -132,6 +133,7 @@ export default function CsvToJsonClient() {
   const [delimiter, setDelimiter] = useState<Delimiter | "auto">("auto");
 
   const handleConvert = useCallback(() => {
+    trackToolEvent('csv-to-json', 'process');
     if (!input.trim()) return;
     setError("");
     setOutput("");
@@ -149,6 +151,7 @@ export default function CsvToJsonClient() {
   }, [input, tab, delimiter]);
 
   const handleDownload = useCallback(() => {
+    trackToolEvent('csv-to-json', 'download');
     if (!output) return;
     const ext = tab === "csv2json" ? "json" : "csv";
     const mime = tab === "csv2json" ? "application/json" : "text/csv";

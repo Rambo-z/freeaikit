@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef, useEffect } from "react";
 import { Download, RefreshCw } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type ErrorLevel = "L" | "M" | "Q" | "H";
 type Format = "png" | "svg";

@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { Copy, Check, Upload, FileText, Type } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 // ── MD5 (pure JS, RFC 1321) ───────────────────────────────────────────────────
 

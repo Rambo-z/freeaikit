@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef } from "react";
 import { Upload, Download, Trash2, RefreshCw, GripVertical, FileText, Scissors } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface PdfFile {
   id: string;
@@ -115,6 +116,7 @@ export default function PdfMergeClient() {
   };
 
   const mergePdfs = useCallback(async () => {
+    trackToolEvent('pdf-merge', 'process');
     const ready = files.filter((f) => f.status === "ready");
     if (ready.length < 2) return;
     setIsProcessing(true);
@@ -141,6 +143,7 @@ export default function PdfMergeClient() {
   }, [files]);
 
   const splitPdf = useCallback(async () => {
+    trackToolEvent('pdf-merge', 'process');
     const item = files.find((f) => f.status === "ready");
     if (!item) return;
     setIsProcessing(true);

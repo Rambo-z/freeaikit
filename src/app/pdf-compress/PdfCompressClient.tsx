@@ -9,6 +9,7 @@ import {
   CheckCircle,
   FileText,
 } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface CompressedPdf {
   id: string;
@@ -167,6 +168,7 @@ export default function PdfCompressClient() {
   }, []);
 
   const processAll = useCallback(async () => {
+    trackToolEvent('pdf-compress', 'process');
     setIsProcessing(true);
 
     // Snapshot current list and reset statuses
@@ -224,6 +226,7 @@ export default function PdfCompressClient() {
   }, [preset]);
 
   const downloadOne = useCallback((pdf: CompressedPdf) => {
+    trackToolEvent('pdf-compress', 'download');
     if (!pdf.compressedBlob) return;
     const baseName = pdf.file.name.replace(/\.pdf$/i, "");
     const a = document.createElement("a");
@@ -234,6 +237,7 @@ export default function PdfCompressClient() {
   }, []);
 
   const downloadAll = useCallback(() => {
+    trackToolEvent('pdf-compress', 'download');
     pdfs.filter((p) => p.status === "done").forEach(downloadOne);
   }, [pdfs, downloadOne]);
 

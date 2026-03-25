@@ -9,6 +9,7 @@ import {
   AlertCircle,
   ArrowRight,
 } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface ConvertedImage {
   id: string;
@@ -134,6 +135,7 @@ export default function ImageConvertClient() {
   );
 
   const processAll = useCallback(async () => {
+    trackToolEvent('image-convert', 'process');
     setIsProcessing(true);
     const updated = [...images];
 
@@ -183,6 +185,7 @@ export default function ImageConvertClient() {
   );
 
   const downloadAll = useCallback(() => {
+    trackToolEvent('image-convert', 'download');
     images.filter((img) => img.status === "done").forEach(downloadOne);
   }, [images, downloadOne]);
 

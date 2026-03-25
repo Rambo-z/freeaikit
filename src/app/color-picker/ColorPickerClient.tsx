@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef } from "react";
 import { Copy, Check, Pipette } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 function hexToRgb(hex: string): [number, number, number] {
   const m = hex.replace("#", "").match(/.{2}/g);

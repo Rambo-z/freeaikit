@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef, useEffect } from "react";
 import { Download, ImageIcon, RefreshCw } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type Position = "tl" | "tc" | "tr" | "ml" | "mc" | "mr" | "bl" | "bc" | "br";
 

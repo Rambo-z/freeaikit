@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef } from "react";
 import { Copy, Check, Download, Upload, ImageIcon, RefreshCw } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type Tab = "encode" | "decode";
 
@@ -62,6 +63,7 @@ export default function Base64ImageClient() {
 
   // --- Decode ---
   const handleDecode = useCallback(() => {
+    trackToolEvent('base64-image', 'process');
     setDecodeError("");
     let input = decodeInput.trim();
     if (!input) return;

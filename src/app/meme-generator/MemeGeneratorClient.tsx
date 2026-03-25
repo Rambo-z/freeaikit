@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef, useEffect } from "react";
 import { Upload, Download } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 export default function MemeGeneratorClient() {
   const [image, setImage] = useState<HTMLImageElement | null>(null);
@@ -96,6 +97,7 @@ export default function MemeGeneratorClient() {
   }, [drawMeme]);
 
   const handleDownload = useCallback(() => {
+    trackToolEvent('meme-generator', 'download');
     const canvas = canvasRef.current;
     if (!canvas) return;
     canvas.toBlob((blob) => {

@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback, useRef } from "react";
 import { Play, Pause, Square, Volume2 } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 export default function TextToSpeechClient() {
   const [text, setText] = useState("");
@@ -40,6 +41,7 @@ export default function TextToSpeechClient() {
   }, []);
 
   const handlePlay = useCallback(() => {
+    trackToolEvent('text-to-speech', 'process');
     if (!text.trim()) return;
 
     if (status === "paused") {

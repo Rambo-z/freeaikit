@@ -2,6 +2,7 @@
 
 import { useState, useRef, useCallback } from "react";
 import { ImageIcon, Download } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 const SIZES = [
   { size: 16,  label: "16×16",   desc: "Browser tab" },
@@ -70,6 +71,7 @@ export default function FaviconGeneratorClient() {
   }, [imageSrc]);
 
   const handleDownload = useCallback(async (size: number) => {
+    trackToolEvent('favicon-generator', 'download');
     if (!imageSrc) return;
     setDownloading(size);
     try {
@@ -82,6 +84,7 @@ export default function FaviconGeneratorClient() {
   }, [imageSrc, useBg, bgColor]);
 
   const handleDownloadAll = useCallback(async () => {
+    trackToolEvent('favicon-generator', 'download');
     if (!imageSrc) return;
     setDownloading("all");
     try {

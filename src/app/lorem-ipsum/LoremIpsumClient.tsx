@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { Copy, Check, RefreshCw } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 const WORDS = [
   "lorem","ipsum","dolor","sit","amet","consectetur","adipiscing","elit","sed","do",
@@ -62,6 +63,7 @@ export default function LoremIpsumClient() {
   const [copied, setCopied] = useState(false);
 
   const handleGenerate = useCallback(() => {
+    trackToolEvent('lorem-ipsum', 'process');
     setOutput(generate(mode, count));
     setCopied(false);
   }, [mode, count]);

@@ -2,6 +2,7 @@
 
 import { useState, useRef, useCallback } from "react";
 import { ImageIcon, Download, RefreshCw } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type FilterState = {
   brightness: number;
@@ -75,6 +76,7 @@ export default function ImageFiltersClient() {
   const isDefault = filterString === "none" || filterString === buildFilter(DEFAULTS);
 
   const handleDownload = useCallback(() => {
+    trackToolEvent('image-filters', 'download');
     const img = imgRef.current;
     if (!img) return;
     setIsDownloading(true);

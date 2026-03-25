@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useMemo } from "react";
 import { Copy, Check } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type SortMode = "alpha" | "alpha-rev" | "length" | "length-rev" | "numeric" | "numeric-rev" | "random";
 

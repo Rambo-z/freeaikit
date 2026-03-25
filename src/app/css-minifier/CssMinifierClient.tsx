@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { Copy, Check, Download, Trash2, Minimize2, AlignLeft } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 function minifyCSS(css: string): string {
   return css

@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef } from "react";
 import { Upload, Download, Trash2, RefreshCw, Lock, Unlock } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface ResizeItem {
   id: string;
@@ -145,6 +146,7 @@ export default function ImageResizeClient() {
   }, [items, mode, widthVal, heightVal, percent, lockRatio, format, quality]);
 
   const downloadOne = useCallback((item: ResizeItem) => {
+    trackToolEvent('image-resize', 'download');
     if (!item.resultBlob) return;
     const ext = format;
     const base = item.file.name.replace(/\.[^.]+$/, "");
@@ -156,6 +158,7 @@ export default function ImageResizeClient() {
   }, [format]);
 
   const downloadAll = useCallback(() => {
+    trackToolEvent('image-resize', 'download');
     items.filter((i) => i.status === "done").forEach(downloadOne);
   }, [items, downloadOne]);
 

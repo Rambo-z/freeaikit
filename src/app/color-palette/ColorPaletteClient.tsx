@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef } from "react";
 import { Copy, Check, ImageIcon, RefreshCw } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface ColorSwatch {
   hex: string;
@@ -87,6 +88,7 @@ export default function ColorPaletteClient() {
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   const processImage = useCallback((url: string, n: number) => {
+    trackToolEvent('color-palette', 'process');
     setIsExtracting(true);
     setImageError(null);
     const img = new Image();

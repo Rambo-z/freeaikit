@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { Copy, Check } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type CaseKey =
   | "upper"

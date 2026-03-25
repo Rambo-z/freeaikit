@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef } from "react";
 import { Upload, Download, Trash2, RefreshCw, AlertCircle } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface SvgItem {
   id: string;
@@ -136,6 +137,7 @@ export default function ImageToSvgClient() {
   }, [preset]);
 
   const downloadOne = useCallback((item: SvgItem) => {
+    trackToolEvent('image-to-svg', 'download');
     if (!item.svgString) return;
     const blob = new Blob([item.svgString], { type: "image/svg+xml" });
     const a = document.createElement("a");
@@ -146,6 +148,7 @@ export default function ImageToSvgClient() {
   }, []);
 
   const downloadAll = useCallback(() => {
+    trackToolEvent('image-to-svg', 'download');
     items.filter((i) => i.status === "done").forEach(downloadOne);
   }, [items, downloadOne]);
 

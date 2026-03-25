@@ -2,6 +2,7 @@
 
 import { useState, useMemo, useCallback } from "react";
 import { Copy, Check, AlertCircle, CheckCircle2 } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 // ── helpers ──────────────────────────────────────────────────────────────────
 

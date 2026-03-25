@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef, useEffect } from "react";
 import { Upload, Download, Trash2, Undo2 } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface BlurRegion {
   id: string;
@@ -172,6 +173,7 @@ export default function ImageBlurClient() {
   };
 
   const handleDownload = useCallback(() => {
+    trackToolEvent('image-blur', 'download');
     const canvas = canvasRef.current;
     if (!canvas) return;
     canvas.toBlob((blob) => {

@@ -1,6 +1,7 @@
 "use client";
 import { useState, useCallback, useRef } from "react";
 import { Upload, Lock, Unlock, Download, AlertCircle, CheckCircle, X } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 export default function PdfUnlockClient() {
   const [file, setFile] = useState<File | null>(null);

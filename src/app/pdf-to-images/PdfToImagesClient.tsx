@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef } from "react";
 import { Upload, Download, Trash2, RefreshCw, FileText } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface PageResult {
   pageNum: number;
@@ -80,6 +81,7 @@ export default function PdfToImagesClient() {
   }, [file, dpi, format, quality]);
 
   const downloadOne = useCallback((p: PageResult) => {
+    trackToolEvent('pdf-to-images', 'download');
     if (!p.blob) return;
     const base = file?.name.replace(/\.pdf$/i, "") ?? "page";
     const a = document.createElement("a");
@@ -90,6 +92,7 @@ export default function PdfToImagesClient() {
   }, [file, format]);
 
   const downloadAll = useCallback(async () => {
+    trackToolEvent('pdf-to-images', 'download');
     for (const p of pages) { downloadOne(p); await new Promise((r) => setTimeout(r, 100)); }
   }, [pages, downloadOne]);
 

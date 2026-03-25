@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useRef } from "react";
 import { Upload, Download, Trash2, RefreshCw, GripVertical, Image as ImageIcon } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 interface ImgItem {
   id: string;

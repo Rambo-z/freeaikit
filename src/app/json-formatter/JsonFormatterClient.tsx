@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { Copy, Check, Download, Trash2, Braces, Minimize2 } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 function syntaxHighlight(json: string): string {
   const escaped = json

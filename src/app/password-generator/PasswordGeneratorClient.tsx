@@ -2,6 +2,7 @@
 
 import { useState, useCallback, useEffect } from "react";
 import { Copy, Check, RefreshCw, Eye, EyeOff } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 const UPPER   = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const LOWER   = "abcdefghijklmnopqrstuvwxyz";

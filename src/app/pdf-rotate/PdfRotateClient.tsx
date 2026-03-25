@@ -1,6 +1,7 @@
 "use client";
 import { useState, useCallback, useRef } from "react";
 import { Upload, RotateCw, Download, X, AlertCircle } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type RotateMode = "all" | "odd" | "even" | "custom";
 

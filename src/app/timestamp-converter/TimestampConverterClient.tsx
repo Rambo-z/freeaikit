@@ -2,6 +2,7 @@
 
 import { useState, useEffect, useCallback } from "react";
 import { Copy, Check, Clock, RefreshCw } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 // ── helpers ──────────────────────────────────────────────────────────────────
 

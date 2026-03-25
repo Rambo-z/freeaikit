@@ -2,6 +2,7 @@
 
 import { useState, useCallback } from "react";
 import { Copy, Check, ArrowLeftRight } from "lucide-react";
+import { trackToolEvent } from "@/lib/analytics";
 
 type Mode = "text-to-bin" | "bin-to-text";
 type Encoding = "binary" | "hex" | "octal" | "decimal";
