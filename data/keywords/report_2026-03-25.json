@@ -1,10 +1,10 @@
 {
   "date": "2026-03-25",
   "stats": {
-    "trends_total": 121,
-    "suggest_total": 1488
+    "trends_total": 155,
+    "suggest_total": 1836
   },
-  "total_opportunities": 1580,
+  "total_opportunities": 1922,
   "top_50": [
     {
       "keyword": "avif to jpg converter free online",
@@ -18,6 +18,36 @@
       "already_have": false,
       "combined_score": 810,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "car loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 408500,
+      "suggested_slug": "car-loan-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "length converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130400,
+      "suggested_slug": "length-converter",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -143,6 +173,21 @@
       "competition": 0
     },
     {
+      "keyword": "zip file password remover online free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 49450,
+      "suggested_slug": "zip-file-password-remover-free",
+      "root": "zip file online",
+      "already_have": false,
+      "combined_score": 410,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "video link to audio converter online free mp4",
       "sources": [
         "trends_rising"
@@ -173,6 +218,21 @@
       "competition": 0
     },
     {
+      "keyword": "tax calculator 2026",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 10200,
+      "suggested_slug": "tax-calculator-2026",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "ttsmaker",
       "sources": [
         "trends_rising"
@@ -180,6 +240,21 @@
       "trend_score": 4050,
       "suggested_slug": "ttsmaker",
       "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tp calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 3100,
+      "suggested_slug": "tp-calculator",
+      "root": "tip calculator",
       "already_have": false,
       "combined_score": 390,
       "difficulty": "纯前端",
@@ -428,6 +503,21 @@
       "competition": 0
     },
     {
+      "keyword": "cloudconvert",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 4450,
+      "suggested_slug": "cloudconvert",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "backtofrontshow",
       "sources": [
         "trends_rising"
@@ -488,6 +578,22 @@
       "competition": 0
     },
     {
+      "keyword": "binary to decimal conversion",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "binary-to-decimal-conversion",
+      "root": "binary to decimal",
+      "already_have": false,
+      "combined_score": 320,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "how to compress a video on iphone",
       "sources": [
         "trends_rising"
@@ -513,6 +619,36 @@
       "already_have": false,
       "combined_score": 300,
       "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tax calculator 2025",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 900,
+      "suggested_slug": "tax-calculator-2025",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 290,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tax refund calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 550,
+      "suggested_slug": "tax-refund-calculator",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 290,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -593,21 +729,6 @@
       "competition": 0
     },
     {
-      "keyword": "portrait to landscape video converter online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "portrait-to-landscape-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 210,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
       "keyword": "how to make a gif from video",
       "sources": [
         "trends_rising"
@@ -632,126 +753,6 @@
       "root": "video to audio",
       "already_have": false,
       "combined_score": 200,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "how to make a gif from a video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 600,
-      "suggested_slug": "how-to-make-a-gif-from-a-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 200,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "make a gif from video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 500,
-      "suggested_slug": "make-a-gif-from-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 200,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "123apps online voice recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 150,
-      "suggested_slug": "123apps-voice-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 200,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "online ip lookup tool",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 120,
-      "suggested_slug": "ip-lookup",
-      "root": "ip lookup tool",
-      "already_have": false,
-      "combined_score": 200,
-      "difficulty": "需API/服务端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free video compressor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 110,
-      "suggested_slug": "best-video-compressor",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 200,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free video editors",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "best-video-editors",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 200,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "digital voice recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 350,
-      "suggested_slug": "digital-voice-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 190,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best video compressor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "best-video-compressor",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 190,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
