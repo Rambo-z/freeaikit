@@ -1,10 +1,10 @@
 {
   "date": "2026-03-25",
   "stats": {
-    "trends_total": 170,
-    "suggest_total": 1191
+    "trends_total": 121,
+    "suggest_total": 1488
   },
-  "total_opportunities": 1286,
+  "total_opportunities": 1580,
   "top_50": [
     {
       "keyword": "avif to jpg converter free online",
@@ -48,6 +48,21 @@
       "already_have": false,
       "combined_score": 560,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "markdown to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1554050,
+      "suggested_slug": "markdown-to-pdf",
+      "root": "html to markdown",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -668,6 +683,21 @@
       "competition": 0
     },
     {
+      "keyword": "online ip lookup tool",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 120,
+      "suggested_slug": "ip-lookup",
+      "root": "ip lookup tool",
+      "already_have": false,
+      "combined_score": 200,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "best free video compressor",
       "sources": [
         "trends_rising"
@@ -722,36 +752,6 @@
       "root": "video compressor free",
       "already_have": false,
       "combined_score": 190,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "vocal remover ai",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "vocal-remover-ai",
-      "root": "remove vocal from song",
-      "already_have": false,
-      "combined_score": 190,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "ai image to video generator free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "image-to-video-generator-free",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 180,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,

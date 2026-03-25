@@ -1,9 +1,9 @@
 {
   "date": "2026-03-25",
-  "batch": 1,
-  "total_rising_found": 170,
-  "new_opportunities": 160,
-  "existing_matches": 10,
+  "batch": 3,
+  "total_rising_found": 121,
+  "new_opportunities": 110,
+  "existing_matches": 11,
   "errors": 0,
   "opportunities": [
     {
@@ -15,6 +15,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "remove-watermark-from-video-free"
+    },
+    {
+      "keyword": "markdown to pdf",
+      "root": "html to markdown",
+      "prefix": "online",
+      "trend_score": 1554050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "markdown-to-pdf"
     },
     {
       "keyword": "soundcloud to wav",
@@ -487,6 +497,16 @@
       "suggested_slug": "digital-voice-recorder"
     },
     {
+      "keyword": "markdown to docx",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "markdown-to-docx"
+    },
+    {
       "keyword": "automatically transcribe audio to text free",
       "root": "audio to text free",
       "prefix": "free",
@@ -697,6 +717,16 @@
       "suggested_slug": "text-to-speech-app"
     },
     {
+      "keyword": "html to pdf",
+      "root": "html to markdown",
+      "prefix": "online",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "html-to-pdf"
+    },
+    {
       "keyword": "cut video online",
       "root": "compress video online",
       "prefix": "online",
@@ -715,6 +745,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "mp4-to-mp3"
+    },
+    {
+      "keyword": "markdown vs html",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "markdown-vs-html"
     },
     {
       "keyword": "gif cropper",
@@ -805,6 +845,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "mp3tag"
+    },
+    {
+      "keyword": "online ip lookup tool",
+      "root": "ip lookup tool",
+      "prefix": "",
+      "trend_score": 120,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "ip-lookup"
     },
     {
       "keyword": "best free video compressor",
@@ -955,56 +1005,6 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "best-video-editors"
-    },
-    {
-      "keyword": "vocal remover ai",
-      "root": "remove vocal from song",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "vocal-remover-ai"
-    },
-    {
-      "keyword": "jpeg vs png",
-      "root": "heic to png",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "jpeg-vs-png"
-    },
-    {
-      "keyword": "webp to jpeg",
-      "root": "webp to gif",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "webp-to-jpeg"
-    },
-    {
-      "keyword": "gif to jpeg",
-      "root": "gif to webp",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "gif-to-jpeg"
-    },
-    {
-      "keyword": "jpeg to png",
-      "root": "avif to png",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "jpeg-to-png"
     }
   ],
   "existing": [
@@ -1107,6 +1107,16 @@
       "discovered": "2026-03-25",
       "already_have": true,
       "suggested_slug": "unblur-image-free"
+    },
+    {
+      "keyword": "markdown editor online",
+      "root": "markdown to html",
+      "prefix": "",
+      "trend_score": 70,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": true,
+      "suggested_slug": "markdown-editor-online"
     }
   ],
   "error_log": []
