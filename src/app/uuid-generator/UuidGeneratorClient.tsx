@@ -63,6 +63,7 @@ export default function UuidGeneratorClient() {
   );
 
   const copyAll = useCallback(() => {
+    trackToolEvent('uuid-generator', 'process');
     const text = uuids.map((u) => applyFormat(u, format)).join("\n");
     navigator.clipboard.writeText(text).then(() => {
       setCopiedAll(true);

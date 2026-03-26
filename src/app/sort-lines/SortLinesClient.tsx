@@ -69,6 +69,7 @@ export default function SortLinesClient() {
   }, [input, mode, caseSensitive, removeEmpty, removeDups, shuffleKey]);
 
   const copy = useCallback(() => {
+    trackToolEvent('sort-lines', 'process');
     navigator.clipboard.writeText(output).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 1500);

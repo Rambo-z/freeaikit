@@ -18,6 +18,7 @@ export default function PdfExtractClient() {
   const fileDataRef = useRef<ArrayBuffer | null>(null);
 
   const handleFile = useCallback(async (f: File) => {
+    trackToolEvent('pdf-extract', 'process');
     if (!f.name.toLowerCase().endsWith(".pdf")) {
       setErrorMsg("Please select a PDF file.");
       setStatus("error");

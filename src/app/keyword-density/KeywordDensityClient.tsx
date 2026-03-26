@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { trackToolEvent } from "@/lib/analytics";
 
 const STOP_WORDS = new Set([
   "a","about","above","after","again","against","all","am","an","and","any","are","aren't","as","at",

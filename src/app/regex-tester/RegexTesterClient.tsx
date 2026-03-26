@@ -101,6 +101,7 @@ export default function RegexTesterClient() {
   }, [pattern, flagStr, testStr]);
 
   const copyRegex = useCallback(() => {
+    trackToolEvent('regex-tester', 'process');
     const full = `/${pattern}/${flagStr}`;
     navigator.clipboard.writeText(full).then(() => {
       setCopied(true);

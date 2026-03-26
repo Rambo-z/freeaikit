@@ -65,7 +65,7 @@ export default function Base64ImageClient() {
   const handleDecode = useCallback(() => {
     trackToolEvent('base64-image', 'process');
     setDecodeError("");
-    let input = decodeInput.trim();
+    const input = decodeInput.trim();
     if (!input) return;
 
     // Accept full data URL or raw base64

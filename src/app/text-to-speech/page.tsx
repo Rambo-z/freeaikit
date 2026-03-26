@@ -22,11 +22,6 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://freeaikit.app/text-to-speech",
-    languages: {
-      "en": "https://freeaikit.app/text-to-speech",
-      "es": "https://freeaikit.app/es/texto-a-voz",
-      "pt": "https://freeaikit.app/pt/texto-para-fala",
-    },
   },
 };
 

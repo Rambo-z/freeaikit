@@ -1,7 +1,6 @@
 "use client";
 
 import { useState, useMemo } from "react";
-import { trackToolEvent } from "@/lib/analytics";
 
 type DiffLine = { type: "equal" | "add" | "remove"; text: string };
 

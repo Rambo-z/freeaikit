@@ -42,7 +42,7 @@ export default function HeicToJpgPage() {
           Convert HEIC to JPG Online Free
         </h1>
         <p className="text-gray-600 text-lg max-w-xl mx-auto">
-          Convert iPhone HEIC photos to JPG format so you can open, edit, and share them on any device. HEIC is the default photo format on iPhones, but many Windows apps and websites don't support it. Free, private, runs in your browser.
+          Convert iPhone HEIC photos to JPG format so you can open, edit, and share them on any device. HEIC is the default photo format on iPhones, but many Windows apps and websites don&apos;t support it. Free, private, runs in your browser.
         </p>
       </div>
 

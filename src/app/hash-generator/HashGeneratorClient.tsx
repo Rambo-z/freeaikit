@@ -136,6 +136,7 @@ export default function HashGeneratorClient() {
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   const copy = useCallback((text: string, key: string) => {
+    trackToolEvent('hash-generator', 'process');
     navigator.clipboard.writeText(text).then(() => {
       setCopiedKey(key);
       setTimeout(() => setCopiedKey((k) => (k === key ? null : k)), 1400);

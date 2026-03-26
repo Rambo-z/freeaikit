@@ -29,6 +29,7 @@ export default function QrCodeClient() {
   const [svgString, setSvgString] = useState("");
 
   const generate = useCallback(async () => {
+    trackToolEvent('qr-code', 'process');
     if (!text.trim()) return;
     setIsGenerating(true);
     try {

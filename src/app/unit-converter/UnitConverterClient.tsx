@@ -2,7 +2,6 @@
 
 import { useState, useMemo } from "react";
 import { Copy, Check } from "lucide-react";
-import { trackToolEvent } from "@/lib/analytics";
 
 type Category = "length" | "weight" | "temperature" | "volume" | "area" | "speed" | "data";
 

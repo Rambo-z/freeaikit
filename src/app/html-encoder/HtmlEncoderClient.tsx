@@ -9,6 +9,7 @@ type Tab = "encode" | "decode";
 function CopyButton({ text }: { text: string }) {
   const [copied, setCopied] = useState(false);
   const handleCopy = useCallback(() => {
+    trackToolEvent('html-encoder', 'process');
     navigator.clipboard.writeText(text).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 1500);

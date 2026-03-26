@@ -80,7 +80,7 @@ export default function PdfCompressPage() {
           <ul className="space-y-2 text-gray-600">
             <li className="flex items-start gap-2">
               <span className="text-green-500 mt-0.5">&#10003;</span>
-              <span><strong>PDF.js Rendering</strong> — Mozilla's battle-tested PDF engine, runs locally</span>
+              <span><strong>PDF.js Rendering</strong> — Mozilla&apos;s battle-tested PDF engine, runs locally</span>
             </li>
             <li className="flex items-start gap-2">
               <span className="text-green-500 mt-0.5">&#10003;</span>

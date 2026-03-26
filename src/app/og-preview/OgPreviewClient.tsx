@@ -7,6 +7,7 @@ import { trackToolEvent } from "@/lib/analytics";
 function CopyButton({ text }: { text: string }) {
   const [copied, setCopied] = useState(false);
   const handleCopy = useCallback(() => {
+    trackToolEvent('og-preview', 'process');
     navigator.clipboard.writeText(text).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 1500);

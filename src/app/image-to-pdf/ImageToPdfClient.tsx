@@ -34,6 +34,7 @@ export default function ImageToPdfClient() {
   const fileInputRef = useRef<HTMLInputElement>(null);
 
   const addFiles = useCallback(async (files: FileList | File[]) => {
+    trackToolEvent('image-to-pdf', 'process');
     const imgs = Array.from(files).filter((f) => f.type.startsWith("image/"));
     const newItems: ImgItem[] = await Promise.all(
       imgs.map((file) =>

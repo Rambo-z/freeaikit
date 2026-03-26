@@ -13,6 +13,7 @@ export default function RandomNumberClient() {
   const [copied, setCopied] = useState(false);
 
   const generate = useCallback(() => {
+    trackToolEvent('random-number', 'process');
     const lo = parseInt(min) || 0;
     const hi = parseInt(max) || 100;
     const qty = Math.max(1, Math.min(1000, parseInt(quantity) || 1));

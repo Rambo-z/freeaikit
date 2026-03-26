@@ -9,6 +9,7 @@ type Base = 2 | 8 | 10 | 16;
 function CopyButton({ text }: { text: string }) {
   const [copied, setCopied] = useState(false);
   const handleCopy = useCallback(() => {
+    trackToolEvent('base-converter', 'process');
     navigator.clipboard.writeText(text).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 1500);

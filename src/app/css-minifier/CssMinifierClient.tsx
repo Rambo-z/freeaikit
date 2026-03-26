@@ -49,6 +49,7 @@ export default function CssMinifierClient() {
   const [copied, setCopied] = useState(false);
 
   const process = useCallback((raw: string, m: "minify" | "beautify") => {
+    trackToolEvent('css-minifier', 'process');
     if (!raw.trim()) return;
     setOutput(m === "minify" ? minifyCSS(raw) : beautifyCSS(raw));
     setMode(m);

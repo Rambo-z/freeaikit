@@ -12,6 +12,7 @@ export default function PdfUnlockClient() {
   const inputRef = useRef<HTMLInputElement>(null);
 
   const handleFile = useCallback((f: File) => {
+    trackToolEvent('pdf-unlock', 'process');
     if (!f.name.toLowerCase().endsWith(".pdf")) {
       setErrorMsg("Please select a PDF file.");
       setStatus("error");

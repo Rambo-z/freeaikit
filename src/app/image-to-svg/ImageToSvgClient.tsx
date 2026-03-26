@@ -47,8 +47,8 @@ function formatBytes(bytes: number): string {
 }
 
 async function convertToSvg(file: File, preset: Preset): Promise<string> {
-  // eslint-disable-next-line @typescript-eslint/no-require-imports
-  const ImageTracer = require("imagetracerjs");
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const ImageTracer = (await import("imagetracerjs" as any)).default || (await import("imagetracerjs" as any));
   const cfg = PRESETS.find((p) => p.value === preset)!;
 
   return new Promise((resolve, reject) => {

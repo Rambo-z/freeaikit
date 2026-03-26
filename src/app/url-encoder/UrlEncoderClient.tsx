@@ -43,6 +43,7 @@ function parseUrl(raw: string): { field: string; value: string }[] | null {
 function CopyButton({ text }: { text: string }) {
   const [copied, setCopied] = useState(false);
   const handleCopy = useCallback(() => {
+    trackToolEvent('url-encoder', 'process');
     navigator.clipboard.writeText(text).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 1500);

@@ -230,6 +230,7 @@ export default function ColorConverterClient() {
   }, [hex, rgbStr, hslStr, cmykStr]);
 
   const pushRecent = useCallback((color: string) => {
+    trackToolEvent('color-converter', 'process');
     setRecentColors((prev) => {
       const filtered = prev.filter((c) => c !== color);
       return [color, ...filtered].slice(0, MAX_RECENT);

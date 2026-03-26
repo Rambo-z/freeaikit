@@ -58,6 +58,7 @@ export default function JsonFormatterClient() {
   );
 
   const copy = useCallback(() => {
+    trackToolEvent('json-formatter', 'process');
     navigator.clipboard.writeText(output).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 1500);

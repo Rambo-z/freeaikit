@@ -42,7 +42,7 @@ export default function ImageToWebpPage() {
           Convert Image to WebP Online Free
         </h1>
         <p className="text-gray-600 text-lg max-w-xl mx-auto">
-          Convert JPG, PNG, and other image formats to WebP — Google's modern image format that delivers 25-35% smaller files than JPEG at equivalent quality. Ideal for speeding up your website. Free, private, runs in your browser.
+          Convert JPG, PNG, and other image formats to WebP — Google&apos;s modern image format that delivers 25-35% smaller files than JPEG at equivalent quality. Ideal for speeding up your website. Free, private, runs in your browser.
         </p>
       </div>
 

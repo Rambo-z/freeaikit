@@ -16,7 +16,6 @@ import {
   Columns,
   Check,
 } from "lucide-react";
-import { trackToolEvent } from "@/lib/analytics";
 
 // ─── Markdown Parser ──────────────────────────────────────────────────────────
 

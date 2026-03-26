@@ -33,6 +33,7 @@ export default function ImageWatermarkClient() {
   const imgRef = useRef<HTMLImageElement | null>(null);
 
   const renderWatermark = useCallback(() => {
+    trackToolEvent('image-watermark', 'process');
     const canvas = previewCanvasRef.current;
     if (!canvas || !imgRef.current) return;
     setIsRendering(true);

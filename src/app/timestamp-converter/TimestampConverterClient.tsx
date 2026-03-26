@@ -56,6 +56,7 @@ function useCopy(timeout = 1400) {
   const [copiedKey, setCopiedKey] = useState<string | null>(null);
 
   const copy = useCallback((text: string, key: string) => {
+    trackToolEvent('timestamp-converter', 'process');
     navigator.clipboard.writeText(text).then(() => {
       setCopiedKey(key);
       setTimeout(() => setCopiedKey((k) => (k === key ? null : k)), timeout);

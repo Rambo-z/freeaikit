@@ -19,6 +19,7 @@ export default function PdfRotateClient() {
   const fileDataRef = useRef<ArrayBuffer | null>(null);
 
   const handleFile = useCallback(async (f: File) => {
+    trackToolEvent('pdf-rotate', 'process');
     if (!f.name.toLowerCase().endsWith(".pdf")) {
       setErrorMsg("Please select a PDF file.");
       setStatus("error");

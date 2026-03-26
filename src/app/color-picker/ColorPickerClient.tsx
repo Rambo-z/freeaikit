@@ -63,6 +63,7 @@ export default function ColorPickerClient() {
   const contrast = getContrastColor(color);
 
   const copy = useCallback((text: string, field: string) => {
+    trackToolEvent('color-picker', 'process');
     navigator.clipboard.writeText(text).then(() => {
       setCopiedField(field);
       setTimeout(() => setCopiedField(null), 1500);

@@ -9,17 +9,29 @@ type NavItem = { href: string; label: string };
 type NavGroup = { label: string; items: NavItem[] };
 
 // Mapping from English slug to localized slugs
-const I18N_SLUG_MAP: Record<string, { es: string; pt: string }> = {
-  "image-compress": { es: "comprimir-imagen", pt: "comprimir-imagem" },
-  "bg-remover": { es: "quitar-fondo", pt: "remover-fundo" },
-  "pdf-merge": { es: "unir-pdf", pt: "juntar-pdf" },
-  "image-to-text": { es: "imagen-a-texto", pt: "imagem-para-texto" },
-  "image-resize": { es: "redimensionar-imagen", pt: "redimensionar-imagem" },
-  "image-convert": { es: "convertir-imagen", pt: "converter-imagem" },
-  "pdf-compress": { es: "comprimir-pdf", pt: "comprimir-pdf" },
-  "image-crop": { es: "recortar-imagen", pt: "cortar-imagem" },
-  "pdf-to-images": { es: "pdf-a-imagen", pt: "pdf-para-imagem" },
-  "image-to-pdf": { es: "imagen-a-pdf", pt: "imagem-para-pdf" },
+const I18N_SLUG_MAP: Record<string, { es?: string; pt?: string; id?: string }> = {
+  // Original 10 tools (ES + PT + ID)
+  "image-compress":  { es: "comprimir-imagen",      pt: "comprimir-imagem",      id: "kompres-gambar" },
+  "bg-remover":      { es: "quitar-fondo",           pt: "remover-fundo",          id: "hapus-latar-belakang" },
+  "pdf-merge":       { es: "unir-pdf",               pt: "juntar-pdf",             id: "gabung-pdf" },
+  "image-to-text":   { es: "imagen-a-texto",         pt: "imagem-para-texto",      id: "gambar-ke-teks" },
+  "image-resize":    { es: "redimensionar-imagen",   pt: "redimensionar-imagem",   id: "ubah-ukuran-gambar" },
+  "image-convert":   { es: "convertir-imagen",       pt: "converter-imagem",       id: "konversi-gambar" },
+  "pdf-compress":    { es: "comprimir-pdf",           pt: "comprimir-pdf",          id: "kompres-pdf" },
+  "image-crop":      { es: "recortar-imagen",         pt: "cortar-imagem" },
+  "pdf-to-images":   { es: "pdf-a-imagen",            pt: "pdf-para-imagem",        id: "pdf-ke-gambar" },
+  "image-to-pdf":    { es: "imagen-a-pdf",            pt: "imagem-para-pdf",        id: "gambar-ke-pdf" },
+  // New 10 tools (ES + PT, some with ID)
+  "json-formatter":       { es: "formato-json",           pt: "formatador-json",        id: "format-json" },
+  "pdf-extract":          { es: "extraer-pdf",             pt: "extrair-pdf" },
+  "image-to-svg":         { es: "imagen-a-svg",            pt: "imagem-para-svg" },
+  "gif-maker":            { es: "crear-gif",               pt: "criar-gif" },
+  "password-generator":   { es: "generar-contrasena",      pt: "gerador-senha" },
+  "qr-code":              { es: "codigo-qr",               pt: "codigo-qr" },
+  "word-counter":         { es: "contador-palabras",        pt: "contador-palavras" },
+  "image-watermark":      { es: "marca-de-agua",           pt: "marca-dagua" },
+  "csv-to-json":          { es: "csv-a-json",              pt: "csv-para-json" },
+  "pdf-unlock":           { es: "desbloquear-pdf",         pt: "desbloquear-pdf" },
 };
 
 const NAV_GROUPS: NavGroup[] = [
@@ -137,7 +149,10 @@ export default function Header() {
   const pathname = usePathname();
 
   // Determine current locale
-  const currentLang = pathname.startsWith("/es/") ? "es" : pathname.startsWith("/pt/") ? "pt" : "en";
+  const currentLang = pathname.startsWith("/es/") ? "es"
+    : pathname.startsWith("/pt/") ? "pt"
+    : pathname.startsWith("/id/") ? "id"
+    : "en";
 
   // Build available language switch URLs
   const langLinks: { code: string; label: string; url: string }[] = [];
@@ -146,18 +161,20 @@ export default function Header() {
     const slug = pathname.replace(/^\//, "");
     const map = I18N_SLUG_MAP[slug];
     if (map) {
-      langLinks.push({ code: "es", label: "ES", url: `/es/${map.es}` });
-      langLinks.push({ code: "pt", label: "PT", url: `/pt/${map.pt}` });
+      if (map.es) langLinks.push({ code: "es", label: "ES", url: `/es/${map.es}` });
+      if (map.pt) langLinks.push({ code: "pt", label: "PT", url: `/pt/${map.pt}` });
+      if (map.id) langLinks.push({ code: "id", label: "ID", url: `/id/${map.id}` });
     }
   } else {
     // Find English slug from current localized slug
-    const localSlug = pathname.replace(/^\/(es|pt)\//, "");
-    const enSlug = Object.entries(I18N_SLUG_MAP).find(([, v]) => v[currentLang as "es" | "pt"] === localSlug)?.[0];
+    const localSlug = pathname.replace(/^\/(es|pt|id)\//, "");
+    const enSlug = Object.entries(I18N_SLUG_MAP).find(([, v]) => v[currentLang as "es" | "pt" | "id"] === localSlug)?.[0];
     if (enSlug) {
       const map = I18N_SLUG_MAP[enSlug];
       langLinks.push({ code: "en", label: "EN", url: `/${enSlug}` });
-      if (currentLang !== "es") langLinks.push({ code: "es", label: "ES", url: `/es/${map.es}` });
-      if (currentLang !== "pt") langLinks.push({ code: "pt", label: "PT", url: `/pt/${map.pt}` });
+      if (currentLang !== "es" && map.es) langLinks.push({ code: "es", label: "ES", url: `/es/${map.es}` });
+      if (currentLang !== "pt" && map.pt) langLinks.push({ code: "pt", label: "PT", url: `/pt/${map.pt}` });
+      if (currentLang !== "id" && map.id) langLinks.push({ code: "id", label: "ID", url: `/id/${map.id}` });
     }
   }
 

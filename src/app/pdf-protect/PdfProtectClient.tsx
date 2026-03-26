@@ -12,6 +12,7 @@ export default function PdfProtectClient() {
   const inputRef = useRef<HTMLInputElement>(null);
 
   const handleFile = useCallback((f: File) => {
+    trackToolEvent('pdf-protect', 'process');
     if (!f.name.toLowerCase().endsWith(".pdf")) {
       setErrorMsg("Please select a PDF file.");
       setStatus("error");

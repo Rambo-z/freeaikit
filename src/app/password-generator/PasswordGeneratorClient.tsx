@@ -59,6 +59,7 @@ export default function PasswordGeneratorClient() {
   const [showPasswords, setShowPasswords] = useState(true);
 
   const generate = useCallback((count = 5) => {
+    trackToolEvent('password-generator', 'process');
     const list: string[] = [];
     for (let i = 0; i < count; i++) list.push(generatePassword(opts));
     setPasswords(list);

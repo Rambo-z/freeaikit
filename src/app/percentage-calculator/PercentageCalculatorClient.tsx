@@ -1,7 +1,6 @@
 "use client";
 
 import { useState } from "react";
-import { trackToolEvent } from "@/lib/analytics";
 
 function fmt(n: number): string {
   if (!isFinite(n)) return "—";

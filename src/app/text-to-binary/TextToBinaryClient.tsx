@@ -52,6 +52,7 @@ export default function TextToBinaryClient() {
     : "";
 
   const swap = useCallback(() => {
+    trackToolEvent('text-to-binary', 'process');
     setMode((m) => (m === "text-to-bin" ? "bin-to-text" : "text-to-bin"));
     setInput(output);
   }, [output]);

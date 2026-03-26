@@ -20,9 +20,7 @@ import {
   Shield,
   Zap,
   DollarSign,
-  Users,
   Download,
-  Star,
   Braces,
   Code2,
   Type,
@@ -56,7 +54,6 @@ import {
   Film,
   Blend,
   Laugh,
-  Presentation,
 } from "lucide-react";
 
 const categories = [

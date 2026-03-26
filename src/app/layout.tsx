@@ -254,7 +254,7 @@ export default function RootLayout({
             </div>
 
             {/* Multilingual Tools */}
-            <div className="mt-8 pt-6 border-t border-gray-800 grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="mt-8 pt-6 border-t border-gray-800 grid grid-cols-1 md:grid-cols-3 gap-6">
               <div>
                 <h4 className="text-sm font-semibold text-white mb-3">Herramientas en Español</h4>
                 <div className="flex flex-wrap gap-x-4 gap-y-1">
@@ -269,6 +269,16 @@ export default function RootLayout({
                     ["/es/recortar-imagen",       "Recortar Imagen"],
                     ["/es/pdf-a-imagen",          "PDF a Imagen"],
                     ["/es/imagen-a-pdf",          "Imagen a PDF"],
+                    ["/es/formato-json",          "Formato JSON"],
+                    ["/es/extraer-pdf",           "Extraer PDF"],
+                    ["/es/imagen-a-svg",          "Imagen a SVG"],
+                    ["/es/crear-gif",             "Crear GIF"],
+                    ["/es/generar-contrasena",    "Generar Contraseña"],
+                    ["/es/codigo-qr",             "Código QR"],
+                    ["/es/contador-palabras",     "Contador Palabras"],
+                    ["/es/marca-de-agua",         "Marca de Agua"],
+                    ["/es/csv-a-json",            "CSV a JSON"],
+                    ["/es/desbloquear-pdf",       "Desbloquear PDF"],
                   ].map(([href, label]) => (
                     <Link key={href} href={href} className="text-sm text-gray-400 hover:text-white transition-colors">{label}</Link>
                   ))}
@@ -279,15 +289,44 @@ export default function RootLayout({
                 <div className="flex flex-wrap gap-x-4 gap-y-1">
                   {[
                     ["/pt/comprimir-imagem",      "Comprimir Imagem"],
-                    ["/pt/remover-fundo",          "Remover Fundo"],
-                    ["/pt/juntar-pdf",              "Juntar PDF"],
-                    ["/pt/imagem-para-texto",        "Imagem para Texto"],
+                    ["/pt/remover-fundo",         "Remover Fundo"],
+                    ["/pt/juntar-pdf",            "Juntar PDF"],
+                    ["/pt/imagem-para-texto",     "Imagem para Texto"],
                     ["/pt/redimensionar-imagem",  "Redimensionar Imagem"],
                     ["/pt/converter-imagem",      "Converter Imagem"],
                     ["/pt/comprimir-pdf",         "Comprimir PDF"],
-                    ["/pt/cortar-imagem",       "Cortar Imagem"],
-                    ["/pt/pdf-para-imagem",          "PDF para Imagem"],
-                    ["/pt/imagem-para-pdf",          "Imagem para PDF"],
+                    ["/pt/cortar-imagem",         "Cortar Imagem"],
+                    ["/pt/pdf-para-imagem",       "PDF para Imagem"],
+                    ["/pt/imagem-para-pdf",       "Imagem para PDF"],
+                    ["/pt/formatador-json",       "Formatador JSON"],
+                    ["/pt/extrair-pdf",           "Extrair PDF"],
+                    ["/pt/imagem-para-svg",       "Imagem para SVG"],
+                    ["/pt/criar-gif",             "Criar GIF"],
+                    ["/pt/gerador-senha",         "Gerador Senha"],
+                    ["/pt/codigo-qr",             "Código QR"],
+                    ["/pt/contador-palavras",     "Contador Palavras"],
+                    ["/pt/marca-dagua",           "Marca d'Água"],
+                    ["/pt/csv-para-json",         "CSV para JSON"],
+                    ["/pt/desbloquear-pdf",       "Desbloquear PDF"],
+                  ].map(([href, label]) => (
+                    <Link key={href} href={href} className="text-sm text-gray-400 hover:text-white transition-colors">{label}</Link>
+                  ))}
+                </div>
+              </div>
+              <div>
+                <h4 className="text-sm font-semibold text-white mb-3">Alat dalam Bahasa Indonesia</h4>
+                <div className="flex flex-wrap gap-x-4 gap-y-1">
+                  {[
+                    ["/id/kompres-gambar",         "Kompres Gambar"],
+                    ["/id/hapus-latar-belakang",   "Hapus Latar Belakang"],
+                    ["/id/gabung-pdf",             "Gabung PDF"],
+                    ["/id/gambar-ke-pdf",          "Gambar ke PDF"],
+                    ["/id/pdf-ke-gambar",          "PDF ke Gambar"],
+                    ["/id/ubah-ukuran-gambar",     "Ubah Ukuran Gambar"],
+                    ["/id/kompres-pdf",            "Kompres PDF"],
+                    ["/id/konversi-gambar",        "Konversi Gambar"],
+                    ["/id/gambar-ke-teks",         "Gambar ke Teks"],
+                    ["/id/format-json",            "Format JSON"],
                   ].map(([href, label]) => (
                     <Link key={href} href={href} className="text-sm text-gray-400 hover:text-white transition-colors">{label}</Link>
                   ))}

@@ -75,6 +75,7 @@ export default function TextCaseClient() {
   const [copied, setCopied] = useState<CaseKey | null>(null);
 
   const copy = useCallback((key: CaseKey, value: string) => {
+    trackToolEvent('text-case', 'process');
     navigator.clipboard.writeText(value).then(() => {
       setCopied(key);
       setTimeout(() => setCopied(null), 1500);

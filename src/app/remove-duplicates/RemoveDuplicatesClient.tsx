@@ -37,6 +37,7 @@ export default function RemoveDuplicatesClient() {
   }, [input, caseSensitive, trimLines, removeEmpty]);
 
   const copy = useCallback(() => {
+    trackToolEvent('remove-duplicates', 'process');
     navigator.clipboard.writeText(result.output).then(() => {
       setCopied(true);
       setTimeout(() => setCopied(false), 1500);
