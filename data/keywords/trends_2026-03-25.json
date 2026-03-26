@@ -1,9 +1,9 @@
 {
   "date": "2026-03-25",
-  "batch": 1,
-  "total_rising_found": 170,
-  "new_opportunities": 160,
-  "existing_matches": 10,
+  "batch": 5,
+  "total_rising_found": 155,
+  "new_opportunities": 141,
+  "existing_matches": 14,
   "errors": 0,
   "opportunities": [
     {
@@ -15,6 +15,26 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "remove-watermark-from-video-free"
+    },
+    {
+      "keyword": "markdown to pdf",
+      "root": "html to markdown",
+      "prefix": "online",
+      "trend_score": 1554050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "markdown-to-pdf"
+    },
+    {
+      "keyword": "car loan calculator",
+      "root": "discount calculator",
+      "prefix": "online",
+      "trend_score": 408500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "car-loan-calculator"
     },
     {
       "keyword": "soundcloud to wav",
@@ -55,6 +75,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "avif-to-jpg-converter-online"
+    },
+    {
+      "keyword": "length converter",
+      "root": "temperature converter",
+      "prefix": "",
+      "trend_score": 130400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "length-converter"
     },
     {
       "keyword": "ai news today",
@@ -115,6 +145,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "vid-to-gif"
+    },
+    {
+      "keyword": "zip file password remover online free",
+      "root": "zip file online",
+      "prefix": "",
+      "trend_score": 49450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "zip-file-password-remover-free"
     },
     {
       "keyword": "online voice recorder",
@@ -237,6 +277,16 @@
       "suggested_slug": "tiny-png"
     },
     {
+      "keyword": "tax calculator 2026",
+      "root": "tip calculator",
+      "prefix": "",
+      "trend_score": 10200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "tax-calculator-2026"
+    },
+    {
       "keyword": "remove blur from image online",
       "root": "remove watermark from image free",
       "prefix": "",
@@ -297,6 +347,16 @@
       "suggested_slug": "heic-to-ong"
     },
     {
+      "keyword": "cloudconvert",
+      "root": "file converter online free",
+      "prefix": "",
+      "trend_score": 4450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "cloudconvert"
+    },
+    {
       "keyword": "ttsmaker",
       "root": "audio to text free",
       "prefix": "free",
@@ -305,6 +365,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "ttsmaker"
+    },
+    {
+      "keyword": "tp calculator",
+      "root": "tip calculator",
+      "prefix": "",
+      "trend_score": 3100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "tp-calculator"
     },
     {
       "keyword": "true or in the event of a skyjacking, you should immediately attempt to subdue the skyjackers.",
@@ -335,6 +405,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "capcut"
+    },
+    {
+      "keyword": "tax calculator 2025",
+      "root": "tip calculator",
+      "prefix": "",
+      "trend_score": 900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "tax-calculator-2025"
     },
     {
       "keyword": "how to make a gif from video",
@@ -375,6 +455,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "wav-ninja"
+    },
+    {
+      "keyword": "tax refund calculator",
+      "root": "tip calculator",
+      "prefix": "",
+      "trend_score": 550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "tax-refund-calculator"
     },
     {
       "keyword": "make a gif from video",
@@ -425,6 +515,26 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "apng-to-gif"
+    },
+    {
+      "keyword": "hex to hsl converter",
+      "root": "color to hex converter",
+      "prefix": "",
+      "trend_score": 450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "hex-to-hsl-converter"
+    },
+    {
+      "keyword": "pdf converter",
+      "root": "temperature converter",
+      "prefix": "",
+      "trend_score": 450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "pdf-converter"
     },
     {
       "keyword": "image upscaler",
@@ -487,6 +597,16 @@
       "suggested_slug": "digital-voice-recorder"
     },
     {
+      "keyword": "markdown to docx",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "markdown-to-docx"
+    },
+    {
       "keyword": "automatically transcribe audio to text free",
       "root": "audio to text free",
       "prefix": "free",
@@ -525,16 +645,6 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "audio-to-video-ai"
-    },
-    {
-      "keyword": "cloudconvert",
-      "root": "heic to png",
-      "prefix": "",
-      "trend_score": 250,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "cloudconvert"
     },
     {
       "keyword": "how to make a video a gif",
@@ -637,6 +747,16 @@
       "suggested_slug": "how-to-make-a-gif"
     },
     {
+      "keyword": "money converter",
+      "root": "temperature converter",
+      "prefix": "",
+      "trend_score": 170,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "money-converter"
+    },
+    {
       "keyword": "best free text to speech online",
       "root": "speech to text online free",
       "prefix": "free",
@@ -645,6 +765,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "best-text-to-speech-online"
+    },
+    {
+      "keyword": "google tip calculator",
+      "root": "tip calculator",
+      "prefix": "free",
+      "trend_score": 160,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "google-tip-calculator"
     },
     {
       "keyword": "best video compressor app",
@@ -697,6 +827,16 @@
       "suggested_slug": "text-to-speech-app"
     },
     {
+      "keyword": "html to pdf",
+      "root": "html to markdown",
+      "prefix": "online",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "html-to-pdf"
+    },
+    {
       "keyword": "cut video online",
       "root": "compress video online",
       "prefix": "online",
@@ -715,6 +855,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "mp4-to-mp3"
+    },
+    {
+      "keyword": "markdown vs html",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "markdown-vs-html"
     },
     {
       "keyword": "gif cropper",
@@ -745,6 +895,16 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "heic-to-pdf-converter"
+    },
+    {
+      "keyword": "binary to decimal conversion",
+      "root": "binary to decimal",
+      "prefix": "",
+      "trend_score": 130,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "binary-to-decimal-conversion"
     },
     {
       "keyword": "how to make gif",
@@ -807,6 +967,36 @@
       "suggested_slug": "mp3tag"
     },
     {
+      "keyword": "online ip lookup tool",
+      "root": "ip lookup tool",
+      "prefix": "",
+      "trend_score": 120,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "ip-lookup"
+    },
+    {
+      "keyword": "tdee calculator",
+      "root": "discount calculator",
+      "prefix": "",
+      "trend_score": 120,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "tdee-calculator"
+    },
+    {
+      "keyword": "catalytic converter cleaner",
+      "root": "temperature converter",
+      "prefix": "",
+      "trend_score": 120,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": false,
+      "suggested_slug": "catalytic-converter-cleaner"
+    },
+    {
       "keyword": "best free video compressor",
       "root": "video compressor free",
       "prefix": "",
@@ -815,196 +1005,6 @@
       "discovered": "2026-03-25",
       "already_have": false,
       "suggested_slug": "best-video-compressor"
-    },
-    {
-      "keyword": "trim video",
-      "root": "video compressor free",
-      "prefix": "",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "trim-video"
-    },
-    {
-      "keyword": "webm to wav",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "webm-to-wav"
-    },
-    {
-      "keyword": "avif to jpg",
-      "root": "webp to gif",
-      "prefix": "",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "avif-to-jpg"
-    },
-    {
-      "keyword": "heic to jpg",
-      "root": "avif to jpg",
-      "prefix": "",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "heic-to-jpg"
-    },
-    {
-      "keyword": "best video compressor",
-      "root": "video compressor free",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "best-video-compressor"
-    },
-    {
-      "keyword": "make video to gif",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "make-video-to-gif"
-    },
-    {
-      "keyword": "download facebook video",
-      "root": "video to audio",
-      "prefix": "free",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "download-facebook-video"
-    },
-    {
-      "keyword": "how to convert heic to jpg",
-      "root": "heic to jpg online",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "how-to-convert-heic-to-jpg"
-    },
-    {
-      "keyword": "photo to video ai free",
-      "root": "video to gif",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "photo-to-video-free"
-    },
-    {
-      "keyword": "ai image to video generator free",
-      "root": "video to gif",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "image-to-video-generator-free"
-    },
-    {
-      "keyword": "video to transcript",
-      "root": "video to audio",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "video-to-transcript"
-    },
-    {
-      "keyword": "portrait to landscape video converter online free",
-      "root": "video converter online free",
-      "prefix": "online",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "portrait-to-landscape-video-converter-free"
-    },
-    {
-      "keyword": "webm to mp4",
-      "root": "mp4 to mp3 online",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "webm-to-mp4"
-    },
-    {
-      "keyword": "best free video editors",
-      "root": "video to audio",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "best-video-editors"
-    },
-    {
-      "keyword": "vocal remover ai",
-      "root": "remove vocal from song",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "vocal-remover-ai"
-    },
-    {
-      "keyword": "jpeg vs png",
-      "root": "heic to png",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "jpeg-vs-png"
-    },
-    {
-      "keyword": "webp to jpeg",
-      "root": "webp to gif",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "webp-to-jpeg"
-    },
-    {
-      "keyword": "gif to jpeg",
-      "root": "gif to webp",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "gif-to-jpeg"
-    },
-    {
-      "keyword": "jpeg to png",
-      "root": "avif to png",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-25",
-      "already_have": false,
-      "suggested_slug": "jpeg-to-png"
     }
   ],
   "existing": [
@@ -1107,6 +1107,46 @@
       "discovered": "2026-03-25",
       "already_have": true,
       "suggested_slug": "unblur-image-free"
+    },
+    {
+      "keyword": "markdown editor online",
+      "root": "markdown to html",
+      "prefix": "",
+      "trend_score": 70,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": true,
+      "suggested_slug": "markdown-editor-online"
+    },
+    {
+      "keyword": "age calculator by date of birth",
+      "root": "date calculator online",
+      "prefix": "free",
+      "trend_score": 271700,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": true,
+      "suggested_slug": "age-calculator-by-date-of-birth"
+    },
+    {
+      "keyword": "qr code generator",
+      "root": "hex to rgb",
+      "prefix": "",
+      "trend_score": 90,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": true,
+      "suggested_slug": "qr-code-generator"
+    },
+    {
+      "keyword": "mortgage calculator",
+      "root": "discount calculator",
+      "prefix": "online",
+      "trend_score": 80,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-25",
+      "already_have": true,
+      "suggested_slug": "mortgage-calculator"
     }
   ],
   "error_log": []
