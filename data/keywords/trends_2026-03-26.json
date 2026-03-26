@@ -1,11 +1,31 @@
 {
   "date": "2026-03-26",
-  "batch": 0,
-  "total_rising_found": 96,
-  "new_opportunities": 93,
-  "existing_matches": 3,
+  "batch": 1,
+  "total_rising_found": 170,
+  "new_opportunities": 162,
+  "existing_matches": 8,
   "errors": 0,
   "opportunities": [
+    {
+      "keyword": "remove blur from image online",
+      "root": "remove watermark from image free",
+      "prefix": "free",
+      "trend_score": 260900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "remove-blur-from-image-online"
+    },
+    {
+      "keyword": "image upscaler free",
+      "root": "remove watermark from image free",
+      "prefix": "free",
+      "trend_score": 232200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "image-upscaler-free"
+    },
     {
       "keyword": "mp3 to ogg",
       "root": "mp3 cutter online",
@@ -17,6 +37,26 @@
       "suggested_slug": "mp3-to-ogg"
     },
     {
+      "keyword": "audio trimmer",
+      "root": "audio speed changer",
+      "prefix": "",
+      "trend_score": 159550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "audio-trimmer"
+    },
+    {
+      "keyword": "ai voice generator free",
+      "root": "tts online",
+      "prefix": "free",
+      "trend_score": 154500,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "voice-generator-free"
+    },
+    {
       "keyword": "resize video",
       "root": "video compressor free",
       "prefix": "free",
@@ -25,6 +65,16 @@
       "discovered": "2026-03-26",
       "already_have": false,
       "suggested_slug": "resize-video"
+    },
+    {
+      "keyword": "remove blur from photo online free without watermark",
+      "root": "remove watermark from image free",
+      "prefix": "free",
+      "trend_score": 103300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "remove-blur-from-photo-without-watermark"
     },
     {
       "keyword": "stereo to mono converter",
@@ -67,6 +117,16 @@
       "suggested_slug": "trim-video"
     },
     {
+      "keyword": "mp4 to mp3",
+      "root": "audio to text free",
+      "prefix": "online",
+      "trend_score": 65600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "mp4-to-mp3"
+    },
+    {
       "keyword": "mp4 to gif",
       "root": "compress video online",
       "prefix": "",
@@ -87,6 +147,16 @@
       "suggested_slug": "video-link-to-audio-converter-mp4"
     },
     {
+      "keyword": "best online casino casino.us",
+      "root": "tts online",
+      "prefix": "online",
+      "trend_score": 38550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "best-casino-casino.us"
+    },
+    {
       "keyword": "crop video",
       "root": "video compressor free",
       "prefix": "free",
@@ -97,6 +167,16 @@
       "suggested_slug": "crop-video"
     },
     {
+      "keyword": "m4a to mp3",
+      "root": "audio to text free",
+      "prefix": "",
+      "trend_score": 28650,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "m4a-to-mp3"
+    },
+    {
       "keyword": "freeconvert",
       "root": "audio converter online",
       "prefix": "online",
@@ -105,6 +185,26 @@
       "discovered": "2026-03-26",
       "already_have": false,
       "suggested_slug": "freeconvert"
+    },
+    {
+      "keyword": "gif optimizer",
+      "root": "gif to webp",
+      "prefix": "",
+      "trend_score": 17350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "gif-optimizer"
+    },
+    {
+      "keyword": "bg remover",
+      "root": "heic to png",
+      "prefix": "",
+      "trend_score": 16550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "bg-remover"
     },
     {
       "keyword": "watermark remover video online free",
@@ -137,6 +237,16 @@
       "suggested_slug": "markets-news-today"
     },
     {
+      "keyword": "tiny png",
+      "root": "heic to png",
+      "prefix": "",
+      "trend_score": 12000,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "tiny-png"
+    },
+    {
       "keyword": "openai news today",
       "root": "video to audio",
       "prefix": "",
@@ -145,6 +255,16 @@
       "discovered": "2026-03-26",
       "already_have": false,
       "suggested_slug": "opennews-today"
+    },
+    {
+      "keyword": "online casino casino.us",
+      "root": "tts online",
+      "prefix": "",
+      "trend_score": 8800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "casino-casino.us"
     },
     {
       "keyword": "anthropic news today",
@@ -167,6 +287,16 @@
       "suggested_slug": "twitter-video-downloader-hd"
     },
     {
+      "keyword": "ttsmaker",
+      "root": "audio to text free",
+      "prefix": "",
+      "trend_score": 4050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "ttsmaker"
+    },
+    {
       "keyword": "usb to rca audio video adaptor",
       "root": "video to audio",
       "prefix": "",
@@ -185,6 +315,26 @@
       "discovered": "2026-03-26",
       "already_have": false,
       "suggested_slug": "twitter-video-downloader"
+    },
+    {
+      "keyword": "avf to jpg",
+      "root": "avif to jpg",
+      "prefix": "",
+      "trend_score": 1900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "avf-to-jpg"
+    },
+    {
+      "keyword": "avf to png",
+      "root": "avif to png",
+      "prefix": "",
+      "trend_score": 1450,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "avf-to-png"
     },
     {
       "keyword": "how to make a gif from a video",
@@ -267,6 +417,16 @@
       "suggested_slug": "micro-hdmi-to-audio-video-cable"
     },
     {
+      "keyword": "fish audio",
+      "root": "audio to text free",
+      "prefix": "",
+      "trend_score": 400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "fish-audio"
+    },
+    {
       "keyword": "soundcloud to mp3",
       "root": "wav to mp3 online",
       "prefix": "online",
@@ -285,6 +445,16 @@
       "discovered": "2026-03-26",
       "already_have": false,
       "suggested_slug": "cloudconvert"
+    },
+    {
+      "keyword": "123apps online voice recorder",
+      "root": "voice recorder online",
+      "prefix": "online",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "123apps-voice-recorder"
     },
     {
       "keyword": "crop video online",
@@ -357,6 +527,16 @@
       "suggested_slug": "wav-ninja"
     },
     {
+      "keyword": "digital voice recorder",
+      "root": "voice recorder online",
+      "prefix": "",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "digital-voice-recorder"
+    },
+    {
       "keyword": "how to make a gif",
       "root": "video to gif",
       "prefix": "",
@@ -417,6 +597,56 @@
       "suggested_slug": "spotify-to-mp3-converter-free"
     },
     {
+      "keyword": "minimax audio",
+      "root": "audio to text free",
+      "prefix": "free",
+      "trend_score": 200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "minimax-audio"
+    },
+    {
+      "keyword": "remove background from gif",
+      "root": "webp to gif",
+      "prefix": "",
+      "trend_score": 200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "remove-background-from-gif"
+    },
+    {
+      "keyword": "apng to gif",
+      "root": "webp to gif",
+      "prefix": "",
+      "trend_score": 190,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "apng-to-gif"
+    },
+    {
+      "keyword": "remove bg",
+      "root": "gif to webp",
+      "prefix": "",
+      "trend_score": 190,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "remove-bg"
+    },
+    {
+      "keyword": "best free text to speech online",
+      "root": "text to speech online free",
+      "prefix": "free",
+      "trend_score": 180,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "best-text-to-speech-online"
+    },
+    {
       "keyword": "gif from video",
       "root": "video to gif",
       "prefix": "",
@@ -457,6 +687,36 @@
       "suggested_slug": "video-to-live-photo"
     },
     {
+      "keyword": "text to speech app",
+      "root": "text to speech online free",
+      "prefix": "online",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-app"
+    },
+    {
+      "keyword": "m4a to mp4",
+      "root": "audio to text free",
+      "prefix": "free",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "m4a-to-mp4"
+    },
+    {
+      "keyword": "convert avif to png",
+      "root": "avif to png",
+      "prefix": "free",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "convert-avif-to-png"
+    },
+    {
       "keyword": "video to transcript converter",
       "root": "video converter online free",
       "prefix": "online",
@@ -467,6 +727,26 @@
       "suggested_slug": "video-to-transcript-converter"
     },
     {
+      "keyword": "vocal remover online free",
+      "root": "remove vocal from song",
+      "prefix": "free",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "vocal-remover-free"
+    },
+    {
+      "keyword": "webm to mp4",
+      "root": "gif to webp",
+      "prefix": "",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "webm-to-mp4"
+    },
+    {
       "keyword": "best video compressor app",
       "root": "video compressor free",
       "prefix": "free",
@@ -475,6 +755,26 @@
       "discovered": "2026-03-26",
       "already_have": false,
       "suggested_slug": "best-video-compressor-app"
+    },
+    {
+      "keyword": "is speechify free",
+      "root": "audio to text free",
+      "prefix": "",
+      "trend_score": 130,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "is-speechify-free"
+    },
+    {
+      "keyword": "webp to jpeg",
+      "root": "gif to webp",
+      "prefix": "",
+      "trend_score": 130,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "webp-to-jpeg"
     },
     {
       "keyword": "make video to gif",
@@ -517,6 +817,26 @@
       "suggested_slug": "photo-to-video-free"
     },
     {
+      "keyword": "avif to jpeg",
+      "root": "avif to png",
+      "prefix": "",
+      "trend_score": 110,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpeg"
+    },
+    {
+      "keyword": "image upscaler",
+      "root": "avif to png",
+      "prefix": "",
+      "trend_score": 110,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "image-upscaler"
+    },
+    {
       "keyword": "best video compressor",
       "root": "video compressor free",
       "prefix": "free",
@@ -557,6 +877,36 @@
       "suggested_slug": "wav-to-mo3"
     },
     {
+      "keyword": "gif to jpeg",
+      "root": "webp to gif",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "gif-to-jpeg"
+    },
+    {
+      "keyword": "ai image generator",
+      "root": "image to ico",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "image-generator"
+    },
+    {
+      "keyword": "jpeg to ico",
+      "root": "image to ico",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "jpeg-to-ico"
+    },
+    {
       "keyword": "make gif",
       "root": "video to gif",
       "prefix": "",
@@ -587,6 +937,56 @@
       "suggested_slug": "alerts-from-the-national-terrorism-advisory-system-apply-only-to-the-united-states-and-its-possessions."
     },
     {
+      "keyword": "voice recorder app",
+      "root": "voice recorder online",
+      "prefix": "",
+      "trend_score": 90,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-app"
+    },
+    {
+      "keyword": "video recorder",
+      "root": "voice recorder online",
+      "prefix": "",
+      "trend_score": 90,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "video-recorder"
+    },
+    {
+      "keyword": "recorder app",
+      "root": "voice recorder online",
+      "prefix": "online",
+      "trend_score": 90,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "recorder-app"
+    },
+    {
+      "keyword": "how to convert heic to jpg",
+      "root": "heic to jpg online",
+      "prefix": "",
+      "trend_score": 90,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "how-to-convert-heic-to-jpg"
+    },
+    {
+      "keyword": "heic to pdf converter",
+      "root": "heic converter online free",
+      "prefix": "online",
+      "trend_score": 90,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "heic-to-pdf-converter"
+    },
+    {
       "keyword": "add audio to video ai",
       "root": "video to audio",
       "prefix": "",
@@ -605,336 +1005,6 @@
       "discovered": "2026-03-26",
       "already_have": false,
       "suggested_slug": "audio-books"
-    },
-    {
-      "keyword": "flac to wav",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "flac-to-wav"
-    },
-    {
-      "keyword": "image to video ai",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "image-to-video-ai"
-    },
-    {
-      "keyword": "how to convert webm to mp4",
-      "root": "mp4 to webm",
-      "prefix": "free",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "how-to-convert-webm-to-mp4"
-    },
-    {
-      "keyword": "obs screen recorder",
-      "root": "screen recorder online",
-      "prefix": "",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "obs-screen-recorder"
-    },
-    {
-      "keyword": "flac to mp3",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "flac-to-mp3"
-    },
-    {
-      "keyword": "link to wav",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "link-to-wav"
-    },
-    {
-      "keyword": "flac vs wav",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 70,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "flac-vs-wav"
-    },
-    {
-      "keyword": "video to gif app",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "video-to-gif-app"
-    },
-    {
-      "keyword": "ai video generator",
-      "root": "video to gif",
-      "prefix": "free",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "video-generator"
-    },
-    {
-      "keyword": "ai image to video",
-      "root": "video to gif",
-      "prefix": "free",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "image-to-video"
-    },
-    {
-      "keyword": "best mp4 to mp3 converter",
-      "root": "mp4 to mp3 online",
-      "prefix": "",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "best-mp4-to-mp3-converter"
-    },
-    {
-      "keyword": "best mp4 to mp3 converter online",
-      "root": "mp4 to mp3 online",
-      "prefix": "",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "best-mp4-to-mp3-converter-online"
-    },
-    {
-      "keyword": "cloud convert",
-      "root": "video to audio",
-      "prefix": "free",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "cloud-convert"
-    },
-    {
-      "keyword": "audio converter ai",
-      "root": "audio converter online",
-      "prefix": "free",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "audio-converter-ai"
-    },
-    {
-      "keyword": "link to mp3",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "link-to-mp3"
-    },
-    {
-      "keyword": "wav vs mp3",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 60,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "wav-vs-mp3"
-    },
-    {
-      "keyword": "how to compress video",
-      "root": "compress video online",
-      "prefix": "",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "how-to-compress-video"
-    },
-    {
-      "keyword": "how to compress a video on iphone",
-      "root": "video compressor free",
-      "prefix": "free",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "how-to-compress-a-video-on-iphone"
-    },
-    {
-      "keyword": "trim video online",
-      "root": "compress video online",
-      "prefix": "online",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "trim-video-online"
-    },
-    {
-      "keyword": "mov to mp4",
-      "root": "video compressor free",
-      "prefix": "free",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "mov-to-mp4"
-    },
-    {
-      "keyword": "how to turn a video into a live photo",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "how-to-turn-a-video-into-a-live-photo"
-    },
-    {
-      "keyword": "remove background from video",
-      "root": "video to gif",
-      "prefix": "free",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "remove-background-from-video"
-    },
-    {
-      "keyword": "audio to text converter",
-      "root": "video converter online free",
-      "prefix": "free",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "audio-to-text-converter"
-    },
-    {
-      "keyword": "any video converter free",
-      "root": "video converter online free",
-      "prefix": "online",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "any-video-converter-free"
-    },
-    {
-      "keyword": "audio to video ai free",
-      "root": "video to audio",
-      "prefix": "free",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "audio-to-video-free"
-    },
-    {
-      "keyword": "wav or mp3",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "wav-or-mp3"
-    },
-    {
-      "keyword": "soundcloud to wav",
-      "root": "mp3 to wav",
-      "prefix": "free",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "soundcloud-to-wav"
-    },
-    {
-      "keyword": "yt to wav",
-      "root": "mp3 to wav",
-      "prefix": "free",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "yt-to-wav"
-    },
-    {
-      "keyword": "video compressor app",
-      "root": "video compressor free",
-      "prefix": "",
-      "trend_score": 40,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "video-compressor-app"
-    },
-    {
-      "keyword": "video to live photo converter",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 40,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "video-to-live-photo-converter"
-    },
-    {
-      "keyword": "ffmpeg mp4 to webm",
-      "root": "mp4 to webm",
-      "prefix": "",
-      "trend_score": 40,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "ffmpeg-mp4-to-webm"
-    },
-    {
-      "keyword": "screen recording",
-      "root": "screen recorder online",
-      "prefix": "",
-      "trend_score": 40,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "screen-recording"
-    },
-    {
-      "keyword": "audio cutter online",
-      "root": "mp3 cutter online",
-      "prefix": "free",
-      "trend_score": 40,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "audio-cutter-online"
     }
   ],
   "existing": [
@@ -960,13 +1030,63 @@
     },
     {
       "keyword": "image resizer",
-      "root": "mp3 to wav",
+      "root": "avif to jpg",
+      "prefix": "",
+      "trend_score": 24250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": true,
+      "suggested_slug": "image-resizer"
+    },
+    {
+      "keyword": "unblur image",
+      "root": "remove watermark from image free",
+      "prefix": "",
+      "trend_score": 267600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": true,
+      "suggested_slug": "unblur-image"
+    },
+    {
+      "keyword": "unblur image free",
+      "root": "remove watermark from image free",
+      "prefix": "free",
+      "trend_score": 163200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": true,
+      "suggested_slug": "unblur-image-free"
+    },
+    {
+      "keyword": "image compressor",
+      "root": "avif to jpg",
+      "prefix": "",
+      "trend_score": 650,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": true,
+      "suggested_slug": "image-compressor"
+    },
+    {
+      "keyword": "convert webp to png",
+      "root": "gif to webp",
       "prefix": "",
       "trend_score": 60,
       "source": "google_trends_rising",
       "discovered": "2026-03-26",
       "already_have": true,
-      "suggested_slug": "image-resizer"
+      "suggested_slug": "convert-webp-to-png"
+    },
+    {
+      "keyword": "crop image",
+      "root": "avif to png",
+      "prefix": "",
+      "trend_score": 50,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": true,
+      "suggested_slug": "crop-image"
     }
   ],
   "error_log": []
