@@ -1,9 +1,9 @@
 {
   "date": "2026-03-26",
-  "batch": 1,
-  "total_rising_found": 170,
-  "new_opportunities": 162,
-  "existing_matches": 8,
+  "batch": 3,
+  "total_rising_found": 116,
+  "new_opportunities": 107,
+  "existing_matches": 9,
   "errors": 0,
   "opportunities": [
     {
@@ -717,6 +717,16 @@
       "suggested_slug": "convert-avif-to-png"
     },
     {
+      "keyword": "online ip lookup tool",
+      "root": "ip lookup tool",
+      "prefix": "",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "ip-lookup"
+    },
+    {
       "keyword": "video to transcript converter",
       "root": "video converter online free",
       "prefix": "online",
@@ -745,6 +755,16 @@
       "discovered": "2026-03-26",
       "already_have": false,
       "suggested_slug": "webm-to-mp4"
+    },
+    {
+      "keyword": "markdown vs html",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": false,
+      "suggested_slug": "markdown-vs-html"
     },
     {
       "keyword": "best video compressor app",
@@ -985,26 +1005,6 @@
       "discovered": "2026-03-26",
       "already_have": false,
       "suggested_slug": "heic-to-pdf-converter"
-    },
-    {
-      "keyword": "add audio to video ai",
-      "root": "video to audio",
-      "prefix": "",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "add-audio-to-video-ai"
-    },
-    {
-      "keyword": "free audio books",
-      "root": "video to audio",
-      "prefix": "free",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-26",
-      "already_have": false,
-      "suggested_slug": "audio-books"
     }
   ],
   "existing": [
@@ -1087,6 +1087,16 @@
       "discovered": "2026-03-26",
       "already_have": true,
       "suggested_slug": "crop-image"
+    },
+    {
+      "keyword": "json formatter",
+      "root": "code formatter online",
+      "prefix": "online",
+      "trend_score": 40,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-26",
+      "already_have": true,
+      "suggested_slug": "json-formatter"
     }
   ],
   "error_log": []

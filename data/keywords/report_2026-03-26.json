@@ -1,10 +1,10 @@
 {
   "date": "2026-03-26",
   "stats": {
-    "trends_total": 170,
-    "suggest_total": 1179
+    "trends_total": 116,
+    "suggest_total": 1477
   },
-  "total_opportunities": 1274,
+  "total_opportunities": 1569,
   "top_50": [
     {
       "keyword": "ai voice generator free",
@@ -364,21 +364,6 @@
       "difficulty": "",
       "search_volume": 14800,
       "cpc": 2.9,
-      "competition": 0.5
-    },
-    {
-      "keyword": "free audio books",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "audio-books",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 670,
-      "difficulty": "需WASM",
-      "search_volume": 60500,
-      "cpc": 3.89,
       "competition": 0.5
     },
     {
@@ -755,6 +740,21 @@
       "search_volume": 2400,
       "cpc": 1.07,
       "competition": 0.2
+    },
+    {
+      "keyword": "stereo to mono converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 83350,
+      "suggested_slug": "stereo-to-mono-converter",
+      "root": "audio converter online",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "",
+      "search_volume": 720,
+      "cpc": 1,
+      "competition": 0.5
     }
   ]
 }
