@@ -1,10 +1,10 @@
 {
   "date": "2026-03-26",
   "stats": {
-    "trends_total": 165,
-    "suggest_total": 1814
+    "trends_total": 158,
+    "suggest_total": 2133
   },
-  "total_opportunities": 1899,
+  "total_opportunities": 2212,
   "top_50": [
     {
       "keyword": "ai voice generator free",
@@ -80,6 +80,51 @@
       "search_volume": 12100,
       "cpc": 0.11,
       "competition": 0.2
+    },
+    {
+      "keyword": "best discount auto insurance",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 101500,
+      "suggested_slug": "best-discount-auto-insurance",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 1020,
+      "difficulty": "纯前端",
+      "search_volume": 40500,
+      "cpc": 86.86,
+      "competition": 0.8
+    },
+    {
+      "keyword": "chipotle nutrition calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 10200,
+      "suggested_slug": "chipotle-nutrition-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 165000,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "tax calculator 2025",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1250,
+      "suggested_slug": "tax-calculator-2025",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 33100,
+      "cpc": 2.65,
+      "competition": 0.5
     },
     {
       "keyword": "online payments",
@@ -262,6 +307,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "cloudconvert",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 48800,
+      "suggested_slug": "cloudconvert",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 74000,
+      "cpc": 3,
+      "competition": 0.2
+    },
+    {
       "keyword": "allstate auto insurance",
       "sources": [
         "trends_rising"
@@ -335,6 +395,21 @@
       "search_volume": 40500,
       "cpc": 3.25,
       "competition": 0.8
+    },
+    {
+      "keyword": "todays date",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 17450,
+      "suggested_slug": "todays-date",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 823000,
+      "cpc": 1.36,
+      "competition": 0.2
     },
     {
       "keyword": "nvidia news today",
@@ -517,6 +592,81 @@
       "competition": 0.2
     },
     {
+      "keyword": "virustotal",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 950,
+      "suggested_slug": "virustotal",
+      "root": "zip file online",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "",
+      "search_volume": 246000,
+      "cpc": 7.59,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 450,
+      "suggested_slug": "pdf-converter",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 135000,
+      "cpc": 1.52,
+      "competition": 0.5
+    },
+    {
+      "keyword": "peptide calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 400,
+      "suggested_slug": "peptide-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 165000,
+      "cpc": 2.13,
+      "competition": 0.2
+    },
+    {
+      "keyword": "catalytic converter cleaner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 400,
+      "suggested_slug": "catalytic-converter-cleaner",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 60500,
+      "cpc": 0.33,
+      "competition": 0.8
+    },
+    {
+      "keyword": "google tip calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 350,
+      "suggested_slug": "google-tip-calculator",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 27100,
+      "cpc": 0.66,
+      "competition": 0.2
+    },
+    {
       "keyword": "personal loan calculator",
       "sources": [
         "trends_rising"
@@ -530,6 +680,36 @@
       "search_volume": 135000,
       "cpc": 7.44,
       "competition": 0.5
+    },
+    {
+      "keyword": "car loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "car-loan-calculator",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 673000,
+      "cpc": 0.99,
+      "competition": 0.2
+    },
+    {
+      "keyword": "adp paycheck calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "adp-paycheck-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 201000,
+      "cpc": 19.41,
+      "competition": 0.2
     },
     {
       "keyword": "business loan calculator",
@@ -575,186 +755,6 @@
       "search_volume": 110000,
       "cpc": 0.95,
       "competition": 0.5
-    },
-    {
-      "keyword": "text to speech free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 250,
-      "suggested_slug": "text-to-speech-free",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 650,
-      "difficulty": "纯前端",
-      "search_volume": 40500,
-      "cpc": 2.86,
-      "competition": 0.5
-    },
-    {
-      "keyword": "capcut",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 400,
-      "suggested_slug": "capcut",
-      "root": "compress video online",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 1000000,
-      "cpc": 0.76,
-      "competition": 0.2
-    },
-    {
-      "keyword": "fish audio",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 400,
-      "suggested_slug": "fish-audio",
-      "root": "audio to text free",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 18100,
-      "cpc": 0.2,
-      "competition": 0.2
-    },
-    {
-      "keyword": "soundcloud to mp3",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 350,
-      "suggested_slug": "soundcloud-to-mp3",
-      "root": "wav to mp3 online",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 90500,
-      "cpc": 7.04,
-      "competition": 0.2
-    },
-    {
-      "keyword": "cloudconvert",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 300,
-      "suggested_slug": "cloudconvert",
-      "root": "audio converter online",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "",
-      "search_volume": 74000,
-      "cpc": 3,
-      "competition": 0.2
-    },
-    {
-      "keyword": "mp3tag",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 250,
-      "suggested_slug": "mp3tag",
-      "root": "mp3 to wav",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 12100,
-      "cpc": 1.3,
-      "competition": 0.2
-    },
-    {
-      "keyword": "remove bg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 190,
-      "suggested_slug": "remove-bg",
-      "root": "gif to webp",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "",
-      "search_volume": 1220000,
-      "cpc": 2.1,
-      "competition": 0.2
-    },
-    {
-      "keyword": "make a gif",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 160,
-      "suggested_slug": "make-a-gif",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 33100,
-      "cpc": 1.86,
-      "competition": 0.2
-    },
-    {
-      "keyword": "webm to mp4",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 140,
-      "suggested_slug": "webm-to-mp4",
-      "root": "gif to webp",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 22200,
-      "cpc": 0.29,
-      "competition": 0.2
-    },
-    {
-      "keyword": "image to video ai free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 200,
-      "suggested_slug": "image-to-video-free",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 630,
-      "difficulty": "需WASM",
-      "search_volume": 12100,
-      "cpc": 1.72,
-      "competition": 0.5
-    },
-    {
-      "keyword": "remove blur from photo online free without watermark",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 103300,
-      "suggested_slug": "remove-blur-from-photo-without-watermark",
-      "root": "remove watermark from image free",
-      "already_have": false,
-      "combined_score": 610,
-      "difficulty": "需WASM",
-      "search_volume": 110,
-      "cpc": 1.88,
-      "competition": 0.5
-    },
-    {
-      "keyword": "watermark remover video online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 14850,
-      "suggested_slug": "watermark-remover-video-free",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 610,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.79,
-      "competition": 0.2
     }
   ]
 }
