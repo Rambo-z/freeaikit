@@ -1,10 +1,10 @@
 {
   "date": "2026-03-27",
   "stats": {
-    "trends_total": 177,
-    "suggest_total": 1188
+    "trends_total": 119,
+    "suggest_total": 1481
   },
-  "total_opportunities": 1280,
+  "total_opportunities": 1569,
   "top_50": [
     {
       "keyword": "soundcloud to mp3",
@@ -472,6 +472,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "html to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "html-to-pdf",
+      "root": "html to markdown",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "纯前端",
+      "search_volume": 18100,
+      "cpc": 1.94,
+      "competition": 0.2
+    },
+    {
       "keyword": "ez gif",
       "sources": [
         "trends_rising"
@@ -740,21 +755,6 @@
       "difficulty": "需WASM",
       "search_volume": 30,
       "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "how to make a gif from video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 600,
-      "suggested_slug": "how-to-make-a-gif-from-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.8,
       "competition": 0.2
     }
   ]

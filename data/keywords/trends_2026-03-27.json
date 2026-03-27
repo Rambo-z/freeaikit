@@ -1,9 +1,9 @@
 {
   "date": "2026-03-27",
-  "batch": 1,
-  "total_rising_found": 177,
-  "new_opportunities": 166,
-  "existing_matches": 11,
+  "batch": 3,
+  "total_rising_found": 119,
+  "new_opportunities": 107,
+  "existing_matches": 12,
   "errors": 0,
   "opportunities": [
     {
@@ -577,6 +577,16 @@
       "suggested_slug": "avif-to-jpg"
     },
     {
+      "keyword": "online ip lookup tool",
+      "root": "ip lookup tool",
+      "prefix": "",
+      "trend_score": 180,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "ip-lookup"
+    },
+    {
       "keyword": "make a gif",
       "root": "video to gif",
       "prefix": "",
@@ -667,6 +677,16 @@
       "suggested_slug": "photo-compressor"
     },
     {
+      "keyword": "html to pdf",
+      "root": "html to markdown",
+      "prefix": "online",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "html-to-pdf"
+    },
+    {
       "keyword": "gif cropper",
       "root": "video to gif",
       "prefix": "free",
@@ -685,6 +705,16 @@
       "discovered": "2026-03-27",
       "already_have": false,
       "suggested_slug": "apng-to-gif"
+    },
+    {
+      "keyword": "markdown vs html",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "markdown-vs-html"
     },
     {
       "keyword": "convert video to text",
@@ -725,6 +755,16 @@
       "discovered": "2026-03-27",
       "already_have": false,
       "suggested_slug": "convert-heic-to-jpg"
+    },
+    {
+      "keyword": "markdown to docx",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 130,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "markdown-to-docx"
     },
     {
       "keyword": "best free video compressor",
@@ -927,6 +967,16 @@
       "suggested_slug": "crop-gif"
     },
     {
+      "keyword": "markdown to html online",
+      "root": "markdown to html",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "markdown-to-html-online"
+    },
+    {
       "keyword": "crop video online",
       "root": "compress video online",
       "prefix": "online",
@@ -955,56 +1005,6 @@
       "discovered": "2026-03-27",
       "already_have": false,
       "suggested_slug": "video-converter-mov-to-mp4"
-    },
-    {
-      "keyword": "webm to mp3",
-      "root": "mp4 to mp3 online",
-      "prefix": "online",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "webm-to-mp3"
-    },
-    {
-      "keyword": "heic to pdf converter",
-      "root": "heic converter online free",
-      "prefix": "online",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "heic-to-pdf-converter"
-    },
-    {
-      "keyword": "remove background from gif",
-      "root": "gif to webp",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "remove-background-from-gif"
-    },
-    {
-      "keyword": "convert webp to mp4",
-      "root": "gif to webp",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "convert-webp-to-mp4"
-    },
-    {
-      "keyword": "avif file to jpg",
-      "root": "avif to jpg",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "avif-file-to-jpg"
     }
   ],
   "existing": [
@@ -1117,6 +1117,16 @@
       "discovered": "2026-03-27",
       "already_have": true,
       "suggested_slug": "convert-webp-to-jpg"
+    },
+    {
+      "keyword": "markdown editor online",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 50,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": true,
+      "suggested_slug": "markdown-editor-online"
     }
   ],
   "error_log": []
