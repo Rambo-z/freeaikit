@@ -1,9 +1,9 @@
 {
   "date": "2026-03-27",
-  "batch": 3,
-  "total_rising_found": 119,
-  "new_opportunities": 107,
-  "existing_matches": 12,
+  "batch": 4,
+  "total_rising_found": 159,
+  "new_opportunities": 146,
+  "existing_matches": 13,
   "errors": 0,
   "opportunities": [
     {
@@ -57,6 +57,16 @@
       "suggested_slug": "image-upscaler-free"
     },
     {
+      "keyword": "online car insurance quotes",
+      "root": "loan calculator online",
+      "prefix": "",
+      "trend_score": 154250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "car-insurance-quotes"
+    },
+    {
       "keyword": "ai news today",
       "root": "video to audio",
       "prefix": "online",
@@ -75,6 +85,26 @@
       "discovered": "2026-03-27",
       "already_have": false,
       "suggested_slug": "mp4-to-gif"
+    },
+    {
+      "keyword": "automobile loan calculator",
+      "root": "loan calculator online",
+      "prefix": "",
+      "trend_score": 92800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "automobile-loan-calculator"
+    },
+    {
+      "keyword": "allstate auto insurance",
+      "root": "loan calculator online",
+      "prefix": "online",
+      "trend_score": 81350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "allstate-auto-insurance"
     },
     {
       "keyword": "mp3 to ogg",
@@ -107,6 +137,16 @@
       "suggested_slug": "trim-video"
     },
     {
+      "keyword": "toyota camry",
+      "root": "loan calculator online",
+      "prefix": "",
+      "trend_score": 51300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "toyota-camry"
+    },
+    {
       "keyword": "video link to audio converter online free mp4",
       "root": "video converter online free",
       "prefix": "free",
@@ -115,6 +155,26 @@
       "discovered": "2026-03-27",
       "already_have": false,
       "suggested_slug": "video-link-to-audio-converter-mp4"
+    },
+    {
+      "keyword": "toyota sienna",
+      "root": "loan calculator online",
+      "prefix": "",
+      "trend_score": 38950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "toyota-sienna"
+    },
+    {
+      "keyword": "auto loan amortization calculator",
+      "root": "loan calculator online",
+      "prefix": "",
+      "trend_score": 33950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "auto-loan-amortization-calculator"
     },
     {
       "keyword": "online casino casino.us",
@@ -127,6 +187,16 @@
       "suggested_slug": "casino-casino.us"
     },
     {
+      "keyword": "renters insurance online quote",
+      "root": "loan calculator online",
+      "prefix": "",
+      "trend_score": 32950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "renters-insurance-quote"
+    },
+    {
       "keyword": "ai voice generator",
       "root": "mp4 to mp3 online",
       "prefix": "",
@@ -135,6 +205,36 @@
       "discovered": "2026-03-27",
       "already_have": false,
       "suggested_slug": "voice-generator"
+    },
+    {
+      "keyword": "allstate auto",
+      "root": "loan calculator online",
+      "prefix": "",
+      "trend_score": 28850,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "allstate-auto"
+    },
+    {
+      "keyword": "u of a online",
+      "root": "loan calculator online",
+      "prefix": "online",
+      "trend_score": 27900,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "u-of-a-online"
+    },
+    {
+      "keyword": "audiobooks apple",
+      "root": "loan calculator online",
+      "prefix": "",
+      "trend_score": 26050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "audiobooks-apple"
     },
     {
       "keyword": "best online casino casino.us",
@@ -185,6 +285,16 @@
       "discovered": "2026-03-27",
       "already_have": false,
       "suggested_slug": "nvidia-news-today"
+    },
+    {
+      "keyword": "vehicle loan payment calculator",
+      "root": "loan calculator online",
+      "prefix": "free",
+      "trend_score": 16800,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "vehicle-loan-payment-calculator"
     },
     {
       "keyword": "markets news today",
@@ -357,6 +467,16 @@
       "suggested_slug": "ttsmaker"
     },
     {
+      "keyword": "best free logo maker online",
+      "root": "logo maker free online",
+      "prefix": "free",
+      "trend_score": 400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "best-logo-maker-online"
+    },
+    {
       "keyword": "make gif from video",
       "root": "video to gif",
       "prefix": "",
@@ -487,6 +607,36 @@
       "suggested_slug": "tiny-png"
     },
     {
+      "keyword": "prevent online calculator",
+      "root": "bmi calculator online",
+      "prefix": "online",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "prevent-calculator"
+    },
+    {
+      "keyword": "loan calculator personal loan",
+      "root": "loan calculator online",
+      "prefix": "free",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "loan-calculator-personal-loan"
+    },
+    {
+      "keyword": "personal loan calculator",
+      "root": "loan calculator online",
+      "prefix": "free",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "personal-loan-calculator"
+    },
+    {
       "keyword": "how to make a gif",
       "root": "video to gif",
       "prefix": "",
@@ -527,6 +677,16 @@
       "suggested_slug": "best-text-to-speech-online"
     },
     {
+      "keyword": "business loan calculator",
+      "root": "loan calculator online",
+      "prefix": "",
+      "trend_score": 200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "business-loan-calculator"
+    },
+    {
       "keyword": "m4a to mp3",
       "root": "audio to text free",
       "prefix": "free",
@@ -535,6 +695,16 @@
       "discovered": "2026-03-27",
       "already_have": false,
       "suggested_slug": "m4a-to-mp3"
+    },
+    {
+      "keyword": "company logo maker online free",
+      "root": "logo maker free online",
+      "prefix": "online",
+      "trend_score": 190,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "company-logo-maker-free"
     },
     {
       "keyword": "how to make a video a gif",
@@ -657,6 +827,16 @@
       "suggested_slug": "mp3-vs-wav"
     },
     {
+      "keyword": "car auto loan calculator",
+      "root": "loan calculator online",
+      "prefix": "free",
+      "trend_score": 160,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "car-auto-loan-calculator"
+    },
+    {
       "keyword": "capcut",
       "root": "mp4 to webm",
       "prefix": "",
@@ -685,6 +865,16 @@
       "discovered": "2026-03-27",
       "already_have": false,
       "suggested_slug": "html-to-pdf"
+    },
+    {
+      "keyword": "glp 1 online",
+      "root": "bmi calculator online",
+      "prefix": "online",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": false,
+      "suggested_slug": "glp-1-online"
     },
     {
       "keyword": "gif cropper",
@@ -815,196 +1005,6 @@
       "discovered": "2026-03-27",
       "already_have": false,
       "suggested_slug": "ez-gif"
-    },
-    {
-      "keyword": "best video compressor",
-      "root": "video compressor free",
-      "prefix": "free",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "best-video-compressor"
-    },
-    {
-      "keyword": "text now",
-      "root": "voice to text online",
-      "prefix": "",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "text-now"
-    },
-    {
-      "keyword": "extract audio from video",
-      "root": "audio to text free",
-      "prefix": "",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "extract-audio-from-video"
-    },
-    {
-      "keyword": "is speechify free",
-      "root": "audio to text free",
-      "prefix": "",
-      "trend_score": 110,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "is-speechify-free"
-    },
-    {
-      "keyword": "resize video",
-      "root": "video compressor free",
-      "prefix": "free",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "resize-video"
-    },
-    {
-      "keyword": "make video to gif",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "make-video-to-gif"
-    },
-    {
-      "keyword": "make gif",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "make-gif"
-    },
-    {
-      "keyword": "video to live photo",
-      "root": "video converter online free",
-      "prefix": "free",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "video-to-live-photo"
-    },
-    {
-      "keyword": "mp3 vs mp4",
-      "root": "mp4 to mp3 online",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "mp3-vs-mp4"
-    },
-    {
-      "keyword": "mp4 to avi",
-      "root": "mp4 to webm",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "mp4-to-avi"
-    },
-    {
-      "keyword": "webm to mp4",
-      "root": "webp to gif",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "webm-to-mp4"
-    },
-    {
-      "keyword": "convert speech to text online free",
-      "root": "text to speech online free",
-      "prefix": "free",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "convert-speech-to-text-free"
-    },
-    {
-      "keyword": "webp to jpeg",
-      "root": "webp to gif",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "webp-to-jpeg"
-    },
-    {
-      "keyword": "gif to jpeg",
-      "root": "gif to webp",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "gif-to-jpeg"
-    },
-    {
-      "keyword": "crop gif",
-      "root": "gif to webp",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "crop-gif"
-    },
-    {
-      "keyword": "markdown to html online",
-      "root": "markdown to html",
-      "prefix": "",
-      "trend_score": 100,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "markdown-to-html-online"
-    },
-    {
-      "keyword": "crop video online",
-      "root": "compress video online",
-      "prefix": "online",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "crop-video-online"
-    },
-    {
-      "keyword": "video to transcript",
-      "root": "video to audio",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "video-to-transcript"
-    },
-    {
-      "keyword": "online video converter mov to mp4",
-      "root": "mp4 to mp3 online",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-27",
-      "already_have": false,
-      "suggested_slug": "video-converter-mov-to-mp4"
     }
   ],
   "existing": [
@@ -1127,6 +1127,16 @@
       "discovered": "2026-03-27",
       "already_have": true,
       "suggested_slug": "markdown-editor-online"
+    },
+    {
+      "keyword": "background remover",
+      "root": "logo maker free online",
+      "prefix": "",
+      "trend_score": 110,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-27",
+      "already_have": true,
+      "suggested_slug": "background-remover"
     }
   ],
   "error_log": []
