@@ -1,11 +1,21 @@
 {
   "date": "2026-03-28",
-  "batch": 1,
-  "total_rising_found": 184,
-  "new_opportunities": 173,
+  "batch": 3,
+  "total_rising_found": 117,
+  "new_opportunities": 106,
   "existing_matches": 11,
   "errors": 0,
   "opportunities": [
+    {
+      "keyword": "markdown to pdf",
+      "root": "html to markdown",
+      "prefix": "online",
+      "trend_score": 1426300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-28",
+      "already_have": false,
+      "suggested_slug": "markdown-to-pdf"
+    },
     {
       "keyword": "soundcloud to wav",
       "root": "wav to mp3 online",
@@ -717,6 +727,16 @@
       "suggested_slug": "gif-cropper"
     },
     {
+      "keyword": "markdown vs html",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-28",
+      "already_have": false,
+      "suggested_slug": "markdown-vs-html"
+    },
+    {
       "keyword": "free audio books",
       "root": "video to audio",
       "prefix": "free",
@@ -917,6 +937,16 @@
       "suggested_slug": "webp-to-gif"
     },
     {
+      "keyword": "online ip lookup tool",
+      "root": "ip lookup tool",
+      "prefix": "",
+      "trend_score": 100,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-28",
+      "already_have": false,
+      "suggested_slug": "ip-lookup"
+    },
+    {
       "keyword": "gif compressor for discord",
       "root": "video to gif",
       "prefix": "",
@@ -975,36 +1005,6 @@
       "discovered": "2026-03-28",
       "already_have": false,
       "suggested_slug": "jpeg-vs-png"
-    },
-    {
-      "keyword": "avif to jpg",
-      "root": "gif to webp",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-28",
-      "already_have": false,
-      "suggested_slug": "avif-to-jpg"
-    },
-    {
-      "keyword": "webp to ico",
-      "root": "image to ico",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-28",
-      "already_have": false,
-      "suggested_slug": "webp-to-ico"
-    },
-    {
-      "keyword": "video to transcript converter",
-      "root": "video converter online free",
-      "prefix": "free",
-      "trend_score": 80,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-28",
-      "already_have": false,
-      "suggested_slug": "video-to-transcript-converter"
     }
   ],
   "existing": [

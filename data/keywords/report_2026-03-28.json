@@ -1,10 +1,10 @@
 {
   "date": "2026-03-28",
   "stats": {
-    "trends_total": 184,
-    "suggest_total": 1173
+    "trends_total": 117,
+    "suggest_total": 1472
   },
-  "total_opportunities": 1267,
+  "total_opportunities": 1563,
   "top_50": [
     {
       "keyword": "gif compressor",
@@ -19,6 +19,21 @@
       "difficulty": "需WASM",
       "search_volume": 40500,
       "cpc": 1.06,
+      "competition": 0.2
+    },
+    {
+      "keyword": "markdown to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1426300,
+      "suggested_slug": "markdown-to-pdf",
+      "root": "html to markdown",
+      "already_have": false,
+      "combined_score": 1040,
+      "difficulty": "纯前端",
+      "search_volume": 12100,
+      "cpc": 3.81,
       "competition": 0.2
     },
     {
@@ -544,21 +559,6 @@
       "difficulty": "需WASM",
       "search_volume": 18100,
       "cpc": 1.33,
-      "competition": 0.2
-    },
-    {
-      "keyword": "avif to jpg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "avif-to-jpg",
-      "root": "gif to webp",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 33100,
-      "cpc": 0.51,
       "competition": 0.2
     },
     {
