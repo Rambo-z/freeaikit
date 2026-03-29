@@ -1,11 +1,21 @@
 {
   "date": "2026-03-29",
-  "batch": 1,
-  "total_rising_found": 165,
-  "new_opportunities": 154,
-  "existing_matches": 11,
+  "batch": 3,
+  "total_rising_found": 122,
+  "new_opportunities": 109,
+  "existing_matches": 13,
   "errors": 0,
   "opportunities": [
+    {
+      "keyword": "markdown to pdf",
+      "root": "html to markdown",
+      "prefix": "online",
+      "trend_score": 1776200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-29",
+      "already_have": false,
+      "suggested_slug": "markdown-to-pdf"
+    },
     {
       "keyword": "image upscaler free",
       "root": "remove watermark from image free",
@@ -397,6 +407,16 @@
       "suggested_slug": "avf-to-png"
     },
     {
+      "keyword": "markdown to docx",
+      "root": "markdown to html",
+      "prefix": "",
+      "trend_score": 550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-29",
+      "already_have": false,
+      "suggested_slug": "markdown-to-docx"
+    },
+    {
       "keyword": "make a gif from video",
       "root": "video to gif",
       "prefix": "",
@@ -435,6 +455,16 @@
       "discovered": "2026-03-29",
       "already_have": false,
       "suggested_slug": "make-gif-from-video"
+    },
+    {
+      "keyword": "html to pdf",
+      "root": "html to markdown",
+      "prefix": "online",
+      "trend_score": 350,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-29",
+      "already_have": false,
+      "suggested_slug": "html-to-pdf"
     },
     {
       "keyword": "image to video ai free",
@@ -647,6 +677,16 @@
       "suggested_slug": "best-mp4-to-mp3-converter"
     },
     {
+      "keyword": "markdown vs html",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-29",
+      "already_have": false,
+      "suggested_slug": "markdown-vs-html"
+    },
+    {
       "keyword": "make a gif",
       "root": "video to gif",
       "prefix": "",
@@ -715,6 +755,16 @@
       "discovered": "2026-03-29",
       "already_have": false,
       "suggested_slug": "remove-background-free"
+    },
+    {
+      "keyword": "css gradient generator",
+      "root": "box shadow generator css",
+      "prefix": "",
+      "trend_score": 130,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-29",
+      "already_have": false,
+      "suggested_slug": "css-gradient-generator"
     },
     {
       "keyword": "how to make gif",
@@ -955,56 +1005,6 @@
       "discovered": "2026-03-29",
       "already_have": false,
       "suggested_slug": "text-to-speech-free"
-    },
-    {
-      "keyword": "ai video generator",
-      "root": "video to gif",
-      "prefix": "free",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-29",
-      "already_have": false,
-      "suggested_slug": "video-generator"
-    },
-    {
-      "keyword": "video to live photo",
-      "root": "video converter online free",
-      "prefix": "online",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-29",
-      "already_have": false,
-      "suggested_slug": "video-to-live-photo"
-    },
-    {
-      "keyword": "mp3 vs mp4",
-      "root": "mp4 to mp3 online",
-      "prefix": "online",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-29",
-      "already_have": false,
-      "suggested_slug": "mp3-vs-mp4"
-    },
-    {
-      "keyword": "online video cutter",
-      "root": "mp4 to mp3 online",
-      "prefix": "online",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-29",
-      "already_have": false,
-      "suggested_slug": "video-cutter"
-    },
-    {
-      "keyword": "url to wav",
-      "root": "mp3 to wav",
-      "prefix": "",
-      "trend_score": 90,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-29",
-      "already_have": false,
-      "suggested_slug": "url-to-wav"
     }
   ],
   "existing": [
@@ -1117,6 +1117,26 @@
       "discovered": "2026-03-29",
       "already_have": true,
       "suggested_slug": "color-picker"
+    },
+    {
+      "keyword": "csv to json converter",
+      "root": "json to csv online",
+      "prefix": "free",
+      "trend_score": 1947950,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-29",
+      "already_have": true,
+      "suggested_slug": "csv-to-json-converter"
+    },
+    {
+      "keyword": "markdown editor online",
+      "root": "markdown to html",
+      "prefix": "",
+      "trend_score": 40,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-29",
+      "already_have": true,
+      "suggested_slug": "markdown-editor-online"
     }
   ],
   "error_log": []

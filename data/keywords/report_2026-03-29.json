@@ -1,11 +1,26 @@
 {
   "date": "2026-03-29",
   "stats": {
-    "trends_total": 165,
-    "suggest_total": 1205
+    "trends_total": 122,
+    "suggest_total": 1505
   },
-  "total_opportunities": 1299,
+  "total_opportunities": 1596,
   "top_50": [
+    {
+      "keyword": "markdown to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1776200,
+      "suggested_slug": "markdown-to-pdf",
+      "root": "html to markdown",
+      "already_have": false,
+      "combined_score": 1040,
+      "difficulty": "纯前端",
+      "search_volume": 12100,
+      "cpc": 3.81,
+      "competition": 0.2
+    },
     {
       "keyword": "capcut",
       "sources": [
@@ -352,21 +367,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "ai video generator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "video-generator",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 246000,
-      "cpc": 3.41,
-      "competition": 0.5
-    },
-    {
       "keyword": "free audio books",
       "sources": [
         "trends_rising"
@@ -424,6 +424,21 @@
       "difficulty": "需WASM",
       "search_volume": 49500,
       "cpc": 0.04,
+      "competition": 0.2
+    },
+    {
+      "keyword": "html to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 350,
+      "suggested_slug": "html-to-pdf",
+      "root": "html to markdown",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "纯前端",
+      "search_volume": 18100,
+      "cpc": 1.94,
       "competition": 0.2
     },
     {
@@ -740,21 +755,6 @@
       "difficulty": "需WASM",
       "search_volume": 590,
       "cpc": 1.91,
-      "competition": 0.2
-    },
-    {
-      "keyword": "online video cutter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "video-cutter",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 6600,
-      "cpc": 2.54,
       "competition": 0.2
     }
   ]
