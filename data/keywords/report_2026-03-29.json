@@ -1,11 +1,41 @@
 {
   "date": "2026-03-29",
   "stats": {
-    "trends_total": 166,
-    "suggest_total": 1854
+    "trends_total": 170,
+    "suggest_total": 2186
   },
-  "total_opportunities": 1938,
+  "total_opportunities": 2266,
   "top_50": [
+    {
+      "keyword": "auto loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 220650,
+      "suggested_slug": "auto-loan-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 1090,
+      "difficulty": "纯前端",
+      "search_volume": 823000,
+      "cpc": 1.02,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ebay calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 205950,
+      "suggested_slug": "ebay-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 1090,
+      "difficulty": "纯前端",
+      "search_volume": 14800,
+      "cpc": 21.58,
+      "competition": 0.2
+    },
     {
       "keyword": "loan calculator automobile",
       "sources": [
@@ -19,6 +49,21 @@
       "difficulty": "纯前端",
       "search_volume": 673000,
       "cpc": 0.99,
+      "competition": 0.2
+    },
+    {
+      "keyword": "university of arizona online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 115500,
+      "suggested_slug": "university-of-arizona-online",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 1050,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 10.89,
       "competition": 0.2
     },
     {
@@ -127,6 +172,21 @@
       "competition": 0.5
     },
     {
+      "keyword": "bmi calculator women",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 13000,
+      "suggested_slug": "bmi-calculator-women",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 246000,
+      "cpc": 0.96,
+      "competition": 0.5
+    },
+    {
       "keyword": "ratio calculator",
       "sources": [
         "trends_rising"
@@ -140,6 +200,51 @@
       "search_volume": 33100,
       "cpc": 8.81,
       "competition": 0.2
+    },
+    {
+      "keyword": "tax refund calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 6050,
+      "suggested_slug": "tax-refund-calculator",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 74000,
+      "cpc": 1.92,
+      "competition": 0.2
+    },
+    {
+      "keyword": "chipotle nutrition calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 5750,
+      "suggested_slug": "chipotle-nutrition-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 165000,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "tax calculator 2025",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1750,
+      "suggested_slug": "tax-calculator-2025",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 33100,
+      "cpc": 2.65,
+      "competition": 0.5
     },
     {
       "keyword": "auto loan payoff calculator",
@@ -202,6 +307,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "ivf due date calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 20550,
+      "suggested_slug": "ivf-due-date-calculator",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "纯前端",
+      "search_volume": 27100,
+      "cpc": 2.41,
+      "competition": 0.2
+    },
+    {
       "keyword": "vehicle insurance quote online",
       "sources": [
         "trends_rising"
@@ -214,21 +334,6 @@
       "difficulty": "",
       "search_volume": 49500,
       "cpc": 127.28,
-      "competition": 0.2
-    },
-    {
-      "keyword": "university of arizona online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 53800,
-      "suggested_slug": "university-of-arizona-online",
-      "root": "loan calculator online",
-      "already_have": false,
-      "combined_score": 850,
-      "difficulty": "",
-      "search_volume": 18100,
-      "cpc": 10.89,
       "competition": 0.2
     },
     {
@@ -350,6 +455,21 @@
       "search_volume": 27100,
       "cpc": 30.68,
       "competition": 0.5
+    },
+    {
+      "keyword": "virustotal",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 33650,
+      "suggested_slug": "virustotal",
+      "root": "zip file online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 246000,
+      "cpc": 7.59,
+      "competition": 0.2
     },
     {
       "keyword": "xfinity customer service",
@@ -622,139 +742,19 @@
       "competition": 0.2
     },
     {
-      "keyword": "business loan calculator",
+      "keyword": "pdf converter",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 200,
-      "suggested_slug": "business-loan-calculator",
-      "root": "loan calculator online",
+      "trend_score": 450,
+      "suggested_slug": "pdf-converter",
+      "root": "temperature converter",
       "already_have": false,
       "combined_score": 690,
-      "difficulty": "纯前端",
-      "search_volume": 18100,
-      "cpc": 5.41,
+      "difficulty": "需WASM",
+      "search_volume": 135000,
+      "cpc": 1.52,
       "competition": 0.5
-    },
-    {
-      "keyword": "free audio books",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 160,
-      "suggested_slug": "audio-books",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 670,
-      "difficulty": "需WASM",
-      "search_volume": 60500,
-      "cpc": 3.89,
-      "competition": 0.5
-    },
-    {
-      "keyword": "heic to png",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 400,
-      "suggested_slug": "heic-to-png",
-      "root": "heic to jpg online",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 49500,
-      "cpc": 0.04,
-      "competition": 0.2
-    },
-    {
-      "keyword": "html to pdf",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 350,
-      "suggested_slug": "html-to-pdf",
-      "root": "html to markdown",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "纯前端",
-      "search_volume": 18100,
-      "cpc": 1.94,
-      "competition": 0.2
-    },
-    {
-      "keyword": "m4a to mp3",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 170,
-      "suggested_slug": "m4a-to-mp3",
-      "root": "mp3 cutter online",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 49500,
-      "cpc": 0.84,
-      "competition": 0.2
-    },
-    {
-      "keyword": "make a gif",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 140,
-      "suggested_slug": "make-a-gif",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 33100,
-      "cpc": 1.86,
-      "competition": 0.2
-    },
-    {
-      "keyword": "image to video ai free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 300,
-      "suggested_slug": "image-to-video-free",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 630,
-      "difficulty": "需WASM",
-      "search_volume": 12100,
-      "cpc": 1.72,
-      "competition": 0.5
-    },
-    {
-      "keyword": "remove blur from photo online free without watermark",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 113800,
-      "suggested_slug": "remove-blur-from-photo-without-watermark",
-      "root": "remove watermark from image free",
-      "already_have": false,
-      "combined_score": 610,
-      "difficulty": "需WASM",
-      "search_volume": 110,
-      "cpc": 1.88,
-      "competition": 0.5
-    },
-    {
-      "keyword": "watermark remover video online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9250,
-      "suggested_slug": "watermark-remover-video-free",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 610,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.79,
-      "competition": 0.2
     }
   ]
 }
