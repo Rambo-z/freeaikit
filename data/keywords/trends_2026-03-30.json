@@ -1,8 +1,8 @@
 {
   "date": "2026-03-30",
-  "batch": 0,
-  "total_rising_found": 124,
-  "new_opportunities": 117,
+  "batch": 3,
+  "total_rising_found": 115,
+  "new_opportunities": 108,
   "existing_matches": 7,
   "errors": 0,
   "opportunities": [
@@ -35,6 +35,16 @@
       "discovered": "2026-03-30",
       "already_have": false,
       "suggested_slug": "soundcloud-to-mp3"
+    },
+    {
+      "keyword": "online ping",
+      "root": "dns lookup online",
+      "prefix": "",
+      "trend_score": 179750,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-30",
+      "already_have": false,
+      "suggested_slug": "ping"
     },
     {
       "keyword": "video compressor for discord",
@@ -397,6 +407,16 @@
       "suggested_slug": "audio-books"
     },
     {
+      "keyword": "markdown to pdf",
+      "root": "html to markdown",
+      "prefix": "online",
+      "trend_score": 170,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-30",
+      "already_have": false,
+      "suggested_slug": "markdown-to-pdf"
+    },
+    {
       "keyword": "how to screen record on windows",
       "root": "video to audio",
       "prefix": "free",
@@ -477,6 +497,16 @@
       "suggested_slug": "mp4-to-mp3"
     },
     {
+      "keyword": "markdown vs html",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 140,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-30",
+      "already_have": false,
+      "suggested_slug": "markdown-vs-html"
+    },
+    {
       "keyword": "twitter video downloader hd",
       "root": "video to gif",
       "prefix": "",
@@ -505,6 +535,16 @@
       "discovered": "2026-03-30",
       "already_have": false,
       "suggested_slug": "yourube-to-mp3"
+    },
+    {
+      "keyword": "markdown to docx",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 130,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-30",
+      "already_have": false,
+      "suggested_slug": "markdown-to-docx"
     },
     {
       "keyword": "how to make gif",
@@ -767,6 +807,26 @@
       "suggested_slug": "flac-to-mp3"
     },
     {
+      "keyword": "online ip lookup tool",
+      "root": "ip lookup tool",
+      "prefix": "",
+      "trend_score": 80,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-30",
+      "already_have": false,
+      "suggested_slug": "ip-lookup"
+    },
+    {
+      "keyword": "markdown to html online",
+      "root": "html to markdown",
+      "prefix": "",
+      "trend_score": 80,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-30",
+      "already_have": false,
+      "suggested_slug": "markdown-to-html-online"
+    },
+    {
       "keyword": "ai video maker",
       "root": "video to gif",
       "prefix": "free",
@@ -835,6 +895,16 @@
       "discovered": "2026-03-30",
       "already_have": false,
       "suggested_slug": "flac-to-wav"
+    },
+    {
+      "keyword": "css grid layout",
+      "root": "grid generator css",
+      "prefix": "",
+      "trend_score": 70,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-30",
+      "already_have": false,
+      "suggested_slug": "css-grid-layout"
     },
     {
       "keyword": "free video compressor app",
@@ -935,76 +1005,6 @@
       "discovered": "2026-03-30",
       "already_have": false,
       "suggested_slug": "wav-or-mp3"
-    },
-    {
-      "keyword": "how to compress video",
-      "root": "compress video online",
-      "prefix": "",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-30",
-      "already_have": false,
-      "suggested_slug": "how-to-compress-video"
-    },
-    {
-      "keyword": "video to gif",
-      "root": "compress video online",
-      "prefix": "",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-30",
-      "already_have": false,
-      "suggested_slug": "video-to-gif"
-    },
-    {
-      "keyword": "trim video online",
-      "root": "compress video online",
-      "prefix": "",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-30",
-      "already_have": false,
-      "suggested_slug": "trim-video-online"
-    },
-    {
-      "keyword": "online video editor",
-      "root": "compress video online",
-      "prefix": "",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-30",
-      "already_have": false,
-      "suggested_slug": "video-editor"
-    },
-    {
-      "keyword": "free video compressor online",
-      "root": "compress video online",
-      "prefix": "online",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-30",
-      "already_have": false,
-      "suggested_slug": "video-compressor-online"
-    },
-    {
-      "keyword": "gif compressor for discord",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-30",
-      "already_have": false,
-      "suggested_slug": "gif-compressor-for-discord"
-    },
-    {
-      "keyword": "ai video generator",
-      "root": "video to gif",
-      "prefix": "free",
-      "trend_score": 50,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-30",
-      "already_have": false,
-      "suggested_slug": "video-generator"
     }
   ],
   "existing": [

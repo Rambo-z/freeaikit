@@ -1,10 +1,10 @@
 {
   "date": "2026-03-30",
   "stats": {
-    "trends_total": 124,
-    "suggest_total": 603
+    "trends_total": 115,
+    "suggest_total": 894
   },
-  "total_opportunities": 698,
+  "total_opportunities": 985,
   "top_50": [
     {
       "keyword": "video to mp3",
@@ -218,21 +218,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "online video editor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "video-editor",
-      "root": "compress video online",
-      "already_have": false,
-      "combined_score": 720,
-      "difficulty": "需WASM",
-      "search_volume": 27100,
-      "cpc": 2.33,
-      "competition": 0.2
-    },
-    {
       "keyword": "free ai video generator",
       "sources": [
         "trends_rising"
@@ -293,21 +278,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "ai video generator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "video-generator",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 246000,
-      "cpc": 3.41,
-      "competition": 0.5
-    },
-    {
       "keyword": "free audio books",
       "sources": [
         "trends_rising"
@@ -350,6 +320,21 @@
       "difficulty": "需WASM",
       "search_volume": 110000,
       "cpc": 0.22,
+      "competition": 0.2
+    },
+    {
+      "keyword": "markdown to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 170,
+      "suggested_slug": "markdown-to-pdf",
+      "root": "html to markdown",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "纯前端",
+      "search_volume": 12100,
+      "cpc": 3.81,
       "competition": 0.2
     },
     {
@@ -533,6 +518,21 @@
       "competition": 0.5
     },
     {
+      "keyword": "online ping",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 179750,
+      "suggested_slug": "ping",
+      "root": "dns lookup online",
+      "already_have": false,
+      "combined_score": 620,
+      "difficulty": "",
+      "search_volume": 720,
+      "cpc": 2.01,
+      "competition": 0.2
+    },
+    {
       "keyword": "freeconvert",
       "sources": [
         "trends_rising"
@@ -639,21 +639,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "free video compressor online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "video-compressor-online",
-      "root": "compress video online",
-      "already_have": false,
-      "combined_score": 430,
-      "difficulty": "需WASM",
-      "search_volume": 2900,
-      "cpc": 0.88,
-      "competition": 0.2
-    },
-    {
       "keyword": "video link to audio converter online free mp4",
       "sources": [
         "trends_rising"
@@ -727,6 +712,21 @@
       "difficulty": "需WASM",
       "search_volume": 6600,
       "cpc": 0.73,
+      "competition": 0.2
+    },
+    {
+      "keyword": "online ip lookup tool",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 80,
+      "suggested_slug": "ip-lookup",
+      "root": "ip lookup tool",
+      "already_have": false,
+      "combined_score": 400,
+      "difficulty": "需API/服务端",
+      "search_volume": 2400,
+      "cpc": 2.93,
       "competition": 0.2
     },
     {
