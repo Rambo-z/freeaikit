@@ -1,9 +1,9 @@
 {
   "date": "2026-03-31",
-  "batch": 4,
-  "total_rising_found": 162,
-  "new_opportunities": 150,
-  "existing_matches": 12,
+  "batch": 5,
+  "total_rising_found": 161,
+  "new_opportunities": 146,
+  "existing_matches": 15,
   "errors": 0,
   "opportunities": [
     {
@@ -45,6 +45,16 @@
       "discovered": "2026-03-31",
       "already_have": false,
       "suggested_slug": "bmi-calculator-formula"
+    },
+    {
+      "keyword": "zip file password remover online free",
+      "root": "zip file online",
+      "prefix": "free",
+      "trend_score": 204650,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "zip-file-password-remover-free"
     },
     {
       "keyword": "online car insurance quotes",
@@ -197,6 +207,16 @@
       "suggested_slug": "voice-generator"
     },
     {
+      "keyword": "best discount auto insurance",
+      "root": "discount calculator",
+      "prefix": "online",
+      "trend_score": 70400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "best-discount-auto-insurance"
+    },
+    {
       "keyword": "remove blur from photo online free without watermark",
       "root": "remove watermark from image free",
       "prefix": "online",
@@ -215,6 +235,16 @@
       "discovered": "2026-03-31",
       "already_have": false,
       "suggested_slug": "webm-to-mp4"
+    },
+    {
+      "keyword": "cloudconvert",
+      "root": "file converter online free",
+      "prefix": "free",
+      "trend_score": 60550,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "cloudconvert"
     },
     {
       "keyword": "university of arizona online",
@@ -457,6 +487,16 @@
       "suggested_slug": "mp4-to-mp3"
     },
     {
+      "keyword": "ivf due date calculator",
+      "root": "date calculator online",
+      "prefix": "",
+      "trend_score": 19050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "ivf-due-date-calculator"
+    },
+    {
       "keyword": "markets news today",
       "root": "video to audio",
       "prefix": "free",
@@ -477,16 +517,6 @@
       "suggested_slug": "opennews-today"
     },
     {
-      "keyword": "cloudconvert",
-      "root": "heic to png",
-      "prefix": "",
-      "trend_score": 17200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "cloudconvert"
-    },
-    {
       "keyword": "gif editor",
       "root": "mp4 to webm",
       "prefix": "",
@@ -495,6 +525,16 @@
       "discovered": "2026-03-31",
       "already_have": false,
       "suggested_slug": "gif-editor"
+    },
+    {
+      "keyword": "todays date",
+      "root": "date calculator online",
+      "prefix": "online",
+      "trend_score": 16600,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "todays-date"
     },
     {
       "keyword": "anthropic news today",
@@ -527,6 +567,16 @@
       "suggested_slug": "convert-heic-to-jpg"
     },
     {
+      "keyword": "bmi calculator",
+      "root": "discount calculator",
+      "prefix": "online",
+      "trend_score": 10150,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "bmi-calculator"
+    },
+    {
       "keyword": "gif optimizer",
       "root": "webp to gif",
       "prefix": "",
@@ -555,6 +605,26 @@
       "discovered": "2026-03-31",
       "already_have": false,
       "suggested_slug": "best-casino-casino.us"
+    },
+    {
+      "keyword": "tax refund calculator",
+      "root": "tip calculator",
+      "prefix": "",
+      "trend_score": 5250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "tax-refund-calculator"
+    },
+    {
+      "keyword": "bah calculator 2026",
+      "root": "discount calculator",
+      "prefix": "",
+      "trend_score": 5050,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "bah-calculator-2026"
     },
     {
       "keyword": "usb to rca audio video adaptor",
@@ -717,6 +787,26 @@
       "suggested_slug": "best-logo-maker-online"
     },
     {
+      "keyword": "peptide calculator",
+      "root": "discount calculator",
+      "prefix": "",
+      "trend_score": 400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "peptide-calculator"
+    },
+    {
+      "keyword": "pdf converter",
+      "root": "temperature converter",
+      "prefix": "",
+      "trend_score": 400,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "pdf-converter"
+    },
+    {
       "keyword": "crop video online",
       "root": "compress video online",
       "prefix": "",
@@ -757,6 +847,36 @@
       "suggested_slug": "avif-to-jpg"
     },
     {
+      "keyword": "discount calculator app",
+      "root": "discount calculator",
+      "prefix": "",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "discount-calculator-app"
+    },
+    {
+      "keyword": "chipotle nutrition calculator",
+      "root": "discount calculator",
+      "prefix": "",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "chipotle-nutrition-calculator"
+    },
+    {
+      "keyword": "length converter",
+      "root": "temperature converter",
+      "prefix": "",
+      "trend_score": 300,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "length-converter"
+    },
+    {
       "keyword": "audio to video ai",
       "root": "video to audio",
       "prefix": "",
@@ -795,6 +915,26 @@
       "discovered": "2026-03-31",
       "already_have": false,
       "suggested_slug": "business-loan-calculator"
+    },
+    {
+      "keyword": "car loan calculator",
+      "root": "discount calculator",
+      "prefix": "online",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "car-loan-calculator"
+    },
+    {
+      "keyword": "binary to decimal conversion method",
+      "root": "binary to decimal",
+      "prefix": "",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": false,
+      "suggested_slug": "binary-to-decimal-conversion-method"
     },
     {
       "keyword": "how to make a video a gif",
@@ -865,146 +1005,6 @@
       "discovered": "2026-03-31",
       "already_have": false,
       "suggested_slug": "convert-avif-to-png"
-    },
-    {
-      "keyword": "company logo maker online free",
-      "root": "logo maker free online",
-      "prefix": "online",
-      "trend_score": 200,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "company-logo-maker-free"
-    },
-    {
-      "keyword": "best free text to speech online",
-      "root": "text to speech online free",
-      "prefix": "free",
-      "trend_score": 190,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "best-text-to-speech-online"
-    },
-    {
-      "keyword": "video to live photo",
-      "root": "video converter online free",
-      "prefix": "online",
-      "trend_score": 180,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "video-to-live-photo"
-    },
-    {
-      "keyword": "linkedin cover image size",
-      "root": "linkedin banner size",
-      "prefix": "",
-      "trend_score": 180,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "linkedin-cover-image-size"
-    },
-    {
-      "keyword": "soundcloud to mp3",
-      "root": "mp3 to wav",
-      "prefix": "online",
-      "trend_score": 170,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "soundcloud-to-mp3"
-    },
-    {
-      "keyword": "photo compressor",
-      "root": "heic to png",
-      "prefix": "",
-      "trend_score": 170,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "photo-compressor"
-    },
-    {
-      "keyword": "mp4 to webm",
-      "root": "gif to webp",
-      "prefix": "",
-      "trend_score": 170,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "mp4-to-webm"
-    },
-    {
-      "keyword": "markdown to pdf",
-      "root": "markdown to html",
-      "prefix": "online",
-      "trend_score": 170,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "markdown-to-pdf"
-    },
-    {
-      "keyword": "make a gif",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 160,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "make-a-gif"
-    },
-    {
-      "keyword": "gif from video",
-      "root": "video to gif",
-      "prefix": "",
-      "trend_score": 160,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "gif-from-video"
-    },
-    {
-      "keyword": "m4a to mp4",
-      "root": "audio to text free",
-      "prefix": "free",
-      "trend_score": 160,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "m4a-to-mp4"
-    },
-    {
-      "keyword": "mpeg to mp3",
-      "root": "mp4 to mp3 online",
-      "prefix": "online",
-      "trend_score": 150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "mpeg-to-mp3"
-    },
-    {
-      "keyword": "ai voice recorder",
-      "root": "voice recorder online",
-      "prefix": "",
-      "trend_score": 150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "voice-recorder"
-    },
-    {
-      "keyword": "how to convert heic to jpg on mac",
-      "root": "heic to png",
-      "prefix": "",
-      "trend_score": 150,
-      "source": "google_trends_rising",
-      "discovered": "2026-03-31",
-      "already_have": false,
-      "suggested_slug": "how-to-convert-heic-to-jpg-on-mac"
     }
   ],
   "existing": [
@@ -1127,6 +1127,36 @@
       "discovered": "2026-03-31",
       "already_have": true,
       "suggested_slug": "markdown-editor-online"
+    },
+    {
+      "keyword": "age calculator by date of birth",
+      "root": "date calculator online",
+      "prefix": "free",
+      "trend_score": 139200,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": true,
+      "suggested_slug": "age-calculator-by-date-of-birth"
+    },
+    {
+      "keyword": "mortgage calculator",
+      "root": "date calculator online",
+      "prefix": "online",
+      "trend_score": 250,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": true,
+      "suggested_slug": "mortgage-calculator"
+    },
+    {
+      "keyword": "age calculator",
+      "root": "discount calculator",
+      "prefix": "",
+      "trend_score": 160,
+      "source": "google_trends_rising",
+      "discovered": "2026-03-31",
+      "already_have": true,
+      "suggested_slug": "age-calculator"
     }
   ],
   "error_log": []

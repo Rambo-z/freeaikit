@@ -1,10 +1,10 @@
 {
   "date": "2026-03-31",
   "stats": {
-    "trends_total": 162,
-    "suggest_total": 1844
+    "trends_total": 161,
+    "suggest_total": 2169
   },
-  "total_opportunities": 1927,
+  "total_opportunities": 2247,
   "top_50": [
     {
       "keyword": "video compressor online",
@@ -157,6 +157,51 @@
       "competition": 0.2
     },
     {
+      "keyword": "bmi calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 10150,
+      "suggested_slug": "bmi-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 2740000,
+      "cpc": 0.8,
+      "competition": 0.2
+    },
+    {
+      "keyword": "tax refund calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 5250,
+      "suggested_slug": "tax-refund-calculator",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 74000,
+      "cpc": 1.92,
+      "competition": 0.2
+    },
+    {
+      "keyword": "bah calculator 2026",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 5050,
+      "suggested_slug": "bah-calculator-2026",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 14800,
+      "cpc": 3.08,
+      "competition": 0.2
+    },
+    {
       "keyword": "online payments",
       "sources": [
         "trends_rising"
@@ -230,6 +275,21 @@
       "search_volume": 110000,
       "cpc": 0.95,
       "competition": 0.5
+    },
+    {
+      "keyword": "ivf due date calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 19050,
+      "suggested_slug": "ivf-due-date-calculator",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "纯前端",
+      "search_volume": 27100,
+      "cpc": 2.41,
+      "competition": 0.2
     },
     {
       "keyword": "university of arizona online",
@@ -334,6 +394,21 @@
       "difficulty": "需WASM",
       "search_volume": 22200,
       "cpc": 0.29,
+      "competition": 0.2
+    },
+    {
+      "keyword": "cloudconvert",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60550,
+      "suggested_slug": "cloudconvert",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 74000,
+      "cpc": 3,
       "competition": 0.2
     },
     {
@@ -457,18 +532,18 @@
       "competition": 0.2
     },
     {
-      "keyword": "cloudconvert",
+      "keyword": "todays date",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 17200,
-      "suggested_slug": "cloudconvert",
-      "root": "heic to png",
+      "trend_score": 16600,
+      "suggested_slug": "todays-date",
+      "root": "date calculator online",
       "already_have": false,
       "combined_score": 840,
       "difficulty": "",
-      "search_volume": 74000,
-      "cpc": 3,
+      "search_volume": 823000,
+      "cpc": 1.36,
       "competition": 0.2
     },
     {
@@ -547,6 +622,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "best discount auto insurance",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 70400,
+      "suggested_slug": "best-discount-auto-insurance",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 820,
+      "difficulty": "纯前端",
+      "search_volume": 40500,
+      "cpc": 86.86,
+      "competition": 0.8
+    },
+    {
       "keyword": "convert heic to jpg",
       "sources": [
         "trends_rising"
@@ -622,6 +712,36 @@
       "competition": 0.2
     },
     {
+      "keyword": "peptide calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 400,
+      "suggested_slug": "peptide-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 165000,
+      "cpc": 2.13,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 400,
+      "suggested_slug": "pdf-converter",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 135000,
+      "cpc": 1.52,
+      "competition": 0.5
+    },
+    {
       "keyword": "vocal remover",
       "sources": [
         "trends_rising"
@@ -635,126 +755,6 @@
       "search_volume": 90500,
       "cpc": 1.34,
       "competition": 0.2
-    },
-    {
-      "keyword": "business loan calculator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 250,
-      "suggested_slug": "business-loan-calculator",
-      "root": "loan calculator online",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "纯前端",
-      "search_volume": 18100,
-      "cpc": 5.41,
-      "competition": 0.5
-    },
-    {
-      "keyword": "photo compressor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 170,
-      "suggested_slug": "photo-compressor",
-      "root": "heic to png",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 60500,
-      "cpc": 1.47,
-      "competition": 0.2
-    },
-    {
-      "keyword": "prevent online calculator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 114650,
-      "suggested_slug": "prevent-calculator",
-      "root": "bmi calculator online",
-      "already_have": false,
-      "combined_score": 670,
-      "difficulty": "纯前端",
-      "search_volume": 320,
-      "cpc": 4.79,
-      "competition": 0.2
-    },
-    {
-      "keyword": "avif to jpg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 300,
-      "suggested_slug": "avif-to-jpg",
-      "root": "gif to webp",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 33100,
-      "cpc": 0.51,
-      "competition": 0.2
-    },
-    {
-      "keyword": "soundcloud to mp3",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 170,
-      "suggested_slug": "soundcloud-to-mp3",
-      "root": "mp3 to wav",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 90500,
-      "cpc": 7.04,
-      "competition": 0.2
-    },
-    {
-      "keyword": "markdown to pdf",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 170,
-      "suggested_slug": "markdown-to-pdf",
-      "root": "markdown to html",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "纯前端",
-      "search_volume": 12100,
-      "cpc": 3.81,
-      "competition": 0.2
-    },
-    {
-      "keyword": "make a gif",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 160,
-      "suggested_slug": "make-a-gif",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 33100,
-      "cpc": 1.86,
-      "competition": 0.2
-    },
-    {
-      "keyword": "image to video ai free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 200,
-      "suggested_slug": "image-to-video-free",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 630,
-      "difficulty": "需WASM",
-      "search_volume": 12100,
-      "cpc": 1.72,
-      "competition": 0.5
     }
   ]
 }
