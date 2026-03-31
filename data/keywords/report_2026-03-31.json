@@ -1,10 +1,10 @@
 {
   "date": "2026-03-31",
   "stats": {
-    "trends_total": 121,
-    "suggest_total": 1488
+    "trends_total": 162,
+    "suggest_total": 1844
   },
-  "total_opportunities": 1579,
+  "total_opportunities": 1927,
   "top_50": [
     {
       "keyword": "video compressor online",
@@ -37,6 +37,36 @@
       "competition": 0.2
     },
     {
+      "keyword": "loan calculator automobile",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 121350,
+      "suggested_slug": "loan-calculator-automobile",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1090,
+      "difficulty": "纯前端",
+      "search_volume": 673000,
+      "cpc": 0.99,
+      "competition": 0.2
+    },
+    {
+      "keyword": "car auto loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 806550,
+      "suggested_slug": "car-auto-loan-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1070,
+      "difficulty": "纯前端",
+      "search_volume": 673000,
+      "cpc": 0.99,
+      "competition": 0.2
+    },
+    {
       "keyword": "remove background free",
       "sources": [
         "trends_rising"
@@ -65,6 +95,21 @@
       "search_volume": 12100,
       "cpc": 0.11,
       "competition": 0.2
+    },
+    {
+      "keyword": "toyota sale",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 128750,
+      "suggested_slug": "toyota-sale",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1040,
+      "difficulty": "",
+      "search_volume": 12100,
+      "cpc": 3.98,
+      "competition": 0.8
     },
     {
       "keyword": "best free video editors",
@@ -112,6 +157,36 @@
       "competition": 0.2
     },
     {
+      "keyword": "online payments",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 49550,
+      "suggested_slug": "payments",
+      "root": "bmi calculator online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "",
+      "search_volume": 301000,
+      "cpc": 18.15,
+      "competition": 0.5
+    },
+    {
+      "keyword": "mortgage loan payoff calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 34500,
+      "suggested_slug": "mortgage-loan-payoff-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "纯前端",
+      "search_volume": 74000,
+      "cpc": 1.66,
+      "competition": 0.2
+    },
+    {
       "keyword": "online casino casino.us",
       "sources": [
         "trends_rising"
@@ -125,6 +200,96 @@
       "search_volume": 14800,
       "cpc": 7.87,
       "competition": 0.2
+    },
+    {
+      "keyword": "uofa online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 31800,
+      "suggested_slug": "uofa-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 10.89,
+      "competition": 0.2
+    },
+    {
+      "keyword": "vehicle loan payment calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 25500,
+      "suggested_slug": "vehicle-loan-payment-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "纯前端",
+      "search_volume": 110000,
+      "cpc": 0.95,
+      "competition": 0.5
+    },
+    {
+      "keyword": "university of arizona online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 56700,
+      "suggested_slug": "university-of-arizona-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 10.89,
+      "competition": 0.2
+    },
+    {
+      "keyword": "vehicle insurance quote online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 48350,
+      "suggested_slug": "vehicle-insurance-quote-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 127.28,
+      "competition": 0.2
+    },
+    {
+      "keyword": "u of a online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 35200,
+      "suggested_slug": "u-of-a-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 10.89,
+      "competition": 0.2
+    },
+    {
+      "keyword": "toyota rav4",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 89300,
+      "suggested_slug": "toyota-rav4",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 673000,
+      "cpc": 2.42,
+      "competition": 0.8
     },
     {
       "keyword": "capcut",
@@ -172,6 +337,36 @@
       "competition": 0.2
     },
     {
+      "keyword": "toyota 4runner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50250,
+      "suggested_slug": "toyota-4runner",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 450000,
+      "cpc": 1.9,
+      "competition": 0.8
+    },
+    {
+      "keyword": "toyota corolla",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 42600,
+      "suggested_slug": "toyota-corolla",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 550000,
+      "cpc": 2.22,
+      "competition": 0.8
+    },
+    {
       "keyword": "mp4 to gif",
       "sources": [
         "trends_rising"
@@ -185,6 +380,21 @@
       "search_volume": 110000,
       "cpc": 0.22,
       "competition": 0.2
+    },
+    {
+      "keyword": "direct auto",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 38300,
+      "suggested_slug": "direct-auto",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 165000,
+      "cpc": 14.32,
+      "competition": 0.8
     },
     {
       "keyword": "nvidia news today",
@@ -352,6 +562,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "bmi calculator formula",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 222850,
+      "suggested_slug": "bmi-calculator-formula",
+      "root": "bmi calculator online",
+      "already_have": false,
+      "combined_score": 790,
+      "difficulty": "纯前端",
+      "search_volume": 3600,
+      "cpc": 0.95,
+      "competition": 0.2
+    },
+    {
       "keyword": "image upscaler free",
       "sources": [
         "trends_rising"
@@ -364,6 +589,21 @@
       "difficulty": "需WASM",
       "search_volume": 5400,
       "cpc": 1.31,
+      "competition": 0.2
+    },
+    {
+      "keyword": "online car insurance quotes",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 198950,
+      "suggested_slug": "car-insurance-quotes",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 750,
+      "difficulty": "",
+      "search_volume": 6600,
+      "cpc": 131.75,
       "competition": 0.2
     },
     {
@@ -397,6 +637,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "business loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "business-loan-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 18100,
+      "cpc": 5.41,
+      "competition": 0.5
+    },
+    {
       "keyword": "photo compressor",
       "sources": [
         "trends_rising"
@@ -412,49 +667,19 @@
       "competition": 0.2
     },
     {
-      "keyword": "gif compressor",
+      "keyword": "prevent online calculator",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 140,
-      "suggested_slug": "gif-compressor",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 40500,
-      "cpc": 1.06,
-      "competition": 0.2
-    },
-    {
-      "keyword": "free audio books",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 130,
-      "suggested_slug": "audio-books",
-      "root": "video to audio",
+      "trend_score": 114650,
+      "suggested_slug": "prevent-calculator",
+      "root": "bmi calculator online",
       "already_have": false,
       "combined_score": 670,
-      "difficulty": "需WASM",
-      "search_volume": 60500,
-      "cpc": 3.89,
-      "competition": 0.5
-    },
-    {
-      "keyword": "text to speech free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 120,
-      "suggested_slug": "text-to-speech-free",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 650,
       "difficulty": "纯前端",
-      "search_volume": 40500,
-      "cpc": 2.86,
-      "competition": 0.5
+      "search_volume": 320,
+      "cpc": 4.79,
+      "competition": 0.2
     },
     {
       "keyword": "avif to jpg",
@@ -517,81 +742,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "html to pdf",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 140,
-      "suggested_slug": "html-to-pdf",
-      "root": "markdown to html",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "纯前端",
-      "search_volume": 18100,
-      "cpc": 1.94,
-      "competition": 0.2
-    },
-    {
-      "keyword": "webp to jpeg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 130,
-      "suggested_slug": "webp-to-jpeg",
-      "root": "webp to gif",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 110000,
-      "cpc": 0.11,
-      "competition": 0.2
-    },
-    {
-      "keyword": "image upscaler",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 130,
-      "suggested_slug": "image-upscaler",
-      "root": "avif to png",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 60500,
-      "cpc": 1.46,
-      "competition": 0.2
-    },
-    {
-      "keyword": "mp3tag",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 120,
-      "suggested_slug": "mp3tag",
-      "root": "mp3 to wav",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 12100,
-      "cpc": 1.3,
-      "competition": 0.2
-    },
-    {
-      "keyword": "ezgif",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 110,
-      "suggested_slug": "ezgif",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 110000,
-      "cpc": 2.32,
-      "competition": 0.2
-    },
-    {
       "keyword": "image to video ai free",
       "sources": [
         "trends_rising"
@@ -605,157 +755,6 @@
       "search_volume": 12100,
       "cpc": 1.72,
       "competition": 0.5
-    },
-    {
-      "keyword": "online ping",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 187750,
-      "suggested_slug": "ping",
-      "root": "dns lookup online",
-      "already_have": false,
-      "combined_score": 620,
-      "difficulty": "",
-      "search_volume": 720,
-      "cpc": 2.01,
-      "competition": 0.2
-    },
-    {
-      "keyword": "clideo video compressor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 34500,
-      "suggested_slug": "clideo-video-compressor",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 590,
-      "difficulty": "需WASM",
-      "search_volume": 2400,
-      "cpc": 2.55,
-      "competition": 0.2
-    },
-    {
-      "keyword": "gif optimizer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 9100,
-      "suggested_slug": "gif-optimizer",
-      "root": "webp to gif",
-      "already_have": false,
-      "combined_score": 590,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.6,
-      "competition": 0.2
-    },
-    {
-      "keyword": "trim audio online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 83450,
-      "suggested_slug": "trim-audio-online",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 570,
-      "difficulty": "需WASM",
-      "search_volume": 1000,
-      "cpc": 1.46,
-      "competition": 0.2
-    },
-    {
-      "keyword": "freeconvert",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 28550,
-      "suggested_slug": "freeconvert",
-      "root": "audio converter online",
-      "already_have": false,
-      "combined_score": 570,
-      "difficulty": "",
-      "search_volume": 9900,
-      "cpc": 0.49,
-      "competition": 0.2
-    },
-    {
-      "keyword": "best online casino casino.us",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 5550,
-      "suggested_slug": "best-casino-casino.us",
-      "root": "tts online",
-      "already_have": false,
-      "combined_score": 550,
-      "difficulty": "",
-      "search_volume": 9900,
-      "cpc": 5.17,
-      "competition": 0.2
-    },
-    {
-      "keyword": "trim video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 78050,
-      "suggested_slug": "trim-video",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "需WASM",
-      "search_volume": 6600,
-      "cpc": 1.45,
-      "competition": 0.2
-    },
-    {
-      "keyword": "gif cropper",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 76650,
-      "suggested_slug": "gif-cropper",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "需WASM",
-      "search_volume": 9900,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "anthropic news today",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 15200,
-      "suggested_slug": "anthropic-news-today",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "",
-      "search_volume": 9900,
-      "cpc": 2.33,
-      "competition": 0.2
-    },
-    {
-      "keyword": "convert avif to jpg",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 120,
-      "suggested_slug": "convert-avif-to-jpg",
-      "root": "avif to jpg",
-      "already_have": false,
-      "combined_score": 520,
-      "difficulty": "需WASM",
-      "search_volume": 5400,
-      "cpc": 4.4,
-      "competition": 0.2
     }
   ]
 }
