@@ -1,10 +1,10 @@
 {
   "date": "2026-03-31",
   "stats": {
-    "trends_total": 183,
-    "suggest_total": 1184
+    "trends_total": 121,
+    "suggest_total": 1488
   },
-  "total_opportunities": 1278,
+  "total_opportunities": 1579,
   "top_50": [
     {
       "keyword": "video compressor online",
@@ -487,6 +487,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "markdown to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 170,
+      "suggested_slug": "markdown-to-pdf",
+      "root": "markdown to html",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "纯前端",
+      "search_volume": 12100,
+      "cpc": 3.81,
+      "competition": 0.2
+    },
+    {
       "keyword": "make a gif",
       "sources": [
         "trends_rising"
@@ -499,6 +514,21 @@
       "difficulty": "需WASM",
       "search_volume": 33100,
       "cpc": 1.86,
+      "competition": 0.2
+    },
+    {
+      "keyword": "html to pdf",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 140,
+      "suggested_slug": "html-to-pdf",
+      "root": "markdown to html",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "纯前端",
+      "search_volume": 18100,
+      "cpc": 1.94,
       "competition": 0.2
     },
     {
@@ -562,36 +592,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "make gif",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "make-gif",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 33100,
-      "cpc": 1.86,
-      "competition": 0.2
-    },
-    {
-      "keyword": "wav to mo3",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "wav-to-mo3",
-      "root": "mp3 to wav",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 33100,
-      "cpc": 1.1,
-      "competition": 0.2
-    },
-    {
       "keyword": "image to video ai free",
       "sources": [
         "trends_rising"
@@ -605,6 +605,21 @@
       "search_volume": 12100,
       "cpc": 1.72,
       "competition": 0.5
+    },
+    {
+      "keyword": "online ping",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 187750,
+      "suggested_slug": "ping",
+      "root": "dns lookup online",
+      "already_have": false,
+      "combined_score": 620,
+      "difficulty": "",
+      "search_volume": 720,
+      "cpc": 2.01,
+      "competition": 0.2
     },
     {
       "keyword": "clideo video compressor",
@@ -740,22 +755,6 @@
       "difficulty": "需WASM",
       "search_volume": 5400,
       "cpc": 4.4,
-      "competition": 0.2
-    },
-    {
-      "keyword": "avif to jpg converter free online",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 500,
-      "suggested_slug": "avif-to-jpg-converter-online",
-      "root": "avif to jpg",
-      "already_have": false,
-      "combined_score": 510,
-      "difficulty": "需WASM",
-      "search_volume": 30,
-      "cpc": 0,
       "competition": 0.2
     }
   ]
