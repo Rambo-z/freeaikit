@@ -1,11 +1,56 @@
 {
   "date": "2026-04-01",
   "stats": {
-    "trends_total": 116,
-    "suggest_total": 592
+    "trends_total": 162,
+    "suggest_total": 955
   },
-  "total_opportunities": 686,
+  "total_opportunities": 1042,
   "top_50": [
+    {
+      "keyword": "vehicle loan payment calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 175950,
+      "suggested_slug": "vehicle-loan-payment-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1070,
+      "difficulty": "纯前端",
+      "search_volume": 110000,
+      "cpc": 0.95,
+      "competition": 0.5
+    },
+    {
+      "keyword": "auto vehicle loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 156350,
+      "suggested_slug": "auto-vehicle-loan-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1070,
+      "difficulty": "纯前端",
+      "search_volume": 673000,
+      "cpc": 0.99,
+      "competition": 0.2
+    },
+    {
+      "keyword": "auto insurance online quote",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 144000,
+      "suggested_slug": "auto-insurance-quote",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1050,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 127.28,
+      "competition": 0.2
+    },
     {
       "keyword": "text to speech free",
       "sources": [
@@ -82,6 +127,156 @@
       "competition": 0.2
     },
     {
+      "keyword": "home affordability calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 32250,
+      "suggested_slug": "home-affordability-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 60500,
+      "cpc": 3.16,
+      "competition": 0.5
+    },
+    {
+      "keyword": "online payments",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 37300,
+      "suggested_slug": "payments",
+      "root": "bmi calculator online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "",
+      "search_volume": 301000,
+      "cpc": 18.15,
+      "competition": 0.5
+    },
+    {
+      "keyword": "qbo online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 22350,
+      "suggested_slug": "qbo-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "",
+      "search_volume": 12100,
+      "cpc": 1.3,
+      "competition": 0.5
+    },
+    {
+      "keyword": "renters insurance quotes online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 46900,
+      "suggested_slug": "renters-insurance-quotes-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 135000,
+      "cpc": 39.23,
+      "competition": 0.2
+    },
+    {
+      "keyword": "university of arizona online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 46850,
+      "suggested_slug": "university-of-arizona-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 10.89,
+      "competition": 0.2
+    },
+    {
+      "keyword": "renters insurance quote online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 40850,
+      "suggested_slug": "renters-insurance-quote-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 135000,
+      "cpc": 39.23,
+      "competition": 0.2
+    },
+    {
+      "keyword": "vehicle insurance quote online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 35900,
+      "suggested_slug": "vehicle-insurance-quote-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 127.28,
+      "competition": 0.2
+    },
+    {
+      "keyword": "renters insurance online quote",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 34250,
+      "suggested_slug": "renters-insurance-quote",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 135000,
+      "cpc": 39.23,
+      "competition": 0.2
+    },
+    {
+      "keyword": "toyota hybrid",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 90100,
+      "suggested_slug": "toyota-hybrid",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 60500,
+      "cpc": 2.52,
+      "competition": 0.8
+    },
+    {
+      "keyword": "toyota rav4",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 89400,
+      "suggested_slug": "toyota-rav4",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 673000,
+      "cpc": 2.42,
+      "competition": 0.8
+    },
+    {
       "keyword": "mp4 to gif",
       "sources": [
         "trends_rising"
@@ -95,6 +290,36 @@
       "search_volume": 110000,
       "cpc": 0.22,
       "competition": 0.2
+    },
+    {
+      "keyword": "toyota sienna",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 74150,
+      "suggested_slug": "toyota-sienna",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 368000,
+      "cpc": 1.8,
+      "competition": 0.8
+    },
+    {
+      "keyword": "auto insurance companies",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 69150,
+      "suggested_slug": "auto-insurance-companies",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 72.61,
+      "competition": 0.5
     },
     {
       "keyword": "mp3 to ogg",
@@ -125,6 +350,21 @@
       "search_volume": 74000,
       "cpc": 3,
       "competition": 0.2
+    },
+    {
+      "keyword": "direct auto",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 49450,
+      "suggested_slug": "direct-auto",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 165000,
+      "cpc": 14.32,
+      "competition": 0.8
     },
     {
       "keyword": "nvidia news today",
@@ -187,6 +427,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "online car insurance quotes",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 183600,
+      "suggested_slug": "car-insurance-quotes",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 750,
+      "difficulty": "",
+      "search_volume": 6600,
+      "cpc": 131.75,
+      "competition": 0.2
+    },
+    {
       "keyword": "ai image generator free",
       "sources": [
         "trends_rising"
@@ -202,49 +457,34 @@
       "competition": 0.5
     },
     {
-      "keyword": "free ai video generator",
+      "keyword": "business loan calculator",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 80,
-      "suggested_slug": "video-generator",
-      "root": "video to gif",
+      "trend_score": 200,
+      "suggested_slug": "business-loan-calculator",
+      "root": "loan calculator online",
       "already_have": false,
-      "combined_score": 700,
-      "difficulty": "需WASM",
-      "search_volume": 74000,
-      "cpc": 2.73,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 18100,
+      "cpc": 5.41,
       "competition": 0.5
     },
     {
-      "keyword": "vocal remover",
+      "keyword": "personal loan calculator",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 80,
-      "suggested_slug": "vocal-remover",
-      "root": "mp4 to mp3 online",
+      "trend_score": 140,
+      "suggested_slug": "personal-loan-calculator",
+      "root": "loan calculator online",
       "already_have": false,
       "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 90500,
-      "cpc": 1.34,
-      "competition": 0.2
-    },
-    {
-      "keyword": "gif compressor",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "gif-compressor",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 40500,
-      "cpc": 1.06,
-      "competition": 0.2
+      "difficulty": "纯前端",
+      "search_volume": 135000,
+      "cpc": 7.44,
+      "competition": 0.5
     },
     {
       "keyword": "free audio books",
@@ -442,36 +682,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "mkv to mp4",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "mkv-to-mp4",
-      "root": "mp4 to webm",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 33100,
-      "cpc": 0.4,
-      "competition": 0.2
-    },
-    {
-      "keyword": "download facebook video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "download-facebook-video",
-      "root": "video to audio",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 90500,
-      "cpc": 2.74,
-      "competition": 0.2
-    },
-    {
       "keyword": "image to video ai free",
       "sources": [
         "trends_rising"
@@ -532,230 +742,19 @@
       "competition": 0.2
     },
     {
-      "keyword": "mpeg to mp3",
+      "keyword": "allstate auto",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 26450,
-      "suggested_slug": "mpeg-to-mp3",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.79,
-      "competition": 0.2
-    },
-    {
-      "keyword": "anthropic news today",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 14450,
-      "suggested_slug": "anthropic-news-today",
-      "root": "video to audio",
+      "trend_score": 55300,
+      "suggested_slug": "allstate-auto",
+      "root": "loan calculator online",
       "already_have": false,
       "combined_score": 540,
       "difficulty": "",
-      "search_volume": 9900,
-      "cpc": 2.33,
-      "competition": 0.2
-    },
-    {
-      "keyword": "how to compress a video on iphone",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 46000,
-      "suggested_slug": "how-to-compress-a-video-on-iphone",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 500,
-      "difficulty": "需WASM",
       "search_volume": 5400,
-      "cpc": 1.68,
-      "competition": 0.2
-    },
-    {
-      "keyword": "video compressor online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "video-compressor-free",
-      "root": "compress video online",
-      "already_have": false,
-      "combined_score": 430,
-      "difficulty": "需WASM",
-      "search_volume": 2900,
-      "cpc": 0.88,
-      "competition": 0.2
-    },
-    {
-      "keyword": "online video cutter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "video-cutter",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 6600,
-      "cpc": 2.54,
-      "competition": 0.2
-    },
-    {
-      "keyword": "audio cutter online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "audio-cutter-online",
-      "root": "mp3 cutter online",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 1000,
-      "cpc": 0.86,
-      "competition": 0.2
-    },
-    {
-      "keyword": "portrait to landscape video converter online free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 56750,
-      "suggested_slug": "portrait-to-landscape-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 410,
-      "difficulty": "需WASM",
-      "search_volume": 40,
-      "cpc": 1.38,
-      "competition": 0.2
-    },
-    {
-      "keyword": "video link to audio converter online free mp4",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 20600,
-      "suggested_slug": "video-link-to-audio-converter-mp4",
-      "root": "audio converter online",
-      "already_have": false,
-      "combined_score": 410,
-      "difficulty": "需WASM",
-      "search_volume": 30,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "best mp4 to mp3 converter",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "best-mp4-to-mp3-converter",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 880,
-      "cpc": 1.93,
-      "competition": 0.2
-    },
-    {
-      "keyword": "how to make a gif from a video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 650,
-      "suggested_slug": "how-to-make-a-gif-from-a-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.8,
-      "competition": 0.2
-    },
-    {
-      "keyword": "how to make a gif from video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 550,
-      "suggested_slug": "how-to-make-a-gif-from-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.8,
-      "competition": 0.2
-    },
-    {
-      "keyword": "make a gif from video",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 500,
-      "suggested_slug": "make-a-gif-from-video",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 400,
-      "difficulty": "需WASM",
-      "search_volume": 6600,
-      "cpc": 0.73,
-      "competition": 0.2
-    },
-    {
-      "keyword": "video compressor app",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "video-compressor-app",
-      "root": "video compressor free",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需WASM",
-      "search_volume": 1600,
-      "cpc": 1.64,
-      "competition": 0.2
-    },
-    {
-      "keyword": "ai image to video generator free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "image-to-video-generator-free",
-      "root": "video to gif",
-      "already_have": false,
-      "combined_score": 380,
-      "difficulty": "需WASM",
-      "search_volume": 9900,
-      "cpc": 1.51,
+      "cpc": 25.9,
       "competition": 0.5
-    },
-    {
-      "keyword": "cut video online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 140,
-      "suggested_slug": "cut-video-online",
-      "root": "compress video online",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需WASM",
-      "search_volume": 6600,
-      "cpc": 2.54,
-      "competition": 0.2
     }
   ]
 }
