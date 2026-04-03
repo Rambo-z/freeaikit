@@ -1,11 +1,131 @@
 {
   "date": "2026-04-03",
   "stats": {
-    "trends_total": 79,
-    "suggest_total": 569
+    "trends_total": 132,
+    "suggest_total": 915
   },
-  "total_opportunities": 634,
+  "total_opportunities": 1002,
   "top_50": [
+    {
+      "keyword": "personal loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1528350,
+      "suggested_slug": "personal-loan-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1090,
+      "difficulty": "纯前端",
+      "search_volume": 135000,
+      "cpc": 7.44,
+      "competition": 0.5
+    },
+    {
+      "keyword": "loan calculator automobile",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 163750,
+      "suggested_slug": "loan-calculator-automobile",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1090,
+      "difficulty": "纯前端",
+      "search_volume": 673000,
+      "cpc": 0.99,
+      "competition": 0.2
+    },
+    {
+      "keyword": "toyota sale",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 154400,
+      "suggested_slug": "toyota-sale",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1040,
+      "difficulty": "",
+      "search_volume": 12100,
+      "cpc": 3.98,
+      "competition": 0.8
+    },
+    {
+      "keyword": "cheap auto insurance",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 119500,
+      "suggested_slug": "cheap-auto-insurance",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 1040,
+      "difficulty": "",
+      "search_volume": 74000,
+      "cpc": 85.14,
+      "competition": 0.8
+    },
+    {
+      "keyword": "rv loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 79850,
+      "suggested_slug": "rv-loan-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 33100,
+      "cpc": 1.75,
+      "competition": 0.2
+    },
+    {
+      "keyword": "home affordability calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 42800,
+      "suggested_slug": "home-affordability-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 60500,
+      "cpc": 3.16,
+      "competition": 0.5
+    },
+    {
+      "keyword": "ratio calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 5150,
+      "suggested_slug": "ratio-calculator",
+      "root": "instagram post size",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 33100,
+      "cpc": 8.81,
+      "competition": 0.2
+    },
+    {
+      "keyword": "online payments",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 61850,
+      "suggested_slug": "payments",
+      "root": "bmi calculator online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "",
+      "search_volume": 301000,
+      "cpc": 18.15,
+      "competition": 0.5
+    },
     {
       "keyword": "remove background free",
       "sources": [
@@ -35,6 +155,141 @@
       "search_volume": 14800,
       "cpc": 7.87,
       "competition": 0.2
+    },
+    {
+      "keyword": "university of arizona online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 47350,
+      "suggested_slug": "university-of-arizona-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 18100,
+      "cpc": 10.89,
+      "competition": 0.2
+    },
+    {
+      "keyword": "vehicle insurance quote online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 46300,
+      "suggested_slug": "vehicle-insurance-quote-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 127.28,
+      "competition": 0.2
+    },
+    {
+      "keyword": "renters insurance quotes online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 37050,
+      "suggested_slug": "renters-insurance-quotes-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 135000,
+      "cpc": 39.23,
+      "competition": 0.2
+    },
+    {
+      "keyword": "renters insurance online quote",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 33450,
+      "suggested_slug": "renters-insurance-quote",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 850,
+      "difficulty": "",
+      "search_volume": 135000,
+      "cpc": 39.23,
+      "competition": 0.2
+    },
+    {
+      "keyword": "photopea",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 83200,
+      "suggested_slug": "photopea",
+      "root": "youtube thumbnail maker free",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 450000,
+      "cpc": 2.67,
+      "competition": 0.2
+    },
+    {
+      "keyword": "toyota 4runner",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 71900,
+      "suggested_slug": "toyota-4runner",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 450000,
+      "cpc": 1.9,
+      "competition": 0.8
+    },
+    {
+      "keyword": "toyota sienna",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 68300,
+      "suggested_slug": "toyota-sienna",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 368000,
+      "cpc": 1.8,
+      "competition": 0.8
+    },
+    {
+      "keyword": "toyota minivan",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 37600,
+      "suggested_slug": "toyota-minivan",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 49500,
+      "cpc": 2.07,
+      "competition": 0.8
+    },
+    {
+      "keyword": "toyota corolla",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 36100,
+      "suggested_slug": "toyota-corolla",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 550000,
+      "cpc": 2.22,
+      "competition": 0.8
     },
     {
       "keyword": "companies history",
@@ -112,6 +367,22 @@
       "competition": 0.2
     },
     {
+      "keyword": "glassmorphism css generator",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 4863800,
+      "suggested_slug": "glassmorphism-css-generator",
+      "root": "glassmorphism generator",
+      "already_have": false,
+      "combined_score": 790,
+      "difficulty": "纯前端",
+      "search_volume": 40,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
       "keyword": "fish audio",
       "sources": [
         "trends_rising"
@@ -125,6 +396,21 @@
       "search_volume": 18100,
       "cpc": 0.2,
       "competition": 0.2
+    },
+    {
+      "keyword": "business loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 200,
+      "suggested_slug": "business-loan-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 18100,
+      "cpc": 5.41,
+      "competition": 0.5
     },
     {
       "keyword": "voice recorder app",
@@ -157,6 +443,36 @@
       "competition": 0.5
     },
     {
+      "keyword": "auto loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 90,
+      "suggested_slug": "auto-loan-calculator",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 823000,
+      "cpc": 1.02,
+      "competition": 0.2
+    },
+    {
+      "keyword": "bmi calculator male",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 80,
+      "suggested_slug": "bmi-calculator-male",
+      "root": "bmi calculator online",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 33100,
+      "cpc": 0.5,
+      "competition": 0.2
+    },
+    {
       "keyword": "video recorder",
       "sources": [
         "trends_rising"
@@ -172,34 +488,34 @@
       "competition": 0.5
     },
     {
-      "keyword": "gif editor",
+      "keyword": "loan for home calculator",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 50,
-      "suggested_slug": "gif-editor",
-      "root": "gif to webp",
+      "trend_score": 80,
+      "suggested_slug": "loan-for-home-calculator",
+      "root": "loan calculator online",
       "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 27100,
-      "cpc": 1.55,
-      "competition": 0.2
+      "combined_score": 670,
+      "difficulty": "纯前端",
+      "search_volume": 110000,
+      "cpc": 3.77,
+      "competition": 0.5
     },
     {
-      "keyword": "png maker",
+      "keyword": "calculator for home loan",
       "sources": [
         "trends_rising"
       ],
-      "trend_score": 40,
-      "suggested_slug": "png-maker",
-      "root": "heic to png",
+      "trend_score": 80,
+      "suggested_slug": "calculator-for-home-loan",
+      "root": "loan calculator online",
       "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 49500,
-      "cpc": 0.94,
-      "competition": 0.2
+      "combined_score": 670,
+      "difficulty": "纯前端",
+      "search_volume": 110000,
+      "cpc": 3.77,
+      "competition": 0.5
     },
     {
       "keyword": "webp to jpeg",
@@ -292,94 +608,19 @@
       "competition": 0.2
     },
     {
-      "keyword": "twitter gif downloader",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "twitter-gif-downloader",
-      "root": "gif to webp",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "需WASM",
-      "search_volume": 49500,
-      "cpc": 0,
-      "competition": 0.2
-    },
-    {
-      "keyword": "textnow",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 40,
-      "suggested_slug": "textnow",
-      "root": "voice to text online",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "纯前端",
-      "search_volume": 823000,
-      "cpc": 0.52,
-      "competition": 0.2
-    },
-    {
-      "keyword": "convert m4a to mp3",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 200,
-      "suggested_slug": "convert-m4a-to-mp3",
-      "root": "audio to text free",
-      "already_have": false,
-      "combined_score": 620,
-      "difficulty": "需WASM",
-      "search_volume": 14800,
-      "cpc": 1.68,
-      "competition": 0.2
-    },
-    {
-      "keyword": "remove background from image",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 200,
-      "suggested_slug": "remove-background-from-image",
-      "root": "remove watermark from image free",
-      "already_have": false,
-      "combined_score": 620,
-      "difficulty": "需WASM",
-      "search_volume": 60500,
-      "cpc": 1.67,
-      "competition": 0.2
-    },
-    {
-      "keyword": "text to speech app",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "text-to-speech-app",
-      "root": "audio to text free",
-      "already_have": false,
-      "combined_score": 620,
-      "difficulty": "纯前端",
-      "search_volume": 12100,
-      "cpc": 3.72,
-      "competition": 0.2
-    },
-    {
-      "keyword": "remove watermark from video",
+      "keyword": "create a logo for free",
       "sources": [
         "trends_rising"
       ],
       "trend_score": 70,
-      "suggested_slug": "remove-watermark-from-video",
-      "root": "remove watermark from image free",
+      "suggested_slug": "create-a-logo-for-free",
+      "root": "logo maker free online",
       "already_have": false,
-      "combined_score": 620,
-      "difficulty": "需WASM",
-      "search_volume": 22200,
-      "cpc": 0.98,
-      "competition": 0.2
+      "combined_score": 630,
+      "difficulty": "",
+      "search_volume": 12100,
+      "cpc": 4.16,
+      "competition": 0.8
     },
     {
       "keyword": "remove noise from video online free",
@@ -472,6 +713,21 @@
       "competition": 0.2
     },
     {
+      "keyword": "allstate auto",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 67200,
+      "suggested_slug": "allstate-auto",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "",
+      "search_volume": 5400,
+      "cpc": 25.9,
+      "competition": 0.5
+    },
+    {
       "keyword": "minimax audio",
       "sources": [
         "trends_rising"
@@ -499,262 +755,6 @@
       "difficulty": "需WASM",
       "search_volume": 8100,
       "cpc": 0.87,
-      "competition": 0.2
-    },
-    {
-      "keyword": "convert avif to jpg",
-      "sources": [
-        "trends_rising",
-        "suggest"
-      ],
-      "trend_score": 200,
-      "suggested_slug": "convert-avif-to-jpg",
-      "root": "avif to jpg",
-      "already_have": false,
-      "combined_score": 520,
-      "difficulty": "需WASM",
-      "search_volume": 5400,
-      "cpc": 4.4,
-      "competition": 0.2
-    },
-    {
-      "keyword": "online video recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "video-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 420,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 2.64,
-      "competition": 0.2
-    },
-    {
-      "keyword": "digital voice recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 350,
-      "suggested_slug": "digital-voice-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需WASM",
-      "search_volume": 9900,
-      "cpc": 0.65,
-      "competition": 0.8
-    },
-    {
-      "keyword": "ai voice recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 180,
-      "suggested_slug": "voice-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 390,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 4.21,
-      "competition": 0.8
-    },
-    {
-      "keyword": "heic to pdf converter",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 130,
-      "suggested_slug": "heic-to-pdf-converter",
-      "root": "heic converter online free",
-      "already_have": false,
-      "combined_score": 370,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.4,
-      "competition": 0.2
-    },
-    {
-      "keyword": "jpg vs jpeg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 200,
-      "suggested_slug": "jpg-vs-jpeg",
-      "root": "heic to png",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 9900,
-      "cpc": 3.05,
-      "competition": 0.2
-    },
-    {
-      "keyword": "m4a to mp4",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 140,
-      "suggested_slug": "m4a-to-mp4",
-      "root": "audio to text free",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.58,
-      "competition": 0.2
-    },
-    {
-      "keyword": "gif to jpeg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 110,
-      "suggested_slug": "gif-to-jpeg",
-      "root": "gif to webp",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 2900,
-      "cpc": 0.96,
-      "competition": 0.2
-    },
-    {
-      "keyword": "avif to jpeg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 110,
-      "suggested_slug": "avif-to-jpeg",
-      "root": "avif to png",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 2400,
-      "cpc": 0.81,
-      "competition": 0.2
-    },
-    {
-      "keyword": "mp4 to webm",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 100,
-      "suggested_slug": "mp4-to-webm",
-      "root": "webp to gif",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 5400,
-      "cpc": 0.37,
-      "competition": 0.2
-    },
-    {
-      "keyword": "heif to png",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "heif-to-png",
-      "root": "heic to png",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 1000,
-      "cpc": 0.66,
-      "competition": 0.2
-    },
-    {
-      "keyword": "webm to gif",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "webm-to-gif",
-      "root": "webp to gif",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 2900,
-      "cpc": 0.99,
-      "competition": 0.2
-    },
-    {
-      "keyword": "jpeg to ico",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "jpeg-to-ico",
-      "root": "image to ico",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "",
-      "search_volume": 3600,
-      "cpc": 0.75,
-      "competition": 0.2
-    },
-    {
-      "keyword": "crop gif",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "crop-gif",
-      "root": "gif to webp",
-      "already_have": false,
-      "combined_score": 340,
-      "difficulty": "需WASM",
-      "search_volume": 9900,
-      "cpc": 4.03,
-      "competition": 0.2
-    },
-    {
-      "keyword": "free convert heic to jpg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 110,
-      "suggested_slug": "convert-heic-to-jpg",
-      "root": "heic to png",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "需WASM",
-      "search_volume": 1600,
-      "cpc": 0.48,
-      "competition": 0.2
-    },
-    {
-      "keyword": "remove watermark from video free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "remove-watermark-from-video-free",
-      "root": "remove watermark from image free",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "需WASM",
-      "search_volume": 8100,
-      "cpc": 1.15,
-      "competition": 0.2
-    },
-    {
-      "keyword": "voice recorder online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "voice-recorder-free",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 330,
-      "difficulty": "需WASM",
-      "search_volume": 2900,
-      "cpc": 1.4,
       "competition": 0.2
     }
   ]
