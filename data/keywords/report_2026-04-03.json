@@ -1,10 +1,10 @@
 {
   "date": "2026-04-03",
   "stats": {
-    "trends_total": 132,
-    "suggest_total": 915
+    "trends_total": 163,
+    "suggest_total": 1245
   },
-  "total_opportunities": 1002,
+  "total_opportunities": 1324,
   "top_50": [
     {
       "keyword": "personal loan calculator",
@@ -20,6 +20,21 @@
       "search_volume": 135000,
       "cpc": 7.44,
       "competition": 0.5
+    },
+    {
+      "keyword": "auto loan calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 326250,
+      "suggested_slug": "auto-loan-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 1090,
+      "difficulty": "纯前端",
+      "search_volume": 823000,
+      "cpc": 1.02,
+      "competition": 0.2
     },
     {
       "keyword": "loan calculator automobile",
@@ -97,6 +112,21 @@
       "competition": 0.5
     },
     {
+      "keyword": "tax calculator 2026",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 9300,
+      "suggested_slug": "tax-calculator-2026",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 18100,
+      "cpc": 2.87,
+      "competition": 0.5
+    },
+    {
       "keyword": "ratio calculator",
       "sources": [
         "trends_rising"
@@ -109,6 +139,37 @@
       "difficulty": "纯前端",
       "search_volume": 33100,
       "cpc": 8.81,
+      "competition": 0.2
+    },
+    {
+      "keyword": "tax calculator 2025",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1350,
+      "suggested_slug": "tax-calculator-2025",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 33100,
+      "cpc": 2.65,
+      "competition": 0.5
+    },
+    {
+      "keyword": "tip calculator google",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 120,
+      "suggested_slug": "tip-calculator-google",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 890,
+      "difficulty": "纯前端",
+      "search_volume": 27100,
+      "cpc": 0.66,
       "competition": 0.2
     },
     {
@@ -154,6 +215,21 @@
       "difficulty": "",
       "search_volume": 14800,
       "cpc": 7.87,
+      "competition": 0.2
+    },
+    {
+      "keyword": "ivf due date calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 22900,
+      "suggested_slug": "ivf-due-date-calculator",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "纯前端",
+      "search_volume": 27100,
+      "cpc": 2.41,
       "competition": 0.2
     },
     {
@@ -383,6 +459,36 @@
       "competition": 0.2
     },
     {
+      "keyword": "adp paycheck calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 600,
+      "suggested_slug": "adp-paycheck-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 790,
+      "difficulty": "纯前端",
+      "search_volume": 201000,
+      "cpc": 19.41,
+      "competition": 0.2
+    },
+    {
+      "keyword": "peptide calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 550,
+      "suggested_slug": "peptide-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 790,
+      "difficulty": "纯前端",
+      "search_volume": 165000,
+      "cpc": 2.13,
+      "competition": 0.2
+    },
+    {
       "keyword": "fish audio",
       "sources": [
         "trends_rising"
@@ -398,6 +504,81 @@
       "competition": 0.2
     },
     {
+      "keyword": "online calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 120,
+      "suggested_slug": "calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 720,
+      "difficulty": "纯前端",
+      "search_volume": 246000,
+      "cpc": 2.3,
+      "competition": 0.2
+    },
+    {
+      "keyword": "tip calculator online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "tip-calculator-online",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 720,
+      "difficulty": "纯前端",
+      "search_volume": 27100,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 400,
+      "suggested_slug": "pdf-converter",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 135000,
+      "cpc": 1.52,
+      "competition": 0.5
+    },
+    {
+      "keyword": "calculator app",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "calculator-app",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 135000,
+      "cpc": 1.54,
+      "competition": 0.2
+    },
+    {
+      "keyword": "google tip calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 250,
+      "suggested_slug": "google-tip-calculator",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 27100,
+      "cpc": 0.66,
+      "competition": 0.2
+    },
+    {
       "keyword": "business loan calculator",
       "sources": [
         "trends_rising"
@@ -410,6 +591,51 @@
       "difficulty": "纯前端",
       "search_volume": 18100,
       "cpc": 5.41,
+      "competition": 0.5
+    },
+    {
+      "keyword": "money converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 160,
+      "suggested_slug": "money-converter",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 74000,
+      "cpc": 0.35,
+      "competition": 0.2
+    },
+    {
+      "keyword": "time duration calculator",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 150,
+      "suggested_slug": "time-duration-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 135000,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "bmi calculator women",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 120,
+      "suggested_slug": "bmi-calculator-women",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "纯前端",
+      "search_volume": 246000,
+      "cpc": 0.96,
       "competition": 0.5
     },
     {
@@ -440,81 +666,6 @@
       "difficulty": "",
       "search_volume": 14800,
       "cpc": 2.9,
-      "competition": 0.5
-    },
-    {
-      "keyword": "auto loan calculator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 90,
-      "suggested_slug": "auto-loan-calculator",
-      "root": "loan calculator online",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "纯前端",
-      "search_volume": 823000,
-      "cpc": 1.02,
-      "competition": 0.2
-    },
-    {
-      "keyword": "bmi calculator male",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "bmi-calculator-male",
-      "root": "bmi calculator online",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "纯前端",
-      "search_volume": 33100,
-      "cpc": 0.5,
-      "competition": 0.2
-    },
-    {
-      "keyword": "video recorder",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 60,
-      "suggested_slug": "video-recorder",
-      "root": "voice recorder online",
-      "already_have": false,
-      "combined_score": 690,
-      "difficulty": "需WASM",
-      "search_volume": 22200,
-      "cpc": 2.34,
-      "competition": 0.5
-    },
-    {
-      "keyword": "loan for home calculator",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "loan-for-home-calculator",
-      "root": "loan calculator online",
-      "already_have": false,
-      "combined_score": 670,
-      "difficulty": "纯前端",
-      "search_volume": 110000,
-      "cpc": 3.77,
-      "competition": 0.5
-    },
-    {
-      "keyword": "calculator for home loan",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 80,
-      "suggested_slug": "calculator-for-home-loan",
-      "root": "loan calculator online",
-      "already_have": false,
-      "combined_score": 670,
-      "difficulty": "纯前端",
-      "search_volume": 110000,
-      "cpc": 3.77,
       "competition": 0.5
     },
     {
@@ -578,51 +729,6 @@
       "competition": 0.2
     },
     {
-      "keyword": "remove bg",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "remove-bg",
-      "root": "gif to webp",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "",
-      "search_volume": 1220000,
-      "cpc": 2.1,
-      "competition": 0.2
-    },
-    {
-      "keyword": "text now",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 50,
-      "suggested_slug": "text-now",
-      "root": "voice to text online",
-      "already_have": false,
-      "combined_score": 640,
-      "difficulty": "纯前端",
-      "search_volume": 823000,
-      "cpc": 0.52,
-      "competition": 0.2
-    },
-    {
-      "keyword": "create a logo for free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 70,
-      "suggested_slug": "create-a-logo-for-free",
-      "root": "logo maker free online",
-      "already_have": false,
-      "combined_score": 630,
-      "difficulty": "",
-      "search_volume": 12100,
-      "cpc": 4.16,
-      "competition": 0.8
-    },
-    {
       "keyword": "remove noise from video online free",
       "sources": [
         "trends_rising"
@@ -651,111 +757,6 @@
       "search_volume": 8100,
       "cpc": 3.95,
       "competition": 0.5
-    },
-    {
-      "keyword": "gif optimizer",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 12250,
-      "suggested_slug": "gif-optimizer",
-      "root": "webp to gif",
-      "already_have": false,
-      "combined_score": 590,
-      "difficulty": "需WASM",
-      "search_volume": 4400,
-      "cpc": 0.6,
-      "competition": 0.2
-    },
-    {
-      "keyword": "remove blur from image online",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 631250,
-      "suggested_slug": "remove-blur-from-image-online",
-      "root": "remove watermark from image free",
-      "already_have": false,
-      "combined_score": 580,
-      "difficulty": "需WASM",
-      "search_volume": 880,
-      "cpc": 1.99,
-      "competition": 0.2
-    },
-    {
-      "keyword": "is speechify free",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 25850,
-      "suggested_slug": "is-speechify-free",
-      "root": "audio to text free",
-      "already_have": false,
-      "combined_score": 570,
-      "difficulty": "",
-      "search_volume": 5400,
-      "cpc": 1.71,
-      "competition": 0.2
-    },
-    {
-      "keyword": "best online casino casino.us",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 18450,
-      "suggested_slug": "best-casino-casino.us",
-      "root": "tts online",
-      "already_have": false,
-      "combined_score": 550,
-      "difficulty": "",
-      "search_volume": 9900,
-      "cpc": 5.17,
-      "competition": 0.2
-    },
-    {
-      "keyword": "allstate auto",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 67200,
-      "suggested_slug": "allstate-auto",
-      "root": "loan calculator online",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "",
-      "search_volume": 5400,
-      "cpc": 25.9,
-      "competition": 0.5
-    },
-    {
-      "keyword": "minimax audio",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 19900,
-      "suggested_slug": "minimax-audio",
-      "root": "audio to text free",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "需WASM",
-      "search_volume": 2900,
-      "cpc": 2.61,
-      "competition": 0.2
-    },
-    {
-      "keyword": "jpeg to png",
-      "sources": [
-        "trends_rising"
-      ],
-      "trend_score": 10600,
-      "suggested_slug": "jpeg-to-png",
-      "root": "avif to jpg",
-      "already_have": false,
-      "combined_score": 540,
-      "difficulty": "需WASM",
-      "search_volume": 8100,
-      "cpc": 0.87,
-      "competition": 0.2
     }
   ]
 }
