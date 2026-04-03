@@ -1,0 +1,761 @@
+{
+  "date": "2026-04-03",
+  "stats": {
+    "trends_total": 79,
+    "suggest_total": 569
+  },
+  "total_opportunities": 634,
+  "top_50": [
+    {
+      "keyword": "remove background free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 46200,
+      "suggested_slug": "remove-background-free",
+      "root": "avif to png",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "需WASM",
+      "search_volume": 60500,
+      "cpc": 1.28,
+      "competition": 0.2
+    },
+    {
+      "keyword": "online casino casino.us",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 26350,
+      "suggested_slug": "casino-casino.us",
+      "root": "tts online",
+      "already_have": false,
+      "combined_score": 870,
+      "difficulty": "",
+      "search_volume": 14800,
+      "cpc": 7.87,
+      "competition": 0.2
+    },
+    {
+      "keyword": "companies history",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 35150,
+      "suggested_slug": "companies-history",
+      "root": "tts online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 40500,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "cloudconvert",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 18950,
+      "suggested_slug": "cloudconvert",
+      "root": "heic to png",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 74000,
+      "cpc": 3,
+      "competition": 0.2
+    },
+    {
+      "keyword": "avf to png",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 14550,
+      "suggested_slug": "avf-to-png",
+      "root": "avif to png",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 27100,
+      "cpc": 7.74,
+      "competition": 0.2
+    },
+    {
+      "keyword": "backtofrontshow",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 2050,
+      "suggested_slug": "backtofrontshow",
+      "root": "tts online",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "",
+      "search_volume": 40500,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "avf to jpg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 1000,
+      "suggested_slug": "avf-to-jpg",
+      "root": "avif to jpg",
+      "already_have": false,
+      "combined_score": 840,
+      "difficulty": "需WASM",
+      "search_volume": 33100,
+      "cpc": 0.51,
+      "competition": 0.2
+    },
+    {
+      "keyword": "fish audio",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 600,
+      "suggested_slug": "fish-audio",
+      "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 740,
+      "difficulty": "需WASM",
+      "search_volume": 18100,
+      "cpc": 0.2,
+      "competition": 0.2
+    },
+    {
+      "keyword": "voice recorder app",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 100,
+      "suggested_slug": "voice-recorder-app",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 18100,
+      "cpc": 2.44,
+      "competition": 0.5
+    },
+    {
+      "keyword": "recorder app",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 90,
+      "suggested_slug": "recorder-app",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "",
+      "search_volume": 14800,
+      "cpc": 2.9,
+      "competition": 0.5
+    },
+    {
+      "keyword": "video recorder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "video-recorder",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 22200,
+      "cpc": 2.34,
+      "competition": 0.5
+    },
+    {
+      "keyword": "gif editor",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "gif-editor",
+      "root": "gif to webp",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 27100,
+      "cpc": 1.55,
+      "competition": 0.2
+    },
+    {
+      "keyword": "png maker",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 40,
+      "suggested_slug": "png-maker",
+      "root": "heic to png",
+      "already_have": false,
+      "combined_score": 690,
+      "difficulty": "需WASM",
+      "search_volume": 49500,
+      "cpc": 0.94,
+      "competition": 0.2
+    },
+    {
+      "keyword": "webp to jpeg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "webp-to-jpeg",
+      "root": "webp to gif",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 110000,
+      "cpc": 0.11,
+      "competition": 0.2
+    },
+    {
+      "keyword": "jpeg vs png",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 80,
+      "suggested_slug": "jpeg-vs-png",
+      "root": "heic to png",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 18100,
+      "cpc": 1.33,
+      "competition": 0.2
+    },
+    {
+      "keyword": "avif to jpg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 80,
+      "suggested_slug": "avif-to-jpg",
+      "root": "webp to gif",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 33100,
+      "cpc": 0.51,
+      "competition": 0.2
+    },
+    {
+      "keyword": "heic to jpg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 80,
+      "suggested_slug": "heic-to-jpg",
+      "root": "avif to jpg",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 246000,
+      "cpc": 0.06,
+      "competition": 0.2
+    },
+    {
+      "keyword": "remove bg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 70,
+      "suggested_slug": "remove-bg",
+      "root": "gif to webp",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "",
+      "search_volume": 1220000,
+      "cpc": 2.1,
+      "competition": 0.2
+    },
+    {
+      "keyword": "text now",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "text-now",
+      "root": "voice to text online",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "纯前端",
+      "search_volume": 823000,
+      "cpc": 0.52,
+      "competition": 0.2
+    },
+    {
+      "keyword": "twitter gif downloader",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "twitter-gif-downloader",
+      "root": "gif to webp",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "需WASM",
+      "search_volume": 49500,
+      "cpc": 0,
+      "competition": 0.2
+    },
+    {
+      "keyword": "textnow",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 40,
+      "suggested_slug": "textnow",
+      "root": "voice to text online",
+      "already_have": false,
+      "combined_score": 640,
+      "difficulty": "纯前端",
+      "search_volume": 823000,
+      "cpc": 0.52,
+      "competition": 0.2
+    },
+    {
+      "keyword": "convert m4a to mp3",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 200,
+      "suggested_slug": "convert-m4a-to-mp3",
+      "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 620,
+      "difficulty": "需WASM",
+      "search_volume": 14800,
+      "cpc": 1.68,
+      "competition": 0.2
+    },
+    {
+      "keyword": "remove background from image",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 200,
+      "suggested_slug": "remove-background-from-image",
+      "root": "remove watermark from image free",
+      "already_have": false,
+      "combined_score": 620,
+      "difficulty": "需WASM",
+      "search_volume": 60500,
+      "cpc": 1.67,
+      "competition": 0.2
+    },
+    {
+      "keyword": "text to speech app",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 80,
+      "suggested_slug": "text-to-speech-app",
+      "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 620,
+      "difficulty": "纯前端",
+      "search_volume": 12100,
+      "cpc": 3.72,
+      "competition": 0.2
+    },
+    {
+      "keyword": "remove watermark from video",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 70,
+      "suggested_slug": "remove-watermark-from-video",
+      "root": "remove watermark from image free",
+      "already_have": false,
+      "combined_score": 620,
+      "difficulty": "需WASM",
+      "search_volume": 22200,
+      "cpc": 0.98,
+      "competition": 0.2
+    },
+    {
+      "keyword": "remove noise from video online free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 466600,
+      "suggested_slug": "remove-noise-from-video-free",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 610,
+      "difficulty": "需WASM",
+      "search_volume": 590,
+      "cpc": 2.11,
+      "competition": 0.5
+    },
+    {
+      "keyword": "ttsmaker",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 76850,
+      "suggested_slug": "ttsmaker",
+      "root": "speech to text online free",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "纯前端",
+      "search_volume": 8100,
+      "cpc": 3.95,
+      "competition": 0.5
+    },
+    {
+      "keyword": "gif optimizer",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 12250,
+      "suggested_slug": "gif-optimizer",
+      "root": "webp to gif",
+      "already_have": false,
+      "combined_score": 590,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 0.6,
+      "competition": 0.2
+    },
+    {
+      "keyword": "remove blur from image online",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 631250,
+      "suggested_slug": "remove-blur-from-image-online",
+      "root": "remove watermark from image free",
+      "already_have": false,
+      "combined_score": 580,
+      "difficulty": "需WASM",
+      "search_volume": 880,
+      "cpc": 1.99,
+      "competition": 0.2
+    },
+    {
+      "keyword": "is speechify free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 25850,
+      "suggested_slug": "is-speechify-free",
+      "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 570,
+      "difficulty": "",
+      "search_volume": 5400,
+      "cpc": 1.71,
+      "competition": 0.2
+    },
+    {
+      "keyword": "best online casino casino.us",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 18450,
+      "suggested_slug": "best-casino-casino.us",
+      "root": "tts online",
+      "already_have": false,
+      "combined_score": 550,
+      "difficulty": "",
+      "search_volume": 9900,
+      "cpc": 5.17,
+      "competition": 0.2
+    },
+    {
+      "keyword": "minimax audio",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 19900,
+      "suggested_slug": "minimax-audio",
+      "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
+      "search_volume": 2900,
+      "cpc": 2.61,
+      "competition": 0.2
+    },
+    {
+      "keyword": "jpeg to png",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 10600,
+      "suggested_slug": "jpeg-to-png",
+      "root": "avif to jpg",
+      "already_have": false,
+      "combined_score": 540,
+      "difficulty": "需WASM",
+      "search_volume": 8100,
+      "cpc": 0.87,
+      "competition": 0.2
+    },
+    {
+      "keyword": "convert avif to jpg",
+      "sources": [
+        "trends_rising",
+        "suggest"
+      ],
+      "trend_score": 200,
+      "suggested_slug": "convert-avif-to-jpg",
+      "root": "avif to jpg",
+      "already_have": false,
+      "combined_score": 520,
+      "difficulty": "需WASM",
+      "search_volume": 5400,
+      "cpc": 4.4,
+      "competition": 0.2
+    },
+    {
+      "keyword": "online video recorder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 70,
+      "suggested_slug": "video-recorder",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 420,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 2.64,
+      "competition": 0.2
+    },
+    {
+      "keyword": "digital voice recorder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 350,
+      "suggested_slug": "digital-voice-recorder",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需WASM",
+      "search_volume": 9900,
+      "cpc": 0.65,
+      "competition": 0.8
+    },
+    {
+      "keyword": "ai voice recorder",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 180,
+      "suggested_slug": "voice-recorder",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 390,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 4.21,
+      "competition": 0.8
+    },
+    {
+      "keyword": "heic to pdf converter",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 130,
+      "suggested_slug": "heic-to-pdf-converter",
+      "root": "heic converter online free",
+      "already_have": false,
+      "combined_score": 370,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 0.4,
+      "competition": 0.2
+    },
+    {
+      "keyword": "jpg vs jpeg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 200,
+      "suggested_slug": "jpg-vs-jpeg",
+      "root": "heic to png",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 9900,
+      "cpc": 3.05,
+      "competition": 0.2
+    },
+    {
+      "keyword": "m4a to mp4",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 140,
+      "suggested_slug": "m4a-to-mp4",
+      "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 4400,
+      "cpc": 0.58,
+      "competition": 0.2
+    },
+    {
+      "keyword": "gif to jpeg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "gif-to-jpeg",
+      "root": "gif to webp",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 2900,
+      "cpc": 0.96,
+      "competition": 0.2
+    },
+    {
+      "keyword": "avif to jpeg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "avif-to-jpeg",
+      "root": "avif to png",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 2400,
+      "cpc": 0.81,
+      "competition": 0.2
+    },
+    {
+      "keyword": "mp4 to webm",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 100,
+      "suggested_slug": "mp4-to-webm",
+      "root": "webp to gif",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 5400,
+      "cpc": 0.37,
+      "competition": 0.2
+    },
+    {
+      "keyword": "heif to png",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "heif-to-png",
+      "root": "heic to png",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 1000,
+      "cpc": 0.66,
+      "competition": 0.2
+    },
+    {
+      "keyword": "webm to gif",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "webm-to-gif",
+      "root": "webp to gif",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 2900,
+      "cpc": 0.99,
+      "competition": 0.2
+    },
+    {
+      "keyword": "jpeg to ico",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 60,
+      "suggested_slug": "jpeg-to-ico",
+      "root": "image to ico",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "",
+      "search_volume": 3600,
+      "cpc": 0.75,
+      "competition": 0.2
+    },
+    {
+      "keyword": "crop gif",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "crop-gif",
+      "root": "gif to webp",
+      "already_have": false,
+      "combined_score": 340,
+      "difficulty": "需WASM",
+      "search_volume": 9900,
+      "cpc": 4.03,
+      "competition": 0.2
+    },
+    {
+      "keyword": "free convert heic to jpg",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 110,
+      "suggested_slug": "convert-heic-to-jpg",
+      "root": "heic to png",
+      "already_have": false,
+      "combined_score": 330,
+      "difficulty": "需WASM",
+      "search_volume": 1600,
+      "cpc": 0.48,
+      "competition": 0.2
+    },
+    {
+      "keyword": "remove watermark from video free",
+      "sources": [
+        "trends_rising"
+      ],
+      "trend_score": 50,
+      "suggested_slug": "remove-watermark-from-video-free",
+      "root": "remove watermark from image free",
+      "already_have": false,
+      "combined_score": 330,
+      "difficulty": "需WASM",
+      "search_volume": 8100,
+      "cpc": 1.15,
+      "competition": 0.2
+    },
+    {
+      "keyword": "voice recorder online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-free",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 330,
+      "difficulty": "需WASM",
+      "search_volume": 2900,
+      "cpc": 1.4,
+      "competition": 0.2
+    }
+  ]
+}
