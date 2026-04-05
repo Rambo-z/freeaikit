@@ -2,9 +2,9 @@
   "date": "2026-04-05",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 1482
+    "suggest_total": 1849
   },
-  "total_opportunities": 1473,
+  "total_opportunities": 1831,
   "top_50": [
     {
       "keyword": "voice recorder online free and editor",
@@ -502,256 +502,256 @@
       "competition": 0
     },
     {
-      "keyword": "tts online maker",
+      "keyword": "gradient generator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "tts-maker",
-      "root": "tts online",
+      "suggested_slug": "gradient-generator-free",
+      "root": "gradient generator online",
       "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "flex generator online",
+      "keyword": "font viewer online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "flex-generator-online",
-      "root": "flexbox generator",
+      "suggested_slug": "font-viewer-free",
+      "root": "font preview online",
       "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "svg maker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "svg-maker-free",
+      "root": "svg editor online free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "mockup generator free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "mockup-generator-online",
+      "root": "mockup generator free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "wireframe tool online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "wireframe-free",
+      "root": "wireframe tool online",
+      "already_have": false,
+      "combined_score": 130,
       "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "free flexbox generator",
+      "keyword": "mockup tool online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "flexbox-generator",
-      "root": "flexbox generator",
+      "suggested_slug": "mockup-free",
+      "root": "wireframe tool online",
       "already_have": false,
-      "combined_score": 120,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "code formatter free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "code-formatter-free",
-      "root": "code beautifier free",
-      "already_have": false,
-      "combined_score": 120,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "diff tool online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "diff-online",
-      "root": "diff checker online",
-      "already_have": false,
-      "combined_score": 120,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "difference checker free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "difference-checker-free",
-      "root": "diff checker online",
-      "already_have": false,
-      "combined_score": 120,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "http status checker tool",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "http-status-checker",
-      "root": "http status checker",
-      "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
       "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "http header checker tool",
+      "keyword": "wireframe maker online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "http-header-checker",
-      "root": "http status checker",
+      "suggested_slug": "wireframe-maker-free",
+      "root": "wireframe tool online",
       "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
       "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "webhook tester online",
+      "keyword": "pattern generator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "webhook-tester-online",
-      "root": "webhook tester",
+      "suggested_slug": "pattern-generator-free",
+      "root": "pattern generator online",
       "already_have": false,
-      "combined_score": 120,
-      "difficulty": "需API/服务端",
+      "combined_score": 130,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "webhook tester free",
+      "keyword": "pattern maker online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "webhook-tester-free",
-      "root": "webhook tester",
+      "suggested_slug": "pattern-maker-free",
+      "root": "pattern generator online",
       "already_have": false,
-      "combined_score": 120,
-      "difficulty": "需API/服务端",
+      "combined_score": 130,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "free webhook tester",
+      "keyword": "bmi calculator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "webhook-tester",
-      "root": "webhook tester",
+      "suggested_slug": "bmi-calculator-free",
+      "root": "bmi calculator online",
       "already_have": false,
-      "combined_score": 120,
-      "difficulty": "需API/服务端",
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "free video compressor free online",
+      "keyword": "loan calculator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-compressor-online",
-      "root": "video compressor free",
+      "suggested_slug": "loan-calculator-free",
+      "root": "loan calculator online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video compressor online free without losing quality free",
+      "keyword": "emi calculator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-compressor-without-losing-quality-free",
-      "root": "video compressor free",
+      "suggested_slug": "emi-calculator-free",
+      "root": "loan calculator online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "best video compressor free online",
+      "keyword": "finance calculator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-compressor-online",
-      "root": "video compressor free",
+      "suggested_slug": "finance-calculator-free",
+      "root": "loan calculator online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video converter online free without watermark",
+      "keyword": "free loan calculator online",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-converter-without-watermark",
-      "root": "video converter online free",
+      "suggested_slug": "loan-calculator-online",
+      "root": "loan calculator online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video converter online free upto 2gb",
+      "keyword": "free emi calculator online",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-converter-upto-2gb",
-      "root": "video converter online free",
+      "suggested_slug": "emi-calculator-online",
+      "root": "loan calculator online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video converter online free to mp4",
+      "keyword": "free credit calculator online",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-converter-to-mp4",
-      "root": "video converter online free",
+      "suggested_slug": "credit-calculator-online",
+      "root": "loan calculator online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free pattern generator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "pattern-generator-online",
+      "root": "pattern generator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
