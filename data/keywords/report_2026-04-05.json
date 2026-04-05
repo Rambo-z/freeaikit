@@ -2,9 +2,9 @@
   "date": "2026-04-05",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 1189
+    "suggest_total": 1482
   },
-  "total_opportunities": 1182,
+  "total_opportunities": 1473,
   "top_50": [
     {
       "keyword": "voice recorder online free and editor",
@@ -367,6 +367,141 @@
       "competition": 0
     },
     {
+      "keyword": "sql formatter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "sql-formatter-free",
+      "root": "sql formatter online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "code formatter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "code-formatter-free",
+      "root": "code formatter online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "code formatter free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "code-formatter-online",
+      "root": "code beautifier free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "diff checker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "diff-checker-free",
+      "root": "diff checker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "diff tool online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "diff-free",
+      "root": "diff checker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "online webhook tester free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "webhook-tester-free",
+      "root": "webhook tester",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free online flex generator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "flex-generator",
+      "root": "flexbox generator",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free code formatter online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "code-formatter-online",
+      "root": "code formatter online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free webhook tester online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "webhook-tester-online",
+      "root": "webhook tester",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "tts online maker",
       "sources": [
         "suggest"
@@ -377,6 +512,156 @@
       "already_have": false,
       "combined_score": 120,
       "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "flex generator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "flex-generator-online",
+      "root": "flexbox generator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free flexbox generator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "flexbox-generator",
+      "root": "flexbox generator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "code formatter free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "code-formatter-free",
+      "root": "code beautifier free",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "diff tool online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "diff-online",
+      "root": "diff checker online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "difference checker free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "difference-checker-free",
+      "root": "diff checker online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "http status checker tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "http-status-checker",
+      "root": "http status checker",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "http header checker tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "http-header-checker",
+      "root": "http status checker",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "webhook tester online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "webhook-tester-online",
+      "root": "webhook tester",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "webhook tester free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "webhook-tester-free",
+      "root": "webhook tester",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free webhook tester",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "webhook-tester",
+      "root": "webhook tester",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "需API/服务端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -464,291 +749,6 @@
       "trend_score": 0,
       "suggested_slug": "video-converter-to-mp4",
       "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video converter online free mp4 to avi",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-mp4-to-avi",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video converter online free mp3",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-mp3",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video converter online free mp4 to mp3",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-mp4-to-mp3",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video converter online free fb",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-fb",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video language converter online free free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-language-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "sixe video converter online free mp3 free download no copyright",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "sixe-video-converter-mp3-download-no-copyright",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video to text converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-text-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video to mp3 converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-mp3-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video converter to hd 1080p online free without watermark free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-to-hd-1080p-without-watermark-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video to audio converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-audio-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "any video converter online free mp4",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "any-video-converter-mp4",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "any video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "any-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best 4k video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "4k-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best video language converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-language-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best 8k video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "8k-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best 4k video converter online free without watermark",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "4k-video-converter-without-watermark",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "mp4 to mp3 online free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "mp4-to-mp3-converter",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "mp4 to mp3 online converter free download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "mp4-to-mp3-converter-download",
-      "root": "mp4 to mp3 online",
       "already_have": false,
       "combined_score": 110,
       "difficulty": "需WASM",
