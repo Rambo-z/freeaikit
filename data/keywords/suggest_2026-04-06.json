@@ -1,9 +1,9 @@
 {
   "date": "2026-04-06",
-  "batch": 0,
-  "total_suggestions": 615,
-  "new_opportunities": 610,
-  "existing_matches": 5,
+  "batch": 1,
+  "total_suggestions": 1199,
+  "new_opportunities": 1192,
+  "existing_matches": 7,
   "opportunities": [
     {
       "keyword": "compress video online free",
@@ -5494,6 +5494,5244 @@
       "discovered": "2026-04-06",
       "already_have": false,
       "suggested_slug": "add-music-to-video-mp3"
+    },
+    {
+      "keyword": "audio compressor online free",
+      "root": "audio compressor online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-free"
+    },
+    {
+      "keyword": "audio compressor online free mp3",
+      "root": "audio compressor online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-mp3"
+    },
+    {
+      "keyword": "audio compressor online mp3",
+      "root": "audio compressor online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-mp3"
+    },
+    {
+      "keyword": "audio compressor online mp4",
+      "root": "audio compressor online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-mp4"
+    },
+    {
+      "keyword": "audio compressor online m4a",
+      "root": "audio compressor online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-m4a"
+    },
+    {
+      "keyword": "audio compressor online wav",
+      "root": "audio compressor online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-wav"
+    },
+    {
+      "keyword": "audio compressor online free mp4",
+      "root": "audio compressor online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-mp4"
+    },
+    {
+      "keyword": "audio compressor online without losing quality",
+      "root": "audio compressor online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-without-losing-quality"
+    },
+    {
+      "keyword": "audio compressor online for whatsapp",
+      "root": "audio compressor online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-for-whatsapp"
+    },
+    {
+      "keyword": "audio optimizer online free",
+      "root": "audio compressor online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-optimizer-free"
+    },
+    {
+      "keyword": "audio compressor for free",
+      "root": "audio compressor online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-for-free"
+    },
+    {
+      "keyword": "audio size compressor online free",
+      "root": "audio compressor online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-size-compressor-free"
+    },
+    {
+      "keyword": "wav audio compressor online free",
+      "root": "audio compressor online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "wav-audio-compressor-free"
+    },
+    {
+      "keyword": "audio noise reducer online free",
+      "root": "audio compressor online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-noise-reducer-free"
+    },
+    {
+      "keyword": "audio size reducer online free",
+      "root": "audio compressor online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-size-reducer-free"
+    },
+    {
+      "keyword": "audio mb reducer online free",
+      "root": "audio compressor online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-mb-reducer-free"
+    },
+    {
+      "keyword": "best free audio compressor online",
+      "root": "audio compressor online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-online"
+    },
+    {
+      "keyword": "voice recorder online free",
+      "root": "voice recorder online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-free"
+    },
+    {
+      "keyword": "voice recorder online free mp3",
+      "root": "voice recorder online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-mp3"
+    },
+    {
+      "keyword": "voice recorder online free for singing",
+      "root": "voice recorder online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-for-singing"
+    },
+    {
+      "keyword": "voice recorder online for singing",
+      "root": "voice recorder online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-for-singing"
+    },
+    {
+      "keyword": "voice recorder online google",
+      "root": "voice recorder online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-google"
+    },
+    {
+      "keyword": "voice recorder online free download",
+      "root": "voice recorder online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-download"
+    },
+    {
+      "keyword": "voice recorder online with effects",
+      "root": "voice recorder online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-with-effects"
+    },
+    {
+      "keyword": "voice recorder online mp3",
+      "root": "voice recorder online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-mp3"
+    },
+    {
+      "keyword": "voice recorder online free app",
+      "root": "voice recorder online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-app"
+    },
+    {
+      "keyword": "voice recorder online free mp3 download",
+      "root": "voice recorder online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-mp3-download"
+    },
+    {
+      "keyword": "voice recorder online free and editor",
+      "root": "voice recorder online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-and-editor"
+    },
+    {
+      "keyword": "voice recorder online free ai",
+      "root": "voice recorder online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-ai"
+    },
+    {
+      "keyword": "voice recorder online free no download",
+      "root": "voice recorder online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-no-download"
+    },
+    {
+      "keyword": "how to record voice online for free",
+      "root": "voice recorder online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-record-voice-for-free"
+    },
+    {
+      "keyword": "best voice recorder online free",
+      "root": "voice recorder online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-free"
+    },
+    {
+      "keyword": "best voice recorder online free mp3",
+      "root": "voice recorder online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-mp3"
+    },
+    {
+      "keyword": "digital voice recorder online",
+      "root": "voice recorder online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "digital-voice-recorder-online"
+    },
+    {
+      "keyword": "best audio recorder online",
+      "root": "voice recorder online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-recorder-online"
+    },
+    {
+      "keyword": "good voice recorder online",
+      "root": "voice recorder online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "good-voice-recorder-online"
+    },
+    {
+      "keyword": "best audio recorder online free",
+      "root": "voice recorder online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-recorder-free"
+    },
+    {
+      "keyword": "best quality voice recorder online",
+      "root": "voice recorder online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "quality-voice-recorder-online"
+    },
+    {
+      "keyword": "best voice recorder app online",
+      "root": "voice recorder online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-app-online"
+    },
+    {
+      "keyword": "best echo voice recorder online",
+      "root": "voice recorder online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "echo-voice-recorder-online"
+    },
+    {
+      "keyword": "audio joiner online free",
+      "root": "audio joiner online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-joiner-free"
+    },
+    {
+      "keyword": "audio joiner online free mp3",
+      "root": "audio joiner online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-joiner-mp3"
+    },
+    {
+      "keyword": "audio joiner online mp3",
+      "root": "audio joiner online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-joiner-mp3"
+    },
+    {
+      "keyword": "audio joiner online ai",
+      "root": "audio joiner online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-joiner-ai"
+    },
+    {
+      "keyword": "audio joiner online mp4",
+      "root": "audio joiner online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-joiner-mp4"
+    },
+    {
+      "keyword": "audio joiner online converter",
+      "root": "audio joiner online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-joiner-converter"
+    },
+    {
+      "keyword": "audio joiner online wav",
+      "root": "audio joiner online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-joiner-wav"
+    },
+    {
+      "keyword": "audio joiner online clideo",
+      "root": "audio joiner online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-joiner-clideo"
+    },
+    {
+      "keyword": "audio merger online",
+      "root": "audio joiner online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-merger-online"
+    },
+    {
+      "keyword": "audio merger online free",
+      "root": "audio joiner online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-merger-free"
+    },
+    {
+      "keyword": "audio joiner for free",
+      "root": "audio joiner online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-joiner-for-free"
+    },
+    {
+      "keyword": "audio merger online free app",
+      "root": "audio joiner online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-merger-app"
+    },
+    {
+      "keyword": "video audio joiner online free",
+      "root": "audio joiner online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "video-audio-joiner-free"
+    },
+    {
+      "keyword": "audio file joiner online free",
+      "root": "audio joiner online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-file-joiner-free"
+    },
+    {
+      "keyword": "audio cutter joiner online free",
+      "root": "audio joiner online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-cutter-joiner-free"
+    },
+    {
+      "keyword": "fast audio joiner online free",
+      "root": "audio joiner online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "fast-audio-joiner-free"
+    },
+    {
+      "keyword": "join audio online free mp3",
+      "root": "audio joiner online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "join-audio-mp3"
+    },
+    {
+      "keyword": "best audio cutter and joiner online",
+      "root": "audio joiner online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-cutter-and-joiner-online"
+    },
+    {
+      "keyword": "is audio joiner safe",
+      "root": "audio joiner online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "is-audio-joiner-safe"
+    },
+    {
+      "keyword": "remove vocal from song free",
+      "root": "remove vocal from song",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocal-from-song-free"
+    },
+    {
+      "keyword": "remove vocal from song ai",
+      "root": "remove vocal from song",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocal-from-song-ai"
+    },
+    {
+      "keyword": "remove vocal from song online free",
+      "root": "remove vocal from song",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocal-from-song-free"
+    },
+    {
+      "keyword": "remove vocal from song online",
+      "root": "remove vocal from song",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocal-from-song-online"
+    },
+    {
+      "keyword": "remove vocal from song ai free",
+      "root": "remove vocal from song",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocal-from-song-free"
+    },
+    {
+      "keyword": "can you remove voice from a song",
+      "root": "remove vocal from song",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "can-you-remove-voice-from-a-song"
+    },
+    {
+      "keyword": "can you remove vocals from a song",
+      "root": "remove vocal from song",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "can-you-remove-vocals-from-a-song"
+    },
+    {
+      "keyword": "remove voice from song",
+      "root": "remove vocal from song",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-voice-from-song"
+    },
+    {
+      "keyword": "remove vocal from song free online",
+      "root": "remove vocal from song",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocal-from-song-online"
+    },
+    {
+      "keyword": "remove vocal from song free ai",
+      "root": "remove vocal from song",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocal-from-song-ai"
+    },
+    {
+      "keyword": "remove vocals from song free download",
+      "root": "remove vocal from song",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocals-from-song-download"
+    },
+    {
+      "keyword": "remove vocals from song free mp3",
+      "root": "remove vocal from song",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocals-from-song-mp3"
+    },
+    {
+      "keyword": "remove vocals from song free app",
+      "root": "remove vocal from song",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocals-from-song-app"
+    },
+    {
+      "keyword": "remove voice from song free online",
+      "root": "remove vocal from song",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-voice-from-song-online"
+    },
+    {
+      "keyword": "remove singing from song free",
+      "root": "remove vocal from song",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-singing-from-song-free"
+    },
+    {
+      "keyword": "remove vocals from any song free",
+      "root": "remove vocal from song",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocals-from-any-song-free"
+    },
+    {
+      "keyword": "how to remove vocal from a song",
+      "root": "remove vocal from song",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-remove-vocal-from-a-song"
+    },
+    {
+      "keyword": "best remove vocals from song",
+      "root": "remove vocal from song",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-vocals-from-song"
+    },
+    {
+      "keyword": "best app to remove vocal from song",
+      "root": "remove vocal from song",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "app-to-remove-vocal-from-song"
+    },
+    {
+      "keyword": "best ai to remove vocals from song",
+      "root": "remove vocal from song",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "to-remove-vocals-from-song"
+    },
+    {
+      "keyword": "best program to remove vocals from songs",
+      "root": "remove vocal from song",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "program-to-remove-vocals-from-songs"
+    },
+    {
+      "keyword": "best way to remove vocals from song",
+      "root": "remove vocal from song",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "way-to-remove-vocals-from-song"
+    },
+    {
+      "keyword": "best ai tool to remove vocals from song",
+      "root": "remove vocal from song",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "to-remove-vocals-from-song"
+    },
+    {
+      "keyword": "best ai app to remove vocals from song",
+      "root": "remove vocal from song",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "app-to-remove-vocals-from-song"
+    },
+    {
+      "keyword": "audio speed changer online",
+      "root": "audio speed changer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-online"
+    },
+    {
+      "keyword": "audio speed changer online free",
+      "root": "audio speed changer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-free"
+    },
+    {
+      "keyword": "audio speed changer free",
+      "root": "audio speed changer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-free"
+    },
+    {
+      "keyword": "audio speed changer and pitch",
+      "root": "audio speed changer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-and-pitch"
+    },
+    {
+      "keyword": "audio speed changer app",
+      "root": "audio speed changer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-app"
+    },
+    {
+      "keyword": "audio speed changer download",
+      "root": "audio speed changer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-download"
+    },
+    {
+      "keyword": "audio speed changer extension",
+      "root": "audio speed changer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-extension"
+    },
+    {
+      "keyword": "audio speed changer chrome extension",
+      "root": "audio speed changer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-chrome-extension"
+    },
+    {
+      "keyword": "audio speed changer without changing pitch",
+      "root": "audio speed changer",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-without-changing-pitch"
+    },
+    {
+      "keyword": "audio speed changer free online",
+      "root": "audio speed changer",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-online"
+    },
+    {
+      "keyword": "audio speed changer free download",
+      "root": "audio speed changer",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-download"
+    },
+    {
+      "keyword": "music speed changer free",
+      "root": "audio speed changer",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "music-speed-changer-free"
+    },
+    {
+      "keyword": "audio speed up free",
+      "root": "audio speed changer",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-up-free"
+    },
+    {
+      "keyword": "music speed changer free download for pc",
+      "root": "audio speed changer",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "music-speed-changer-download-for-pc"
+    },
+    {
+      "keyword": "music speed changer free download",
+      "root": "audio speed changer",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "music-speed-changer-download"
+    },
+    {
+      "keyword": "music speed changer free online",
+      "root": "audio speed changer",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "music-speed-changer-online"
+    },
+    {
+      "keyword": "audio tempo changer free",
+      "root": "audio speed changer",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-tempo-changer-free"
+    },
+    {
+      "keyword": "audio speed up free online",
+      "root": "audio speed changer",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-up-online"
+    },
+    {
+      "keyword": "change audio speed",
+      "root": "audio speed changer",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "change-audio-speed"
+    },
+    {
+      "keyword": "change audio speed online",
+      "root": "audio speed changer",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "change-audio-speed-online"
+    },
+    {
+      "keyword": "how to change audio speed in audacity",
+      "root": "audio speed changer",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-change-audio-speed-in-audacity"
+    },
+    {
+      "keyword": "noise remover online free",
+      "root": "noise remover online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-free"
+    },
+    {
+      "keyword": "noise remover online from audio",
+      "root": "noise remover online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-from-audio"
+    },
+    {
+      "keyword": "noise remover online free from audio",
+      "root": "noise remover online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-from-audio"
+    },
+    {
+      "keyword": "noise remover online from video",
+      "root": "noise remover online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-from-video"
+    },
+    {
+      "keyword": "noise remover online free video",
+      "root": "noise remover online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-video"
+    },
+    {
+      "keyword": "noise remover online ai",
+      "root": "noise remover online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-ai"
+    },
+    {
+      "keyword": "noise remover online photo",
+      "root": "noise remover online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-photo"
+    },
+    {
+      "keyword": "noise remover online mp3",
+      "root": "noise remover online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-mp3"
+    },
+    {
+      "keyword": "noise remover online free ai",
+      "root": "noise remover online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-ai"
+    },
+    {
+      "keyword": "noise reduction online free",
+      "root": "noise remover online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reduction-free"
+    },
+    {
+      "keyword": "noise reducer online free",
+      "root": "noise remover online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reducer-free"
+    },
+    {
+      "keyword": "noise reduction online free from video",
+      "root": "noise remover online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reduction-from-video"
+    },
+    {
+      "keyword": "noise reduction online free audio",
+      "root": "noise remover online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reduction-audio"
+    },
+    {
+      "keyword": "noise remover for free",
+      "root": "noise remover online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-for-free"
+    },
+    {
+      "keyword": "noise reduction online free photo",
+      "root": "noise remover online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reduction-photo"
+    },
+    {
+      "keyword": "online noise removal",
+      "root": "noise remover online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-removal"
+    },
+    {
+      "keyword": "noise audio remover online",
+      "root": "noise remover online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-audio-remover-online"
+    },
+    {
+      "keyword": "noise cancelling online free",
+      "root": "noise remover online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-cancelling-free"
+    },
+    {
+      "keyword": "sound noise removal online",
+      "root": "noise remover online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "sound-noise-removal-online"
+    },
+    {
+      "keyword": "best noise remover online free",
+      "root": "noise remover online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-free"
+    },
+    {
+      "keyword": "best online noise removal",
+      "root": "noise remover online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-removal"
+    },
+    {
+      "keyword": "best noise reduction online",
+      "root": "noise remover online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reduction-online"
+    },
+    {
+      "keyword": "best noise reduction online free",
+      "root": "noise remover online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reduction-free"
+    },
+    {
+      "keyword": "best noise reducer online",
+      "root": "noise remover online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reducer-online"
+    },
+    {
+      "keyword": "best background noise removal online",
+      "root": "noise remover online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "background-noise-removal-online"
+    },
+    {
+      "keyword": "best background noise removal online free",
+      "root": "noise remover online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "background-noise-removal-free"
+    },
+    {
+      "keyword": "how to remove noise from audio online",
+      "root": "noise remover online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-remove-noise-from-audio-online"
+    },
+    {
+      "keyword": "how to remove noise",
+      "root": "noise remover online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-remove-noise"
+    },
+    {
+      "keyword": "text to speech online free unlimited",
+      "root": "text to speech online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-unlimited"
+    },
+    {
+      "keyword": "text to speech online free unlimited mp3 download",
+      "root": "text to speech online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-unlimited-mp3-download"
+    },
+    {
+      "keyword": "text to speech online free unlimited with emotions",
+      "root": "text to speech online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-unlimited-with-emotions"
+    },
+    {
+      "keyword": "text to speech online free unlimited google",
+      "root": "text to speech online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-unlimited-google"
+    },
+    {
+      "keyword": "text to speech online free unlimited characters",
+      "root": "text to speech online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-unlimited-characters"
+    },
+    {
+      "keyword": "text to speech online free unlimited 10000 words",
+      "root": "text to speech online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-unlimited-10000-words"
+    },
+    {
+      "keyword": "text to speech free online free",
+      "root": "text to speech online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-free"
+    },
+    {
+      "keyword": "text to speech online free unlimited free",
+      "root": "text to speech online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-unlimited-free"
+    },
+    {
+      "keyword": "free text to speech online free download",
+      "root": "text to speech online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-download"
+    },
+    {
+      "keyword": "text to speech free free",
+      "root": "text to speech online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-free"
+    },
+    {
+      "keyword": "text to speech free free ai",
+      "root": "text to speech online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-ai"
+    },
+    {
+      "keyword": "morgan freeman text to speech online free",
+      "root": "text to speech online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "morgan-freeman-text-to-speech-free"
+    },
+    {
+      "keyword": "text to speech generator free online tts free ttsfree com",
+      "root": "text to speech online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-generator-tts-ttscom"
+    },
+    {
+      "keyword": "free text to speech converter online free",
+      "root": "text to speech online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-converter-free"
+    },
+    {
+      "keyword": "freetts text to speech mp3 online free",
+      "root": "text to speech online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "freetts-text-to-speech-mp3-free"
+    },
+    {
+      "keyword": "free text to speech ai online free",
+      "root": "text to speech online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-free"
+    },
+    {
+      "keyword": "text to speech online free no registration",
+      "root": "text to speech online free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-no-registration"
+    },
+    {
+      "keyword": "is text to speech free",
+      "root": "text to speech online free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "is-text-to-speech-free"
+    },
+    {
+      "keyword": "text to speech free commercial use",
+      "root": "text to speech online free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-commercial-use"
+    },
+    {
+      "keyword": "most natural text to speech free",
+      "root": "text to speech online free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "most-natural-text-to-speech-free"
+    },
+    {
+      "keyword": "is google text to speech free",
+      "root": "text to speech online free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "is-google-text-to-speech-free"
+    },
+    {
+      "keyword": "how can i convert text to voice online for free",
+      "root": "text to speech online free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-can-i-convert-text-to-voice-for-free"
+    },
+    {
+      "keyword": "best text to speech online free unlimited",
+      "root": "text to speech online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-unlimited"
+    },
+    {
+      "keyword": "best text to speech for free",
+      "root": "text to speech online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-for-free"
+    },
+    {
+      "keyword": "best text to speech online for free realistic voices",
+      "root": "text to speech online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-for-realistic-voices"
+    },
+    {
+      "keyword": "best urdu text to speech online free",
+      "root": "text to speech online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "urdu-text-to-speech-free"
+    },
+    {
+      "keyword": "best text to speech ai online free",
+      "root": "text to speech online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-free"
+    },
+    {
+      "keyword": "good text to speech for free",
+      "root": "text to speech online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "good-text-to-speech-for-free"
+    },
+    {
+      "keyword": "best text to speech online tool for free",
+      "root": "text to speech online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-for-free"
+    },
+    {
+      "keyword": "tts online free",
+      "root": "tts online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-free"
+    },
+    {
+      "keyword": "tts online free unlimited",
+      "root": "tts online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-unlimited"
+    },
+    {
+      "keyword": "tts online sam",
+      "root": "tts online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-sam"
+    },
+    {
+      "keyword": "tts online old",
+      "root": "tts online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-old"
+    },
+    {
+      "keyword": "tts online maker",
+      "root": "tts online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-maker"
+    },
+    {
+      "keyword": "tts online store",
+      "root": "tts online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-store"
+    },
+    {
+      "keyword": "tts online free download",
+      "root": "tts online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-download"
+    },
+    {
+      "keyword": "tts online download",
+      "root": "tts online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-download"
+    },
+    {
+      "keyword": "tts online free no limit",
+      "root": "tts online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-no-limit"
+    },
+    {
+      "keyword": "tts online free ai",
+      "root": "tts online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-ai"
+    },
+    {
+      "keyword": "tts online free mp3",
+      "root": "tts online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-mp3"
+    },
+    {
+      "keyword": "text to speech online free",
+      "root": "tts online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-free"
+    },
+    {
+      "keyword": "text to speech online no registration",
+      "root": "tts online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-no-registration"
+    },
+    {
+      "keyword": "best tts online free",
+      "root": "tts online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tts-free"
+    },
+    {
+      "keyword": "best text to speech online",
+      "root": "tts online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-online"
+    },
+    {
+      "keyword": "best text to speech online free",
+      "root": "tts online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech-free"
+    },
+    {
+      "keyword": "best text to speech online tool",
+      "root": "tts online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-speech"
+    },
+    {
+      "keyword": "speech to text online free unlimited",
+      "root": "speech to text online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-unlimited"
+    },
+    {
+      "keyword": "speech to text online free converter",
+      "root": "speech to text online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-converter"
+    },
+    {
+      "keyword": "speech to text online free ai",
+      "root": "speech to text online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-ai"
+    },
+    {
+      "keyword": "speech to text online free google",
+      "root": "speech to text online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-google"
+    },
+    {
+      "keyword": "speech to text online free app",
+      "root": "speech to text online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-app"
+    },
+    {
+      "keyword": "speech to text online free hindi",
+      "root": "speech to text online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-hindi"
+    },
+    {
+      "keyword": "speech to text online free tool",
+      "root": "speech to text online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text"
+    },
+    {
+      "keyword": "speech to text free online free",
+      "root": "speech to text online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-free"
+    },
+    {
+      "keyword": "speech to text french free",
+      "root": "speech to text online free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-french-free"
+    },
+    {
+      "keyword": "speech to text tool free",
+      "root": "speech to text online free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-free"
+    },
+    {
+      "keyword": "speech to text program free",
+      "root": "speech to text online free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-program-free"
+    },
+    {
+      "keyword": "best speech to text converter free",
+      "root": "speech to text online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-converter-free"
+    },
+    {
+      "keyword": "best voice to text online free",
+      "root": "speech to text online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-free"
+    },
+    {
+      "keyword": "best speech to text converter online free",
+      "root": "speech to text online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-converter-free"
+    },
+    {
+      "keyword": "best voice to text converter free",
+      "root": "speech to text online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-free"
+    },
+    {
+      "keyword": "best amharic voice to text converter online free",
+      "root": "speech to text online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "amharic-voice-to-text-converter-free"
+    },
+    {
+      "keyword": "voice to text online free",
+      "root": "voice to text online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-free"
+    },
+    {
+      "keyword": "voice to text online google",
+      "root": "voice to text online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-google"
+    },
+    {
+      "keyword": "voice to text online converter",
+      "root": "voice to text online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter"
+    },
+    {
+      "keyword": "voice to text online ai",
+      "root": "voice to text online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-ai"
+    },
+    {
+      "keyword": "voice to text online tamil",
+      "root": "voice to text online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-tamil"
+    },
+    {
+      "keyword": "voice to text online bangla",
+      "root": "voice to text online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-bangla"
+    },
+    {
+      "keyword": "voice to text online persian",
+      "root": "voice to text online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-persian"
+    },
+    {
+      "keyword": "voice to text online urdu",
+      "root": "voice to text online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-urdu"
+    },
+    {
+      "keyword": "voice to text online sinhala",
+      "root": "voice to text online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-sinhala"
+    },
+    {
+      "keyword": "voice to text online free converter",
+      "root": "voice to text online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter"
+    },
+    {
+      "keyword": "voice to text online free unlimited",
+      "root": "voice to text online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-unlimited"
+    },
+    {
+      "keyword": "voice to text online free ai",
+      "root": "voice to text online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-ai"
+    },
+    {
+      "keyword": "voice to text online free google",
+      "root": "voice to text online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-google"
+    },
+    {
+      "keyword": "voice to text online free app",
+      "root": "voice to text online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-app"
+    },
+    {
+      "keyword": "voice to text online free tool",
+      "root": "voice to text online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text"
+    },
+    {
+      "keyword": "speech to text online free",
+      "root": "voice to text online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-free"
+    },
+    {
+      "keyword": "voice to text converter free",
+      "root": "voice to text online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-free"
+    },
+    {
+      "keyword": "is there an app for voice to text",
+      "root": "voice to text online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "is-there-an-app-for-voice-to-text"
+    },
+    {
+      "keyword": "best speech to text online",
+      "root": "voice to text online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-online"
+    },
+    {
+      "keyword": "best speech to text online free",
+      "root": "voice to text online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-free"
+    },
+    {
+      "keyword": "best voice to text converter",
+      "root": "voice to text online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter"
+    },
+    {
+      "keyword": "best voice to text converter app",
+      "root": "voice to text online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-app"
+    },
+    {
+      "keyword": "best voice to text converter software",
+      "root": "voice to text online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-software"
+    },
+    {
+      "keyword": "best voice to text converter online free",
+      "root": "voice to text online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-free"
+    },
+    {
+      "keyword": "best voice to text converter online",
+      "root": "voice to text online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-online"
+    },
+    {
+      "keyword": "audio to text free online",
+      "root": "audio to text free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-online"
+    },
+    {
+      "keyword": "audio to text free converter",
+      "root": "audio to text free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-converter"
+    },
+    {
+      "keyword": "audio to text free transcription",
+      "root": "audio to text free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-transcription"
+    },
+    {
+      "keyword": "audio to text free ai",
+      "root": "audio to text free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-ai"
+    },
+    {
+      "keyword": "audio to text free online converter",
+      "root": "audio to text free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-converter"
+    },
+    {
+      "keyword": "audio to text free app",
+      "root": "audio to text free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-app"
+    },
+    {
+      "keyword": "audio to text free unlimited",
+      "root": "audio to text free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-unlimited"
+    },
+    {
+      "keyword": "transcribe audio to text free free",
+      "root": "audio to text free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "transcribe-audio-to-text-free"
+    },
+    {
+      "keyword": "audio to text free online free",
+      "root": "audio to text free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-free"
+    },
+    {
+      "keyword": "audio to text free converter free",
+      "root": "audio to text free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-converter-free"
+    },
+    {
+      "keyword": "transcribe audio to text free online free",
+      "root": "audio to text free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "transcribe-audio-to-text-free"
+    },
+    {
+      "keyword": "free audio to text converter free online",
+      "root": "audio to text free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-converter-online"
+    },
+    {
+      "keyword": "free audio to text converter free download",
+      "root": "audio to text free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-converter-download"
+    },
+    {
+      "keyword": "free audio to text ai free",
+      "root": "audio to text free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-free"
+    },
+    {
+      "keyword": "free ai transcribe audio to text free",
+      "root": "audio to text free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "transcribe-audio-to-text-free"
+    },
+    {
+      "keyword": "best free audio to text converter free",
+      "root": "audio to text free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-converter-free"
+    },
+    {
+      "keyword": "text to audio free no signup",
+      "root": "audio to text free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "text-to-audio-no-signup"
+    },
+    {
+      "keyword": "audio to text free no sign in",
+      "root": "audio to text free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-no-sign-in"
+    },
+    {
+      "keyword": "transcribe audio to text free no sign in",
+      "root": "audio to text free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "transcribe-audio-to-text-no-sign-in"
+    },
+    {
+      "keyword": "transcribe audio to text free online no signup",
+      "root": "audio to text free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "transcribe-audio-to-text-no-signup"
+    },
+    {
+      "keyword": "best audio to text free online",
+      "root": "audio to text free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-online"
+    },
+    {
+      "keyword": "best audio to text free converter",
+      "root": "audio to text free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-converter"
+    },
+    {
+      "keyword": "best audio to text free ai",
+      "root": "audio to text free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-ai"
+    },
+    {
+      "keyword": "best audio to text free app",
+      "root": "audio to text free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-app"
+    },
+    {
+      "keyword": "best transcribe audio to text free",
+      "root": "audio to text free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "transcribe-audio-to-text-free"
+    },
+    {
+      "keyword": "best audio to text transcription free",
+      "root": "audio to text free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-to-text-transcription-free"
+    },
+    {
+      "keyword": "best transcribe audio to text free online",
+      "root": "audio to text free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "transcribe-audio-to-text-online"
+    },
+    {
+      "keyword": "heic to jpg online free",
+      "root": "heic to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-free"
+    },
+    {
+      "keyword": "heic to jpg online converter",
+      "root": "heic to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter"
+    },
+    {
+      "keyword": "heic to jpg online free converter",
+      "root": "heic to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter"
+    },
+    {
+      "keyword": "heic to jpg online viewer",
+      "root": "heic to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-viewer"
+    },
+    {
+      "keyword": "heic to jpg online converter download",
+      "root": "heic to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-download"
+    },
+    {
+      "keyword": "heic to jpg online batch",
+      "root": "heic to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-batch"
+    },
+    {
+      "keyword": "heic to jpg online unlimited",
+      "root": "heic to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-unlimited"
+    },
+    {
+      "keyword": "heic to jpg online bulk",
+      "root": "heic to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-bulk"
+    },
+    {
+      "keyword": "heic to jpg online free bulk",
+      "root": "heic to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-bulk"
+    },
+    {
+      "keyword": "heic to jpg free online unlimited",
+      "root": "heic to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-unlimited"
+    },
+    {
+      "keyword": "heic to jpg free online tool",
+      "root": "heic to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg"
+    },
+    {
+      "keyword": "heic to jpg converter free",
+      "root": "heic to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-free"
+    },
+    {
+      "keyword": "heic to jpg converter free download",
+      "root": "heic to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-download"
+    },
+    {
+      "keyword": "heic to jpg converter free unlimited",
+      "root": "heic to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-unlimited"
+    },
+    {
+      "keyword": "heic to jpg for free",
+      "root": "heic to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-for-free"
+    },
+    {
+      "keyword": "heic to jpg converter free software",
+      "root": "heic to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-software"
+    },
+    {
+      "keyword": "heic to jpg converter free private no signup jpegmini",
+      "root": "heic to jpg online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-private-no-signup-jpegmini"
+    },
+    {
+      "keyword": "how to convert heic to jpg online",
+      "root": "heic to jpg online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-convert-heic-to-jpg-online"
+    },
+    {
+      "keyword": "online tool to convert heic to jpg",
+      "root": "heic to jpg online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tool-to-convert-heic-to-jpg"
+    },
+    {
+      "keyword": "how do i convert heic to jpg for free",
+      "root": "heic to jpg online",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-do-i-convert-heic-to-jpg-for-free"
+    },
+    {
+      "keyword": "best heic to jpg converter",
+      "root": "heic to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter"
+    },
+    {
+      "keyword": "best heic to jpg converter for windows 11",
+      "root": "heic to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-for-windows-11"
+    },
+    {
+      "keyword": "best heic to jpg converter free",
+      "root": "heic to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-free"
+    },
+    {
+      "keyword": "best heic to jpg converter for windows 10",
+      "root": "heic to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-for-windows-10"
+    },
+    {
+      "keyword": "best heic to jpg converter app",
+      "root": "heic to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-app"
+    },
+    {
+      "keyword": "best heic to jpg converter for android",
+      "root": "heic to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-for-android"
+    },
+    {
+      "keyword": "best heic to jpg converter for windows",
+      "root": "heic to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-for-windows"
+    },
+    {
+      "keyword": "best heic to jpg converter mac",
+      "root": "heic to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-mac"
+    },
+    {
+      "keyword": "best heic to jpg converter for iphone",
+      "root": "heic to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-for-iphone"
+    },
+    {
+      "keyword": "heic to png converter",
+      "root": "heic to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-converter"
+    },
+    {
+      "keyword": "heic to png converter free",
+      "root": "heic to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-converter-free"
+    },
+    {
+      "keyword": "heic to png free",
+      "root": "heic to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-free"
+    },
+    {
+      "keyword": "heic to png on mac",
+      "root": "heic to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-on-mac"
+    },
+    {
+      "keyword": "heic to png windows",
+      "root": "heic to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-windows"
+    },
+    {
+      "keyword": "heic to png conversion",
+      "root": "heic to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-conversion"
+    },
+    {
+      "keyword": "heic to png iphone",
+      "root": "heic to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-iphone"
+    },
+    {
+      "keyword": "heic to png or jpg",
+      "root": "heic to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-or-jpg"
+    },
+    {
+      "keyword": "heic to png free converter",
+      "root": "heic to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-converter"
+    },
+    {
+      "keyword": "heic to png free online",
+      "root": "heic to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-online"
+    },
+    {
+      "keyword": "heic to png free download",
+      "root": "heic to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-download"
+    },
+    {
+      "keyword": "heic to png freeware",
+      "root": "heic to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-freeware"
+    },
+    {
+      "keyword": "heic to png free no limit",
+      "root": "heic to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-no-limit"
+    },
+    {
+      "keyword": "heic to png free software",
+      "root": "heic to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-software"
+    },
+    {
+      "keyword": "heic to png free bulk",
+      "root": "heic to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-bulk"
+    },
+    {
+      "keyword": "heic to png free app",
+      "root": "heic to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-app"
+    },
+    {
+      "keyword": "best heic to png converter",
+      "root": "heic to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-converter"
+    },
+    {
+      "keyword": "best free heic to png converter",
+      "root": "heic to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-converter"
+    },
+    {
+      "keyword": "best way to convert heic to png",
+      "root": "heic to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "way-to-convert-heic-to-png"
+    },
+    {
+      "keyword": "heic to png best quality",
+      "root": "heic to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-quality"
+    },
+    {
+      "keyword": "change from heic to png",
+      "root": "heic to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "change-from-heic-to-png"
+    },
+    {
+      "keyword": "how to convert a heic to png",
+      "root": "heic to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-convert-a-heic-to-png"
+    },
+    {
+      "keyword": "heic or png",
+      "root": "heic to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-or-png"
+    },
+    {
+      "keyword": "heic converter for free",
+      "root": "heic converter online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-converter-for-free"
+    },
+    {
+      "keyword": "heic jpg converter online free",
+      "root": "heic converter online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-jpg-converter-free"
+    },
+    {
+      "keyword": "heic to pdf converter online free",
+      "root": "heic converter online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-pdf-converter-free"
+    },
+    {
+      "keyword": "heic to jpg converter online free multiple",
+      "root": "heic converter online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-multiple"
+    },
+    {
+      "keyword": "heic to jpg converter online free unlimited",
+      "root": "heic converter online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-unlimited"
+    },
+    {
+      "keyword": "heic to png converter online free",
+      "root": "heic converter online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-png-converter-free"
+    },
+    {
+      "keyword": "heic to mp4 converter online free",
+      "root": "heic converter online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-mp4-converter-free"
+    },
+    {
+      "keyword": "heic converter for windows free",
+      "root": "heic converter online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-converter-for-windows-free"
+    },
+    {
+      "keyword": "best heic converter for free",
+      "root": "heic converter online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-converter-for-free"
+    },
+    {
+      "keyword": "safest heic to jpg converter",
+      "root": "heic converter online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "safest-heic-to-jpg-converter"
+    },
+    {
+      "keyword": "convert raw to heic",
+      "root": "heic converter online free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "convert-raw-to-heic"
+    },
+    {
+      "keyword": "webp to gif converter",
+      "root": "webp to gif",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter"
+    },
+    {
+      "keyword": "webp to gif ezgif",
+      "root": "webp to gif",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-ezgif"
+    },
+    {
+      "keyword": "webp to gif android",
+      "root": "webp to gif",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-android"
+    },
+    {
+      "keyword": "webp to gif extension",
+      "root": "webp to gif",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-extension"
+    },
+    {
+      "keyword": "webp to gif offline",
+      "root": "webp to gif",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-offline"
+    },
+    {
+      "keyword": "webp to gif converter free",
+      "root": "webp to gif",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter-free"
+    },
+    {
+      "keyword": "webp to gif online",
+      "root": "webp to gif",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-online"
+    },
+    {
+      "keyword": "webp to gif file",
+      "root": "webp to gif",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-file"
+    },
+    {
+      "keyword": "webp to gif free",
+      "root": "webp to gif",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-free"
+    },
+    {
+      "keyword": "webp to gif free online",
+      "root": "webp to gif",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-online"
+    },
+    {
+      "keyword": "webp to gif free unlimited",
+      "root": "webp to gif",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-unlimited"
+    },
+    {
+      "keyword": "webp to gif converter free download",
+      "root": "webp to gif",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter-download"
+    },
+    {
+      "keyword": "webp to gif converter free software",
+      "root": "webp to gif",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter-software"
+    },
+    {
+      "keyword": "webp to gif converter online",
+      "root": "webp to gif",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter-online"
+    },
+    {
+      "keyword": "webp to gif converter software",
+      "root": "webp to gif",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter-software"
+    },
+    {
+      "keyword": "webp to gif converter app",
+      "root": "webp to gif",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter-app"
+    },
+    {
+      "keyword": "best webp to gif converter",
+      "root": "webp to gif",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter"
+    },
+    {
+      "keyword": "how to download gif instead of webp",
+      "root": "webp to gif",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-download-gif-instead-of-webp"
+    },
+    {
+      "keyword": "gif to webp converter",
+      "root": "gif to webp",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "gif-to-webp-converter"
+    },
+    {
+      "keyword": "gif to webp animated",
+      "root": "gif to webp",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "gif-to-webp-animated"
+    },
+    {
+      "keyword": "gif to webp converter free",
+      "root": "gif to webp",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "gif-to-webp-converter-free"
+    },
+    {
+      "keyword": "gif to webp converter online",
+      "root": "gif to webp",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "gif-to-webp-converter-online"
+    },
+    {
+      "keyword": "gif to webp ezgif",
+      "root": "gif to webp",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "gif-to-webp-ezgif"
+    },
+    {
+      "keyword": "gif to webp compress",
+      "root": "gif to webp",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "gif-to-webp-compress"
+    },
+    {
+      "keyword": "gif to webp converter software",
+      "root": "gif to webp",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "gif-to-webp-converter-software"
+    },
+    {
+      "keyword": "gif to webp ffmpeg",
+      "root": "gif to webp",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "gif-to-webp-ffmpeg"
+    },
+    {
+      "keyword": "can you convert webp to gif",
+      "root": "gif to webp",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "can-you-convert-webp-to-gif"
+    },
+    {
+      "keyword": "how do i convert webp to gif",
+      "root": "gif to webp",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-do-i-convert-webp-to-gif"
+    },
+    {
+      "keyword": "how to convert gif to webp",
+      "root": "gif to webp",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-convert-gif-to-webp"
+    },
+    {
+      "keyword": "change gif to webp",
+      "root": "gif to webp",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "change-gif-to-webp"
+    },
+    {
+      "keyword": "animated gif to webp",
+      "root": "gif to webp",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "animated-gif-to-webp"
+    },
+    {
+      "keyword": "animated gif to webp converter",
+      "root": "gif to webp",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "animated-gif-to-webp-converter"
+    },
+    {
+      "keyword": "avif to jpg converter",
+      "root": "avif to jpg",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter"
+    },
+    {
+      "keyword": "avif to jpg converter free",
+      "root": "avif to jpg",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter-free"
+    },
+    {
+      "keyword": "avif to jpg free",
+      "root": "avif to jpg",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-free"
+    },
+    {
+      "keyword": "avif to jpg converter free online",
+      "root": "avif to jpg",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter-online"
+    },
+    {
+      "keyword": "avif to jpg online",
+      "root": "avif to jpg",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-online"
+    },
+    {
+      "keyword": "avif to jpg converter download",
+      "root": "avif to jpg",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter-download"
+    },
+    {
+      "keyword": "avif to jpg mac",
+      "root": "avif to jpg",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-mac"
+    },
+    {
+      "keyword": "avif to jpg free online converter",
+      "root": "avif to jpg",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter"
+    },
+    {
+      "keyword": "avif to jpg free converter",
+      "root": "avif to jpg",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter"
+    },
+    {
+      "keyword": "avif to jpg free unlimited",
+      "root": "avif to jpg",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-unlimited"
+    },
+    {
+      "keyword": "avif to jpg free download",
+      "root": "avif to jpg",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-download"
+    },
+    {
+      "keyword": "avif to jpg free software",
+      "root": "avif to jpg",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-software"
+    },
+    {
+      "keyword": "avif to jpg free bulk",
+      "root": "avif to jpg",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-bulk"
+    },
+    {
+      "keyword": "avif to jpg converter freeconvert com",
+      "root": "avif to jpg",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter-freeconvert-com"
+    },
+    {
+      "keyword": "change avif to jpg free",
+      "root": "avif to jpg",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "change-avif-to-jpg-free"
+    },
+    {
+      "keyword": "avif to jpg converter free offline",
+      "root": "avif to jpg",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter-offline"
+    },
+    {
+      "keyword": "best avif to jpg converter",
+      "root": "avif to jpg",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter"
+    },
+    {
+      "keyword": "best free avif to jpg converter",
+      "root": "avif to jpg",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter"
+    },
+    {
+      "keyword": "avif to jpg best quality",
+      "root": "avif to jpg",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-quality"
+    },
+    {
+      "keyword": "best way to convert avif to jpg",
+      "root": "avif to jpg",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "way-to-convert-avif-to-jpg"
+    },
+    {
+      "keyword": "convert avif to jpg",
+      "root": "avif to jpg",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "convert-avif-to-jpg"
+    },
+    {
+      "keyword": "avif to png converter",
+      "root": "avif to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-converter"
+    },
+    {
+      "keyword": "avif to png ezgif",
+      "root": "avif to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-ezgif"
+    },
+    {
+      "keyword": "avif to png free",
+      "root": "avif to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-free"
+    },
+    {
+      "keyword": "avif to png converter free",
+      "root": "avif to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-converter-free"
+    },
+    {
+      "keyword": "avif to png converter free online",
+      "root": "avif to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-converter-online"
+    },
+    {
+      "keyword": "avif to png transparent",
+      "root": "avif to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-transparent"
+    },
+    {
+      "keyword": "avif to png online",
+      "root": "avif to png",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-online"
+    },
+    {
+      "keyword": "avif to png free converter",
+      "root": "avif to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-converter"
+    },
+    {
+      "keyword": "avif to png free online",
+      "root": "avif to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-online"
+    },
+    {
+      "keyword": "avif to png free unlimited",
+      "root": "avif to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-unlimited"
+    },
+    {
+      "keyword": "avif to png freeconvert",
+      "root": "avif to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-freeconvert"
+    },
+    {
+      "keyword": "avif to png converter freeconvert com",
+      "root": "avif to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-converter-freeconvert-com"
+    },
+    {
+      "keyword": "avif to png bulk free",
+      "root": "avif to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-png-bulk-free"
+    },
+    {
+      "keyword": "change avif to png free",
+      "root": "avif to png",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "change-avif-to-png-free"
+    },
+    {
+      "keyword": "best png to avif converter",
+      "root": "avif to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "png-to-avif-converter"
+    },
+    {
+      "keyword": "beste tursekk",
+      "root": "avif to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "beste-tursekk"
+    },
+    {
+      "keyword": "beste beleggingsplatform",
+      "root": "avif to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "beste-beleggingsplatform"
+    },
+    {
+      "keyword": "how to make a png better quality",
+      "root": "avif to png",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-make-a-png-better-quality"
+    },
+    {
+      "keyword": "tiff to jpg online converter",
+      "root": "tiff to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter"
+    },
+    {
+      "keyword": "tiff to jpg online free",
+      "root": "tiff to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-free"
+    },
+    {
+      "keyword": "tiff to jpg converter",
+      "root": "tiff to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter"
+    },
+    {
+      "keyword": "tiff to jpg converter free",
+      "root": "tiff to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter-free"
+    },
+    {
+      "keyword": "tiff to jpg converter free download",
+      "root": "tiff to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter-download"
+    },
+    {
+      "keyword": "tiff to jpg converter software",
+      "root": "tiff to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter-software"
+    },
+    {
+      "keyword": "tiff to jpg converter download",
+      "root": "tiff to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter-download"
+    },
+    {
+      "keyword": "tiff to jpg converter software free download",
+      "root": "tiff to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter-software-download"
+    },
+    {
+      "keyword": "tiff to jpg converter app",
+      "root": "tiff to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter-app"
+    },
+    {
+      "keyword": "tiff to jpg converter free download full version",
+      "root": "tiff to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter-download-full-version"
+    },
+    {
+      "keyword": "tiff to jpg for free",
+      "root": "tiff to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-for-free"
+    },
+    {
+      "keyword": "convert large tiff to jpg online free",
+      "root": "tiff to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "convert-large-tiff-to-jpg-free"
+    },
+    {
+      "keyword": "tiff to jpg batch converter free download",
+      "root": "tiff to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-batch-converter-download"
+    },
+    {
+      "keyword": "convert tiff file to jpg online free",
+      "root": "tiff to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "convert-tiff-file-to-jpg-free"
+    },
+    {
+      "keyword": "how to change a tiff image to jpg",
+      "root": "tiff to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-change-a-tiff-image-to-jpg"
+    },
+    {
+      "keyword": "best tiff to jpg converter",
+      "root": "tiff to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter"
+    },
+    {
+      "keyword": "best free tiff to jpg converter",
+      "root": "tiff to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-converter"
+    },
+    {
+      "keyword": "tiff to jpg software",
+      "root": "tiff to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "tiff-to-jpg-software"
+    },
+    {
+      "keyword": "how can i convert tiff to jpg for free",
+      "root": "tiff to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-can-i-convert-tiff-to-jpg-for-free"
+    },
+    {
+      "keyword": "how to convert tiff to jpg online",
+      "root": "tiff to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-convert-tiff-to-jpg-online"
+    },
+    {
+      "keyword": "can you convert a jpeg to a tiff",
+      "root": "tiff to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "can-you-convert-a-jpeg-to-a-tiff"
+    },
+    {
+      "keyword": "jpeg to tiff free",
+      "root": "tiff to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "jpeg-to-tiff-free"
+    },
+    {
+      "keyword": "bmp to png online free",
+      "root": "bmp to png online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "bmp-to-png-free"
+    },
+    {
+      "keyword": "bmp to png converter",
+      "root": "bmp to png online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "bmp-to-png-converter"
+    },
+    {
+      "keyword": "bmp to png converter free",
+      "root": "bmp to png online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "bmp-to-png-converter-free"
+    },
+    {
+      "keyword": "bmp to png converter software",
+      "root": "bmp to png online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "bmp-to-png-converter-software"
+    },
+    {
+      "keyword": "bmp to png converter bulk",
+      "root": "bmp to png online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "bmp-to-png-converter-bulk"
+    },
+    {
+      "keyword": "convert bmp to transparent png online",
+      "root": "bmp to png online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "convert-bmp-to-transparent-png-online"
+    },
+    {
+      "keyword": "difference between jpg png bmp gif",
+      "root": "bmp to png online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "difference-between-jpg-png-bmp-gif"
+    },
+    {
+      "keyword": "difference between jpeg gif png tiff bmp",
+      "root": "bmp to png online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "difference-between-jpeg-gif-png-tiff-bmp"
+    },
+    {
+      "keyword": "change color of png online free",
+      "root": "bmp to png online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "change-color-of-png-free"
+    },
+    {
+      "keyword": "raw to jpg online converter",
+      "root": "raw to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter"
+    },
+    {
+      "keyword": "raw to jpg online free",
+      "root": "raw to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-free"
+    },
+    {
+      "keyword": "raw image to jpg online",
+      "root": "raw to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-image-to-jpg-online"
+    },
+    {
+      "keyword": "raw to jpg converter",
+      "root": "raw to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter"
+    },
+    {
+      "keyword": "raw to jpg converter free",
+      "root": "raw to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-free"
+    },
+    {
+      "keyword": "raw to jpg converter free download",
+      "root": "raw to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-download"
+    },
+    {
+      "keyword": "raw to jpg converter download",
+      "root": "raw to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-download"
+    },
+    {
+      "keyword": "raw to jpg converter high quality",
+      "root": "raw to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-high-quality"
+    },
+    {
+      "keyword": "raw to jpg converter software free download",
+      "root": "raw to jpg online",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-software-download"
+    },
+    {
+      "keyword": "raw to jpg converter free software",
+      "root": "raw to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-software"
+    },
+    {
+      "keyword": "raw to jpg converter free download pdf",
+      "root": "raw to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-download-pdf"
+    },
+    {
+      "keyword": "raw to jpg for free",
+      "root": "raw to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-for-free"
+    },
+    {
+      "keyword": "raw to jpg converter free download offline",
+      "root": "raw to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-download-offline"
+    },
+    {
+      "keyword": "raw to jpg converter free app",
+      "root": "raw to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-app"
+    },
+    {
+      "keyword": "sony raw to jpg converter free download",
+      "root": "raw to jpg online",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "sony-raw-to-jpg-converter-download"
+    },
+    {
+      "keyword": "best raw to jpg converter",
+      "root": "raw to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter"
+    },
+    {
+      "keyword": "best raw to jpg converter software for pc",
+      "root": "raw to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-software-for-pc"
+    },
+    {
+      "keyword": "best raw to jpg converter free",
+      "root": "raw to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-converter-free"
+    },
+    {
+      "keyword": "raw to jpg software",
+      "root": "raw to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpg-software"
+    },
+    {
+      "keyword": "raw vs raw+jpeg",
+      "root": "raw to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-vs-raw+jpeg"
+    },
+    {
+      "keyword": "raw to jpeg software",
+      "root": "raw to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "raw-to-jpeg-software"
+    },
+    {
+      "keyword": "is raw or jpeg better",
+      "root": "raw to jpg online",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "is-raw-or-jpeg-better"
+    },
+    {
+      "keyword": "image to icon",
+      "root": "image to ico",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon"
+    },
+    {
+      "keyword": "image to icon converter",
+      "root": "image to ico",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-converter"
+    },
+    {
+      "keyword": "image to ico converter",
+      "root": "image to ico",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-ico-converter"
+    },
+    {
+      "keyword": "image to icon file",
+      "root": "image to ico",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-file"
+    },
+    {
+      "keyword": "image to ico file",
+      "root": "image to ico",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-ico-file"
+    },
+    {
+      "keyword": "image to icon converter free",
+      "root": "image to ico",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-converter-free"
+    },
+    {
+      "keyword": "image to icon ai",
+      "root": "image to ico",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-ai"
+    },
+    {
+      "keyword": "image to icon maker",
+      "root": "image to ico",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-maker"
+    },
+    {
+      "keyword": "image to icon file converter",
+      "root": "image to ico",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-file-converter"
+    },
+    {
+      "keyword": "image to icon free",
+      "root": "image to ico",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-free"
+    },
+    {
+      "keyword": "image to icon free online",
+      "root": "image to ico",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-online"
+    },
+    {
+      "keyword": "image to ico converter free",
+      "root": "image to ico",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-ico-converter-free"
+    },
+    {
+      "keyword": "image to ico online free",
+      "root": "image to ico",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-ico-free"
+    },
+    {
+      "keyword": "image to icon ai free",
+      "root": "image to ico",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-free"
+    },
+    {
+      "keyword": "image to icon generator free",
+      "root": "image to ico",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-generator-free"
+    },
+    {
+      "keyword": "convert image to ico file free",
+      "root": "image to ico",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "convert-image-to-ico-file-free"
+    },
+    {
+      "keyword": "convert png to ico gimp",
+      "root": "image to ico",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "convert-png-to-ico-gimp"
+    },
+    {
+      "keyword": "best image to icon converter",
+      "root": "image to ico",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-to-icon-converter"
+    },
+    {
+      "keyword": "best image icon",
+      "root": "image to ico",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "image-icon"
+    },
+    {
+      "keyword": "how to make pictures icons for desktop",
+      "root": "image to ico",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-make-pictures-icons-for-desktop"
+    },
+    {
+      "keyword": "how to save an icon image",
+      "root": "image to ico",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-save-an-icon-image"
+    },
+    {
+      "keyword": "remove watermark from image free online",
+      "root": "remove watermark from image free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-from-image-online"
+    },
+    {
+      "keyword": "remove watermark from image free ai",
+      "root": "remove watermark from image free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-from-image-ai"
+    },
+    {
+      "keyword": "remove watermark from image free online without blur",
+      "root": "remove watermark from image free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-from-image-without-blur"
+    },
+    {
+      "keyword": "remove watermark from image free hd",
+      "root": "remove watermark from image free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-from-image-hd"
+    },
+    {
+      "keyword": "remove watermark from image free download",
+      "root": "remove watermark from image free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-from-image-download"
+    },
+    {
+      "keyword": "remove watermark from image free unlimited",
+      "root": "remove watermark from image free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-from-image-unlimited"
+    },
+    {
+      "keyword": "remove watermark from image free without blur",
+      "root": "remove watermark from image free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-from-image-without-blur"
+    },
+    {
+      "keyword": "free remove watermark from photo free",
+      "root": "remove watermark from image free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-from-photo-free"
+    },
+    {
+      "keyword": "removing watermark from photo free",
+      "root": "remove watermark from image free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "removing-watermark-from-photo-free"
+    },
+    {
+      "keyword": "apps to remove watermark free",
+      "root": "remove watermark from image free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "apps-to-remove-watermark-free"
+    },
+    {
+      "keyword": "remove watermark-free",
+      "root": "remove watermark from image free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-free"
+    },
+    {
+      "keyword": "is there a way to remove watermark from pdf",
+      "root": "remove watermark from image free",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "is-there-a-way-to-remove-watermark-from-pdf"
+    },
+    {
+      "keyword": "website to remove watermark free",
+      "root": "remove watermark from image free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "website-to-remove-watermark-free"
+    },
+    {
+      "keyword": "how to remove watermark for free",
+      "root": "remove watermark from image free",
+      "pattern": "{root} no signup",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-remove-watermark-for-free"
+    },
+    {
+      "keyword": "best remove watermark from photo online free",
+      "root": "remove watermark from image free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-from-photo-free"
+    },
+    {
+      "keyword": "best free remove watermark from image",
+      "root": "remove watermark from image free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "remove-watermark-from-image"
+    },
+    {
+      "keyword": "best app to remove watermark from photo free",
+      "root": "remove watermark from image free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "app-to-remove-watermark-from-photo-free"
+    },
+    {
+      "keyword": "best website to remove watermark from photo free",
+      "root": "remove watermark from image free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "website-to-remove-watermark-from-photo-free"
+    },
+    {
+      "keyword": "best ai to remove watermark from photo free",
+      "root": "remove watermark from image free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "to-remove-watermark-from-photo-free"
+    },
+    {
+      "keyword": "best way to remove watermark from photo free",
+      "root": "remove watermark from image free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "way-to-remove-watermark-from-photo-free"
+    },
+    {
+      "keyword": "how to remove watermark from image",
+      "root": "remove watermark from image free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-remove-watermark-from-image"
+    },
+    {
+      "keyword": "how to remove watermark from image in mobile",
+      "root": "remove watermark from image free",
+      "pattern": "best {root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-remove-watermark-from-image-in-mobile"
+    },
+    {
+      "keyword": "avif to jpg ai",
+      "root": "avif to jpg",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-ai"
+    },
+    {
+      "keyword": "how to convert ai to jpg",
+      "root": "avif to jpg",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "how-to-convert-to-jpg"
+    },
+    {
+      "keyword": "free avif to jpg converter",
+      "root": "avif to jpg",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter"
+    },
+    {
+      "keyword": "free avif to jpg",
+      "root": "avif to jpg",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg"
+    },
+    {
+      "keyword": "free avif to jpg converter online",
+      "root": "avif to jpg",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter-online"
+    },
+    {
+      "keyword": "free avif to jpg converter download",
+      "root": "avif to jpg",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "avif-to-jpg-converter-download"
+    },
+    {
+      "keyword": "free convert avif file to jpg",
+      "root": "avif to jpg",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "convert-avif-file-to-jpg"
+    },
+    {
+      "keyword": "free heic to jpg online",
+      "root": "heic to jpg online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-online"
+    },
+    {
+      "keyword": "free heic to jpg converter",
+      "root": "heic to jpg online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter"
+    },
+    {
+      "keyword": "free heic to jpg converter windows",
+      "root": "heic to jpg online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-windows"
+    },
+    {
+      "keyword": "free heic to jpg converter download",
+      "root": "heic to jpg online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-download"
+    },
+    {
+      "keyword": "free heic to jpg converter unlimited",
+      "root": "heic to jpg online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-unlimited"
+    },
+    {
+      "keyword": "free heic to jpg converter app",
+      "root": "heic to jpg online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-app"
+    },
+    {
+      "keyword": "free heic to jpg converter windows 11",
+      "root": "heic to jpg online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-windows-11"
+    },
+    {
+      "keyword": "free heic to jpg converter software",
+      "root": "heic to jpg online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-software"
+    },
+    {
+      "keyword": "free heic to jpg converter bulk",
+      "root": "heic to jpg online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "heic-to-jpg-converter-bulk"
+    },
+    {
+      "keyword": "ai noise remover online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-online"
+    },
+    {
+      "keyword": "ai noise remover online free",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-free"
+    },
+    {
+      "keyword": "ai noise reduction online free",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reduction-free"
+    },
+    {
+      "keyword": "ai noise reduction online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reduction-online"
+    },
+    {
+      "keyword": "ai noise reducer online free",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reducer-free"
+    },
+    {
+      "keyword": "ai noise reducer online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reducer-online"
+    },
+    {
+      "keyword": "ai background noise remover online free",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "background-noise-remover-free"
+    },
+    {
+      "keyword": "online ai background noise remover",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "background-noise-remover"
+    },
+    {
+      "keyword": "ai audio noise remover online free",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-noise-remover-free"
+    },
+    {
+      "keyword": "ai audio noise remover online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-noise-remover-online"
+    },
+    {
+      "keyword": "free noise remover online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-online"
+    },
+    {
+      "keyword": "free noise reduction online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reduction-online"
+    },
+    {
+      "keyword": "free noise reducer online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reducer-online"
+    },
+    {
+      "keyword": "free noise reduction online video",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-reduction-video"
+    },
+    {
+      "keyword": "free background noise remover online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "background-noise-remover-online"
+    },
+    {
+      "keyword": "free audio noise remover online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-noise-remover-online"
+    },
+    {
+      "keyword": "free video noise remover online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "video-noise-remover-online"
+    },
+    {
+      "keyword": "free background noise remover online audio cleaner ai",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "background-noise-remover-audio-cleaner-ai"
+    },
+    {
+      "keyword": "free ai noise remover online",
+      "root": "noise remover online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "noise-remover-online"
+    },
+    {
+      "keyword": "free gif to webp converter",
+      "root": "gif to webp",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "gif-to-webp-converter"
+    },
+    {
+      "keyword": "gif to webp free",
+      "root": "gif to webp",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "gif-to-webp-free"
+    },
+    {
+      "keyword": "free online webp to gif converter",
+      "root": "gif to webp",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter"
+    },
+    {
+      "keyword": "can you use gifs for free",
+      "root": "gif to webp",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "can-you-use-gifs-for-free"
+    },
+    {
+      "keyword": "where can i get gifs for free",
+      "root": "gif to webp",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "where-can-i-get-gifs-for-free"
+    },
+    {
+      "keyword": "ai audio speed changer",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer"
+    },
+    {
+      "keyword": "ai music speed changer",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "music-speed-changer"
+    },
+    {
+      "keyword": "ai audio speed up",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-up"
+    },
+    {
+      "keyword": "ai music tempo changer",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "music-tempo-changer"
+    },
+    {
+      "keyword": "wavel ai audio speed changer",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "wavel-audio-speed-changer"
+    },
+    {
+      "keyword": "moises ai audio speed changer",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "moises-audio-speed-changer"
+    },
+    {
+      "keyword": "audio speed changer ai free",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-free"
+    },
+    {
+      "keyword": "adjust audio speed",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "adjust-audio-speed"
+    },
+    {
+      "keyword": "u turn audio orbit review",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "u-turn-audio-orbit-review"
+    },
+    {
+      "keyword": "free audio speed changer",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer"
+    },
+    {
+      "keyword": "free audio speed changer online",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-online"
+    },
+    {
+      "keyword": "free audio speed changer download",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-download"
+    },
+    {
+      "keyword": "free audio speed changer app",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-changer-app"
+    },
+    {
+      "keyword": "free music speed changer",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "music-speed-changer"
+    },
+    {
+      "keyword": "free music speed changer app",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "music-speed-changer-app"
+    },
+    {
+      "keyword": "free audio tempo changer",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-tempo-changer"
+    },
+    {
+      "keyword": "free music speed changer for windows 10",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "music-speed-changer-for-windows-10"
+    },
+    {
+      "keyword": "free audio speed up",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-speed-up"
+    },
+    {
+      "keyword": "free music speed up",
+      "root": "audio speed changer",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "music-speed-up"
+    },
+    {
+      "keyword": "free webp to gif converter",
+      "root": "webp to gif",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter"
+    },
+    {
+      "keyword": "free webp to gif",
+      "root": "webp to gif",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif"
+    },
+    {
+      "keyword": "convert webp to gif online free",
+      "root": "webp to gif",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "convert-webp-to-gif-free"
+    },
+    {
+      "keyword": "webp to gif batch converter free",
+      "root": "webp to gif",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-batch-converter-free"
+    },
+    {
+      "keyword": "webp to gif converter download free offline",
+      "root": "webp to gif",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "webp-to-gif-converter-download-offline"
+    },
+    {
+      "keyword": "ai audio compressor online",
+      "root": "audio compressor online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-online"
+    },
+    {
+      "keyword": "free audio compressor online",
+      "root": "audio compressor online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-online"
+    },
+    {
+      "keyword": "arkthinker free audio compressor online",
+      "root": "audio compressor online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "arkthinker-audio-compressor-online"
+    },
+    {
+      "keyword": "free audio file compressor online",
+      "root": "audio compressor online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-file-compressor-online"
+    },
+    {
+      "keyword": "free online audio compressor for whatsapp",
+      "root": "audio compressor online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-compressor-for-whatsapp"
+    },
+    {
+      "keyword": "mp4 audio compressor online free",
+      "root": "audio compressor online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "mp4-audio-compressor-free"
+    },
+    {
+      "keyword": "aiseesoft free online audio compressor",
+      "root": "audio compressor online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "aiseesoft-audio-compressor"
+    },
+    {
+      "keyword": "ai voice recorder online free",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-free"
+    },
+    {
+      "keyword": "ai voice recorder online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-online"
+    },
+    {
+      "keyword": "ai audio recorder online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-recorder-online"
+    },
+    {
+      "keyword": "narakeet online ai voice recorder",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "narakeet-voice-recorder"
+    },
+    {
+      "keyword": "which is the best app for voice recording",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "which-is-the-app-for-voice-recording"
+    },
+    {
+      "keyword": "does google have a voice recorder app",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "does-google-have-a-voice-recorder-app"
+    },
+    {
+      "keyword": "is online voice recorder safe",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "is-voice-recorder-safe"
+    },
+    {
+      "keyword": "free voice recorder online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-online"
+    },
+    {
+      "keyword": "free voice recorder online no microphone",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-no-microphone"
+    },
+    {
+      "keyword": "free audio recorder online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "audio-recorder-online"
+    },
+    {
+      "keyword": "free ai voice recorder online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-online"
+    },
+    {
+      "keyword": "best free voice recorder online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-online"
+    },
+    {
+      "keyword": "free voice over recorder online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-over-recorder-online"
+    },
+    {
+      "keyword": "apowersoft free audio recorder online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "apowersoft-audio-recorder-online"
+    },
+    {
+      "keyword": "acethinker free audio recorder online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "acethinker-audio-recorder-online"
+    },
+    {
+      "keyword": "free voice recorder for pc online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-recorder-for-pc-online"
+    },
+    {
+      "keyword": "arkthinker free audio recorder online",
+      "root": "voice recorder online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "arkthinker-audio-recorder-online"
+    },
+    {
+      "keyword": "ai voice to text online",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-online"
+    },
+    {
+      "keyword": "ai voice to text online free",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-free"
+    },
+    {
+      "keyword": "ai speech to text online",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "speech-to-text-online"
+    },
+    {
+      "keyword": "ai voice to text converter",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter"
+    },
+    {
+      "keyword": "ai voice to text converter free",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-free"
+    },
+    {
+      "keyword": "ai voice to text converter online free",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-free"
+    },
+    {
+      "keyword": "ai voice to text generator online free",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-generator-free"
+    },
+    {
+      "keyword": "ai translator voice to text online",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "translator-voice-to-text-online"
+    },
+    {
+      "keyword": "flow ai voice to text online",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "flow-voice-to-text-online"
+    },
+    {
+      "keyword": "ai voice text to speech online",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-text-to-speech-online"
+    },
+    {
+      "keyword": "free voice to text online",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-online"
+    },
+    {
+      "keyword": "free voice to text online converter",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter"
+    },
+    {
+      "keyword": "free voice to text converter",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter"
+    },
+    {
+      "keyword": "free voice to text converter app",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-app"
+    },
+    {
+      "keyword": "free voice to text converter ai",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-ai"
+    },
+    {
+      "keyword": "free voice to text converter api",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-api"
+    },
+    {
+      "keyword": "free voice to text converter software download",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-converter-software-download"
+    },
+    {
+      "keyword": "free voice to text web",
+      "root": "voice to text online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": false,
+      "suggested_slug": "voice-to-text-web"
     }
   ],
   "existing": [
@@ -5541,6 +10779,24 @@
       "discovered": "2026-04-06",
       "already_have": true,
       "suggested_slug": "video-to-gif-maker"
+    },
+    {
+      "keyword": "heic image converter online free",
+      "root": "heic converter online free",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": true,
+      "suggested_slug": "heic-image-converter-free"
+    },
+    {
+      "keyword": "image convert to icon free download",
+      "root": "image to ico",
+      "pattern": "{root} free",
+      "source": "google_suggest",
+      "discovered": "2026-04-06",
+      "already_have": true,
+      "suggested_slug": "image-convert-to-icon-download"
     }
   ]
 }

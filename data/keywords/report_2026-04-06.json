@@ -2,10 +2,25 @@
   "date": "2026-04-06",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 615
+    "suggest_total": 1199
   },
-  "total_opportunities": 610,
+  "total_opportunities": 1192,
   "top_50": [
+    {
+      "keyword": "voice recorder online free and editor",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-and-editor",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 160,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
     {
       "keyword": "mp3 cutter online converter",
       "sources": [
@@ -257,6 +272,141 @@
       "already_have": false,
       "combined_score": 130,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio compressor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-compressor-free",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio optimizer online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-optimizer-free",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice recorder online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-free",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "noise remover online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "noise-remover-free",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free noise remover online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "noise-remover-online",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free audio compressor online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-compressor-online",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free voice recorder online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-online",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free audio recorder online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-recorder-online",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tts online maker",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "tts-maker",
+      "root": "tts online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -599,156 +749,6 @@
       "trend_score": 0,
       "suggested_slug": "4k-video-converter-without-watermark",
       "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "mp4 to mp3 online free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "mp4-to-mp3-converter",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "mp4 to mp3 online converter free download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "mp4-to-mp3-converter-download",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free no watermark",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-no-watermark",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free no download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-no-download",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free for pc",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-for-pc",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free mobile",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-mobile",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free with audio",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-with-audio",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-download",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free mp4",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-mp4",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best screen recorder online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-free",
-      "root": "screen recorder online",
       "already_have": false,
       "combined_score": 110,
       "difficulty": "需WASM",
