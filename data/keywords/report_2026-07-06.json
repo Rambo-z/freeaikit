@@ -1,0 +1,760 @@
+{
+  "date": "2026-07-06",
+  "stats": {
+    "trends_total": 0,
+    "suggest_total": 333
+  },
+  "total_opportunities": 328,
+  "top_50": [
+    {
+      "keyword": "aspect ratio calculator free online tools",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "aspect-ratio-calculators",
+      "root": "aspect ratio calculator",
+      "already_have": false,
+      "combined_score": 160,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "temperature converter calculator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "temperature-converter-calculator",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 140,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tip calculator free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "tip-calculator-online",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "discount calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "discount-calculator-free",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "gpa calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "gpa-calculator-free",
+      "root": "gpa calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "cgpa calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "cgpa-calculator-free",
+      "root": "gpa calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "grade calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "grade-calculator-free",
+      "root": "gpa calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "date calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "date-calculator-free",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "date converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "date-converter-free",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "document converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "document-converter-free",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "format converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "format-converter-free",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "file compressor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "file-compressor-free",
+      "root": "file compressor online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "document compressor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "document-compressor-free",
+      "root": "file compressor online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free grade calculator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "grade-calculator-online",
+      "root": "gpa calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free online gpa calculator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "gpa-calculator",
+      "root": "gpa calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free online discount calculator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "discount-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free file extractor online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "file-extractor-online",
+      "root": "unzip file online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free date converter online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "date-converter-online",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tip calculator free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "tip-calculator-free",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "gratuity calculator freezone",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "gratuity-calculator-freezone",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "gratuity calculator free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "gratuity-calculator-free",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "discount calculator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "discount-calculator-online",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "discount calculator freecodecamp",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "discount-calculator-freecodecamp",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "cgpa calculator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "cgpa-calculator-online",
+      "root": "gpa calculator online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "grade calculator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "grade-calculator-online",
+      "root": "gpa calculator online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "date converter online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "date-converter-online",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free temperature converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "temperature-converter",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free discount calculator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "discount-calculator",
+      "root": "discount calculator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free tip calculator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "tip-calculator",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tip calculator free online app",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "tip-calculator-app",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best tip calculator free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "tip-calculator-online",
+      "root": "tip calculator",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "cce grade calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "cce-grade-calculator-free",
+      "root": "gpa calculator online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "wes gpa calculator free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "wes-gpa-calculator-online",
+      "root": "gpa calculator online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free online time zone converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "time-zone-converter",
+      "root": "time zone converter online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "prl date calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "prl-date-calculator-free",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "date of birth calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "date-of-birth-calculator-free",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "date and time calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "date-and-time-calculator-free",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "expiry date calculator online free calculation",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "expiry-date-calculator-calculation",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "date of birth calculator free online india",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "date-of-birth-calculator-india",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "character count tool online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "character-count-free",
+      "root": "character counter online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "binary to decimal converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "binary-to-decimal-converter-free",
+      "root": "binary to decimal",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "embroidery file converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "embroidery-file-converter-free",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "hif file converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "hif-file-converter-free",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "video file converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "video-file-converter-free",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "indesign file converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "indesign-file-converter-free",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best free file converter online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "file-converter-online",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best html file to apk converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "html-file-to-apk-converter-free",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best word file english to hindi converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "word-file-english-to-hindi-converter-free",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best free online audio file converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-file-converter",
+      "root": "file converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "file compressor online free jpg",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "file-compressor-jpg",
+      "root": "file compressor online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    }
+  ]
+}
