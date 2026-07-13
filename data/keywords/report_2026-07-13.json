@@ -2,9 +2,9 @@
   "date": "2026-07-13",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 577
+    "suggest_total": 1203
   },
-  "total_opportunities": 575,
+  "total_opportunities": 1192,
   "top_50": [
     {
       "keyword": "voice recorder online free and editor",
@@ -32,6 +32,21 @@
       "already_have": false,
       "combined_score": 150,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "freeformatter cron expression generator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "freeformatter-cron-expression-generator",
+      "root": "cron expression generator",
+      "already_have": false,
+      "combined_score": 150,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -137,6 +152,231 @@
       "already_have": false,
       "combined_score": 130,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "invoice generator free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "invoice-generator-online",
+      "root": "invoice generator free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "invoice maker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "invoice-maker-free",
+      "root": "invoice maker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "receipt maker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "receipt-maker-free",
+      "root": "invoice maker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "invoice editor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "invoice-editor-free",
+      "root": "invoice maker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "resume maker free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "resume-maker-online",
+      "root": "resume builder free online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "cv builder free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "cv-builder-online",
+      "root": "resume builder free online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "font generator free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "font-generator-online",
+      "root": "letter generator free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "certificate editor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "certificate-editor-free",
+      "root": "certificate maker online free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "diploma maker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "diploma-maker-free",
+      "root": "certificate maker online free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free pdf to excel converter tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "pdf-to-excel-converter",
+      "root": "pdf to excel online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "font generator free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "font-generator-free",
+      "root": "letter generator free",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "text generator free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "text-generator-free",
+      "root": "letter generator free",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "word generator free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "word-generator-free",
+      "root": "letter generator free",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "cron generator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "cron-generator-online",
+      "root": "crontab generator online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "css gradient generator tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "css-gradient-generator",
+      "root": "css gradient generator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -512,246 +752,6 @@
       "already_have": false,
       "combined_score": 110,
       "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best amharic voice to text converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "amharic-voice-to-text-converter-free",
-      "root": "speech to text online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "voice to text online free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "voice-to-text-converter",
-      "root": "voice to text online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "voice to text free online tool",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "voice-to-text",
-      "root": "voice to text online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best voice to text converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "voice-to-text-converter-free",
-      "root": "voice to text online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "audio to text free online converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "audio-to-text-converter",
-      "root": "audio to text free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free audio to text converter free online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "audio-to-text-converter-online",
-      "root": "audio to text free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "heic to jpg online free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "heic-to-jpg-converter",
-      "root": "heic to jpg online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "heic to jpg free online tool",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "heic-to-jpg",
-      "root": "heic to jpg online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "heic jpg converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "heic-jpg-converter-free",
-      "root": "heic converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "heic to pdf converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "heic-to-pdf-converter-free",
-      "root": "heic converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "heic to jpg converter online free multiple",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "heic-to-jpg-converter-multiple",
-      "root": "heic converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "heic to jpg converter online free unlimited",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "heic-to-jpg-converter-unlimited",
-      "root": "heic converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "heic to png converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "heic-to-png-converter-free",
-      "root": "heic converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "heic to mp4 converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "heic-to-mp4-converter-free",
-      "root": "heic converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best heic to jpg converter free online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "heic-to-jpg-converter-online",
-      "root": "heic converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "avif to jpg free online converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "avif-to-jpg-converter",
-      "root": "avif to jpg",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
