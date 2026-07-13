@@ -2,9 +2,9 @@
   "date": "2026-07-13",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 1842
+    "suggest_total": 2162
   },
-  "total_opportunities": 1823,
+  "total_opportunities": 2139,
   "top_50": [
     {
       "keyword": "voice recorder online free and editor",
@@ -17,6 +17,21 @@
       "already_have": false,
       "combined_score": 160,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "aspect ratio calculator free online tools",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "aspect-ratio-calculators",
+      "root": "aspect ratio calculator",
+      "already_have": false,
+      "combined_score": 160,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -46,6 +61,21 @@
       "root": "cron expression generator",
       "already_have": false,
       "combined_score": 150,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "temperature converter calculator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "temperature-converter-calculator",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 140,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
@@ -697,60 +727,30 @@
       "competition": 0
     },
     {
-      "keyword": "font generator free",
+      "keyword": "tip calculator free online",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "font-generator-free",
-      "root": "letter generator free",
+      "suggested_slug": "tip-calculator-online",
+      "root": "tip calculator",
       "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "text generator free",
+      "keyword": "discount calculator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "text-generator-free",
-      "root": "letter generator free",
+      "suggested_slug": "discount-calculator-free",
+      "root": "discount calculator",
       "already_have": false,
-      "combined_score": 120,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "word generator free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "word-generator-free",
-      "root": "letter generator free",
-      "already_have": false,
-      "combined_score": 120,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "cron generator online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "cron-generator-online",
-      "root": "crontab generator online",
-      "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
