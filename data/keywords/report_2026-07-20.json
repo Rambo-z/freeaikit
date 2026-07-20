@@ -2,9 +2,9 @@
   "date": "2026-07-20",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 1187
+    "suggest_total": 1808
   },
-  "total_opportunities": 1182,
+  "total_opportunities": 1796,
   "top_50": [
     {
       "keyword": "voice recorder online free and editor",
@@ -47,6 +47,21 @@
       "already_have": false,
       "combined_score": 150,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "freeformatter cron expression generator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "freeformatter-cron-expression-generator",
+      "root": "cron expression generator",
+      "already_have": false,
+      "combined_score": 150,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -307,6 +322,201 @@
       "competition": 0
     },
     {
+      "keyword": "invoice generator free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "invoice-generator-online",
+      "root": "invoice generator free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "invoice maker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "invoice-maker-free",
+      "root": "invoice maker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "receipt maker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "receipt-maker-free",
+      "root": "invoice maker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "invoice editor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "invoice-editor-free",
+      "root": "invoice maker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "resume maker free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "resume-maker-online",
+      "root": "resume builder free online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "cv builder free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "cv-builder-online",
+      "root": "resume builder free online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "certificate editor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "certificate-editor-free",
+      "root": "certificate maker online free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "diploma maker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "diploma-maker-free",
+      "root": "certificate maker online free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "font generator free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "font-generator-free",
+      "root": "letter generator free",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "text generator free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "text-generator-free",
+      "root": "letter generator free",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "word generator free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "word-generator-free",
+      "root": "letter generator free",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "cron generator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "cron-generator-online",
+      "root": "crontab generator online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "css gradient generator tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "css-gradient-generator",
+      "root": "css gradient generator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "free video compressor free online",
       "sources": [
         "suggest"
@@ -539,216 +749,6 @@
       "trend_score": 0,
       "suggested_slug": "video-converter-free",
       "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video to text converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-text-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video to mp3 converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-mp3-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video converter to hd 1080p online free without watermark free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-to-hd-1080p-without-watermark-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video to audio converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-audio-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "any video converter online free mp4",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "any-video-converter-mp4",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "any video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "any-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "any video converter online free mp3",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "any-video-converter-mp3",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best 4k video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "4k-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best video language converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-language-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best 8k video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "8k-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best 4k video converter online free without watermark",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "4k-video-converter-without-watermark",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "mp4 to mp3 online free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "mp4-to-mp3-converter",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free no download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-no-download",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free with audio",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-with-audio",
-      "root": "screen recorder online",
       "already_have": false,
       "combined_score": 110,
       "difficulty": "需WASM",
