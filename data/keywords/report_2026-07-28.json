@@ -2,9 +2,9 @@
   "date": "2026-07-28",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 2071
+    "suggest_total": 2402
   },
-  "total_opportunities": 2054,
+  "total_opportunities": 2377,
   "top_50": [
     {
       "keyword": "voice recorder online free and editor",
@@ -742,15 +742,15 @@
       "competition": 0
     },
     {
-      "keyword": "tts online maker",
+      "keyword": "gradient generator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "tts-maker",
-      "root": "tts online",
+      "suggested_slug": "gradient-generator-free",
+      "root": "gradient generator online",
       "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
