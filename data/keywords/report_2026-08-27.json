@@ -1,0 +1,760 @@
+{
+  "date": "2026-08-27",
+  "stats": {
+    "trends_total": 0,
+    "suggest_total": 574
+  },
+  "total_opportunities": 571,
+  "top_50": [
+    {
+      "keyword": "voice recorder online free and editor",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-and-editor",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 160,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio compressor online converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-compressor-converter",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 150,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio compressor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-compressor-free",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio optimizer online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-optimizer-free",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice recorder online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-free",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "noise remover online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "noise-remover-free",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free noise remover online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "noise-remover-online",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "tts online maker",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "tts-maker",
+      "root": "tts online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio compressor online free mp3",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-compressor-mp3",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio compressor online free mp4",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-compressor-mp4",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio compressor online free wav",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-compressor-wav",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio size compressor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-size-compressor-free",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "m4a audio compressor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "m4a-audio-compressor-free",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio compressor download online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-compressor-download-free",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best free audio compressor online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-compressor-online",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice recorder online free mp3",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-mp3",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice recorder online free for singing",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-for-singing",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice recorder online free download",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-download",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice recorder online free mp3 download",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-mp3-download",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice recorder online free no download",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-no-download",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice recorder online free app",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-app",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice recorder online free ai",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-ai",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best voice recorder online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-free",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best voice recorder online free mp3",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-mp3",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best audio recorder online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-recorder-free",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "noise remover online free from audio",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "noise-remover-from-audio",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "noise remover online free video",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "noise-remover-video",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "noise remover online free ai",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "noise-remover-ai",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best noise remover online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "noise-remover-free",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "text to speech online free unlimited ai voice generator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "text-to-speech-unlimited-voice-generator",
+      "root": "text to speech online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "text to speech generator free online tts free ttsfree com",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "text-to-speech-generator-tts-ttscom",
+      "root": "text to speech online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free text to speech converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "text-to-speech-converter-free",
+      "root": "text to speech online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best text to speech online tool for free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "text-to-speech-for-free",
+      "root": "text to speech online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "speech to text online free converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "speech-to-text-converter",
+      "root": "speech to text online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best speech to text converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "speech-to-text-converter-free",
+      "root": "speech to text online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best amharic voice to text converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "amharic-voice-to-text-converter-free",
+      "root": "speech to text online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice to text online free converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-to-text-converter",
+      "root": "voice to text online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice to text free online tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-to-text",
+      "root": "voice to text online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "best voice to text converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-to-text-converter-free",
+      "root": "voice to text online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio to text free converter online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-to-text-converter-online",
+      "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free audio to text converter free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-to-text-converter-online",
+      "root": "audio to text free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "heic to jpg online free converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "heic-to-jpg-converter",
+      "root": "heic to jpg online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "heic to jpg free online tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "heic-to-jpg",
+      "root": "heic to jpg online",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "heic jpg converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "heic-jpg-converter-free",
+      "root": "heic converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "heic to pdf converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "heic-to-pdf-converter-free",
+      "root": "heic converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "heic to jpg converter online free multiple",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "heic-to-jpg-converter-multiple",
+      "root": "heic converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "heic to jpg converter online free unlimited",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "heic-to-jpg-converter-unlimited",
+      "root": "heic converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "heic to png converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "heic-to-png-converter-free",
+      "root": "heic converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "heic to mp4 converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "heic-to-mp4-converter-free",
+      "root": "heic converter online free",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "avif to png converter free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "avif-to-png-converter-online",
+      "root": "avif to png",
+      "already_have": false,
+      "combined_score": 110,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    }
+  ]
+}
