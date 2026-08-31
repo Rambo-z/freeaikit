@@ -2,9 +2,9 @@
   "date": "2026-08-31",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 1561
+    "suggest_total": 1872
   },
-  "total_opportunities": 1539,
+  "total_opportunities": 1848,
   "top_50": [
     {
       "keyword": "free mp3 cutter and editor online",
@@ -17,6 +17,21 @@
       "already_have": false,
       "combined_score": 160,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "aspect ratio calculator free online tools",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "aspect-ratio-calculators",
+      "root": "aspect ratio calculator",
+      "already_have": false,
+      "combined_score": 160,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -61,6 +76,21 @@
       "root": "cron expression generator",
       "already_have": false,
       "combined_score": 150,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "temperature converter calculator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "temperature-converter-calculator",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 140,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
@@ -712,45 +742,15 @@
       "competition": 0
     },
     {
-      "keyword": "invoice generator online",
+      "keyword": "tip calculator free online",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "invoice-generator-online",
-      "root": "invoice maker online",
+      "suggested_slug": "tip-calculator-online",
+      "root": "tip calculator",
       "already_have": false,
-      "combined_score": 120,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "font generator free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "font-generator-free",
-      "root": "letter generator free",
-      "already_have": false,
-      "combined_score": 120,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "text generator free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "text-generator-free",
-      "root": "letter generator free",
-      "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
