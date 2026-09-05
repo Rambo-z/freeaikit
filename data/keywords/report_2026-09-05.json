@@ -2,9 +2,9 @@
   "date": "2026-09-05",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 2464
+    "suggest_total": 2759
   },
-  "total_opportunities": 2438,
+  "total_opportunities": 2735,
   "top_50": [
     {
       "keyword": "free mp3 cutter and editor online",
@@ -52,6 +52,21 @@
       "competition": 0
     },
     {
+      "keyword": "aspect ratio calculator free online tools",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "aspect-ratio-calculators",
+      "root": "aspect ratio calculator",
+      "already_have": false,
+      "combined_score": 160,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "mp3 cutter online converter",
       "sources": [
         "suggest"
@@ -91,6 +106,21 @@
       "root": "cron expression generator",
       "already_have": false,
       "combined_score": 150,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "temperature converter calculator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "temperature-converter-calculator",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 140,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
@@ -719,36 +749,6 @@
       "trend_score": 0,
       "suggested_slug": "sql-formatter-online",
       "root": "sql formatter online",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free code formatter online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "code-formatter-online",
-      "root": "code formatter online",
-      "already_have": false,
-      "combined_score": 130,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "gradient generator online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "gradient-generator-free",
-      "root": "gradient generator online",
       "already_have": false,
       "combined_score": 130,
       "difficulty": "纯前端",
