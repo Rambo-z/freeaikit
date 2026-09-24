@@ -2,10 +2,25 @@
   "date": "2026-09-24",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 926
+    "suggest_total": 1260
   },
-  "total_opportunities": 914,
+  "total_opportunities": 1243,
   "top_50": [
+    {
+      "keyword": "aspect ratio calculator free online tools",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "aspect-ratio-calculators",
+      "root": "aspect ratio calculator",
+      "already_have": false,
+      "combined_score": 160,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
     {
       "keyword": "mp3 cutter online converter",
       "sources": [
@@ -17,6 +32,21 @@
       "already_have": false,
       "combined_score": 150,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "temperature converter calculator",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "temperature-converter-calculator",
+      "root": "temperature converter",
+      "already_have": false,
+      "combined_score": 140,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -472,285 +502,255 @@
       "competition": 0
     },
     {
-      "keyword": "gradient maker online",
+      "keyword": "tip calculator free online",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "gradient-maker-online",
-      "root": "gradient generator online",
+      "suggested_slug": "tip-calculator-online",
+      "root": "tip calculator",
       "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "font viewer online",
+      "keyword": "discount calculator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "font-viewer-online",
-      "root": "font preview online",
+      "suggested_slug": "discount-calculator-free",
+      "root": "discount calculator",
       "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
       "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "mockup generator freepik",
+      "keyword": "gpa calculator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "mockup-generator-freepik",
-      "root": "mockup generator free",
+      "suggested_slug": "gpa-calculator-free",
+      "root": "gpa calculator online",
       "already_have": false,
-      "combined_score": 120,
-      "difficulty": "需API/服务端",
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "wireframe maker online",
+      "keyword": "cgpa calculator online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "wireframe-maker-online",
-      "root": "wireframe tool online",
+      "suggested_slug": "cgpa-calculator-free",
+      "root": "gpa calculator online",
       "already_have": false,
-      "combined_score": 120,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "grade calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "grade-calculator-free",
+      "root": "gpa calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "date calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "date-calculator-free",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "date converter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "date-converter-free",
+      "root": "date calculator online",
+      "already_have": false,
+      "combined_score": 130,
       "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "mockup tool online",
+      "keyword": "document converter online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "mockup-online",
-      "root": "wireframe tool online",
+      "suggested_slug": "document-converter-free",
+      "root": "file converter online free",
       "already_have": false,
-      "combined_score": 120,
-      "difficulty": "需API/服务端",
+      "combined_score": 130,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video compressor online free free",
+      "keyword": "format converter online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-compressor-free",
-      "root": "video compressor free",
+      "suggested_slug": "format-converter-free",
+      "root": "file converter online free",
       "already_have": false,
-      "combined_score": 110,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "file compressor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "file-compressor-free",
+      "root": "file compressor online",
+      "already_have": false,
+      "combined_score": 130,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video compressor online free without losing quality free",
+      "keyword": "document compressor online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-compressor-without-losing-quality-free",
-      "root": "video compressor free",
+      "suggested_slug": "document-compressor-free",
+      "root": "file compressor online",
       "already_have": false,
-      "combined_score": 110,
+      "combined_score": 130,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "best video compressor free online",
+      "keyword": "file optimizer online free",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-compressor-online",
-      "root": "video compressor free",
+      "suggested_slug": "file-optimizer-free",
+      "root": "file compressor online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video converter online free without watermark",
+      "keyword": "free file extractor online",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-converter-without-watermark",
-      "root": "video converter online free",
+      "suggested_slug": "file-extractor-online",
+      "root": "unzip file online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video converter online free to mp4",
+      "keyword": "free online discount calculator",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-converter-to-mp4",
-      "root": "video converter online free",
+      "suggested_slug": "discount-calculator",
+      "root": "discount calculator",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video converter online free mp4 to avi",
+      "keyword": "free grade calculator online",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-converter-mp4-to-avi",
-      "root": "video converter online free",
+      "suggested_slug": "grade-calculator-online",
+      "root": "gpa calculator online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video converter online free mp4 to mp3",
+      "keyword": "free online gpa calculator",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-converter-mp4-to-mp3",
-      "root": "video converter online free",
+      "suggested_slug": "gpa-calculator",
+      "root": "gpa calculator online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
     },
     {
-      "keyword": "video converter online free mp3",
+      "keyword": "free file compressor online",
       "sources": [
         "suggest"
       ],
       "trend_score": 0,
-      "suggested_slug": "video-converter-mp3",
-      "root": "video converter online free",
+      "suggested_slug": "file-compressor-online",
+      "root": "file compressor online",
       "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video converter online free 2gb",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-2gb",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video converter online free hd",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-hd",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video language converter online free free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-language-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "sixe video converter online free mp3 free download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "sixe-video-converter-mp3-download",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video to audio converter online free mp3 free download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-audio-converter-mp3-download",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
+      "combined_score": 130,
       "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
