@@ -2,9 +2,9 @@
   "date": "2026-09-25",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 611
+    "suggest_total": 938
   },
-  "total_opportunities": 608,
+  "total_opportunities": 925,
   "top_50": [
     {
       "keyword": "mp3 cutter online converter",
@@ -247,6 +247,336 @@
       "competition": 0
     },
     {
+      "keyword": "gradient generator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "gradient-generator-free",
+      "root": "gradient generator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "font viewer online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "font-viewer-free",
+      "root": "font preview online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "svg maker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "svg-maker-free",
+      "root": "svg editor online free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "mockup generator free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "mockup-generator-online",
+      "root": "mockup generator free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "wireframe tool online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "wireframe-free",
+      "root": "wireframe tool online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "mockup tool online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "mockup-free",
+      "root": "wireframe tool online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "wireframe maker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "wireframe-maker-free",
+      "root": "wireframe tool online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "pattern generator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "pattern-generator-free",
+      "root": "pattern generator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "bmi calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "bmi-calculator-free",
+      "root": "bmi calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "loan calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "loan-calculator-free",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "emi calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "emi-calculator-free",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "finance calculator online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "finance-calculator-free",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free bmi calculator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "bmi-calculator-online",
+      "root": "bmi calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free loan calculator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "loan-calculator-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free emi calculator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "emi-calculator-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free credit calculator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "credit-calculator-online",
+      "root": "loan calculator online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free font viewer online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "font-viewer-online",
+      "root": "font preview online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "gradient maker online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "gradient-maker-online",
+      "root": "gradient generator online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "font viewer online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "font-viewer-online",
+      "root": "font preview online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "mockup generator freepik",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "mockup-generator-freepik",
+      "root": "mockup generator free",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "wireframe maker online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "wireframe-maker-online",
+      "root": "wireframe tool online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "mockup tool online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "mockup-online",
+      "root": "wireframe tool online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "video compressor online free free",
       "sources": [
         "suggest"
@@ -419,336 +749,6 @@
       "trend_score": 0,
       "suggested_slug": "sixe-video-converter-mp3-download",
       "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video to audio converter online free mp3 free download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-audio-converter-mp3-download",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video to text converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-text-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video to mp3 converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-mp3-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video converter to hd 1080p online free without watermark free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-converter-to-hd-1080p-without-watermark-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free video to audio converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-to-audio-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "any video converter online free mp4",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "any-video-converter-mp4",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "any video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "any-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "any video converter online free mp3",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "any-video-converter-mp3",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best 4k video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "4k-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best video language converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-language-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best 8k video converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "8k-video-converter-free",
-      "root": "video converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "mp4 to mp3 online free converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "mp4-to-mp3-converter",
-      "root": "mp4 to mp3 online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free no download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-no-download",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free with audio",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-with-audio",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free no watermark",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-no-watermark",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online mobile free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-mobile-free",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free for pc",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-for-pc",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free download",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-download",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free mp4",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-mp4",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "screen recorder online free mobile",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-mobile",
-      "root": "screen recorder online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best screen recorder online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "screen-recorder-free",
-      "root": "screen recorder online",
       "already_have": false,
       "combined_score": 110,
       "difficulty": "需WASM",
