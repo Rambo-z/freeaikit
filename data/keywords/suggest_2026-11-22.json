@@ -1,8 +1,8 @@
 {
   "date": "2026-11-22",
-  "batch": 3,
-  "total_suggestions": 1191,
-  "new_opportunities": 1184,
+  "batch": 5,
+  "total_suggestions": 1221,
+  "new_opportunities": 1214,
   "existing_matches": 7,
   "opportunities": [
     {
@@ -10,7 +10,7 @@
       "root": "tip calculator",
       "pattern": "{root}",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "tip-calculator-google"
     },
@@ -37,7 +37,7 @@
       "root": "tip calculator",
       "pattern": "{root}",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "tip-calculator-iphone"
     },
@@ -64,7 +64,7 @@
       "root": "tip calculator",
       "pattern": "{root}",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "tip-calculator-restaurant"
     },
@@ -73,7 +73,7 @@
       "root": "tip calculator",
       "pattern": "{root}",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "tip-calculator-formula"
     },
@@ -91,7 +91,7 @@
       "root": "tip calculator",
       "pattern": "{root} free",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "tip-calculator-online"
     },
@@ -100,7 +100,7 @@
       "root": "tip calculator",
       "pattern": "{root} free",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "tip-calculator-download"
     },
@@ -109,7 +109,7 @@
       "root": "tip calculator",
       "pattern": "{root} free",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "tip-calculator-app"
     },
@@ -118,7 +118,7 @@
       "root": "tip calculator",
       "pattern": "{root} free",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "tip-calculator-app"
     },
@@ -127,7 +127,7 @@
       "root": "tip calculator",
       "pattern": "{root} free",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "tip-calculator-canada"
     },
@@ -136,7 +136,7 @@
       "root": "tip calculator",
       "pattern": "{root} free",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "tip-calculator-california"
     },
@@ -145,7 +145,7 @@
       "root": "tip calculator",
       "pattern": "{root} free",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "gratuity-calculator-freezone"
     },
@@ -154,7 +154,7 @@
       "root": "tip calculator",
       "pattern": "{root} free",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "gratuity-calculator-zone-dubai"
     },
@@ -163,7 +163,7 @@
       "root": "tip calculator",
       "pattern": "{root} free",
       "source": "google_suggest",
-      "discovered": "2026-11-21",
+      "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "gratuity-calculator-free"
     },
@@ -2680,7 +2680,7 @@
     },
     {
       "keyword": "opening a zip file online",
-      "root": "zip file online",
+      "root": "unzip file online",
       "pattern": "space_trick",
       "source": "google_suggest",
       "discovered": "2026-11-22",
@@ -10660,6 +10660,276 @@
       "discovered": "2026-11-22",
       "already_have": false,
       "suggested_slug": "code-formatter-online"
+    },
+    {
+      "keyword": "tip calculator az",
+      "root": "tip calculator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "tip-calculator-az"
+    },
+    {
+      "keyword": "tip calculator with tax",
+      "root": "tip calculator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "tip-calculator-with-tax"
+    },
+    {
+      "keyword": "tip calculator for hair",
+      "root": "tip calculator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "tip-calculator-for-hair"
+    },
+    {
+      "keyword": "tip calculator app free",
+      "root": "tip calculator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "tip-calculator-app-free"
+    },
+    {
+      "keyword": "tip calculator for nails",
+      "root": "tip calculator",
+      "pattern": "{root}",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "tip-calculator-for-nails"
+    },
+    {
+      "keyword": "ai file to pdf converter online free",
+      "root": "file converter online free",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "file-to-pdf-converter-free"
+    },
+    {
+      "keyword": "ai file to word converter online & free",
+      "root": "file converter online free",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "file-to-word-converter-&-free"
+    },
+    {
+      "keyword": "pdf to ai converter free",
+      "root": "file converter online free",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "pdf-to-converter-free"
+    },
+    {
+      "keyword": "free file converter free",
+      "root": "file converter online free",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "file-converter-free"
+    },
+    {
+      "keyword": "free aspect ratio calculator",
+      "root": "aspect ratio calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "aspect-ratio-calculator"
+    },
+    {
+      "keyword": "how to calculate aspect ratio",
+      "root": "aspect ratio calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "how-to-calculate-aspect-ratio"
+    },
+    {
+      "keyword": "ai calculator sale",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "calculator-sale"
+    },
+    {
+      "keyword": "discount calculator ai",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "discount-calculator-ai"
+    },
+    {
+      "keyword": "formula for calculating a discount",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "formula-for-calculating-a-discount"
+    },
+    {
+      "keyword": "how do you calculate 20 discount",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "how-do-you-calculate-20-discount"
+    },
+    {
+      "keyword": "how is a discount calculated",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "how-is-a-discount-calculated"
+    },
+    {
+      "keyword": "free discount calculator",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "discount-calculator"
+    },
+    {
+      "keyword": "free discount formula",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "discount-formula"
+    },
+    {
+      "keyword": "free percentage discount calculator",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "percentage-discount-calculator"
+    },
+    {
+      "keyword": "free senior discount calculator philippines",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "senior-discount-calculator-philippines"
+    },
+    {
+      "keyword": "free online discount calculator",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "discount-calculator"
+    },
+    {
+      "keyword": "free code camp discount calculator",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "code-camp-discount-calculator"
+    },
+    {
+      "keyword": "discount free cash flow calculator",
+      "root": "discount calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "discount-cash-flow-calculator"
+    },
+    {
+      "keyword": "free afghan date converter online",
+      "root": "date calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "afghan-date-converter-online"
+    },
+    {
+      "keyword": "free online due date calculator",
+      "root": "date calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "due-date-calculator"
+    },
+    {
+      "keyword": "free online pregnancy due date calculator",
+      "root": "date calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "pregnancy-due-date-calculator"
+    },
+    {
+      "keyword": "how do you calculate 30 days from a date",
+      "root": "date calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "how-do-you-calculate-30-days-from-a-date"
+    },
+    {
+      "keyword": "date calculator today",
+      "root": "date calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "date-calculator-today"
+    },
+    {
+      "keyword": "date calculator 30 days",
+      "root": "date calculator online",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "date-calculator-30-days"
+    },
+    {
+      "keyword": "free tip calculator usa",
+      "root": "tip calculator",
+      "pattern": "space_trick",
+      "source": "google_suggest",
+      "discovered": "2026-11-22",
+      "already_have": false,
+      "suggested_slug": "tip-calculator-usa"
     }
   ],
   "existing": [
