@@ -2,9 +2,9 @@
   "date": "2026-11-22",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 905
+    "suggest_total": 1191
   },
-  "total_opportunities": 899,
+  "total_opportunities": 1184,
   "top_50": [
     {
       "keyword": "aspect ratio calculator free online tools",
@@ -32,6 +32,21 @@
       "already_have": false,
       "combined_score": 160,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "sql formatter beautifier & prettifier free online tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "sql-formatter-beautifier-&-prettifier",
+      "root": "sql formatter online",
+      "already_have": false,
+      "combined_score": 160,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -307,6 +322,156 @@
       "competition": 0
     },
     {
+      "keyword": "sql formatter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "sql-formatter-free",
+      "root": "sql formatter online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "code formatter online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "code-formatter-free",
+      "root": "code formatter online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "code formatter free online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "code-formatter-online",
+      "root": "code beautifier free",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "diff checker online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "diff-checker-free",
+      "root": "diff checker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "diff tool online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "diff-free",
+      "root": "diff checker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "online webhook tester free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "webhook-tester-free",
+      "root": "webhook tester",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free diff checker online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "diff-checker-online",
+      "root": "diff checker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free diff tool online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "diff-online",
+      "root": "diff checker online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free sql formatter online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "sql-formatter-online",
+      "root": "sql formatter online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free code formatter online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "code-formatter-online",
+      "root": "code formatter online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "gratuity calculator freezone",
       "sources": [
         "suggest"
@@ -442,6 +607,141 @@
       "competition": 0
     },
     {
+      "keyword": "flexbox generator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "flexbox-generator-online",
+      "root": "flexbox generator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "flex generator online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "flex-generator-online",
+      "root": "flexbox generator",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "online postgresql formatter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "postgresql-formatter",
+      "root": "sql formatter online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "code formatter free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "code-formatter-free",
+      "root": "code beautifier free",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "difference checker free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "difference-checker-free",
+      "root": "diff checker online",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "http status checker tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "http-status-checker",
+      "root": "http status checker",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "http header checker tool",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "http-header-checker",
+      "root": "http status checker",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "webhook tester online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "webhook-tester-online",
+      "root": "webhook tester",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "webhook tester free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "webhook-tester-free",
+      "root": "webhook tester",
+      "already_have": false,
+      "combined_score": 120,
+      "difficulty": "需API/服务端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
       "keyword": "tip calculator free online app",
       "sources": [
         "suggest"
@@ -449,306 +749,6 @@
       "trend_score": 0,
       "suggested_slug": "tip-calculator-app",
       "root": "tip calculator",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "tip calculator free online california",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "tip-calculator-california",
-      "root": "tip calculator",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best tip calculator free online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "tip-calculator-online",
-      "root": "tip calculator",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "nu cgpa calculator online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "nu-cgpa-calculator-free",
-      "root": "gpa calculator online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "wes gpa calculator free online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "wes-gpa-calculator-online",
-      "root": "gpa calculator online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "8th grade calculator online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "8th-grade-calculator-free",
-      "root": "gpa calculator online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "free online time zone converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "time-zone-converter",
-      "root": "time zone converter online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "prl date calculator online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "prl-date-calculator-free",
-      "root": "date calculator online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "date of birth calculator online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "date-of-birth-calculator-free",
-      "root": "date calculator online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "date and time calculator online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "date-and-time-calculator-free",
-      "root": "date calculator online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "english date converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "english-date-converter-free",
-      "root": "date calculator online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "expiry date calculator online free calculation",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "expiry-date-calculator-calculation",
-      "root": "date calculator online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "date of birth calculator free online india",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "date-of-birth-calculator-india",
-      "root": "date calculator online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "character count tool online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "character-count-free",
-      "root": "character counter online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "binary to decimal converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "binary-to-decimal-converter-free",
-      "root": "binary to decimal",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "embroidery file converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "embroidery-file-converter-free",
-      "root": "file converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "hif file converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "hif-file-converter-free",
-      "root": "file converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "video file converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "video-file-converter-free",
-      "root": "file converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "pdf file converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "pdf-file-converter-free",
-      "root": "file converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free file converter online",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "file-converter-online",
-      "root": "file converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best html file to apk converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "html-file-to-apk-converter-free",
-      "root": "file converter online free",
       "already_have": false,
       "combined_score": 110,
       "difficulty": "纯前端",
