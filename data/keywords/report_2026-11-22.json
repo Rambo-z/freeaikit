@@ -2,9 +2,9 @@
   "date": "2026-11-22",
   "stats": {
     "trends_total": 0,
-    "suggest_total": 338
+    "suggest_total": 905
   },
-  "total_opportunities": 333,
+  "total_opportunities": 899,
   "top_50": [
     {
       "keyword": "aspect ratio calculator free online tools",
@@ -17,6 +17,21 @@
       "already_have": false,
       "combined_score": 160,
       "difficulty": "纯前端",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "voice recorder online free and editor",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "voice-recorder-and-editor",
+      "root": "voice recorder online",
+      "already_have": false,
+      "combined_score": 160,
+      "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -212,6 +227,81 @@
       "already_have": false,
       "combined_score": 130,
       "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio compressor online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-compressor-free",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "audio optimizer online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "audio-optimizer-free",
+      "root": "audio compressor online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "noise remover online free",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "noise-remover-free",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free noise remover online",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "noise-remover-online",
+      "root": "noise remover online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "需WASM",
+      "search_volume": 0,
+      "cpc": 0,
+      "competition": 0
+    },
+    {
+      "keyword": "free tts online converter",
+      "sources": [
+        "suggest"
+      ],
+      "trend_score": 0,
+      "suggested_slug": "tts-converter",
+      "root": "tts online",
+      "already_have": false,
+      "combined_score": 130,
+      "difficulty": "纯前端",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
@@ -662,96 +752,6 @@
       "already_have": false,
       "combined_score": 110,
       "difficulty": "纯前端",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best word file english to hindi converter online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "word-file-english-to-hindi-converter-free",
-      "root": "file converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best free online audio file converter",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "audio-file-converter",
-      "root": "file converter online free",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "file compressor online free pdf",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "file-compressor-pdf",
-      "root": "file compressor online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "file compressor online free jpg",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "file-compressor-jpg",
-      "root": "file compressor online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "file compressor online free to 100kb",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "file-compressor-to-100kb",
-      "root": "file compressor online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
-      "search_volume": 0,
-      "cpc": 0,
-      "competition": 0
-    },
-    {
-      "keyword": "best file compressor online free",
-      "sources": [
-        "suggest"
-      ],
-      "trend_score": 0,
-      "suggested_slug": "file-compressor-free",
-      "root": "file compressor online",
-      "already_have": false,
-      "combined_score": 110,
-      "difficulty": "需WASM",
       "search_volume": 0,
       "cpc": 0,
       "competition": 0
